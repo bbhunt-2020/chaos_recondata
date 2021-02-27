@@ -1,0 +1,12 @@
+grafana-staging.aips-internal.com
+logging.aips-internal.com
+opt.aips-internal.com
+prod.aips-internal.com
+prometheus-staging.aips-internal.com
+staging.aips-internal.com
+thanos-staging.aips-internal.com
+thanos.aips-internal.com
+vault.aips-internal.com
+vault1.aips-internal.com
+vault2.aips-internal.com
+vault3.aips-internal.com
