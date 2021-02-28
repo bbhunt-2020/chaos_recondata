@@ -5419,7 +5419,6 @@ dcl5-hnd.ap13-hnd.my.salesforce.com
 dcl5-hnd.ap13-hnd.salesforce.com
 dcl5-hnd.ap15-hnd.my.salesforce.com
 dcl5-hnd.ap15-hnd.salesforce.com
-dcl5-hnd.ap18-hnd.salesforce.com
 dcl5-hnd.ap24-hnd.my.salesforce.com
 dcl5-hnd.ap25-hnd.salesforce.com
 dcl5-hnd.ap26-hnd.my.salesforce.com
@@ -5646,7 +5645,6 @@ dcl5-ncg1-c6-iad5.cs172-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs192-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs194-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs195-ia5.salesforce.com
-dcl5-ncg1-c6-iad5.cs198-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs202-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs203-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs203-ia5.salesforce.com
@@ -7720,6 +7718,7 @@ dwgin-zymg-prd.cccnp0011.cnp-dev.commercecloud.salesforce.com
 dwgin-zymh-dev.cccnp0011.cnp-dev.commercecloud.salesforce.com
 dwgin-zymh-prd.cccnp0011.cnp-dev.commercecloud.salesforce.com
 dwgin-zymi-dev.cccnp0011.cnp-dev.commercecloud.salesforce.com
+dwgin-zync-dev.cccnp0012.cnp-dev.commercecloud.salesforce.com
 dwgin-zynn-dev.cccnp0012.cnp-dev.commercecloud.salesforce.com
 dwgin-zynp-dev.cccnp0012.cnp-dev.commercecloud.salesforce.com
 dwgin-zynr-dev.cccnp0012.cnp-dev.commercecloud.salesforce.com
@@ -12988,6 +12987,7 @@ zyme-prd.cccnp0011.cnp-dev.commercecloud.salesforce.com
 zymg-prd.cccnp0011.cnp-dev.commercecloud.salesforce.com
 zymi-001.sandbox.cccnp0011.cnp-dev.commercecloud.salesforce.com
 zyna-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com
+zync-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zynl-dev.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zynm-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zyno-stg.cccnp0012.cnp-dev.commercecloud.salesforce.com

@@ -419,6 +419,7 @@ api.stage2du20.stage.paypal.com
 api.stage2du21.stage.paypal.com
 api.stage2du23.stage.paypal.com
 api.stage2du24.stage.paypal.com
+api.stage2du27.stage.paypal.com
 api.stage2du28.stage.paypal.com
 api.stage2du30.stage.paypal.com
 api.stage2du32.stage.paypal.com
@@ -2066,6 +2067,8 @@ rmplatvmlvs04.qa.paypal.com
 rms.paypal.com
 rms.ppv.paypal.com
 rmtoolslvs08.qa.paypal.com
+rrvs-dev.qa.paypal.com
+rrvsserv-dev.qa.paypal.com
 ry.paypal.com
 safebreach.paypal.com
 safetyhub.paypal.com
@@ -2870,6 +2873,7 @@ www.stage2du20.stage.paypal.com
 www.stage2du21.stage.paypal.com
 www.stage2du23.stage.paypal.com
 www.stage2du24.stage.paypal.com
+www.stage2du27.stage.paypal.com
 www.stage2du28.stage.paypal.com
 www.stage2du30.stage.paypal.com
 www.stage2du32.stage.paypal.com

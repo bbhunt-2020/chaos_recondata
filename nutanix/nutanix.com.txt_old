@@ -266,6 +266,7 @@ deployment-master-1.dev.dev-iam.xi.nutanix.com
 deployment-memoryfix.dev.dev-iam.xi.nutanix.com
 deployment-msp-precommit.dev.dev-iam.xi.nutanix.com
 deployment-mspcfgmap.dev.dev-iam.xi.nutanix.com
+deployment-ntnx-docker.dev.dev-iam.xi.nutanix.com
 deployment-objectsiamv2.dev.dev-iam.xi.nutanix.com
 deployment-off-huge.dev.dev-iam.xi.nutanix.com
 deployment-pcdr.dev.dev-iam.xi.nutanix.com
@@ -1566,6 +1567,7 @@ user-authn-ldap-configparams.dev.dev-iam.xi.nutanix.com
 user-authn-ldap-error-messag.dev.dev-iam.xi.nutanix.com
 user-authn-limit-dir-res.dev.dev-iam.xi.nutanix.com
 user-authn-limit-dir-search.dev.dev-iam.xi.nutanix.com
+user-authn-loadtest-fix.dev.dev-iam.xi.nutanix.com
 user-authn-local-user.dev.dev-iam.xi.nutanix.com
 user-authn-log-elapsedtime.dev.dev-iam.xi.nutanix.com
 user-authn-login-error-page.dev.dev-iam.xi.nutanix.com

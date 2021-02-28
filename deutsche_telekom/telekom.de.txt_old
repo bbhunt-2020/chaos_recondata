@@ -4650,6 +4650,8 @@ sqm-web-dcc.telekom.de
 sqm.telekom.de
 sra.telekom.de
 sre-monitoring-dev.aws.telekom.de
+sre-monitoring-prod.aws.telekom.de
+sre-monitoring-test.aws.telekom.de
 srm-abn.mms-dresden.telekom.de
 srm-dev.onesrm.telekom.de
 srm-e.onesrm.telekom.de
@@ -5297,6 +5299,7 @@ tvpp-tsg-ta.telekom.de
 tvpp-tsg-wag.telekom.de
 tvpp-tsg.telekom.de
 tvpp-tsg2.telekom.de
+tvpp.res.telekom.de
 tvppb2b.telekom.de
 twitter.telekom.de
 tyrell-cluster.dev.asf.telekom.de
@@ -5360,6 +5363,8 @@ vam-login.telekom.de
 vam.telekom.de
 vao-ecass.telekom.de
 vault.mgmt.otc.a4.telekom.de
+vault.ta.sign.res.telekom.de
+vault.ta.tvpp.res.telekom.de
 vc-dashboard.telekom.de
 vc.telekom.de
 vcd-gppng2-01.inf.oasis.telekom.de

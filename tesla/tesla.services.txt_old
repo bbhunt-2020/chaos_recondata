@@ -2293,6 +2293,8 @@ www-5.tesla.services
 www.toolbox.dev.tb.tesla.services
 x.tesla.services
 x1v2.ap.tesla.services
+xsoar.dev.audit.tesla.services
+xsoar.prd.audit.tesla.services
 yms-uat.mo.tesla.services
 zeus.tesla.services
 zip3-dev-loadtest.mo.tesla.services

@@ -19,6 +19,7 @@ api.staging.ibops.net
 apollo.us-east-1.staging.microservices.int.staging.ibops.net
 apollo.us-east-1.staging.microservices.staging.ibops.net
 argo-cd.ops.ibops.net
+argo-cd.ops.int.ibops.net
 argo-workflow.ops.int.ibops.net
 argo-workflow.pay.ibops.net
 argo-workflow.pay.staging.ibops.net
