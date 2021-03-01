@@ -41,6 +41,7 @@ api.hackathon.k8s.us-east-1.aws-test.secureworks.com
 api.lab-agrant.k8s.us-east-1.aws-test.secureworks.com
 api.lab-apigw.k8s.us-east-1.aws-test.secureworks.com
 api.lab-mlucia.k8s.us-east-1.aws-test.secureworks.com
+api.lab-okd.k8s.us-east-1.aws-test.secureworks.com
 api.lab-scruz.k8s.us-east-1.aws-test.secureworks.com
 api.lab-scruz.k8s.us-west-2.aws-test.secureworks.com
 api.lab-showlette.k8s.us-west-2.aws-test.secureworks.com
@@ -70,6 +71,7 @@ apps.hackathon.k8s.us-east-1.aws-test.secureworks.com
 apps.lab-agrant.k8s.us-east-1.aws-test.secureworks.com
 apps.lab-apigw.k8s.us-east-1.aws-test.secureworks.com
 apps.lab-mlucia.k8s.us-east-1.aws-test.secureworks.com
+apps.lab-okd.k8s.us-east-1.aws-test.secureworks.com
 apps.lab-scruz.k8s.us-east-1.aws-test.secureworks.com
 apps.lab-scruz.k8s.us-west-2.aws-test.secureworks.com
 apps.lab-showlette.k8s.us-west-2.aws-test.secureworks.com

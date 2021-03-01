@@ -87,7 +87,6 @@
 3t1g141.aus.amer.dell.com
 3wk1j41.aus.amer.dell.com
 3xjt30b.us.dell.com
-3ycvg11.us.dell.com
 3yp5ds2.server.oob.devops.dell.com
 4.pf-uat.us.dell.com
 4.pf.us.dell.com
@@ -6498,7 +6497,6 @@ ca.one.dell.com
 ca.onetest.dell.com
 cacheserver-plaprdapp01-cert.az.dell.com
 cacommerce.us.dell.com
-cadetpc1.us.dell.com
 cadetps3.us.dell.com
 caltex-de.dell.com
 cam.software.dell.com
@@ -6602,7 +6600,6 @@ cdarssit1.apac.dell.com
 cdarssit2.apac.dell.com
 cdarssit3.apac.dell.com
 cdas.csb.dell.com
-cdasprdclus1.us.dell.com
 cdasprdsqlclus1.us.dell.com
 cdn.dev4.insights.dell.com
 cdn.insights.dell.com
@@ -6693,7 +6690,6 @@ channels16.us.dell.com
 channels17-s3b.us.dell.com
 channels17.ins.dell.com
 channels17.us.dell.com
-channels1apj.ins.dell.com
 channels1euro.ins.dell.com
 channels2-s3b.ap.dell.com
 channels2-s3b.euro.dell.com
@@ -6708,7 +6704,6 @@ channels3-s3b.euro.dell.com
 channels3-s3b.us.dell.com
 channels3.ap.dell.com
 channels3.euro.dell.com
-channels3.ins.dell.com
 channels3.us.dell.com
 channels3apj.ins.dell.com
 channels3euro.ins.dell.com
@@ -7406,7 +7401,6 @@ dcctest.us.dell.com
 dcfredis-np.us.dell.com
 dcfredis-prf.us.dell.com
 dcgr2600-f01.us.dell.com
-dcgr2600-f01sec.us.dell.com
 dcgrcorphsrpsec.us.dell.com
 dcgrmpls-f01.us.dell.com
 dcm.service.dccrm.dell.com
@@ -8286,7 +8280,6 @@ demo.develop.ins.dell.com
 demo.developer.dell.com
 democenter.dell.com
 deployment.dell.com
-depot3-se.us.dell.com
 depotstatustool.dell.com
 derg.bray.ie.dell.com
 des-g3-azuks.dell.com
@@ -8563,11 +8556,20 @@ dfsjdesit.us.dell.com
 dfsjdets.us.dell.com
 dfsjdetsqa.us.dell.com
 dfsjdeweb.us.dell.com
+dfslwamapp-ge1.us.dell.com
+dfslwamapp-ge3.us.dell.com
 dfslwamapp-ocs.us.dell.com
 dfslwamapp-perf.us.dell.com
+dfslwamapp-sit.us.dell.com
+dfslwamrpt-ge1.us.dell.com
 dfslwamrpt-ge2.us.dell.com
+dfslwamrpt-ge3.us.dell.com
 dfslwamrpt-perf.us.dell.com
+dfslwamrpt-perf2.us.dell.com
+dfslwamrpt-sit.us.dell.com
 dfslwamrpt.us.dell.com
+dfslwamweb-perf2.us.dell.com
+dfslwamweb-sit.us.dell.com
 dfsm.dell.com
 dfsmail.dell.com
 dfsmoss.ins.dell.com
@@ -8685,7 +8687,6 @@ dfwx10umptc01.amer.dell.com
 dghknq1.server.oob.devops.dell.com
 dhm.aiaccel.dell.com
 di.dell.com
-di.ins.dell.com
 diags_dev_1.mfg.ie.dell.com
 dialin.dell.com
 dialin.federal.dell.com
@@ -18761,6 +18762,7 @@ www.portalselfservice.federal.dell.com
 www.premierhelpdesk.dell.com
 www.prm.dell.com
 www.prm01.dell.com
+www.productcompliancecost.dell.com
 www.productengineering-np.us.dell.com
 www.prodvcc.us.dell.com
 www.pwdtest.gtie.dell.com
