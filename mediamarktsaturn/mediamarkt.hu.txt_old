@@ -1,5 +1,9 @@
 ajandekkartya.mediamarkt.hu
 bolt.mediamarkt.hu
+bot-middleware.mediamarkt.hu
+chatbot.mediamarkt.hu
+dev-bot-middleware.mediamarkt.hu
+dev-chatbot.mediamarkt.hu
 dev.mediamarkt.hu
 fotoservice.mediamarkt.hu
 hir.mediamarkt.hu
@@ -12,6 +16,8 @@ mediafamilia.mediamarkt.hu
 prelive.mediamarkt.hu
 qa.mediamarkt.hu
 rendering.mediamarkt.hu
+staging-bot-middleware.mediamarkt.hu
+staging-chatbot.mediamarkt.hu
 staging.mediamarkt.hu
 tarifa.mediamarkt.hu
 www.ajandekkartya.mediamarkt.hu

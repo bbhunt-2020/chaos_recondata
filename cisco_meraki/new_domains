@@ -65,3 +65,11 @@ rnc-jkm-app-prd1-1.cisco.com
 oplpre-aws-services-rtp-dv1-a.cisco.com
 oplservice-orderlessbooking-p3-rtp-ts1.cisco.com
 simple-gslb-feb-27-t1-dev-rtp.cisco.com
+grafana-um-global-np-alln.cisco.com
+cloudport-ixpisp-dash-test.cisco.com
+cloudport-corpfirewall-test.cisco.com
+scheduler-um-global-np-alln.cisco.com
+cloudport-ixpisp-test.cisco.com
+cloudport-ispixp-test.cisco.com
+kibana-um-global-np-alln.cisco.com
+proxystats-eb-dev-rtp-int-1.cisco.com

@@ -107,6 +107,7 @@ atom.prodclone4.boomi.com
 atom.qa.boomi.com
 atomsprod1.boomi.com
 au.flow.boomi.com
+az648.sandbox.boomi.com
 azfipstrue.sandbox.boomi.com
 azswati.sandbox.boomi.com
 azure2g.sandbox.boomi.com
@@ -196,6 +197,7 @@ dantest2.sandbox.boomi.com
 dantest3.sandbox.boomi.com
 datalake-pipeline.boomi.com
 dbslave01.ord.boomi.com
+dcp-intel-prod.intelligence.boomi.com
 dcp-intel-qa.pipeline.intelligence.boomi.com
 dcp-luis-dev.sandbox.boomi.com
 dcp-luis.sandbox.boomi.com
@@ -330,6 +332,7 @@ internal.abhiqaclone2.sandbox.boomi.com
 internal.arpithaaz2.sandbox.boomi.com
 internal.arpithaaz3.sandbox.boomi.com
 internal.arpithaazure.sandbox.boomi.com
+internal.az648.sandbox.boomi.com
 internal.azfipstrue.sandbox.boomi.com
 internal.azure30g.sandbox.boomi.com
 internal.azuredev.sandbox.boomi.com
@@ -825,6 +828,7 @@ occm-us-east-1-kimmdm1.sandbox.boomi.com
 occm-us-east-1-kimmdm4.sandbox.boomi.com
 occm-us-east-1-kimmdm5.sandbox.boomi.com
 occm-us-east-1-kimtest13.sandbox.boomi.com
+occm-us-east-1-kimtest14.sandbox.boomi.com
 occm-us-east-1-kpawsnetapp1.sandbox.boomi.com
 occm-us-east-1-kpcheckip.sandbox.boomi.com
 occm-us-east-1-kpdnscloud1.sandbox.boomi.com
@@ -1667,6 +1671,7 @@ wiki.boomi.com
 www.abhiazureqac.sandbox.boomi.com
 www.arpithaaz2.sandbox.boomi.com
 www.arpithaaz3.sandbox.boomi.com
+www.az648.sandbox.boomi.com
 www.azfipstrue.sandbox.boomi.com
 www.azswati.sandbox.boomi.com
 www.azure2g.sandbox.boomi.com
@@ -1703,6 +1708,7 @@ www.internal.abhiazureqac.sandbox.boomi.com
 www.internal.arpithaaz2.sandbox.boomi.com
 www.internal.arpithaaz3.sandbox.boomi.com
 www.internal.arpithaazure.sandbox.boomi.com
+www.internal.az648.sandbox.boomi.com
 www.internal.azfipstrue.sandbox.boomi.com
 www.internal.azure30g.sandbox.boomi.com
 www.internal.azuredev.sandbox.boomi.com

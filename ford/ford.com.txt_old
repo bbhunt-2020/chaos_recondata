@@ -76,7 +76,6 @@ account.avridehail.ford.com
 accountdev.ford.com
 accountedu.ford.com
 accountlb-int-vip-chiadc01-rprxy2.chi.ford.com
-accountlb-perf-vip-ashadc01-rprxy2.ash.ford.com
 accountqa.ford.com
 accountusaba.ford.com
 accountusabb.ford.com
@@ -114,7 +113,6 @@ am-pe.apps.cl-east-prod01.cf.ford.com
 am-teradata.ford.com
 amgateway.ford.com
 amroclaims-qa-vip-chiadc01-rprxy2.chi.ford.com
-analytics-dev-vip-ashadc01-rprxy2.ash.ford.com
 analytics-rtsa-cl-preprod.ford.com
 analytics-rtsa-cl-prod.ford.com
 analytics-vip-ashadc01-rprxy1.ash.ford.com
@@ -131,7 +129,6 @@ apcadashboard.ford.com
 apdlr-qa.ecc1.ford.com
 apdlrvip1-prod.fmc1.ford.com
 apdlrvip1-qa.ecc1.ford.com
-apfmcdealer-dlr-vip-chiadc01-rprxy1.chi.ford.com
 api-dev.devitconnect.ford.com
 api-dev.devvpr.ford.com
 api-dev.emp-api.fobos.ford.com
@@ -278,10 +275,8 @@ apps.sb03.azuseast01.caas.ford.com
 apps.spt.ford.com
 appv2-concourse.cf.ford.com
 apqp.ford.com
-apsupvip1-prod.fmc1.ford.com
 apuricchu.blog47.fccn-north-prod01.cf.ford.com
 ar-qa-vip-ashadc01-rprxy2.ash.ford.com
-ar-vip-ashadc01-rprxy1.ash.ford.com
 arck-aws.ford.com
 arck.ford.com
 ardr.ford.com
@@ -382,7 +377,6 @@ aut51800.b2d.ford.com
 aut55200.b2d.ford.com
 aut56700.b2d.ford.com
 auth-coc.parts.ford.com
-auth.fmcguest.ford.com
 auth.managesync.ford.com
 authoringpublish.rrp.ford.com
 authowner.ford.com
@@ -461,7 +455,6 @@ blueprint.ford.com
 bobg.ford.com
 bomvt.ford.com
 booking.india.ford.com
-boviewer-qa-vip-ashadc01-rprxy2.ash.ford.com
 boviewer-vip-ashadc01-rprxy1.ash.ford.com
 bp2devb.ford.com
 bp2qa.ford.com
@@ -949,6 +942,7 @@ deu1s8f0.b2d.ford.com
 deu1s8j0.b2d.ford.com
 deu1t8g0.b2d.ford.com
 deu1u120.b2d.ford.com
+deu1u630.b2d.ford.com
 deu1u9j0.b2d.ford.com
 deu1uf90.b2d.ford.com
 deu1v1c0.b2d.ford.com
@@ -1127,15 +1121,12 @@ eccas2100.md3.ford.com
 eccas2676.md1q.ford.com
 eccas797.dearborn.ford.com
 eccdb272.dearborn.ford.com
-eccdb4b.dearborn.ford.com
-eccdb73.dearborn.ford.com
 eccdb79.dearborn.ford.com
 ecceg001.conf.ford.com
 ecceg002.conf.ford.com
 ecceg003.conf.ford.com
 ecceg004.conf.ford.com
 eccgs3-vip.ecc2.ford.com
-eccnas1x.ecc1.ford.com
 ecco.ford.com
 eccrt605.nls.ford.com
 eccvas1568.ecc4.ford.com
@@ -1235,8 +1226,6 @@ edcws246.md1.ford.com
 edcws991.md1.ford.com
 ediscovery.ford.com
 ediscovery2.ford.com
-edms-dev-vip-chiadc01-rprxy1.chi.ford.com
-edms-vip-chiadc01-rprxy1.chi.ford.com
 edms.ford.com
 edu-auth-coc.parts.ford.com
 edu-auth.parts.ford.com
@@ -1292,7 +1281,6 @@ es.quickquote.ford.com
 esign.apps.edcpd01.cf.ford.com
 esmart2.ford.com
 esourcebooklb-dev-vip-ashadc01-rprxy2.ash.ford.com
-esourcebooklb-dev-vip-chiadc01-rprxy2.chi.ford.com
 esourcebooklb-perf-vip-chiadc01-rprxy2.chi.ford.com
 esourcebooklb-qa-vip-chiadc01-rprxy2.chi.ford.com
 esourcebooklb-vip-ashadc01-rprxy1.ash.ford.com
@@ -1313,7 +1301,6 @@ esqa.shop.ford.com
 esqa2.shop.ford.com
 etis-qa-vip-chiadc01-rprxy2.chi.ford.com
 etis.ford.com
-etis2-qa-vip-ashadc01-rprxy2.ash.ford.com
 etis2-qa-vip-chiadc01-rprxy2.chi.ford.com
 etisorigin-qa-vip-ashadc01-rprxy2.ash.ford.com
 etisorigin.ford.com
@@ -4608,7 +4595,6 @@ web.fuselistener-edu.ici.ford.com
 web.fuselistener-qa.ici.ford.com
 web.fvpwebservices.ford.com
 web.fvpwebsesrvices.ford.com
-web.gcamp.ford.com
 web.gcat.ford.com
 web.gcat3.ford.com
 web.gdbp.ford.com
@@ -4794,7 +4780,6 @@ webdev.force.ford.com
 webdev.fsavinlists.ford.com
 webdev.fsli.ford.com
 webdev.fsp.ford.com
-webdev.gcamp.ford.com
 webdev.gdbp.dealerconnection.ford.com
 webdev.gdtsc.ford.com
 webdev.gers.ford.com
@@ -5185,7 +5170,6 @@ webqa.fsn.ford.com
 webqa.fsp.ford.com
 webqa.fuselistener-qa.ici.ford.com
 webqa.fvpwebservices.ford.com
-webqa.gcamp.ford.com
 webqa.gcat.ford.com
 webqa.gdtsc.ford.com
 webqa.geaas.ici.ford.com
