@@ -304,7 +304,6 @@ achat2.ins.dell.com
 acpilotweb02.us.dell.com
 acpilotweb07.us.dell.com
 acprod01.us.dell.com
-acprod02.us.dell.com
 acsportal.us.dell.com
 activate.software.dell.com
 ad.jp.dell.com
@@ -6098,7 +6097,6 @@ awmdm.federal.dell.com
 awmdm.ins.dell.com
 awmdmuat-ps3.us.dell.com
 awseg.federal.dell.com
-awtunnel-dev-ps3.dell.com
 awtunnel-dev.us.dell.com
 awtunnel-pc1.us.dell.com
 awtunnel-ps3.us.dell.com
@@ -6122,7 +6120,6 @@ b2b.software.dell.com
 b2b2.dell.com
 b2b3.dell.com
 b2bapp.euro.dell.com
-b2bapp.ins.euro.dell.com
 b2basap.dell.com
 b2bat.euro.dell.com
 b2batw.euro.dell.com
@@ -7136,6 +7133,7 @@ corppc105shared.us.dell.com
 corrib.bray.ie.dell.com
 corribto-pcp.bray.ie.dell.com
 cot.dell.com
+cov1-stage.gtie.dell.com
 coverity-agent.labs.dell.com
 coverity.labs.dell.com
 coveritytest.labs.dell.com
@@ -11665,6 +11663,7 @@ jgabbay4.ols.us.dell.com
 jgabbay7.ols.us.dell.com
 jgabbay8.ols.us.dell.com
 jgabbay9.ols.us.dell.com
+jira-dev.cpg.dell.com
 jira-dev1.gtie.dell.com
 jira-dev10.gtie.dell.com
 jira-dev11.gtie.dell.com
@@ -17357,6 +17356,7 @@ techpageone.dell.com
 techvalidation-ps3.dell.com
 techvalidation.dell.com
 techvalidation.ins.dell.com
+teckno-development.dell.com
 teckno.dell.com
 tee.federal.dell.com
 tee.ins.federal.dell.com

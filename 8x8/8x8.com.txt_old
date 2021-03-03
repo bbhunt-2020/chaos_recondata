@@ -2929,6 +2929,8 @@ dead.bb.8x8.com
 default.es.8x8.com
 dev.1.8x8.com
 dev.8x8.com
+dev.ai-int.8x8.com
+dev.ai.8x8.com
 dev.us-east-1.ai.8x8.com
 developer.8x8.com
 dhcp.8x8.com
@@ -3333,6 +3335,8 @@ pe.2.8x8.com
 pf.c.8x8.com
 phpmyadmin.b.8x8.com
 pilot-monitor-1.ai-int.8x8.com
+pilot.ai-int.8x8.com
+pilot.ai.8x8.com
 pl.a.8x8.com
 platform-dc6.8x8.com
 platform.8x8.com
@@ -3363,6 +3367,8 @@ publishing-preview.www.8x8.com
 pwgruiirbcs.8x8.com
 q.8x8.com
 qa.8x8.com
+qa.ai-int.8x8.com
+qa.ai.8x8.com
 qa.o.8x8.com
 qa.us-east-1.ai.8x8.com
 qb.hosting.8x8.com

@@ -3465,6 +3465,8 @@ fxteller-prod.wellsfargo.com
 fxteller.wellsfargo.com
 fxuat.wellsfargo.com
 ga.wellsfargo.com
+gai-uat.stratus.wellsfargo.com
+gai.stratus.wellsfargo.com
 gai.wellsfargo.com
 galaxie-base.wellsfargo.com
 galen.wellsfargo.com
@@ -9583,6 +9585,7 @@ xcm.eml.wellsfargo.com
 xct-iat.wellsfargo.com
 xct-ist.wellsfargo.com
 xct-launchpad-dev.wellsfargo.com
+xct-launchpad.wellsfargo.com
 xct-uat.wellsfargo.com
 xellos-az.wellsfargo.com
 xellos-m1.wellsfargo.com

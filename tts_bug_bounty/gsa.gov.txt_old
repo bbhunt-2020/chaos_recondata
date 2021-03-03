@@ -291,6 +291,7 @@ carseurb.fss.gsa.gov
 cart-dev.fas.gsa.gov
 cart-test.fas.gsa.gov
 cart.fas.gsa.gov
+catalog.fleet-dev.fcs.gsa.gov
 catalog.gsa.gov
 cbponboard.pbs.gsa.gov
 ccda-staging.gsa.gov
@@ -67321,6 +67322,7 @@ sfts-test.gsa.gov
 sfts.gsa.gov
 sgsf-gsae03.fss.gsa.gov
 sgsf-gsae06.fss.gsa.gov
+shared.fleet-dev.fcs.gsa.gov
 sherman.gsa.gov
 shop.r8.gsa.gov
 sieb-prod.gsa.gov
@@ -67386,6 +67388,8 @@ star.gsa.gov
 static-host.159-142-143-102.gsa.gov
 stats.gsa.gov
 stgateway.gsa.gov
+store-web.fleet-dev.fcs.gsa.gov
+store.fleet-dev.fcs.gsa.gov
 storefront.eos.gsa.gov
 storefront.test-eos.gsa.gov
 str.fas.gsa.gov

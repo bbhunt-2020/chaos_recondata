@@ -127,6 +127,7 @@ druid-druid-router-ingress-druid-mdm-us-central1-1.mdm.druid.shopifykloud.com
 druid-druid-router-ingress-druid-mdm-us-east1-1.mdm.druid.shopifykloud.com
 druid.k8s-exp.shopifykloud.com
 flower.dev.airflow.shopifykloud.com
+flower.global.airflow.shopifykloud.com
 flower.staging.airflow.shopifykloud.com
 fluentd-test.presto.shopifykloud.com
 for-blake-coordinator.presto.shopifykloud.com

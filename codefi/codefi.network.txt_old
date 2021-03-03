@@ -849,6 +849,7 @@ assets-apac.codefi.network
 assets-assets-api-chore-ca-3670.dev.codefi.network
 assets-assets-api-feat-invitation-email.dev.codefi.network
 assets-assets-api-feat-redocs-documentation.dev.codefi.network
+assets-assets-api-fix-initial-user-creation.dev.codefi.network
 assets-assets-api-fix-retrieve-tenant.dev.codefi.network
 assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-ephemeral.dev.codefi.network

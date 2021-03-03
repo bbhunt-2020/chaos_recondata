@@ -910,6 +910,7 @@ competence-com.telekom.de
 competence-isp.telekom.de
 competence-tdg.telekom.de
 competence-test-websso.telekom.de
+competence-test-websso2.telekom.de
 competence-test.telekom.de
 competence-wfm.telekom.de
 competence.telekom.de
@@ -2394,6 +2395,7 @@ kennungsmanagement.telekom.de
 kens-api-sys.geschaeftskunden.telekom.de
 kens-api.geschaeftskunden.telekom.de
 kepler.telekom.de
+keycloak-new.dev.devops.telekom.de
 keycloak.bremen.das-schiff.telekom.de
 keycloak.das-schiff.telekom.de
 keycloak.kube.devops.telekom.de
@@ -3852,6 +3854,7 @@ primaplus.telekom.de
 priv.admitrie.gigadev.telekom.de
 priv.cl01.gigadev.telekom.de
 priv.cl02.gigadev.telekom.de
+priv.cl03.gigadev.telekom.de
 priv.kirill.gigadev.telekom.de
 priv.kirill2.gigadev.telekom.de
 priv.mp-logstack.gigadev.telekom.de
@@ -3959,6 +3962,7 @@ pub-frasr-035.vc.telekom.de
 pub.admitrie.gigadev.telekom.de
 pub.cl01.gigadev.telekom.de
 pub.cl02.gigadev.telekom.de
+pub.cl03.gigadev.telekom.de
 pub.kirill.gigadev.telekom.de
 pub.kirill2.gigadev.telekom.de
 pub.mp-logstack.gigadev.telekom.de

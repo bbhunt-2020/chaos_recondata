@@ -10,6 +10,7 @@ ags.ntnxi.nutanix.com
 ags.preprod.ntnxi.nutanix.com
 ags.test.ntnxi.nutanix.com
 akamai-waf-1.staging-calm.nutanix.com
+alerts-broker-blackduck-test.dev.dev-iam.xi.nutanix.com
 amsgp.nutanix.com
 amsitiasprd1.corp.nutanix.com
 analytics-sensor-create-buil.dev.dev-iam.xi.nutanix.com
@@ -72,6 +73,7 @@ bootstrap-eng-376993.dev.dev-iam.xi.nutanix.com
 bootstrap-enhance-precheck.dev.dev-iam.xi.nutanix.com
 bootstrap-fix-gerrit-branch.dev.dev-iam.xi.nutanix.com
 bootstrap-jgwack.dev.dev-iam.xi.nutanix.com
+bootstrap-jithin-dev-eng-pat.dev.dev-iam.xi.nutanix.com
 bootstrap-jul22.dev.dev-iam.xi.nutanix.com
 bootstrap-jul30.dev.dev-iam.xi.nutanix.com
 bootstrap-jul6.dev.dev-iam.xi.nutanix.com
@@ -86,6 +88,7 @@ bootstrap-projfix.dev.dev-iam.xi.nutanix.com
 bootstrap-sep11.dev.dev-iam.xi.nutanix.com
 bootstrap-skip-migration.dev.dev-iam.xi.nutanix.com
 bootstrap-taskseqid.dev.dev-iam.xi.nutanix.com
+bootstrap-testing.dev.dev-iam.xi.nutanix.com
 bootstrap-timeout.dev.dev-iam.xi.nutanix.com
 bootstrap-upgrade.dev.dev-iam.xi.nutanix.com
 bootstrap-vendor.dev.dev-iam.xi.nutanix.com
@@ -1000,6 +1003,7 @@ prism-analytics.dev.nutanix.com
 prod-portal.nutanix.com
 prod.saas.nutanix.com
 productsizer.nutanix.com
+proxy-blackduck.dev.dev-iam.xi.nutanix.com
 proxy-cac-master.dev.dev-iam.xi.nutanix.com
 proxy-cac-persist.dev.dev-iam.xi.nutanix.com
 proxy-cert-fix.dev.dev-iam.xi.nutanix.com
@@ -1224,7 +1228,9 @@ themis-as-vldtrs.us-east-dev.iam.xi.nutanix.com
 themis-as-vldtrs.us-west-dev.iam.xi.nutanix.com
 themis-authz-api.dev.dev-iam.xi.nutanix.com
 themis-authz-on-authz.dev.dev-iam.xi.nutanix.com
+themis-blackduck.dev.dev-iam.xi.nutanix.com
 themis-bootstrap-acpfix.dev.dev-iam.xi.nutanix.com
+themis-bootstrap-blackduck.dev.dev-iam.xi.nutanix.com
 themis-bootstrap-bootrap-fix.dev.dev-iam.xi.nutanix.com
 themis-bootstrap-cnvl-circle.dev.dev-iam.xi.nutanix.com
 themis-bootstrap-configfix.dev.dev-iam.xi.nutanix.com
@@ -1290,6 +1296,7 @@ themis-eng-334290.dev.dev-iam.xi.nutanix.com
 themis-eng-341536.dev.dev-iam.xi.nutanix.com
 themis-eng-342644-fix.dev.dev-iam.xi.nutanix.com
 themis-eng-342644.dev.dev-iam.xi.nutanix.com
+themis-eng-351734.dev.dev-iam.xi.nutanix.com
 themis-eng-357443.dev.dev-iam.xi.nutanix.com
 themis-eng-369460.dev.dev-iam.xi.nutanix.com
 themis-enh-testdelay.dev.dev-iam.xi.nutanix.com
@@ -1329,6 +1336,7 @@ themis-intermitent503.dev.dev-iam.xi.nutanix.com
 themis-json-log.dev.dev-iam.xi.nutanix.com
 themis-keyname.dev.dev-iam.xi.nutanix.com
 themis-logs.dev.dev-iam.xi.nutanix.com
+themis-mar1.dev.dev-iam.xi.nutanix.com
 themis-may29-immutable.dev.dev-iam.xi.nutanix.com
 themis-move-tavern-out.us-east-dev.iam.xi.nutanix.com
 themis-move-tavern-out.us-west-dev.iam.xi.nutanix.com
@@ -1395,6 +1403,8 @@ tyoitcorpdcprd1.dyn.nutanix.com
 tyoitcorpdcprd2.dyn.nutanix.com
 ubertower-db.corp.nutanix.com
 ubertower-slack.corp.nutanix.com
+ui-bdscan.dev.dev-iam.xi.nutanix.com
+ui-bdscantest.dev.dev-iam.xi.nutanix.com
 ui-blackduck-fixes.dev.dev-iam.xi.nutanix.com
 ui-bug-miss-msg.dev.dev-iam.xi.nutanix.com
 ui-bug-pending.dev.dev-iam.xi.nutanix.com
@@ -1533,6 +1543,7 @@ user-authn-eng-368245.dev.dev-iam.xi.nutanix.com
 user-authn-eng-369235.dev.dev-iam.xi.nutanix.com
 user-authn-eng-369469.dev.dev-iam.xi.nutanix.com
 user-authn-eng-370057.dev.dev-iam.xi.nutanix.com
+user-authn-eng-370437.dev.dev-iam.xi.nutanix.com
 user-authn-eng-372780-test.dev.dev-iam.xi.nutanix.com
 user-authn-eng-372780.dev.dev-iam.xi.nutanix.com
 user-authn-eng-374505.dev.dev-iam.xi.nutanix.com
@@ -1560,6 +1571,7 @@ user-authn-group-member-sear.dev.dev-iam.xi.nutanix.com
 user-authn-group-ou.dev.dev-iam.xi.nutanix.com
 user-authn-groups.dev.dev-iam.xi.nutanix.com
 user-authn-internal-user.dev.dev-iam.xi.nutanix.com
+user-authn-jithin-dev-eng-pa.dev.dev-iam.xi.nutanix.com
 user-authn-jithin.dev.dev-iam.xi.nutanix.com
 user-authn-karbon-fix.dev.dev-iam.xi.nutanix.com
 user-authn-knowngroups.dev.dev-iam.xi.nutanix.com

@@ -1105,6 +1105,10 @@ dev-connect-timportalclone-eus.bentley.com
 dev-connect-timportalclone.bentley.com
 dev-connect-timsf-eus.bentley.com
 dev-connect-timsf.bentley.com
+dev-connect-timtest-staging.bentley.com
+dev-connect-timtest.bentley.com
+dev-connect-timtest2-staging.bentley.com
+dev-connect-timtest2.bentley.com
 dev-connect-timtestdnswebapp2-staging.bentley.com
 dev-connect-timtestdnswebapp2-two.bentley.com
 dev-connect-timtestdnswebapp2.bentley.com
@@ -2685,6 +2689,7 @@ synchro4dpublisher.bentley.com
 synchro4dreview-staging.bentley.com
 synchro4dreview.bentley.com
 tapserv.bentley.com
+teams.opencitiesplanner.bentley.com
 temp-mx5.bentley.com
 temp-mx6.bentley.com
 temp-select.bentley.com

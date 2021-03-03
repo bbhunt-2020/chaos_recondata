@@ -102,6 +102,7 @@ auth.unifieddashboard.visma.com
 auth.visma.com
 authenticationsettings.connect.identity.stagaws.visma.com
 authenticationsettings.connect.int.identity.testaws.visma.com
+authenticationsettings.connect.visma.com
 autodiscover.visma.com
 autointerface-embeddable.autoinvoice.visma.com
 autoinvoice.visma.com

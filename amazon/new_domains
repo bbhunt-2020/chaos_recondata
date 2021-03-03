@@ -707,3 +707,7 @@ wsfedv4.prod.federate.amazon.com
 midway-auth-dub.dub.proxy.amazon.com
 sb-m-int1.aka.amazon.com
 sb-app-int2.aka.amazon.com
+acm-pca-gamma.ap-northeast-3.aws.amazon.com
+console-acm-pca-gamma-ap-northeast-3.aws.amazon.com
+acm-pca-gamma.ap-northeast-3.aws.amazon.com
+acm-pca-gamma.ap-northeast-3.aws.amazon.com

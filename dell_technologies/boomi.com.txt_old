@@ -210,6 +210,8 @@ dcp.datalake-pipeline.boomi.com
 dcpintelligence.sandbox.boomi.com
 dcpjenkins.datalake-pipeline.boomi.com
 dcpjenkins.sandbox.boomi.com
+dcptest-5.dcp-sandbox.boomi.com
+dcptest-6.dcp-sandbox.boomi.com
 dcptest.datalake-pipeline.boomi.com
 ddplatpoc.sandbox.boomi.com
 demos.boomi.com
@@ -292,6 +294,7 @@ gokul-platformservices.sandbox.boomi.com
 google-prod.managed.boomi.com
 google-test.managed.boomi.com
 greypoupon.sandbox.boomi.com
+guardians.runtime-sandbox.boomi.com
 hati.sandbox.boomi.com
 help.boomi.com
 host.boomi.com
@@ -757,6 +760,7 @@ occm-us-east-1-fancypants.sandbox.boomi.com
 occm-us-east-1-futuna.sandbox.boomi.com
 occm-us-east-1-gazula.sandbox.boomi.com
 occm-us-east-1-greypoupon.sandbox.boomi.com
+occm-us-east-1-guardians.runtime-sandbox.boomi.com
 occm-us-east-1-hubcloud.sandbox.boomi.com
 occm-us-east-1-hubcloudresize.sandbox.boomi.com
 occm-us-east-1-hubclubcloudqa.sandbox.boomi.com
@@ -1250,6 +1254,7 @@ occm-us-west-2-soniccloud24.sandbox.boomi.com
 occm-us-west-2-speedforce.sandbox.boomi.com
 occm-us-west-2-splunktest.sandbox.boomi.com
 occm-us-west-2-spongegar.sandbox.boomi.com
+occm-us-west-2-sravalb1.sandbox.boomi.com
 occm-us-west-2-sravcloud1.sandbox.boomi.com
 occm-us-west-2-sravcloud4.sandbox.boomi.com
 occm-us-west-2-sravdr.sandbox.boomi.com
@@ -1531,6 +1536,7 @@ splunk.manage-mikesvpc.sandbox.boomi.com
 splunk.manage-prod.boomi.com
 splunk01.useast1.boomi.com
 spongegar.sandbox.boomi.com
+sravalb1.sandbox.boomi.com
 sravaz2.sandbox.boomi.com
 sravazdr2.sandbox.boomi.com
 sravcloud1.sandbox.boomi.com
@@ -1685,6 +1691,7 @@ www.briantest1.sandbox.boomi.com
 www.briantest2.sandbox.boomi.com
 www.briantestwest1.sandbox.boomi.com
 www.datalake-pipeline.boomi.com
+www.dcp-intel-prod.intelligence.boomi.com
 www.dcp-intel-qa.pipeline.intelligence.boomi.com
 www.dcp-luis.sandbox.boomi.com
 www.dcp-prakhar-dev.sandbox.boomi.com

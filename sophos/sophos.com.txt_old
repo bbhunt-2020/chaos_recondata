@@ -1655,6 +1655,7 @@ cyren-service.cloudstation.eu-central-1.qa.hydra.sophos.com
 cyren-service.cloudstation.eu-west-1.dev.hydra.sophos.com
 cyren-service.cloudstation.eu-west-1.qa.hydra.sophos.com
 cyren-service.cloudstation.us-west-2.qa.hydra.sophos.com
+czqzra4s.cloudstation.us-west-2.qa.hydra.sophos.com
 d0i3g30r.cloudstation.eu-central-1.qa.hydra.sophos.com
 d14lahgj.cloudstation.eu-central-1.qa.hydra.sophos.com
 d1l2kivs.cloudstation.eu-central-1.prod.hydra.sophos.com
@@ -1706,11 +1707,13 @@ data-lake-manager-cloudstation-eu-west-1.dev.hydra.sophos.com
 data-lake-manager-cloudstation-eu-west-1.prod.hydra.sophos.com
 data-lake-manager-cloudstation-eu-west-1.qa.hydra.sophos.com
 data-lake-manager-cloudstation-us-west-2.prod.hydra.sophos.com
+data-lake-manager-cloudstation-us-west-2.qa.hydra.sophos.com
 data-lake-manager.cloudstation.eu-central-1.qa.hydra.sophos.com
 data-lake-manager.cloudstation.eu-west-1.dev.hydra.sophos.com
 data-lake-manager.cloudstation.eu-west-1.prod.hydra.sophos.com
 data-lake-manager.cloudstation.eu-west-1.qa.hydra.sophos.com
 data-lake-manager.cloudstation.us-west-2.prod.hydra.sophos.com
+data-lake-manager.cloudstation.us-west-2.qa.hydra.sophos.com
 data-presto-foo-omega-a.cloudstation.eu-west-1.dev.hydra.sophos.com
 data-presto-foo-omega-b.cloudstation.eu-west-1.dev.hydra.sophos.com
 data-presto-metabase-d-1-a.cloudstation.eu-west-1.dev.hydra.sophos.com
