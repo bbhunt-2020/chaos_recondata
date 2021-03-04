@@ -82,6 +82,7 @@ deployer.infra.marcus.com
 dev-money-movement-service.service.dev.infra.marcus.com
 dev-sftp.infra.marcus.com
 dev.agent.cards.marcus.com
+dev.agent.consumer.cards.marcus.com
 dev.agent.infra.marcus.com
 dev.agent.ui.cards.marcus.com
 dev.agentdirect.infra.marcus.com
@@ -320,6 +321,7 @@ qa-sftp.infra.marcus.com
 qa-wallboard.emite.infra.marcus.com
 qa.acqueon.infra.marcus.com
 qa.agent.cards.marcus.com
+qa.agent.consumer.cards.marcus.com
 qa.agent.infra.marcus.com
 qa.agent.ui.cards.marcus.com
 qa.agentdirect.infra.marcus.com

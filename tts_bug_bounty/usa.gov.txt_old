@@ -50,8 +50,10 @@ api-business.usa.gov
 api.search.usa.gov
 api.usa.gov
 apps.usa.gov
+archaea.staging.search.usa.gov
 armyengineerhistory.sites.usa.gov
 asis.anthozoa.staging.search.usa.gov
+asis.archaea.staging.search.usa.gov
 asis.coyote.staging.infr.search.usa.gov
 asis.coyote.staging.search.usa.gov
 asis.demo1.search.usa.gov
@@ -69,6 +71,7 @@ asis.porifera.staging.search.usa.gov
 asis.pusheen.staging.search.usa.gov
 asis.pylori.staging.search.usa.gov
 asis.riftia.staging.search.usa.gov
+asis.rubrobacter.staging.search.usa.gov
 asis.sandpiper.staging.search.usa.gov
 asis.seagull.staging.search.usa.gov
 asis.search.usa.gov
@@ -186,6 +189,7 @@ gsa-gov.sites.infr.search.usa.gov
 hec.sites.infr.search.usa.gov
 help.business.usa.gov
 i14y.anthozoa.staging.search.usa.gov
+i14y.archaea.staging.search.usa.gov
 i14y.coyote.staging.infr.search.usa.gov
 i14y.coyote.staging.search.usa.gov
 i14y.demo1.search.usa.gov
@@ -203,6 +207,7 @@ i14y.porifera.staging.search.usa.gov
 i14y.pusheen.staging.search.usa.gov
 i14y.pylori.staging.search.usa.gov
 i14y.riftia.staging.search.usa.gov
+i14y.rubrobacter.staging.search.usa.gov
 i14y.sandpiper.staging.search.usa.gov
 i14y.seagull.staging.search.usa.gov
 i14y.search.usa.gov
@@ -231,6 +236,7 @@ justice.sites.infr.search.usa.gov
 kansas-gov.sites.infr.search.usa.gov
 kaztas-com.iaf.sites.infr.search.usa.gov
 kibana.anthozoa.staging.search.usa.gov
+kibana.archaea.staging.search.usa.gov
 kibana.coyote.staging.search.usa.gov
 kibana.demo1.search.usa.gov
 kibana.demo2.search.usa.gov
@@ -251,6 +257,7 @@ kibana.porifera.staging.search.usa.gov
 kibana.pusheen.staging.search.usa.gov
 kibana.pylori.staging.search.usa.gov
 kibana.riftia.staging.search.usa.gov
+kibana.rubrobacter.staging.search.usa.gov
 kibana.sandpiper.staging.search.usa.gov
 kibana.seagull.staging.search.usa.gov
 kibana.search.usa.gov
@@ -341,6 +348,7 @@ pylori.staging.search.usa.gov
 rcfl.sites.usa.gov
 registry.usa.gov
 resque.anthozoa.staging.search.usa.gov
+resque.archaea.staging.search.usa.gov
 resque.coyote.staging.search.usa.gov
 resque.demo1.search.usa.gov
 resque.demo2.search.usa.gov
@@ -361,6 +369,7 @@ resque.porifera.staging.search.usa.gov
 resque.pusheen.staging.search.usa.gov
 resque.pylori.staging.search.usa.gov
 resque.riftia.staging.search.usa.gov
+resque.rubrobacter.staging.search.usa.gov
 resque.sandpiper.staging.search.usa.gov
 resque.seagull.staging.search.usa.gov
 resque.search.usa.gov
@@ -372,6 +381,7 @@ resque.warthog.staging.search.usa.gov
 resque.willet.staging.search.usa.gov
 riftia.staging.search.usa.gov
 rtv.usa.gov
+rubrobacter.staging.search.usa.gov
 sandpiper.staging.search.usa.gov
 sbalearning.sites.usa.gov
 scdhec-gov.sites.infr.search.usa.gov

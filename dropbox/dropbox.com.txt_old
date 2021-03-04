@@ -3015,6 +3015,7 @@ paper-nonprod-attachments.dropbox.com
 paper-nonprod-audio-attachments.dropbox.com
 paper-showcase-attachments.dropbox.com
 paper.dropbox.com
+payments-commerce-iframe.dropbox.com
 photo.dropbox.com
 photos-1.dropbox.com
 photos-2.dropbox.com
@@ -5279,6 +5280,8 @@ us-west-tails-01.corp.dropbox.com
 us-west-tails-02.corp.dropbox.com
 useast.paper.dropbox.com
 useast.showcase.dropbox.com
+usersurvey-stage.dropbox.com
+usersurvey.dropbox.com
 v-client-1b.sjc.dropbox.com
 v-getdropbox.sjc.dropbox.com
 v-misc.dropbox.com

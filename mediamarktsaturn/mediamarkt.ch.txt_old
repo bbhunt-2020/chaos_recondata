@@ -3,9 +3,13 @@ apps.mediamarkt.ch
 backoffice.mediamarkt.ch
 barcode.mediamarkt.ch
 beauty.mediamarkt.ch
+bot-middleware.mediamarkt.ch
 carta-regalo.mediamarkt.ch
 carte-cadeau.mediamarkt.ch
+chatbot.mediamarkt.ch
 computer.mediamarkt.ch
+dev-bot-middleware.mediamarkt.ch
+dev-chatbot.mediamarkt.ch
 dev-shop.mediamarkt.ch
 dev.mediamarkt.ch
 fanworld.mediamarkt.ch
@@ -42,6 +46,8 @@ shop.mediamarkt.ch
 social.mediamarkt.ch
 sound.mediamarkt.ch
 sport.mediamarkt.ch
+staging-bot-middleware.mediamarkt.ch
+staging-chatbot.mediamarkt.ch
 staging.mediamarkt.ch
 test-backoffice.mediamarkt.ch
 test-beauty.mediamarkt.ch

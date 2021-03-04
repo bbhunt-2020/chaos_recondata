@@ -329,6 +329,9 @@ applyenv15c8db668864.pavedroad.int.outfra.xyz
 applyenv15e2212411019.pavedroad.int.outfra.xyz
 applyenv15e2212412161.pavedroad.int.outfra.xyz
 applyenv15e2212462677.pavedroad.int.outfra.xyz
+applyenv15fbd4cf13364.pavedroad.int.outfra.xyz
+applyenv15fbd4cf63654.pavedroad.int.outfra.xyz
+applyenv15fbd4cf8953.pavedroad.int.outfra.xyz
 applyenv15ff02f131650.pavedroad.int.outfra.xyz
 applyenv15ff02f163168.pavedroad.int.outfra.xyz
 applyenv1617af9160784.pavedroad.int.outfra.xyz
@@ -1523,6 +1526,8 @@ gantryenvironment.team2.pavedroadlabs.test.outfra.xyz
 gantryint.pavedroad.int.outfra.xyz
 gazza.advertiser.prod.outfra.xyz
 gb21-bb21-env.ap-southeast-2.practices.prod.outfra.xyz
+gb21-env.ap-southeast-2.practices.prod.outfra.xyz
+gb21-sleeksk-env.ap-southeast-2.practices.prod.outfra.xyz
 gimme-houston.cloud.seek-prod.prod.outfra.xyz
 grad-bootcamp-sample.practices.prod.outfra.xyz
 graphql.corpincubator.dev.outfra.xyz
@@ -2098,6 +2103,7 @@ listresfdb1ab054642.pavedroad.int.outfra.xyz
 listresources.pavedroad.int.outfra.xyz
 lockinttest-sg.pavedroad.int.outfra.xyz
 lockinttest.pavedroad.int.outfra.xyz
+login.id.dev.outfra.xyz
 logsenv.pavedroad.int.outfra.xyz
 logsenv033cdc144271.pavedroad.int.outfra.xyz
 logsenv033cdc15909.pavedroad.int.outfra.xyz
@@ -2617,6 +2623,7 @@ shapi.advertiser.prod.outfra.xyz
 sixxvirus.ap-southeast-1.apex.prod.outfra.xyz
 skl-outcome-staging.ga.dev.outfra.xyz
 skl-outcome.ga.prod.outfra.xyz
+slack.dev.outfra.xyz
 sonarr.grr.dev.outfra.xyz
 staging.cloud.seek-stag.dev.outfra.xyz
 suggest.sd.dev.outfra.xyz

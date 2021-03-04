@@ -407,12 +407,15 @@ idin.rabobank.nl
 idintest.rabobank.nl
 idp-acpt-src.rabobank.nl
 idp-acpt.rabobank.nl
+idp-acpt1-src.rabobank.nl
+idp-acpt1.rabobank.nl
 idp-acpt2-src.rabobank.nl
 idp-acpt2.rabobank.nl
 idp-acpt3-src.rabobank.nl
 idp-acpt3.rabobank.nl
 idp-acpt4-src.rabobank.nl
 idp-acpt4.rabobank.nl
+idp-acpt5-src.rabobank.nl
 idp-acpt5.rabobank.nl
 idp-src.rabobank.nl
 idp.rabobank.nl
@@ -936,6 +939,7 @@ www.ca2-signing-client.services.rabobank.nl
 www.challenge.rabobank.nl
 www.cim-rabo-a-001.omnikassa.rabobank.nl
 www.cmp.rabobank.nl
+www.co2dev-rac.rabobank.nl
 www.corporates-pki.rabobank.nl
 www.dashboard.omnikassa.rabobank.nl
 www.developer-acpt.rabobank.nl

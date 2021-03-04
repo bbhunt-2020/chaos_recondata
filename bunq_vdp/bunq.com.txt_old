@@ -8,6 +8,7 @@ api.ideal.bunq.com
 api.idin.bunq.com
 api.oauth.bunq.com
 api.oauth.sandbox.bunq.com
+api.openbanking.bunq.com
 api.openbanking.triage.bunq.com
 api.ppro.bunq.com
 api.qr.bunq.com
@@ -63,6 +64,7 @@ mctds.bunq.com
 mcw.bunq.com
 oauth.bunq.com
 oauth.sandbox.bunq.com
+openbanking.bunq.com
 openbanking.triage.bunq.com
 phabricator.bunq.com
 phone1.svc1.nl1.bunq.com

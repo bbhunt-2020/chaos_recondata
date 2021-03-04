@@ -12,3 +12,5 @@ alerts-broker-blackduck-test.dev.dev-iam.xi.nutanix.com
 bootstrap-jithin-dev-eng-pat.dev.dev-iam.xi.nutanix.com
 ui-bdscan.dev.dev-iam.xi.nutanix.com
 themis-eng-351734.dev.dev-iam.xi.nutanix.com
+bootstrap-tmp-disable-blackd.dev.dev-iam.xi.nutanix.com
+themis-role-proxy.dev.dev-iam.xi.nutanix.com

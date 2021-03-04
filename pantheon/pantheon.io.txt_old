@@ -319,6 +319,7 @@ feature-devpmt-820.pmt-staging.pantheon.io
 feature-drupal7-bugfix.pmt-staging.pantheon.io
 feature-e2e-tests.pmt-staging.pantheon.io
 feature-pmtdev-637-bitbucket-pipelines.pmt-staging.pantheon.io
+feature-pmts-30-terraform-config.pmt-staging.pantheon.io
 feature-pmts-31.pmt-staging.pantheon.io
 feature-pmts-32.pmt-staging.pantheon.io
 feature-retry-failed-tasks.pmt-staging.pantheon.io
@@ -2859,6 +2860,7 @@ payment-service.production.cluster-01.us-central.internal.k8s.pantheon.io
 pmc.pantheon.io
 pmt-staging.pantheon.io
 pmt.pantheon.io
+pmts-18-add-helper-text-custom-upstream.pmt-staging.pantheon.io
 pmts-27.pmt-staging.pantheon.io
 pmts-29.pmt-staging.pantheon.io
 project-cache-bugfix.pmt-staging.pantheon.io

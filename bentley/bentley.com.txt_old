@@ -616,6 +616,9 @@ connect-supplychainservice.bentley.com
 connect-synchroimodelfunc.bentley.com
 connect-synchroimodelsrv-staging.bentley.com
 connect-synchroimodelsrv.bentley.com
+connect-synchroindexing.bentley.com
+connect-synchromediasearch-staging.bentley.com
+connect-synchromediasearch.bentley.com
 connect-tagservice-staging.bentley.com
 connect-tagservice.bentley.com
 connect-ulascommondatafunctions.bentley.com

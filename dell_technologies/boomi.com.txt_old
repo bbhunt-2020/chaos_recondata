@@ -22,6 +22,7 @@ abhitest12.sandbox.boomi.com
 abhitest2.sandbox.boomi.com
 abhitest3.sandbox.boomi.com
 akgwtest1.sandbox.boomi.com
+akgwtest2.sandbox.boomi.com
 alexmolecule.sandbox.boomi.com
 alon.dcp-pipeline.boomi.com
 anavplat.sandbox.boomi.com
@@ -210,6 +211,9 @@ dcp.datalake-pipeline.boomi.com
 dcpintelligence.sandbox.boomi.com
 dcpjenkins.datalake-pipeline.boomi.com
 dcpjenkins.sandbox.boomi.com
+dcptest-1.dcp-sandbox.boomi.com
+dcptest-3.dcp-sandbox.boomi.com
+dcptest-4.dcp-sandbox.boomi.com
 dcptest-5.dcp-sandbox.boomi.com
 dcptest-6.dcp-sandbox.boomi.com
 dcptest.datalake-pipeline.boomi.com
@@ -225,6 +229,7 @@ devazure.sandbox.boomi.com
 devika-platformservices.sandbox.boomi.com
 devika1dr.sandbox.boomi.com
 devika2dr.sandbox.boomi.com
+devikadl2.sandbox.boomi.com
 devikadr2.sandbox.boomi.com
 devikadr3.sandbox.boomi.com
 devikadr4.sandbox.boomi.com

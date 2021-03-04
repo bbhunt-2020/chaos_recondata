@@ -3921,6 +3921,7 @@ investing-pte1.wellsfargo.com
 investing.wellsfargo.com
 investingbroker-bte1.wellsfargo.com
 investingbroker-dev1.wellsfargo.com
+investingbroker-pte1.wellsfargo.com
 investingbroker.wellsfargo.com
 investments-c.wellsfargo.com
 investorview-u.wellsfargo.com
@@ -8623,6 +8624,7 @@ wellstrade.g.wellsfargo.com
 wellstrade.wellsfargo.com
 wellstradebroker-bte1.wellsfargo.com
 wellstradebroker-dev1.wellsfargo.com
+wellstradebroker-pte1.wellsfargo.com
 wellstradebroker.wellsfargo.com
 wellstradefix.wellsfargo.com
 wellstradeuat.wellsfargo.com
@@ -8778,6 +8780,7 @@ wfa-test-1exf-client.wellsfargo.com
 wfa.g.wellsfargo.com
 wfa.glb.wellsfargo.com
 wfadvisorbroker-dev1.wellsfargo.com
+wfadvisorbroker-pte1.wellsfargo.com
 wfadvisors-cte1.wellsfargo.com
 wfadvisors-dev1.wellsfargo.com
 wfadvisors-ite1.wellsfargo.com

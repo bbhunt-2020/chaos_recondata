@@ -4196,6 +4196,7 @@ atl.location.nokia.com
 atl.stg.location.nokia.com
 atpps001.ext.nokia.com
 atpps002.ext.nokia.com
+ats-serverless.atg.nokia.com
 ats-serverless.nswatg.nokia.com
 attach-test.csfp.dev.software.nokia.com
 au.dev.shop.web.nokia.com
@@ -13676,6 +13677,7 @@ tempimknowledge.online.nokia.com
 tenablesc.int.net.nokia.com
 tenant.prod-1.deb.dev-intg.software.nokia.com
 terraformhomecaretest.saas.nokia.com
+test-cluster-2.atg.nokia.com
 test-cluster-2.nswatg.nokia.com
 test-mzilla.nokia.com
 test-nzilla.nokia.com

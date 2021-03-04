@@ -90,6 +90,7 @@ bootstrap-skip-migration.dev.dev-iam.xi.nutanix.com
 bootstrap-taskseqid.dev.dev-iam.xi.nutanix.com
 bootstrap-testing.dev.dev-iam.xi.nutanix.com
 bootstrap-timeout.dev.dev-iam.xi.nutanix.com
+bootstrap-tmp-disable-blackd.dev.dev-iam.xi.nutanix.com
 bootstrap-upgrade.dev.dev-iam.xi.nutanix.com
 bootstrap-vendor.dev.dev-iam.xi.nutanix.com
 bootstrap-vendordec16.dev.dev-iam.xi.nutanix.com
@@ -1365,6 +1366,7 @@ themis-revert-131-proxylist.dev.dev-iam.xi.nutanix.com
 themis-revert-204-aug17.dev.dev-iam.xi.nutanix.com
 themis-revert-221-eng-327554.dev.dev-iam.xi.nutanix.com
 themis-revert-zk.dev.dev-iam.xi.nutanix.com
+themis-role-proxy.dev.dev-iam.xi.nutanix.com
 themis-roleloadfix.dev.dev-iam.xi.nutanix.com
 themis-small-change.us-east-dev.iam.xi.nutanix.com
 themis-small-change.us-west-dev.iam.xi.nutanix.com

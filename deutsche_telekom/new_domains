@@ -21,3 +21,13 @@ competence-test-websso2.telekom.de
 pub.cl03.gigadev.telekom.de
 priv.cl03.gigadev.telekom.de
 keycloak-new.dev.devops.telekom.de
+sre-monitoring-nonprod.aws.telekom.de
+test.ttsaas.telekom.de
+rc-eks-test.prod.asf.telekom.de
+rc-eks-test.dev.asf.telekom.de
+dolphin.aws.telekom.de
+rc-eks-test.uat.asf.telekom.de
+fki-dokumente.telekom.de
+tkrohn-tf-dev-lb.evangelist.aws.telekom.de
+test-ttsaas.telekom.de
+docs.aws.telekom.de

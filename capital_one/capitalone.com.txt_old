@@ -3585,6 +3585,7 @@ test-cert-8-18-20.capitalone.com
 test-failover-7-14.capitalone.com
 test-isolation.capitalone.com
 test-sans-1.capitalone.com
+test-sans-2.capitalone.com
 test-sans.capitalone.com
 test-tlsauto.capitalone.com
 test-trex-bau.capitalone.com

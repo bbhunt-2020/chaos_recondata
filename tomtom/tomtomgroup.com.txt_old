@@ -97,6 +97,7 @@ gunther-us.tomtomgroup.com
 help-external.tomtomgroup.com
 help.tomtomgroup.com
 home.sre-lab.tomtomgroup.com
+hrsd.tomtomgroup.com
 hse.adtooling.tomtomgroup.com
 hub.tomtomgroup.com
 idp-ctac.tomtomgroup.com
@@ -117,6 +118,7 @@ iqloop3.tomtomgroup.com
 iqr4.tomtomgroup.com
 iris-rmds.tomtomgroup.com
 iserver.tomtomgroup.com
+itsd.tomtomgroup.com
 jenkins.adtooling.tomtomgroup.com
 jenkins.tomtomgroup.com
 jira-dev-ext.tomtomgroup.com
@@ -131,6 +133,8 @@ login.adtooling.tomtomgroup.com
 longbeachprojectserver.tomtomgroup.com
 mail.tomtomgroup.com
 main.ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtomgroup.com
+main.ttomsd-ind.pu-maps.aws-ap-south-1.cmr.tomtomgroup.com
+mapsupport.tomtomgroup.com
 mapvis-ci.tomtomgroup.com
 maven.tomtomgroup.com
 mbam.tomtomgroup.com
@@ -238,6 +242,7 @@ sap-srv-prd.tomtomgroup.com
 sap-srv-qas.tomtomgroup.com
 sbcam2.tomtomgroup.com
 sbcam3.tomtomgroup.com
+sd.tomtomgroup.com
 sdp.tomtomgroup.com
 security.tomtomgroup.com
 sherlock.tomtomgroup.com

@@ -1041,6 +1041,7 @@ ews-qaint.fip.qa.finra.org
 ews-stress.fip.qa.finra.org
 ews.cobra.finra.org
 ews.dev.finra.org
+ews.dr.finra.org
 ews.finra.org
 ews.fip.finra.org
 ews.fip.qa.finra.org
@@ -1056,6 +1057,7 @@ ews.wipe.finra.org
 ewsapi-kw.finra.org
 ewsapi-ny.finra.org
 ewsapi.dev.finra.org
+ewsapi.dr.finra.org
 ewsapi.finra.org
 ewsapi.int.dr.finra.org
 ewsapi.int.finra.org
@@ -1895,6 +1897,7 @@ programs.qa.finra.org
 public-accessmgmt-int.fip.dev.dr.finra.org
 public-accessmgmt-int.fip.dev.finra.org
 public-accessmgmt-stress.fip.qa.finra.org
+public-accessmgmt.fip.dr.finra.org
 public-accessmgmt.fip.finra.org
 public-accessmgmt.fip.qa.dr.finra.org
 public-accessmgmt.fip.qa.finra.org

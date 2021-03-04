@@ -444,6 +444,7 @@ spark-history.yarn-production.starscream.yarn.shopifykloud.com
 speedboat-azkaban-staging-web.data-acq.shopifykloud.com
 speedboat-azkaban-web.data-acq-canada.shopifykloud.com
 speedboat-azkaban-web.data-acq.shopifykloud.com
+speedboat-presto.data-acq.shopifykloud.com
 speedboat-yarn-oauth-proxy.data-acq.shopifykloud.com
 staging-kafka-azkaban-web.data-acq-canada.shopifykloud.com
 staging-kafka-azkaban-web.data-acq.shopifykloud.com

@@ -1296,6 +1296,7 @@ dockerhub.devops.telekom.de
 dockerhub.test.devops.telekom.de
 docminder.telekom.de
 docomue.telekom.de
+docs.aws.telekom.de
 docs.dev.devops.telekom.de
 docs.devops.telekom.de
 docs.poc.devops.telekom.de
@@ -1307,6 +1308,7 @@ doculife.telekom.de
 dol.telekom.de
 dolphin-dev-postbill.aws.telekom.de
 dolphin-dev.aws.telekom.de
+dolphin.aws.telekom.de
 domainmanagement-entwicklung.telekom.de
 domainmanagement-test.telekom.de
 domainmanagement.telekom.de
@@ -1720,6 +1722,7 @@ fisst-t.onesrm.telekom.de
 fisst-z.onesrm.telekom.de
 fisst.onesrm.telekom.de
 fit4sales.telekom.de
+fki-dokumente.telekom.de
 fki-znk.telekom.de
 fki.telekom.de
 flex-byoc.telekom.de
@@ -4108,6 +4111,9 @@ rbt2-one-erp.telekom.de
 rbt2-qa-one-erp.telekom.de
 rbt2prod.telekom.de
 rbt2test.telekom.de
+rc-eks-test.dev.asf.telekom.de
+rc-eks-test.prod.asf.telekom.de
+rc-eks-test.uat.asf.telekom.de
 rc-test.dev.asf.telekom.de
 rc2002-rm.telekom.de
 rc2002-test.telekom.de
@@ -4662,6 +4668,7 @@ sqm-web-dcc.telekom.de
 sqm.telekom.de
 sra.telekom.de
 sre-monitoring-dev.aws.telekom.de
+sre-monitoring-nonprod.aws.telekom.de
 sre-monitoring-prod.aws.telekom.de
 sre-monitoring-test.aws.telekom.de
 srm-abn.mms-dresden.telekom.de
@@ -5030,12 +5037,14 @@ test-sense.telekom.de
 test-tools.dev.asf.telekom.de
 test-tools.uat.asf.telekom.de
 test-tools.uat1.asf.telekom.de
+test-ttsaas.telekom.de
 test-voicemailskill.telekom.de
 test.devops.telekom.de
 test.hdsm.telekom.de
 test.p5x.telekom.de
 test.telekom.de
 test.tif.telekom.de
+test.ttsaas.telekom.de
 test1.devops.telekom.de
 test1234.telekom.de
 test2-sece-it.telekom.de
@@ -5117,6 +5126,7 @@ tkp.telekom.de
 tkpbw-cit4.telekom.de
 tkpbw.telekom.de
 tkpzs-cit4.telekom.de
+tkrohn-tf-dev-lb.evangelist.aws.telekom.de
 tkwd.b2b.telekom.de
 tkworld.b2b.telekom.de
 tlabsmail.labs.telekom.de

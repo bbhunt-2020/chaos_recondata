@@ -1125,6 +1125,7 @@ oauth2.staking-azure.codefi.network
 oauth2.staking-uat.codefi.network
 old-api.activate.codefi.network
 old.activate.codefi.network
+payments-ephemeral.dev.codefi.network
 postgraphile-chore-cst-579.dev.codefi.network
 postgraphile-joao-cst-625.dev.codefi.network
 postgraphile-renovate-y18n-5-x.dev.codefi.network
