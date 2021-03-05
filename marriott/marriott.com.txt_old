@@ -604,11 +604,16 @@ eclm-test-003-sn03-vmitr236-np.marriott.com
 eclm-test-040sn03-hnamd761.marriott.com
 eclm-test-sn003-009-hnamd.marriott.com
 eclm-test-sn03-001-hnamd761.marriott.com
+eclm-test-sn03-005-hnamd.marriott.com
 eclm-test-sn03-hnamd761.marriott.com
 eclm-test60iioto878.marriott.com
 eclm-test60iioto8781.marriott.com
 eclm-testsn58-iiotov878.marriott.com
 eclm-testsn71iioto878.marriott.com
+eclm-testsn77iioto878.marriott.com
+eclm-testsn78iioto878.marriott.com
+eclm-testsn80iioto878.marriott.com
+eclm-testsn88iioto878.marriott.com
 eclmtessn71iioto878.marriott.com
 eclmtestiioto69iioto878.marriott.com
 eclmtestsn66iioto878.marriott.com
@@ -1812,6 +1817,7 @@ preprod.airline-partner.marriott.com
 preprod.elite-achievement.marriott.com
 preprod.good-travel-guide.marriott.com
 preprod.hvmi.marriott.com
+preprod.nad-week-of-wonders.marriott.com
 preprod.status-match.marriott.com
 preprod.uber.marriott.com
 preprod.webhook.hvmi.marriott.com
@@ -2349,6 +2355,7 @@ www.preprod.airline-partner.marriott.com
 www.preprod.aries.marriott.com
 www.preprod.elite-achievement.marriott.com
 www.preprod.good-travel-guide.marriott.com
+www.preprod.nad-week-of-wonders.marriott.com
 www.preprod.status-match.marriott.com
 www.preprod.uber.marriott.com
 www.preprod.your-world-rewards.marriott.com

@@ -298,6 +298,7 @@
 3ob337tf.cloudstation.us-west-2.qa.hydra.sophos.com
 3p86uo9c.cloudstation.eu-west-1.inf.hydra.sophos.com
 3pesqcvo.cloudstation.eu-central-1.prod.hydra.sophos.com
+3po6q052.cloudstation.us-west-2.prod.hydra.sophos.com
 3q1a16sa.cloudstation.eu-west-1.inf.hydra.sophos.com
 3q28z2hc.cloudstation.eu-west-1.inf.hydra.sophos.com
 3qlehqto.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -328,6 +329,7 @@
 41vrhkm1.cloudstation.eu-west-1.inf.hydra.sophos.com
 4277tt4x.cloudhub.eu-west-1.prod.hydra.sophos.com
 428dd6gt.cloudstation.us-west-2.qa.hydra.sophos.com
+42l4ugo8.cloudstation.eu-central-1.prod.hydra.sophos.com
 42v8f1tb.cloudstation.eu-west-1.prod.hydra.sophos.com
 42x8d1am.cloudstation.eu-central-1.qa.hydra.sophos.com
 438t0kod.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -644,6 +646,7 @@
 83qse5hv.cloudstation.eu-west-1.inf.hydra.sophos.com
 84na1dww.cloudstation.eu-west-1.dev.hydra.sophos.com
 85cqj6sd.cloudstation.eu-west-1.inf.hydra.sophos.com
+86u66055.cloudstation.eu-west-1.dev.hydra.sophos.com
 879s6zdr.cloudstation.us-west-2.qa.hydra.sophos.com
 886a8zbu.cloudstation.us-west-2.prod.hydra.sophos.com
 89f9olft.cloudhub.eu-west-1.prod.hydra.sophos.com
@@ -670,6 +673,7 @@
 8l9zz9kr.cloudstation.eu-west-1.inf.hydra.sophos.com
 8lgz98jg.cloudstation.eu-west-1.dev.hydra.sophos.com
 8ludpwn3.cloudstation.eu-west-1.dev.hydra.sophos.com
+8mdm3rnj.cloudstation.eu-central-1.prod.hydra.sophos.com
 8mgjy487.cloudstation.eu-west-1.qa.hydra.sophos.com
 8mi5ys1j.cloudstation.eu-west-1.inf.hydra.sophos.com
 8mim63en.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -3025,11 +3029,19 @@ dir-integration.cloudstation.eu-west-1.prod.hydra.sophos.com
 dir-integration.cloudstation.us-east-2.prod.hydra.sophos.com
 dir-integration.cloudstation.us-west-2.prod.hydra.sophos.com
 dir-integration.cloudstation.us-west-2.qa.hydra.sophos.com
+directory-config-cloudstation-eu-central-1.prod.hydra.sophos.com
 directory-config-cloudstation-eu-central-1.qa.hydra.sophos.com
 directory-config-cloudstation-eu-west-1.dev.hydra.sophos.com
+directory-config-cloudstation-eu-west-1.prod.hydra.sophos.com
+directory-config-cloudstation-us-east-2.prod.hydra.sophos.com
+directory-config-cloudstation-us-west-2.prod.hydra.sophos.com
 directory-config-cloudstation-us-west-2.qa.hydra.sophos.com
+directory-config.cloudstation.eu-central-1.prod.hydra.sophos.com
 directory-config.cloudstation.eu-central-1.qa.hydra.sophos.com
 directory-config.cloudstation.eu-west-1.dev.hydra.sophos.com
+directory-config.cloudstation.eu-west-1.prod.hydra.sophos.com
+directory-config.cloudstation.us-east-2.prod.hydra.sophos.com
+directory-config.cloudstation.us-west-2.prod.hydra.sophos.com
 directory-config.cloudstation.us-west-2.qa.hydra.sophos.com
 dis.dev.hydra.sophos.com
 dis.inf.hydra.sophos.com
@@ -3233,6 +3245,7 @@ ei5xa2w2.cloudstation.us-east-2.prod.hydra.sophos.com
 ein7odse.cloudstation.eu-west-1.inf.hydra.sophos.com
 eiqi0n1f.cloudstation.eu-west-1.inf.hydra.sophos.com
 ejgxigsa.cloudstation.eu-central-1.qa.hydra.sophos.com
+ek3frobf.cloudstation.us-east-2.prod.hydra.sophos.com
 ek56kxi2.cloudstation.eu-west-1.inf.hydra.sophos.com
 ektej36q.cloudstation.us-east-2.prod.hydra.sophos.com
 em5st8cj.cloudstation.eu-central-1.prod.hydra.sophos.com
@@ -3833,13 +3846,19 @@ fwcm-template.cloudstation.eu-central-1.qa.hydra.sophos.com
 fwcm-template.cloudstation.eu-west-1.dev.hydra.sophos.com
 fwcm-template.cloudstation.eu-west-1.qa.hydra.sophos.com
 fwcm-template.cloudstation.us-west-2.qa.hydra.sophos.com
+fwl-parquet-agg-cloudstation-eu-central-1.prod.hydra.sophos.com
 fwl-parquet-agg-cloudstation-eu-central-1.qa.hydra.sophos.com
 fwl-parquet-agg-cloudstation-eu-west-1.dev.hydra.sophos.com
 fwl-parquet-agg-cloudstation-eu-west-1.prod.hydra.sophos.com
+fwl-parquet-agg-cloudstation-us-east-2.prod.hydra.sophos.com
+fwl-parquet-agg-cloudstation-us-west-2.prod.hydra.sophos.com
 fwl-parquet-agg-cloudstation-us-west-2.qa.hydra.sophos.com
+fwl-parquet-agg.cloudstation.eu-central-1.prod.hydra.sophos.com
 fwl-parquet-agg.cloudstation.eu-central-1.qa.hydra.sophos.com
 fwl-parquet-agg.cloudstation.eu-west-1.dev.hydra.sophos.com
 fwl-parquet-agg.cloudstation.eu-west-1.prod.hydra.sophos.com
+fwl-parquet-agg.cloudstation.us-east-2.prod.hydra.sophos.com
+fwl-parquet-agg.cloudstation.us-west-2.prod.hydra.sophos.com
 fwl-parquet-agg.cloudstation.us-west-2.qa.hydra.sophos.com
 fwmigrate.sophos.com
 fx79zbte.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -3878,6 +3897,7 @@ gcc3ztya.cloudstation.eu-west-1.inf.hydra.sophos.com
 gdmvtv2d-cloudhub-eu-west-1.qa.hydra.sophos.com
 ge0r5d5g.cloudstation.eu-west-1.inf.hydra.sophos.com
 gf07wgjw.cloudstation.us-east-2.prod.hydra.sophos.com
+gfo9gt1r.cloudstation.us-west-2.prod.hydra.sophos.com
 gfzxwn88.cloudstation.eu-west-1.inf.hydra.sophos.com
 gg2k180j.eu-west-1.dev.o365.sophos.com
 gg6p7vza.cloudstation.eu-west-1.prod.hydra.sophos.com
@@ -4196,6 +4216,7 @@ j3on7e3m.cloudstation.eu-west-1.inf.hydra.sophos.com
 j3zl1b0x.cloudstation.eu-west-1.inf.hydra.sophos.com
 j579q6y6.cloudstation.eu-west-1.qa.hydra.sophos.com
 j58arhzg.cloudstation.eu-west-1.inf.hydra.sophos.com
+j69bxtny.cloudstation.eu-west-1.dev.hydra.sophos.com
 j6sqf317.cloudstation.eu-central-1.qa.hydra.sophos.com
 j6uolc30.cloudstation.eu-west-1.dev.hydra.sophos.com
 j7fpcq68.cloudstation.us-west-2.qa.hydra.sophos.com
@@ -7930,6 +7951,7 @@ roles-manager-cloudhub-eu-west-1.qa.hydra.sophos.com
 roles-manager.cloudhub.eu-west-1.dev.hydra.sophos.com
 roles-manager.cloudhub.eu-west-1.prod.hydra.sophos.com
 roles-manager.cloudhub.eu-west-1.qa.hydra.sophos.com
+rom2tr11.cloudhub.eu-west-1.dev.hydra.sophos.com
 rpl1aozq-cloudhub-eu-west-1.prod.hydra.sophos.com
 rqeaymte.cloudstation.us-west-2.qa.hydra.sophos.com
 rrc43wce.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -8732,6 +8754,7 @@ topicscout.comu-west-1.qa.hydra.sophos.com
 topimplandra.sophos.com
 tp7v902u.cloudstation.eu-west-1.inf.hydra.sophos.com
 tpmg8kr5-cloudstation-eu-west-1.inf.hydra.sophos.com
+tq3j1s2v.cloudstation.eu-west-1.prod.hydra.sophos.com
 tr26g4u8-cloudhub-eu-west-1.dev.hydra.sophos.com
 training.sophos.com
 trcucm9w.cloudstation.us-west-2.qa.hydra.sophos.com
@@ -9189,8 +9212,11 @@ x8y230hq.cloudstation.eu-west-1.inf.hydra.sophos.com
 xa5s51md.cloudstation.eu-west-1.dev.hydra.sophos.com
 xae7p3kv.cloudstation.eu-west-1.dev.hydra.sophos.com
 xakm4seo.cloudhub.eu-west-1.qa.hydra.sophos.com
+xc20ox37.cloudstation.us-east-2.prod.hydra.sophos.com
 xco0dgqt.cloudstation.us-west-2.qa.hydra.sophos.com
 xd7t6vev.cloudstation.eu-west-1.inf.hydra.sophos.com
+xdr-parquet-agg-cloudstation-eu-west-1.dev.hydra.sophos.com
+xdr-parquet-agg.cloudstation.eu-west-1.dev.hydra.sophos.com
 xdr-query-svc-cloudstation-eu-central-1.qa.hydra.sophos.com
 xdr-query-svc-cloudstation-eu-west-1.prod.hydra.sophos.com
 xdr-query-svc-cloudstation-eu-west-1.qa.hydra.sophos.com

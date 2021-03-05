@@ -13,6 +13,7 @@ akastg.blue.marcus.com
 akastg.uat.marcus.com
 akastg.www.marcus.com
 amp.marcus.com
+api.cc-pod3.infra.marcus.com
 api.dev.consumercards.marcus.com
 api.dev.consumercloud.marcus.com
 api.fwqa.consumercloud.marcus.com
@@ -78,6 +79,8 @@ click.marcus.com
 cluster-master.infra.marcus.com
 confluence.infra.marcus.com
 consumer.communications.marcus.com
+corecredit.api.cc-pod3.infra.marcus.com
+coreissue.api.cc-pod3.infra.marcus.com
 deployer.infra.marcus.com
 dev-money-movement-service.service.dev.infra.marcus.com
 dev-sftp.infra.marcus.com
@@ -340,10 +343,12 @@ qa.secondary-02.mongodb.infra.marcus.com
 qa.voicegw.infra.marcus.com
 qagreen.tableau.infra.marcus.com
 qakafkasr.gs-qa.sys.infra.marcus.com
+report.api.cc-pod3.infra.marcus.com
 rundeck.infra.marcus.com
 s.tw.marcus.com
 sandboxkafkasr.sandbox.sys.infra.marcus.com
 search-head.infra.marcus.com
+services.api.cc-pod3.infra.marcus.com
 sftp.infra.marcus.com
 smetrics.marcus.com
 splunk-dev.infra.marcus.com
@@ -415,4 +420,5 @@ vpn.perf1.final.infra.marcus.com
 vpn.trn1.final.infra.marcus.com
 vpn.uat1.final.infra.marcus.com
 vpn.uat2.final.infra.marcus.com
+wcf.api.cc-pod3.infra.marcus.com
 www.marcus.com

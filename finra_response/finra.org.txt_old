@@ -1165,6 +1165,8 @@ finapps.dev.finra.org
 finapps.finra.org
 finapps.pa.finra.org
 finapps.qa.finra.org
+fingerprints.api-int.dev.finra.org
+fingerprints.api-int.qa.finra.org
 fingerprints.api.dev.finra.org
 fingerprints.api.finra.org
 fingerprints.api.qa.finra.org

@@ -178,6 +178,7 @@ amxcontroler.gsa.gov
 analytics.dsat.gsa.gov
 anywhere.gsa.gov
 apex.gsa.gov
+api.a.azure-ocp.gsa.gov
 api.acquisition-uat.gsa.gov
 api.gsa.gov
 api.vms.fleet-prod.fcs.gsa.gov
@@ -185,6 +186,7 @@ app.gsasolutions.gsa.gov
 app1.pegasys.gsa.gov
 app2.pegasys.gsa.gov
 apps-test.fas.gsa.gov
+apps.a.azure-ocp.gsa.gov
 apps.fas.gsa.gov
 apps.fss.gsa.gov
 apps.gsa.gov
@@ -229,6 +231,7 @@ autovendor-dr.fas.gsa.gov
 autovendor.fas.gsa.gov
 autovendorb.fas.gsa.gov
 avocent.wip.gsa.gov
+azure-ocp.gsa.gov
 b.mismas.gsa.gov
 b2b-staging.fas.gsa.gov
 b2b.fas.gsa.gov
@@ -251,6 +254,7 @@ bi.fas.gsa.gov
 biedwxir4-dev.fas.gsa.gov
 biedwxir4-test.fas.gsa.gov
 blogs.gsa.gov
+bm.fleet-dev.fcs.gsa.gov
 bonegnasher.gsa.gov
 bonnie.gsa.gov
 bookit.gsa.gov
@@ -267,6 +271,7 @@ bsp-dev.bsp.gsa.gov
 bsp-dev.gsa.gov
 bsp-test.gsa.gov
 bsp.gsa.gov
+business.fleet-dev.fcs.gsa.gov
 businessobjects.fas.gsa.gov
 buy.gsa.gov
 cabotp.gsa.gov
@@ -461,6 +466,7 @@ dev.training.smartpay.gsa.gov
 dev1.pbs.gsa.gov
 dev2.pbs.gsa.gov
 dev3.pbs.gsa.gov
+devadv-mfalogin.fas.gsa.gov
 devccp.gsa.gov
 devcmbv.wip.gsa.gov
 devcmcont.wip.gsa.gov
@@ -66736,6 +66742,7 @@ mfalogin.fas.gsa.gov
 midatlantic.pbs.gsa.gov
 mileageexpress.fss.gsa.gov
 mirage.gsa.gov
+mnr.fleet-dev.fcs.gsa.gov
 mobile.anywhere.gsa.gov
 mobile.gsa.gov
 mobile.gsaapps.gsa.gov
@@ -67748,6 +67755,7 @@ www.d2d.gsa.gov
 www.datagov.fas.gsa.gov
 www.dev.smartpay.gsa.gov
 www.dev.training.smartpay.gsa.gov
+www.devadv-mfalogin.fas.gsa.gov
 www.dhsadvantage.gsa.gov
 www.discovery.gsa.gov
 www.disposal.gsa.gov
@@ -67898,6 +67906,7 @@ www.listserv.gsa.gov
 www.lop.gsa.gov
 www.mcm.fss.gsa.gov
 www.mentor-protege.gsa.gov
+www.mfalogin-test.fas.gsa.gov
 www.mfalogin.fas.gsa.gov
 www.millennia.gsa.gov
 www.mirage.gsa.gov
@@ -67997,6 +68006,7 @@ www.tamsapi.preprod.gsa.gov
 www.tarpseb.fas.gsa.gov
 www.tarpsec-dr.fas.gsa.gov
 www.tarpsec.fas.gsa.gov
+www.tdr-test.gsa.gov
 www.telework.insite.gsa.gov
 www.test-apps.ocfo.gsa.gov
 www.test.smartpay.gsa.gov
@@ -68007,6 +68017,7 @@ www.tmss.gsa.gov
 www.training.smartpay.gsa.gov
 www.tscportal-staging.gsa.gov
 www.tscportal.fas.gsa.gov
+www.tsthrlinkscd.gsa.gov
 www.tts.gsa.gov
 www.uat.salesforce.gsa.gov
 www.usaccess-alp.gsa.gov

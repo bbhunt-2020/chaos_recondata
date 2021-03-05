@@ -2078,6 +2078,7 @@ mtf.api.ext.redemption.mastercard.com
 mtf.api.files.in.onsoil.mastercard.com
 mtf.api.files.mastercard.com
 mtf.api.gw.external.mastercard.com
+mtf.api.identity.mastercard.com
 mtf.api.mastercard.com
 mtf.apw.shinhanbank.mastercard.com
 mtf.asn.services.mastercard.com

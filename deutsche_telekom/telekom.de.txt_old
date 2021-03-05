@@ -956,6 +956,7 @@ contenttuner-test.telekom.de
 contenttuner.telekom.de
 contracts.telekom.de
 control-it.telekom.de
+coremagic.telekom.de
 corporate-pki.telekom.de
 couchbase-partnershop.telekom.de
 cpbx-hilfe-test2-deutschland-lan.telekom.de
@@ -1554,6 +1555,7 @@ elog-dev.telekom.de
 elog-kudibel.telekom.de
 elog-qas.telekom.de
 elog.telekom.de
+elphi-cluster.dev.asf.telekom.de
 email.telekom.de
 emailvt.sgp.telekom.de
 emc.telekom.de
@@ -3858,6 +3860,7 @@ priv.admitrie.gigadev.telekom.de
 priv.cl01.gigadev.telekom.de
 priv.cl02.gigadev.telekom.de
 priv.cl03.gigadev.telekom.de
+priv.cl04.gigadev.telekom.de
 priv.kirill.gigadev.telekom.de
 priv.kirill2.gigadev.telekom.de
 priv.mp-logstack.gigadev.telekom.de
@@ -3966,6 +3969,7 @@ pub.admitrie.gigadev.telekom.de
 pub.cl01.gigadev.telekom.de
 pub.cl02.gigadev.telekom.de
 pub.cl03.gigadev.telekom.de
+pub.cl04.gigadev.telekom.de
 pub.kirill.gigadev.telekom.de
 pub.kirill2.gigadev.telekom.de
 pub.mp-logstack.gigadev.telekom.de

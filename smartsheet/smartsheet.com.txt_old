@@ -200,6 +200,7 @@ auto.workflow3.box.lab.smartsheet.com
 auto.workflow4.box.lab.smartsheet.com
 auto.workflow5.box.lab.smartsheet.com
 auto.workflow6.box.lab.smartsheet.com
+autodevelop-code-coverage.box.lab.smartsheet.com
 automation-current.box.lab.smartsheet.com
 automation-develop.box.lab.smartsheet.com
 automation-next.box.lab.smartsheet.com
@@ -1124,6 +1125,7 @@ sfaddins.test.smartsheet.com
 sgervais-desktop.apollo.smartsheet.com
 sgervais-dev.box.lab.smartsheet.com
 shac-ro-1.box.lab.smartsheet.com
+shac-ro-off.box.lab.smartsheet.com
 shand-qa.box.lab.smartsheet.com
 shand2-qa.box.lab.smartsheet.com
 shaon-dell.apollo.smartsheet.com
@@ -1320,6 +1322,7 @@ usa.dir00920.box.lab.smartsheet.com
 usa.dir00978.box.lab.smartsheet.com
 usa.dir00978develop.box.lab.smartsheet.com
 usa.dir01005.box.lab.smartsheet.com
+usa.dir01111.box.lab.smartsheet.com
 usa.dir01179.box.lab.smartsheet.com
 usa.dir01326.box.lab.smartsheet.com
 usa.dir1296romano.box.lab.smartsheet.com
@@ -1328,6 +1331,7 @@ usa.dir792romano.box.lab.smartsheet.com
 usa.dir793romano.box.lab.smartsheet.com
 usa.dir824.box.lab.smartsheet.com
 usa.dir948romano.box.lab.smartsheet.com
+usa.dirsvc.log4j.box.lab.smartsheet.com
 usa.dirsvc1.box.lab.smartsheet.com
 usa.dirsvc2.box.lab.smartsheet.com
 usa.dirsvc3.box.lab.smartsheet.com

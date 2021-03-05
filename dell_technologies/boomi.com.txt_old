@@ -21,8 +21,11 @@ abhitest11.sandbox.boomi.com
 abhitest12.sandbox.boomi.com
 abhitest2.sandbox.boomi.com
 abhitest3.sandbox.boomi.com
+akgwtest1.runtime-sandbox.boomi.com
 akgwtest1.sandbox.boomi.com
 akgwtest2.sandbox.boomi.com
+akgwtest3.sandbox.boomi.com
+akgwtest4.sandbox.boomi.com
 alexmolecule.sandbox.boomi.com
 alon.dcp-pipeline.boomi.com
 anavplat.sandbox.boomi.com
@@ -315,6 +318,7 @@ hub.boomi.com
 hubcloudresize.sandbox.boomi.com
 hubclub.sandbox.boomi.com
 hubclubcloudqa.sandbox.boomi.com
+hulk.sandbox.boomi.com
 iamgroot.qa.boomi.com
 iantest.sandbox.boomi.com
 iantest1.sandbox.boomi.com
@@ -500,6 +504,7 @@ manage-chris.sandbox.boomi.com
 manage-ctdmvpc.sandbox.boomi.com
 manage-ctdmvpc2.sandbox.boomi.com
 manage-devvpc.sandbox.boomi.com
+manage-gazula.runtime-sandbox.boomi.com
 manage-gazula.sandbox.boomi.com
 manage-huladance.sandbox.boomi.com
 manage-jps.sandbox.boomi.com
@@ -584,6 +589,7 @@ marketing.boomi.com
 masterdatahub.sandbox.boomi.com
 mattp.runtime-sandbox.boomi.com
 mattp.sandbox.boomi.com
+mattpone.runtime-sandbox.boomi.com
 mdm.boomi.com
 mdm57.sandbox.boomi.com
 mdmbeta.boomi.com
@@ -770,6 +776,7 @@ occm-us-east-1-hubcloud.sandbox.boomi.com
 occm-us-east-1-hubcloudresize.sandbox.boomi.com
 occm-us-east-1-hubclubcloudqa.sandbox.boomi.com
 occm-us-east-1-hubclubqa.sandbox.boomi.com
+occm-us-east-1-hulk.sandbox.boomi.com
 occm-us-east-1-iantest1.sandbox.boomi.com
 occm-us-east-1-integr8.sandbox.boomi.com
 occm-us-east-1-integr8test.sandbox.boomi.com
@@ -1373,6 +1380,7 @@ perfplat01.sandbox.boomi.com
 pete-platformservices.sandbox.boomi.com
 pii-iantest.boomi.com
 pii-iantest.sandbox.boomi.com
+pii.pipeline.intelligence.boomi.com
 pii.sandbox.boomi.com
 pipeline.boomi.com
 pjohnson.sandbox.boomi.com
@@ -1396,6 +1404,7 @@ prodclone.platform.boomi.com
 prodclone2.boomi.com
 prodclone3-platformservices.services-prod.boomi.com
 prodclone4.boomi.com
+prodcloudgw.boomi.com
 production.boomi.com
 ps-1077.sandbox.boomi.com
 ps-10772.sandbox.boomi.com

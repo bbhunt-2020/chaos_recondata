@@ -2,3 +2,5 @@ int2.dxtfaset.qa.finra.org
 ewsapi.dr.finra.org
 public-accessmgmt.fip.dr.finra.org
 ews.dr.finra.org
+fingerprints.api-int.dev.finra.org
+fingerprints.api-int.qa.finra.org
