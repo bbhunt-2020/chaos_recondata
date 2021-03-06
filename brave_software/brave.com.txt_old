@@ -56,6 +56,7 @@ eyeshade-staging.brave.com
 eyeshade.brave.com
 eyeson.kibana.eshade-staging.brave.com
 faq-bot.brave.com
+favicons.brave.com
 funding.brave.com
 go-updater.brave.com
 goerli-infura.brave.com
@@ -64,6 +65,7 @@ grafana.brave.com
 grant.rewards.brave.com
 gs-us-test.brave.com
 https-everywhere.s3.brave.com
+imgr.brave.com
 internal-ads-serve.brave.com
 internal-ads.brave.com
 jenkins.brave.com
@@ -108,6 +110,8 @@ safebrowsing-proxy.brave.com
 safebrowsing.brave.com
 safebrowsing2.brave.com
 sb-ssl.brave.com
+search-dev.brave.com
+search.brave.com
 server1.brave.com
 staging.brave.com
 staging.ci.brave.com
@@ -124,6 +128,7 @@ survey.brave.com
 sync-staging.brave.com
 sync-v2.brave.com
 sync.brave.com
+tiles.brave.com
 together.brave.com
 translate-relay-internal.brave.com
 translate-relay.brave.com

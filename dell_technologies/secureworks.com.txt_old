@@ -666,6 +666,8 @@ log.ampd03.secureworks.com
 log.ampd04.secureworks.com
 log.amtd01.secureworks.com
 log.amtd02.secureworks.com
+ltm01.aws-test.secureworks.com
+ltm02.aws-test.secureworks.com
 lyncdiscover.secureworks.com
 lyncdiscoverinternal.secureworks.com
 m.portal.secureworks.com

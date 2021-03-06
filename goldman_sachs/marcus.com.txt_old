@@ -42,6 +42,12 @@ apigateway.qa.srp.marcus.com
 apigateway.training.srp.marcus.com
 apigateway.uat.aws.marcus.com
 apigateway.uat.srp.marcus.com
+apihub.dev.cc-ss.infra.marcus.com
+apihub.patqa.cc-ss.infra.marcus.com
+apihub.patuat.cc-ss.infra.marcus.com
+apihub.perf.cc-ss.infra.marcus.com
+apihub.qa.cc-ss.infra.marcus.com
+apihub.uat.cc-ss.infra.marcus.com
 appianprod-east.infra.marcus.com
 appianprod-west.infra.marcus.com
 appianprod.infra.marcus.com

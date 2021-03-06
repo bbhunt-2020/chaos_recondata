@@ -194,6 +194,7 @@ auto.messaging6.box.lab.smartsheet.com
 auto.messaging7.box.lab.smartsheet.com
 auto.ml1.box.lab.smartsheet.com
 auto.orgid.box.lab.smartsheet.com
+auto.tymalan.box.lab.smartsheet.com
 auto.workflow1.box.lab.smartsheet.com
 auto.workflow2.box.lab.smartsheet.com
 auto.workflow3.box.lab.smartsheet.com
@@ -775,6 +776,7 @@ imap4.smartsheet.com
 in-app-marketing.smartsheet.com
 in-app-marketing.test.smartsheet.com
 insights.box.lab.smartsheet.com
+insights2.box.lab.smartsheet.com
 install.aaguilera.converse.shareddev.smartsheet.com
 install.achandel.converse.shareddev.smartsheet.com
 install.gmunasinghe.converse.shareddev.smartsheet.com

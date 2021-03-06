@@ -4,3 +4,11 @@ caas-rpc-ob-raiffeisen.mastercard.com
 caas-thales-ob-sammx.mastercard.com
 caas-antelop-ob-idb-mtf.mastercard.com
 mtf.api.identity.mastercard.com
+blue.oauth-ui.requesttopay.preprod.mastercard.com
+int-mtf-mastercardsrcxmlgw.mastercard.com
+stage.stl.event.gateway.mastercard.com
+sipproxy2.mastercard.com
+caas-antelop-ob-raifal.mastercard.com
+oauth-ui.requesttopay.preprod.mastercard.com
+green.oauth-ui.requesttopay.preprod.mastercard.com
+caas-antelop-ob-raifal-mtf.mastercard.com

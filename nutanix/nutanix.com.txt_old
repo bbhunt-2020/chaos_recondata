@@ -86,6 +86,7 @@ bootstrap-obj.dev.dev-iam.xi.nutanix.com
 bootstrap-oom.dev.dev-iam.xi.nutanix.com
 bootstrap-progressontask.dev.dev-iam.xi.nutanix.com
 bootstrap-projfix.dev.dev-iam.xi.nutanix.com
+bootstrap-revert-58-eng-3736.dev.dev-iam.xi.nutanix.com
 bootstrap-sep11.dev.dev-iam.xi.nutanix.com
 bootstrap-skip-migration.dev.dev-iam.xi.nutanix.com
 bootstrap-taskseqid.dev.dev-iam.xi.nutanix.com
@@ -286,6 +287,7 @@ deployment-remove-alerts-bro.dev.dev-iam.xi.nutanix.com
 deployment-restore.dev.dev-iam.xi.nutanix.com
 deployment-revert-160-upgrad.dev.dev-iam.xi.nutanix.com
 deployment-revert-161-revert.dev.dev-iam.xi.nutanix.com
+deployment-revert-203-eng-37.dev.dev-iam.xi.nutanix.com
 deployment-revert-circle.dev.dev-iam.xi.nutanix.com
 deployment-session-timeouts.dev.dev-iam.xi.nutanix.com
 deployment-spec-change.dev.dev-iam.xi.nutanix.com
@@ -1041,6 +1043,7 @@ raft.corp.nutanix.com
 ratelimit-add-redis.dev.dev-iam.xi.nutanix.com
 ratelimit-circle-migration.dev.dev-iam.xi.nutanix.com
 rdb-circle-migration.dev.dev-iam.xi.nutanix.com
+rdb-diet-iam.dev.dev-iam.xi.nutanix.com
 rdb-off-huge.dev.dev-iam.xi.nutanix.com
 rdb-pg-12-5-upgrade.dev.dev-iam.xi.nutanix.com
 rdm.eng.nutanix.com

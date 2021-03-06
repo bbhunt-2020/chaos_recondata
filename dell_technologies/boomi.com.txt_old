@@ -1033,6 +1033,7 @@ occm-us-east-1-sravdr.sandbox.boomi.com
 occm-us-east-1-sravmdm56.sandbox.boomi.com
 occm-us-east-1-sravmdmdr.sandbox.boomi.com
 occm-us-east-1-sravplat.sandbox.boomi.com
+occm-us-east-1-sravqanew7.runtime-sandbox.boomi.com
 occm-us-east-1-sravqanew7.sandbox.boomi.com
 occm-us-east-1-sravtest1.sandbox.boomi.com
 occm-us-east-1-sravtest2.sandbox.boomi.com
@@ -1273,6 +1274,7 @@ occm-us-west-2-sravdr.sandbox.boomi.com
 occm-us-west-2-sravmdm56.sandbox.boomi.com
 occm-us-west-2-sravmdmdr.sandbox.boomi.com
 occm-us-west-2-sravplat1.sandbox.boomi.com
+occm-us-west-2-sravqanew7.runtime-sandbox.boomi.com
 occm-us-west-2-sravqanew7.sandbox.boomi.com
 occm-us-west-2-sravtest1.sandbox.boomi.com
 occm-us-west-2-sravtest2.sandbox.boomi.com
@@ -1446,6 +1448,7 @@ qaplat-platformservices.pipeline.boomi.com
 qaplat-platformservices.services-pipeline.boomi.com
 qaplat.pipeline.boomi.com
 qatest-platformservices.services-pipeline.boomi.com
+qatest1.sandbox.boomi.com
 quarantine.sandbox.boomi.com
 quickster.sandbox.boomi.com
 rajawsbroker.sandbox.boomi.com
@@ -1465,6 +1468,7 @@ runtime-pipeline.boomi.com
 runtime-prod.boomi.com
 runtime-sandbox.boomi.com
 runtimeperfmolecule1.sandbox.boomi.com
+runtimeperfqacloud1.runtime-sandbox.boomi.com
 runtimes.flow.boomi.com
 saleshub.boomi.com
 salesvpn.ptc.boomi.com

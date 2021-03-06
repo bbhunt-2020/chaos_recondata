@@ -855,6 +855,7 @@ assets-assets-api-feat-redocs-documentation.dev.codefi.network
 assets-assets-api-feat-transactions-and-aum.dev.codefi.network
 assets-assets-api-fix-initial-user-creation.dev.codefi.network
 assets-assets-api-fix-retrieve-tenant.dev.codefi.network
+assets-assets-api-fix-tenant-creation.dev.codefi.network
 assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-ephemeral.dev.codefi.network
 assets-ops.codefi.network
@@ -1285,6 +1286,7 @@ web-app-cst-xxx-bugs.dev.codefi.network
 web-app-cst-xxx-eth-usd-swap-reporting.dev.codefi.network
 web-app-cst-xxx-fix-env-vars.dev.codefi.network
 web-app-cst-xxx-improve-metadata.dev.codefi.network
+web-app-cst-xxx-improvements.dev.codefi.network
 web-app-cst-xxx-metamask-warnings.dev.codefi.network
 web-app-cst-xxx-move-zendesk-widget.dev.codefi.network
 web-app-cst-xxx-optional-zendesk-rendering.dev.codefi.network

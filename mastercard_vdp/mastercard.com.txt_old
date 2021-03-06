@@ -731,6 +731,7 @@ blue.itf.src.mastercard.com
 blue.ksc.sandbox.src.mastercard.com
 blue.ksc.src.mastercard.com
 blue.oauth-ui-requesttopay.preprod.mastercard.com
+blue.oauth-ui.requesttopay.preprod.mastercard.com
 blue.perf.src.mastercard.com
 blue.stage.src.mastercard.com
 blue.stl.sandbox.src.mastercard.com
@@ -806,6 +807,8 @@ caas-antelop-ob-procr-mtf.mastercard.com
 caas-antelop-ob-procrdt.mastercard.com
 caas-antelop-ob-raibnt-mtf.mastercard.com
 caas-antelop-ob-raibnt.mastercard.com
+caas-antelop-ob-raifal-mtf.mastercard.com
+caas-antelop-ob-raifal.mastercard.com
 caas-antelop-ob-raifbg.mastercard.com
 caas-antelop-ob-raiffe-mtf.mastercard.com
 caas-antelop-ob-raiffe.mastercard.com
@@ -1551,6 +1554,7 @@ green.itf.src.mastercard.com
 green.ksc.sandbox.src.mastercard.com
 green.ksc.src.mastercard.com
 green.oauth-ui-requesttopay.preprod.mastercard.com
+green.oauth-ui.requesttopay.preprod.mastercard.com
 green.perf.src.mastercard.com
 green.stage.src.mastercard.com
 green.stl.sandbox.src.mastercard.com
@@ -1700,6 +1704,7 @@ inreach.mastercard.com
 insideconnect.mastercard.com
 insights.mastercard.com
 insightscentral.mastercard.com
+int-mtf-mastercardsrcxmlgw.mastercard.com
 int.banamex.mts.mastercard.com
 int.citipay.mastercard.com
 int.consumer.mastercard.com
@@ -2337,6 +2342,7 @@ nudata.welcome.mastercard.com
 nxt.mastercard.com
 o365.smtp.mastercard.com
 oauth-ui-requesttopay.preprod.mastercard.com
+oauth-ui.requesttopay.preprod.mastercard.com
 obf.conv.dev.mptse.mastercard.com
 obf.conv.prod.mptse.mastercard.com
 obf.conv.stage.mptse.mastercard.com
@@ -2957,6 +2963,7 @@ si.mastercard.com
 siebeltraining.mastercard.com
 signup.mastercard.com
 sip.mastercard.com
+sipproxy2.mastercard.com
 site1-regression-brand1.psm.gateway.mastercard.com
 site1-stripe1-vpcm.psm.gateway.mastercard.com
 site1-stripe1.psm.gateway.mastercard.com
@@ -3321,6 +3328,7 @@ stage.ssp.mastercard.com
 stage.startpath.aem.mastercard.com
 stage.startpath.mastercard.com
 stage.statement.mastercard.com
+stage.stl.event.gateway.mastercard.com
 stage.stl.tds.mdes.mastercard.com
 stage.surveytool.mastercard.com
 stage.syd.ap.loyalty.mastercard.com

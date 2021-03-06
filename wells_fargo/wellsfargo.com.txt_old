@@ -17,6 +17,7 @@
 1mgm-dr.wellsfargo.com
 1mgm.wellsfargo.com
 1sfdc-wfam-nonprod.wellsfargo.com
+1sfdc-wfam-prod.wellsfargo.com
 1ssa-prod-oxmoor.wellsfargo.com
 1ssa-prod-silas.wellsfargo.com
 1ssa.g.wellsfargo.com
@@ -6404,6 +6405,11 @@ pspfix.wellsfargo.com
 psppfx.wellsfargo.com
 pspprod.wellsfargo.com
 pspuat.wellsfargo.com
+pstp-rqa-stl.wellsfargo.com
+pstp-rqa-wec.wellsfargo.com
+pstp-stg-ox.wellsfargo.com
+pstp-stg-sv.wellsfargo.com
+pstp-stg.wellsfargo.com
 pte-admin.wellsfargo.com
 pte-broker1.wellsfargo.com
 pte-documents.wellsfargo.com

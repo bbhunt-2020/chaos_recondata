@@ -11,3 +11,9 @@ services.api.cc-pod3.infra.marcus.com
 coreissue.api.cc-pod3.infra.marcus.com
 api.cc-pod3.infra.marcus.com
 wcf.api.cc-pod3.infra.marcus.com
+apihub.dev.cc-ss.infra.marcus.com
+apihub.qa.cc-ss.infra.marcus.com
+apihub.patqa.cc-ss.infra.marcus.com
+apihub.uat.cc-ss.infra.marcus.com
+apihub.patuat.cc-ss.infra.marcus.com
+apihub.perf.cc-ss.infra.marcus.com

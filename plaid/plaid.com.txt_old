@@ -86,6 +86,7 @@ plaidfiles.plaid.com
 plaidip.plaid.com
 plutonium.plaid.com
 postman.plaid.com
+prod.ue1.plaid.com
 production.plaid.com
 production2.plaid.com
 proto.plaid.com
@@ -93,6 +94,7 @@ px-integration-validator.prod.ue1.plaid.com
 px-integration-validator.testing.ue1.plaid.com
 sales.plaid.com
 sandbox.plaid.com
+sandbox.ue1.plaid.com
 sandbox2.plaid.com
 scgateway.plaid.com
 secure.plaid.com
@@ -104,6 +106,8 @@ status-staging.plaid.com
 status.plaid.com
 support.plaid.com
 tartan.plaid.com
+tartan.ue1.plaid.com
+testing.ue1.plaid.com
 threads.plaid.com
 trust-auth-2020-sandbox.plaid.com
 trusted-auth-2020-production.plaid.com

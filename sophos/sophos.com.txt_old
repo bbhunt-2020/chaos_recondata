@@ -8565,7 +8565,10 @@ tenant-directory.cloudstation.us-east-2.prod.hydra.sophos.com
 tenant-directory.cloudstation.us-west-2.prod.hydra.sophos.com
 tenant-directory.cloudstation.us-west-2.qa.hydra.sophos.com
 terbeion-eu-west-1.qa.hydra.sophos.com
+terra-test.stn000cmh.ctr.sophos.com
+terra.test.stn000cmh.ctr.sophos.com
 terratest.inf.hydra.sophos.com
+terratest.stn000cmh.ctr.sophos.com
 test-aa-cert-cloudhub-eu-west-1.dev.hydra.sophos.com
 test-aa-cert-cloudhub-eu-west-1.qa.hydra.sophos.com
 test-aa-cert.cloudhub.eu-west-1.dev.hydra.sophos.com

@@ -59,6 +59,7 @@ auth-admin-svc.ecobee.com
 auth-admin-svc.stage.ecobee.com
 auth-admin.ecobee.com
 auth-admin.stage.ecobee.com
+auth-apps-svc.ecobee.com
 auth-apps-svc.stage.ecobee.com
 auth-staging.ecobee.com
 auth.ecobee.com

@@ -831,6 +831,7 @@ qajenkins.qa.rpay.int.roku.com
 qajenkins.staging.rpay.int.roku.com
 radar.eng.roku.com
 rams-services.bdp.roku.com
+rams-services.staging.bdp.roku.com
 ravm-bqa.data.roku.com
 ravm-build-e2e.data.roku.com
 ravm-legacy.data.roku.com

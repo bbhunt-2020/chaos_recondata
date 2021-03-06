@@ -138,13 +138,11 @@
 6tgrm02.server.oob.devops.dell.com
 6ugm1.us.dell.com
 707nv91.us.dell.com
-711-de.dell.com
 73cxh41.us.dell.com
 78bf141.aus.amer.dell.com
 79g41g9.delds.amer.dell.com
 79s49n2.server.oob.devops.dell.com
 7b9m6m1.server.oob.devops.dell.com
-7eb6g.us.dell.com
 7fsjh31.aus.amer.dell.com
 7gm1j41.aus.amer.dell.com
 7gp86q1.server.oob.devops.dell.com
@@ -153,7 +151,6 @@
 7msthq2.server.oob.devops.dell.com
 7p376l1.server.oob.devops.dell.com
 7qxww52.server.oob.devops.dell.com
-7s7dt31.us.dell.com
 7yzly.us.dell.com
 7zw9b31.aus.amer.dell.com
 81tbf41.aus.amer.dell.com
@@ -246,7 +243,6 @@ access-fed.dell.com
 access-india.dell.com
 access-indiacorpvip.dell.com
 access-new.dell.com
-access-new.ins.dell.com
 access-nrtc.dell.com
 access-pc1.dell.com
 access-ps3.dell.com
@@ -262,7 +258,6 @@ access-test.euro.dell.com
 access-test.us.dell.com
 access-uslab-ps3.dell.com
 access-uslab.dell.com
-access-uslab.ins.dell.com
 access-vancouver.dell.com
 access-vmdev.euro.dell.com
 access-wysebeijing.dell.com
@@ -304,7 +299,6 @@ achat2.ins.dell.com
 acpilotweb02.us.dell.com
 acpilotweb07.us.dell.com
 acprod01.us.dell.com
-acprod02.us.dell.com
 acsportal.us.dell.com
 activate.software.dell.com
 ad.jp.dell.com
@@ -7013,7 +7007,6 @@ confluence-dr.gtie.dell.com
 confluence-dr4.gtie.dell.com
 confluence-stage.gtie.dell.com
 confluence-test1.gtie.dell.com
-confluence.appmod.dell.com
 confluence.cpg.dell.com
 confluence.dell.com
 confluence.gtie.dell.com
@@ -9370,6 +9363,7 @@ e3voipstaging.dell.com
 e4.4a.f10d.ip4.static.sl-remsmnprd1.mfg.ie.dell.com
 e8.18.e.dell.com
 e9kc7.us.dell.com
+ea2cn-outlet.dell.com
 eapi.dell.com
 eapi.ins.dell.com
 earningsbook-qc.dell.com
@@ -10869,6 +10863,7 @@ gtie-portal.us.dell.com
 gtie-support.us.dell.com
 gtiejump-int.gtie.dell.com
 gtm-app-ge2.us.dell.com
+gtm-app-ge4.us.dell.com
 gtm-app-perf.us.dell.com
 gtm-app.us.dell.com
 gtm-web-dit.us.dell.com

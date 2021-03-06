@@ -4624,6 +4624,7 @@ dcl3-ncg0-phx3.na103-ph2.salesforce.com
 dcl3-ncg0-phx3.na111-ph2.my.salesforce.com
 dcl3-ncg0-phx3.na115-ph2.salesforce.com
 dcl3-ncg0-phx3.na117-ph2.salesforce.com
+dcl3-ncg0-phx3.na119-ph2.my.salesforce.com
 dcl3-ncg0-phx3.na119-ph2.salesforce.com
 dcl3-ncg0-phx3.na124-ph2.my.salesforce.com
 dcl3-ncg0-phx3.na129-ph2.salesforce.com
@@ -5023,6 +5024,7 @@ dcl4-ncg0-cdg3.eu17-cdg.my.salesforce.com
 dcl4-ncg0-cdg3.eu17-cdg.salesforce.com
 dcl4-ncg0-cdg3.eu25-cdg.my.salesforce.com
 dcl4-ncg0-cdg3.eu25-cdg.salesforce.com
+dcl4-ncg0-cdg3.eu27-cdg.my.salesforce.com
 dcl4-ncg0-cdg3.eu27-cdg.salesforce.com
 dcl4-ncg0-cdg3.eu28-cdg.my.salesforce.com
 dcl4-ncg0-cdg3.eu29-cdg.my.salesforce.com
@@ -5418,6 +5420,7 @@ dcl5-hnd.ap13-hnd.my.salesforce.com
 dcl5-hnd.ap13-hnd.salesforce.com
 dcl5-hnd.ap15-hnd.my.salesforce.com
 dcl5-hnd.ap15-hnd.salesforce.com
+dcl5-hnd.ap18-hnd.salesforce.com
 dcl5-hnd.ap24-hnd.my.salesforce.com
 dcl5-hnd.ap25-hnd.salesforce.com
 dcl5-hnd.ap26-hnd.my.salesforce.com
@@ -5644,6 +5647,7 @@ dcl5-ncg1-c6-iad5.cs172-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs192-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs194-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs195-ia5.salesforce.com
+dcl5-ncg1-c6-iad5.cs198-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs202-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs203-ia5.my.salesforce.com
 dcl5-ncg1-c6-iad5.cs203-ia5.salesforce.com
@@ -5714,6 +5718,7 @@ dcl5-phx.cbox.umps3-c2-phx.salesforce.com
 dcl5-phx.cbox.umps3-c3-phx.salesforce.com
 dcl5-phx.cbox.umps3-c4-phx.salesforce.com
 dcl5-phx.cs-login-phx.salesforce.com
+dcl5-phx.cs12-phx.salesforce.com
 dcl5-phx.cs13-phx.my.salesforce.com
 dcl5-phx.cs19-phx.my.salesforce.com
 dcl5-phx.cs20-phx.salesforce.com
@@ -5938,6 +5943,7 @@ dcl6-iad.cs17-iad.my.salesforce.com
 dcl6-iad.cs17-iad.salesforce.com
 dcl6-iad.cs47-iad.my.salesforce.com
 dcl6-iad.cs65-iad.salesforce.com
+dcl6-iad.cs78-iad.my.salesforce.com
 dcl6-iad.cs78-iad.salesforce.com
 dcl6-iad.cs79-iad.my.salesforce.com
 dcl6-iad.cs93-iad.my.salesforce.com
@@ -6208,6 +6214,7 @@ dcl6-phx.cs70-phx.salesforce.com
 dcl6-phx.cs71-phx.my.salesforce.com
 dcl6-phx.cs91-phx.salesforce.com
 dcl6-phx.cs998-phx.my.salesforce.com
+dcl6-phx.gs0-phx.my.salesforce.com
 dcl6-phx.gs1-phx.salesforce.com
 dcl6-phx.la2-c1-phx.salesforce.com
 dcl6-phx.la2-c2-phx.salesforce.com
@@ -6382,6 +6389,7 @@ dcl7-hnd.ap4000-hnd.salesforce.com
 dcl7-hnd.ap5000-hnd.my.salesforce.com
 dcl7-hnd.ap5000-hnd.salesforce.com
 dcl7-hnd.ap6-hnd.my.salesforce.com
+dcl7-hnd.ap7-hnd.salesforce.com
 dcl7-hnd.ap8-hnd.my.salesforce.com
 dcl7-hnd.ap8-hnd.salesforce.com
 dcl7-hnd.cs112-hnd.salesforce.com
@@ -6444,11 +6452,13 @@ dcl7-ncg0-cdg3.eu40-cdg.salesforce.com
 dcl7-ncg0-cdg3.eu44-cdg.salesforce.com
 dcl7-ncg0-cdg3.eu46-cdg.salesforce.com
 dcl7-ncg0-cdg3.htgapp-cdg.salesforce.com
+dcl7-ncg0-cdg3.umps1-c1-cdg.salesforce.com
 dcl7-ncg0-cdg3.umps1-c2-cdg.salesforce.com
 dcl7-ncg0-fra3.cs102-fra.my.salesforce.com
 dcl7-ncg0-fra3.cs103-fra.my.salesforce.com
 dcl7-ncg0-fra3.cs103-fra.salesforce.com
 dcl7-ncg0-fra3.cs105-fra.salesforce.com
+dcl7-ncg0-fra3.cs107-fra.salesforce.com
 dcl7-ncg0-fra3.cs129-fra.my.salesforce.com
 dcl7-ncg0-fra3.cs129-fra.salesforce.com
 dcl7-ncg0-fra3.cs162-fra.my.salesforce.com
@@ -6474,6 +6484,7 @@ dcl7-ncg0-fra3.umps1-c2-fra.salesforce.com
 dcl7-ncg0-iad3.cs1-ia2.my.salesforce.com
 dcl7-ncg0-iad3.cs2-ia2.my.salesforce.com
 dcl7-ncg0-iad3.cs22-ia2.my.salesforce.com
+dcl7-ncg0-iad3.cs27-ia2.my.salesforce.com
 dcl7-ncg0-iad3.cs34-ia2.salesforce.com
 dcl7-ncg0-iad3.cs44-ia2.salesforce.com
 dcl7-ncg0-iad3.cs46-ia2.salesforce.com
@@ -8717,7 +8728,6 @@ loglogic.my.salesforce.com
 lon-monpx-lp001.internal.salesforce.com
 lon.salesforce.com
 lon2-cuc2.internal.salesforce.com
-lon2-cup2.internal.salesforce.com
 lon2-ebc-wlc-a.internal.salesforce.com
 lon2-ucm3.internal.salesforce.com
 lon2-ucm4.internal.salesforce.com
@@ -12992,6 +13002,7 @@ zynm-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zyno-stg.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zynr-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zynr-stg.cccnp0012.cnp-dev.commercecloud.salesforce.com
+zynx-dev.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zyny-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zyny-stg.cccnp0012.cnp-dev.commercecloud.salesforce.com
 zynz-prd.cccnp0012.cnp-dev.commercecloud.salesforce.com

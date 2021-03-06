@@ -994,9 +994,11 @@ escan.int.finra.org
 escan.pa.finra.org
 escan.qa.aws.finra.org
 escan.qa.finra.org
+esmp.ct.dr.finra.org
 esmp.ct.finra.org
 esmp.dev.dr.finra.org
 esmp.dev.finra.org
+esmp.dr.finra.org
 esmp.finra.org
 esmp.pa.finra.org
 esmp.qa.dr.finra.org
@@ -1443,6 +1445,7 @@ isso-dev.fip.dev.finra.org
 isso-qaint.fip.qa.finra.org
 isso-stress.fip.qa.finra.org
 isso.fip.qa.finra.org
+jams.awstools.dr.finra.org
 jams.dev.aws.finra.org
 jams.dev.finra.org
 jenkins.qa.finra.org
@@ -2601,10 +2604,12 @@ wiat.qa.finra.org
 wiat.qc.finra.org
 wiat.uat.finra.org
 wig.ct.finra.org
+wig.dev.dr.finra.org
 wig.dev.finra.org
 wig.dev.pa.finra.org
 wig.finra.org
 wig.pa.finra.org
+wig.qa.dr.finra.org
 wig.qa.finra.org
 wig.qa.pa.finra.org
 wiki.dev.finra.org

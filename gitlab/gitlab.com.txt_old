@@ -64,6 +64,7 @@ jobs.gitlab.com
 kas.gitlab.com
 kas.pre.gitlab.com
 kas.staging.gitlab.com
+lb-teleport.gstg.gitlab.com
 lb1.staging.gitlab.com
 ldap01.ath.gitlab.com
 ldap02.ath.gitlab.com

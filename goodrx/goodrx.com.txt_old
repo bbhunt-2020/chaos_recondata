@@ -3361,7 +3361,9 @@ cveapi.gold.goodrx.com
 cveapi.heydoctor.goodrx.com
 cwf-backingoutdesdonr-736e1d3f.dev.uw2.eng.goodrx.com
 cwf-cdknewmode-7a959e9f.dev.uw2.eng.goodrx.com
+cwf-dashboardprescrip-5c704188.dev.uw2.eng.goodrx.com
 cwf-ditchephemeralcfl-81a9058d.dev.uw2.eng.goodrx.com
+cwf-featcheckout-46312823.dev.uw2.eng.goodrx.com
 cwf-featdraftpagesmai-b22c0b55.dev.uw2.eng.goodrx.com
 cwf-featmaildelivery-8e12384d.dev.uw2.eng.goodrx.com
 cwf-featreactmatisseu-ccf5cb3b.dev.uw2.eng.goodrx.com
@@ -3373,8 +3375,10 @@ cwf-fixyamltypo-2a677456.dev.uw2.eng.goodrx.com
 cwf-goodrx-de9729da.dev.uw2.eng.goodrx.com
 cwf-maildeliverypages-b246d316.dev.uw2.eng.goodrx.com
 cwf-nngorg1687-fd99355c.dev.uw2.eng.goodrx.com
+cwf-nngorg1799-626373da.dev.uw2.eng.goodrx.com
 cwf-nngorg356-b3f434f0.dev.uw2.eng.goodrx.com
 cwf-nngorg92-7dbd44cf.dev.uw2.eng.goodrx.com
+cwf-org1453-46801301.dev.uw2.eng.goodrx.com
 cwf-paid1732homepageh-c818d8bf.dev.uw2.eng.goodrx.com
 cwf-paidsquad-b86451bf.dev.uw2.eng.goodrx.com
 cwf-revert1189seg631s-0b68f006.dev.uw2.eng.goodrx.com
@@ -4755,13 +4759,11 @@ htwww.antivirus.staging.goodrx.com
 htwww.antivirus.swagger.goodrx.com
 htwww.antivirus.twitch.goodrx.com
 htwww.antivirus.v1.goodrx.com
-htwww.antivirus.web1.goodrx.com
 htwww.antivirus.webapp.goodrx.com
 htwww.antivirus19.goodrx.com
 htwww.antivirus2010.goodrx.com
 htwww.antivirus7.goodrx.com
 htwww.antivirus9.goodrx.com
-htwww.antivirusadministrator.goodrx.com
 htwww.antivirusbilling.goodrx.com
 htwww.antivirusc.goodrx.com
 htwww.antiviruscdn.goodrx.com
@@ -4783,7 +4785,6 @@ htwww.antivirustesting1.goodrx.com
 htwww.antivirusweb1.goodrx.com
 htwww.antiviruswesteurope.goodrx.com
 htwww.api-docs-antivirus.goodrx.com
-htwww.apolloantivirus.goodrx.com
 htwww.april.antivirus.goodrx.com
 htwww.backend.antivirus.goodrx.com
 htwww.beta.antivirus.goodrx.com
@@ -4858,7 +4859,6 @@ htwwwbackend.antivirus.goodrx.com
 htwwwbrand.antivirus.goodrx.com
 htwwwcloudfront.antivirus.goodrx.com
 htwwwdrop.antivirus.goodrx.com
-htwwweuw.antivirus.goodrx.com
 htwwwgames.antivirus.goodrx.com
 htwwwint.antivirus.goodrx.com
 htwwwjune.antivirus.goodrx.com
