@@ -362,6 +362,7 @@ misc.datastax.com
 mvnus.datastax.com
 my-app.ingress.us-east-1.dev.apps.paas.datastax.com
 my.datastax.com
+next.datastax.com
 non-prod.auth.cloud.datastax.com
 ns0.datastax.com
 ns1.datastax.com

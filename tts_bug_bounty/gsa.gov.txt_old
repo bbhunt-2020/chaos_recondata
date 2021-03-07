@@ -178,7 +178,9 @@ amxcontroler.gsa.gov
 analytics.dsat.gsa.gov
 anywhere.gsa.gov
 apex.gsa.gov
+api.a.aws-ocp.gsa.gov
 api.a.azure-ocp.gsa.gov
+api.a.gcp-ocp.gsa.gov
 api.acquisition-uat.gsa.gov
 api.gsa.gov
 api.vms.fleet-prod.fcs.gsa.gov
@@ -186,7 +188,9 @@ app.gsasolutions.gsa.gov
 app1.pegasys.gsa.gov
 app2.pegasys.gsa.gov
 apps-test.fas.gsa.gov
+apps.a.aws-ocp.gsa.gov
 apps.a.azure-ocp.gsa.gov
+apps.a.gcp-ocp.gsa.gov
 apps.fas.gsa.gov
 apps.fss.gsa.gov
 apps.gsa.gov

@@ -12,3 +12,6 @@ id-amt-db-gq02.prod.gq1.yahoo.com
 a.b.c.test-paranoids.yahoo.com
 coherentinherent.corp.ne1.yahoo.com
 id-amt-db-bf02.prod.bf2.yahoo.com
+zookeeper3.databroker.paranoids.bf1.yahoo.com
+zookeeper1.databroker.paranoids.bf1.yahoo.com
+zookeeper2.databroker.paranoids.bf1.yahoo.com

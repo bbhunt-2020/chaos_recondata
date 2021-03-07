@@ -4617,6 +4617,7 @@ auspwpfccln02.aus.amer.dell.com
 auspwpfccln03.aus.amer.dell.com
 auspwpfccln04.aus.amer.dell.com
 auspwpfccln05.aus.amer.dell.com
+auspwpfccln15.aus.amer.dell.com
 auspwphtlsweb01.aus.amer.dell.com
 auspwphtlsweb02.aus.amer.dell.com
 auspwphtlsweb03.aus.amer.dell.com
@@ -6962,7 +6963,6 @@ com-cfo.us.dell.com
 comitprd.us.dell.com
 commerce.euro.dell.com
 commerce.us.dell.com
-commerce12.euro.dell.com
 commerce5.euro.dell.com
 commerce6.euro.dell.com
 commerce9.euro.dell.com
@@ -7027,7 +7027,6 @@ console.dell.com
 console.pgre.dell.com
 consoles-jenkins.pgre.dell.com
 consumerism.healthcare.dell.com
-containersecurity-pc1.dell.com
 content-cdn.dell.com
 content.dell.com
 content.ins.dell.com
@@ -7059,7 +7058,6 @@ corp-ohs-bpel.ins.dell.com
 corp-ohs-bpel.us.dell.com
 corp-perf2-osb.kul.apac.dell.com
 corp.federal.dell.com
-corp.gdi.ins.dell.com
 corp.ivis.dell.com
 corp01.us.dell.com
 corp02.us.dell.com
@@ -10954,6 +10952,8 @@ hb-is-pc1.dell.com
 hb-is.ins.dell.com
 hb-is.us.dell.com
 hb1.emm.dell.com
+hcoa-poc-pod1.dell.com
+hcoa-poc.dell.com
 hcvault-nonprod-dur.dell.com
 hcvault-nonprod-rr2c.dell.com
 hcvault-nonprod.dell.com
@@ -11724,7 +11724,6 @@ jira2-dr.gtie.dell.com
 jira2-stage.gtie.dell.com
 jira2-uat.gtie.dell.com
 jira2.gtie.dell.com
-jira2.us.dell.com
 jira3-dr.gtie.dell.com
 jira3-stage.gtie.dell.com
 jira3.gtie.dell.com
@@ -11793,7 +11792,6 @@ jpsupportapp2.jp.dell.com
 jv34fb2.server.oob.devops.dell.com
 jyyby42.server.oob.devops.dell.com
 k1000dms1.dell.com
-k1000dms2.dell.com
 k1100wk.dell.com
 k1aas.dell.com
 kabuto.us.dell.com
@@ -11832,7 +11830,6 @@ kcs.dell.com
 kcs.ins.dell.com
 kcskps-pc1.us.dell.com
 kcskps-s3b.us.dell.com
-kcspc1trainprx.us.dell.com
 kcsportal-pc1.us.dell.com
 kcsportal-s3b.us.dell.com
 kcsportal.dell.com
@@ -12589,6 +12586,7 @@ mhtswvpnpgnet02-dmz.dell.com
 mi-powerbi.dell.com
 mib2.us.dell.com
 midmarket.dell.com
+miller.amer.dell.com
 mirage.us.dell.com
 miv3-pc1.us.dell.com
 miv3-ps3.us.dell.com
@@ -14308,6 +14306,7 @@ pf-huat.us.dell.com
 pf-ng-cert-ext.ins.dell.com
 pf-ng-cert.us.dell.com
 pf-ng-ext.ins.dell.com
+pf-ng-s3b.us.dell.com
 pf-ng.us.dell.com
 pf-prf-cert.us.dell.com
 pf-uat-cert.us.dell.com
@@ -14324,6 +14323,7 @@ pf9-uat-ps3.us.dell.com
 pf9-uat.us.dell.com
 pf9.ins.dell.com
 pf9.us.dell.com
+pfcpwprdcln12.aus.amer.dell.com
 pg-codecollab.aus.amer.dell.com
 pg-rally.us.dell.com
 pgre-artifactory.pgre.dell.com
@@ -17344,6 +17344,8 @@ techdirect-extapi.us.dell.com
 techdirect-federal.dell.com
 techdirect-perf.us.dell.com
 techdirect-sit.us.dell.com
+techdirect-uat.dell.com
+techdirect-uat2.dell.com
 techdirect.dell.com
 techdirect.federal.dell.com
 technicalvalidation.dell.com
@@ -18121,7 +18123,6 @@ virtustream.dell.com
 vis.persaas.dell.com
 vital-help.bray.ie.dell.com
 vjw2w.us.dell.com
-vlp.dell.com
 vm-dw-lamp-202.pgre.dell.com
 vm10rdc.aus.amer.dell.com
 vm11rdc.aus.amer.dell.com

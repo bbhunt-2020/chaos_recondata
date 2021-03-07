@@ -58,3 +58,7 @@ resque.apocrita.staging.search.usa.gov
 i14y.halophile.staging.search.usa.gov
 kibana.halophile.staging.search.usa.gov
 site-scanning.api.data.gov
+api.a.aws-ocp.gsa.gov
+apps.a.aws-ocp.gsa.gov
+api.a.gcp-ocp.gsa.gov
+apps.a.gcp-ocp.gsa.gov

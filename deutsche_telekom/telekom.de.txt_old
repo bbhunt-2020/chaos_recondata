@@ -287,6 +287,10 @@ aproba-git.telekom.de
 aproba.telekom.de
 apt-mirror.devops.telekom.de
 aqua-t.telekom.de
+ar-alerthandler-cc.telekom.de
+ar-billing-reporting-cc.telekom.de
+ar-manager-cc.telekom.de
+ar-notification-cc.telekom.de
 arc1-dev.zspi.telekom.de
 arc1-extranet-dev.zspi.telekom.de
 arc2-dev.zspi.telekom.de
@@ -1570,6 +1574,7 @@ ems.telekom.de
 emsaccess-wbench-reg.devops.telekom.de
 emsaccess-wbench.devops.telekom.de
 endeca-partnershop.telekom.de
+endor-challenge-cluster.dev.asf.telekom.de
 energy.telekom.de
 enews.telekom.de
 engagement.telekom.de
@@ -3840,6 +3845,7 @@ preview-hsp-qa.telekom.de
 preview-hsp-qa2.telekom.de
 preview-hsp-qa3.telekom.de
 preview-hsp.telekom.de
+preview-mobilityapp.telekom.de
 preview-mshop.telekom.de
 preview-plm-com.telekom.de
 preview-public-qa.telekom.de
@@ -5047,6 +5053,7 @@ test-issp.telekom.de
 test-itoohm.telekom.de
 test-kollo.telekom.de
 test-lead.telekom.de
+test-mobilityapp.telekom.de
 test-myproject.telekom.de
 test-petstore-domain.aws.telekom.de
 test-robit.telekom.de

@@ -3871,6 +3871,7 @@ fz7rbppz.cloudstation.us-east-2.prod.hydra.sophos.com
 fzayjbrq.cloudstation.eu-west-1.qa.hydra.sophos.com
 fzolponq.us-west-2.prod.o365.sophos.com
 fzxyai6b.cloudstation.eu-west-1.dev.hydra.sophos.com
+g0wllroz.cloudstation.us-west-2.prod.hydra.sophos.com
 g15eoz41.cloudstation.eu-central-1.prod.hydra.sophos.com
 g2ujl6of.cloudstation.eu-central-1.qa.hydra.sophos.com
 g3h0s4av.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -4556,6 +4557,7 @@ lsx9wjbg.cloudstation.eu-west-1.inf.hydra.sophos.com
 ltkqqdyl.cloudstation.eu-west-1.qa.hydra.sophos.com
 ltkzt0vg.cloudstation.eu-west-1.qa.hydra.sophos.com
 ltqem0tr.cloudstation.eu-central-1.qa.hydra.sophos.com
+lu3ne2w3.cloudstation.us-east-2.prod.hydra.sophos.com
 lv0r0ak8.cloudstation.eu-west-1.dev.sbox.sophos.com
 lvanskjl.cloudstation.eu-west-1.inf.hydra.sophos.com
 lvwptt3j.cloudstation.eu-west-1.prod.hydra.sophos.com
@@ -6997,6 +6999,7 @@ n02sucuc.cloudstation.eu-west-1.inf.hydra.sophos.com
 n0e0uioz.cloudstation.eu-west-1.inf.hydra.sophos.com
 n254yw2t.cloudstation.eu-west-1.dev.hydra.sophos.com
 n34ftzk7.cloudstation.eu-west-1.inf.hydra.sophos.com
+n3efr5vf.cloudstation.eu-west-1.prod.hydra.sophos.com
 n3ffwlzi.cloudstation.eu-west-1.inf.hydra.sophos.com
 n40xwzg1.cloudstation.eu-west-1.qa.hydra.sophos.com
 n47g4ene.cloudstation.eu-west-1.dev.hydra.sophos.com
@@ -7703,6 +7706,7 @@ pzhq5xqw.cloudstation.us-west-2.qa.hydra.sophos.com
 pzrc2zos.cloudstation.eu-west-1.inf.hydra.sophos.com
 pzuc2fld.cloudstation.us-west-2.prod.hydra.sophos.com
 pzuekos6.us-east-2.prod.o365.sophos.com
+pzxgcjck.cloudstation.eu-central-1.prod.hydra.sophos.com
 q00lu6k0.cloudhub.eu-west-1.dev.hydra.sophos.com
 q0tytloh.cloudstation.eu-west-1.dev.hydra.sophos.com
 q1ltm8bx.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -9248,11 +9252,19 @@ xge-att-pmgr.cloudstation.eu-west-1.dev.hydra.sophos.com
 xge-att-pmgr.cloudstation.eu-west-1.prod.hydra.sophos.com
 xge-att-pmgr.cloudstation.us-east-2.prod.hydra.sophos.com
 xge-att-pmgr.cloudstation.us-west-2.qa.hydra.sophos.com
+xge-snd-rpt-pmgr-cloudstation-eu-central-1.prod.hydra.sophos.com
 xge-snd-rpt-pmgr-cloudstation-eu-central-1.qa.hydra.sophos.com
 xge-snd-rpt-pmgr-cloudstation-eu-west-1.dev.hydra.sophos.com
+xge-snd-rpt-pmgr-cloudstation-eu-west-1.prod.hydra.sophos.com
+xge-snd-rpt-pmgr-cloudstation-us-east-2.prod.hydra.sophos.com
+xge-snd-rpt-pmgr-cloudstation-us-west-2.prod.hydra.sophos.com
 xge-snd-rpt-pmgr-cloudstation-us-west-2.qa.hydra.sophos.com
+xge-snd-rpt-pmgr.cloudstation.eu-central-1.prod.hydra.sophos.com
 xge-snd-rpt-pmgr.cloudstation.eu-central-1.qa.hydra.sophos.com
 xge-snd-rpt-pmgr.cloudstation.eu-west-1.dev.hydra.sophos.com
+xge-snd-rpt-pmgr.cloudstation.eu-west-1.prod.hydra.sophos.com
+xge-snd-rpt-pmgr.cloudstation.us-east-2.prod.hydra.sophos.com
+xge-snd-rpt-pmgr.cloudstation.us-west-2.prod.hydra.sophos.com
 xge-snd-rpt-pmgr.cloudstation.us-west-2.qa.hydra.sophos.com
 xge-url-pmgr-cloudstation-eu-central-1.prod.hydra.sophos.com
 xge-url-pmgr-cloudstation-eu-central-1.qa.hydra.sophos.com
