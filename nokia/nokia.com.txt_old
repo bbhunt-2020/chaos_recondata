@@ -5780,6 +5780,7 @@ dev.retailnet.nokia.com
 dev.rn2mobile.nokia.com
 dev.rtvq.nokia.com
 dev.rtvqws.nokia.com
+dev.saas.nokia.com
 dev.sef.dev.software.nokia.com
 dev.sf.dev.software.nokia.com
 dev.supplier.nokia.com
@@ -9290,6 +9291,7 @@ nightly-pops-aws-out-new.csfp.dev.software.nokia.com
 nightly-pops-aws-out.csfp.dev.software.nokia.com
 nightly-pops-eks-new.csfp.dev.software.nokia.com
 nightly-pops-eks-old.csfp.dev.software.nokia.com
+nightly-pops-eks-test.csfp.dev.software.nokia.com
 nightly-pops-eks.csfp.dev.software.nokia.com
 nip-apac.ext.nokia.com
 nip-europe.ext.nokia.com
@@ -10363,6 +10365,7 @@ qa.rpadm.b2b.nokia.com
 qa.rpvgn.b2b.nokia.com
 qa.rtvq.nokia.com
 qa.rtvqrfid.nokia.com
+qa.saas.nokia.com
 qa.sales.nokia.com
 qa.semaloc.public.devbln.europe.nokia.com
 qa.serviceactivation.ext.nokia.com

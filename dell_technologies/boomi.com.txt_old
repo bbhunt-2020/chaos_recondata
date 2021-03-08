@@ -69,6 +69,7 @@ apimperfgwtest.sandbox.boomi.com
 apimperfint.sandbox.boomi.com
 apimplat.apim-pipeline.boomi.com
 apimplat.sandbox.boomi.com
+apimunited.sandbox.boomi.com
 apiperf.sandbox.boomi.com
 apiperfgwf.sandbox.boomi.com
 apiplat.boomi.com
@@ -683,6 +684,7 @@ occm-us-east-1-apimperfgwtest.sandbox.boomi.com
 occm-us-east-1-apimperfint.sandbox.boomi.com
 occm-us-east-1-apimplat.apim-pipeline.boomi.com
 occm-us-east-1-apimplat.sandbox.boomi.com
+occm-us-east-1-apimunited.sandbox.boomi.com
 occm-us-east-1-apiperf.sandbox.boomi.com
 occm-us-east-1-apiperfgwf.sandbox.boomi.com
 occm-us-east-1-apiprfbroker.sandbox.boomi.com
