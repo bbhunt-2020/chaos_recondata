@@ -195,6 +195,7 @@ ac6d0c0b8aeb25b7cc516a53382d6a239600af87.console.dev.twilio.com
 accsec.dev-us1.eak.twilio.com
 accsec.stage-us1.eak.twilio.com
 accsec.us1.eak.twilio.com
+ace.stage-us1.twilio.com
 ace0badd602d344249640aad766cf9adac501f35.console.dev.twilio.com
 acm-workflow-test.dev.twilio.com
 admiral-alb.corp.twilio.com
@@ -444,6 +445,7 @@ endpoint.stage-us1.twilio.com
 endpoint.twilio.com
 ers-a.ie1.twilio.com
 ers-a.us1.twilio.com
+ers.au1.twilio.com
 ers.ie1.r.twilio.com
 ers.ie1.twilio.com
 ers.stage.twilio.com

@@ -133,6 +133,8 @@ alarmruf-ewu-cc.telekom.de
 alarmruf-tua-cc.telekom.de
 alb-1.telekom.de
 alb-c4.telekom.de
+alb-mvp.runtime-dev.aws.telekom.de
+alb.runtime-dev.aws.telekom.de
 aldebaran-cluster.dev.asf.telekom.de
 alertmanager.das-schiff.telekom.de
 alertmanager.g8s.p5x.telekom.de
@@ -960,6 +962,8 @@ contenttuner-test.telekom.de
 contenttuner.telekom.de
 contracts.telekom.de
 control-it.telekom.de
+coremagic-dev.telekom.de
+coremagic-staging.telekom.de
 coremagic.telekom.de
 corporate-pki.telekom.de
 couchbase-partnershop.telekom.de
@@ -3730,6 +3734,7 @@ podcast.telekom.de
 poebm.telekom.de
 point.telekom.de
 polarion.telekom.de
+policies-api.telekom.de
 policies.telekom.de
 pone-pocdlsi.telekom.de
 porg-cluster.dev.asf.telekom.de
@@ -4258,7 +4263,12 @@ rnvs-sy.telekom.de
 rnvs.telekom.de
 roamsys.b2b.telekom.de
 roamsysta.b2b.telekom.de
+robobrain-dev.telekom.de
+robobrain-staging.telekom.de
+robobrain.telekom.de
 roboter-ngssm.telekom.de
+rocme-dev.telekom.de
+rocme-staging.telekom.de
 rocme.telekom.de
 roombooking.laboratories.telekom.de
 router1.telekom.de
@@ -6125,6 +6135,7 @@ zmd-zkt.telekom.de
 zmkm-dev.telekom.de
 zmkm-hotfix-dev.telekom.de
 zmkm-hotfix-test.telekom.de
+zmkm-sandb-dev.telekom.de
 zmkm-test.telekom.de
 zmkm.telekom.de
 zmtool-abnahme.telekom.de

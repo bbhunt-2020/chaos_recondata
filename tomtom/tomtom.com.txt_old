@@ -429,6 +429,7 @@ hyundai-ams.services.tomtom.com
 i.dgcache.eu-west-1.maps-imagery.tomtom.com
 i.maverick.mep.tomtom.com
 i.maverick.tomtom.com
+i.mmr.mep.tomtom.com
 i.vertex.mep.tomtom.com
 i.vertex.tomtom.com
 iftttplatform.services.solaris.test.tomtom.com
@@ -570,6 +571,7 @@ mit-preprod-auth.tomtom.com
 mit-preprod.tomtom.com
 mit-staging.tomtom.com
 mm.support.tomtom.com
+mmr.mep.tomtom.com
 mobility.tomtom.com
 moderation-dev.maps-automated-maintenance.tomtom.com
 moma-os.tomtom.com
@@ -797,6 +799,7 @@ prod.reine.move.tomtom.com
 prod.route-monitoring.tomtom.com
 prod.traffic-centre.tomtom.com
 prod.traffic-stats.tomtom.com
+prod.updates.nds.tomtom.com
 prod2.autostream-az.tomtom.com
 production-k8s.mapcontent.tomtom.com
 prometheus.nonprod.pe-az.tomtom.com
@@ -875,6 +878,7 @@ s1.b.vertex.mep.tomtom.com
 s1.b.vertex.tomtom.com
 s1.i.maverick.mep.tomtom.com
 s1.i.maverick.tomtom.com
+s1.i.mmr.mep.tomtom.com
 s1.i.vertex.mep.tomtom.com
 s1.i.vertex.tomtom.com
 s1.s.maverick.mep.tomtom.com
@@ -887,6 +891,7 @@ s2.b.vertex.mep.tomtom.com
 s2.b.vertex.tomtom.com
 s2.i.maverick.mep.tomtom.com
 s2.i.maverick.tomtom.com
+s2.i.mmr.mep.tomtom.com
 s2.i.vertex.mep.tomtom.com
 s2.i.vertex.tomtom.com
 s2.s.maverick.mep.tomtom.com
@@ -899,6 +904,7 @@ s3.b.vertex.mep.tomtom.com
 s3.b.vertex.tomtom.com
 s3.i.maverick.mep.tomtom.com
 s3.i.maverick.tomtom.com
+s3.i.mmr.mep.tomtom.com
 s3.i.vertex.mep.tomtom.com
 s3.i.vertex.tomtom.com
 s3.s.maverick.mep.tomtom.com
@@ -911,6 +917,7 @@ s4.b.vertex.mep.tomtom.com
 s4.b.vertex.tomtom.com
 s4.i.maverick.mep.tomtom.com
 s4.i.maverick.tomtom.com
+s4.i.mmr.mep.tomtom.com
 s4.i.vertex.mep.tomtom.com
 s4.i.vertex.tomtom.com
 s4.s.maverick.mep.tomtom.com
@@ -1077,6 +1084,7 @@ test.trafficindex.tomtom.com
 test.trafficviewer.tomtom.com
 test.ts.tomtom.com
 test2.autostream-az.tomtom.com
+testgeocoder.tomtom.com
 teststefan.tomtom.com
 thebeat.tomtom.com
 tme.acs.services.tomtom.com
@@ -1194,6 +1202,7 @@ www.mobility.tomtom.com
 www.mydrive.tomtom.com
 www.places.tomtom.com
 www.preprod.tomtom.com
+www.prod.updates.nds.tomtom.com
 www.route.tomtom.com
 www.routes.tomtom.com
 www.telematics.tomtom.com

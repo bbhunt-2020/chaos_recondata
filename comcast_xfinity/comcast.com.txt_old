@@ -1912,6 +1912,7 @@ aiq-convoy-elkingest-ch2-1s.slb.comcast.com
 aiqactg-as-01p.cable.comcast.com
 aiqactr-as-01p.cable.comcast.com
 aiqactr-wc-01p.cable.comcast.com
+airflow-staging.comcast.com
 ait.comcast.com
 akal-new.cable.comcast.com
 album.cable.comcast.com
@@ -2014,6 +2015,7 @@ api-contingent-qa.comcast.com
 api-contingent-stg.comcast.com
 api-contingent.comcast.com
 api-contingent.g.comcast.com
+api-dev.achievementunlocked.comcast.com
 api-dev.dh.comcast.com
 api-dev.idbroker.comcast.com
 api-dev.np.existingcustomer.business.comcast.com
@@ -2904,6 +2906,7 @@ browser-config.prod.us-east-1.janus.comcast.com
 browser-config.svc-dev.thor.comcast.com
 browser-config.svc-qa.thor.comcast.com
 browser-config.svc.thor.comcast.com
+brsdb-po-q01a.cable.comcast.com
 brsdb-po-s01a.cable.comcast.com
 brt.np.existingcustomer.business.comcast.com
 brt.np.salesx.business.comcast.com
@@ -3158,7 +3161,6 @@ cabel_01_837.cable.comcast.com
 cable.comcast.com
 cablelegal-cms-qa.comcast.com
 cablelegal-cms.comcast.com
-cablelegal-cms.gslb2.comcast.com
 cablelegal-data-qa.comcast.com
 cablelegal-demo-data-qa.comcast.com
 cablelegal-qa.comcast.com
@@ -3941,9 +3943,7 @@ cart-api-stage.np.existingcustomer.business.comcast.com
 cart-api.fxbuyflow.business.comcast.com
 cart-api.np.existingcustomer.business.comcast.com
 cas-co.cable.comcast.com
-cas-exchange-as-1p.slb.comcast.com
 cas-exchange-cmc-1s.slb.comcast.com
-cas-exchange-wc-1p.slb.comcast.com
 cas-pa.cable.comcast.com
 cas-pdc-nat.cable.comcast.com
 cas-pdc.cable.comcast.com
@@ -7547,10 +7547,8 @@ cpod-ams1.cable.comcast.com
 cpp.comcast.com
 cpq.g.comcast.com
 cpq.mes.comcast.com
-cpqprod-1p.gslb2.comcast.com
 cpqstg.g.comcast.com
 cpqwafweb-po-1p.slb.comcast.com
-cpqwebvip-ch2-1p.slb.comcast.com
 cpqwebvip-ch2-2s.slb.comcast.com
 cpqwebvip-po-1p.slb.comcast.com
 cpt-as-dev2.cable.comcast.com
@@ -7894,14 +7892,12 @@ customer.pdc.prd.cable.comcast.com
 customer.stg.cable.comcast.com
 customer.stg.comcast.com
 customer.wcdc.int.cable.comcast.com
-customer.wcdc.prd.cable.comcast.com
 customer2.g.comcast.com
 customerinfo-api-brt.np.existingcustomer.business.comcast.com
 customerinfo-api-dev.np.existingcustomer.business.comcast.com
 customerinfo-api-qa.np.existingcustomer.business.comcast.com
 customerinfo-api-stage.np.existingcustomer.business.comcast.com
 customerinfo-api.np.existingcustomer.business.comcast.com
-customerstatements-dr.comcast.com
 customerstatements.comcast.com
 custsvcweb.cable.comcast.com
 cvi.cable.comcast.com
@@ -8177,7 +8173,6 @@ dcmwork11-gig2.cable.comcast.com
 dcmwork11.cable.comcast.com
 dcnm-as-02p.cable.comcast.com
 dco.cable.comcast.com
-dcos-prod-ho-a1p.slb.comcast.com
 dcos-stage-ch2-a1s.slb.comcast.com
 dcos-stage-ho-a1p.slb.comcast.com
 dcperf-wc-1s.cable.comcast.com
@@ -8327,6 +8322,7 @@ dev-transcripts.chat.comcast.com
 dev-us-west-2.gears.comcast.com
 dev-xcomm.cable.comcast.com
 dev.ac-gateway.np.api-business.comcast.com
+dev.achievementunlocked.comcast.com
 dev.api-tp-cs.comcast.com
 dev.bpssp.comcast.com
 dev.ccdh.comcast.com
@@ -8437,7 +8433,6 @@ dhcp-165-124-91-245.hospitalmeable.comcast.com
 diag12r2-wc-1p.cable.comcast.com
 diag16-wc-1p.cable.comcast.com
 dialin.comcast.com
-dice-wc.cable.comcast.com
 dice.cable.comcast.com
 digi-port-server2-ts1.cable.comcast.com
 digi-port-server2-ts2.cable.comcast.com
@@ -22367,7 +22362,6 @@ ndhmcapdbsql02.cable.comcast.com
 nds-api-rest-service.snp.comcast.com
 nds-api.snp.comcast.com
 nds-qa.snp.comcast.com
-nds.cable.comcast.com
 nds.snp.comcast.com
 ndw-mycomp.cable.comcast.com
 ndwbar-po-a1p.cable.comcast.com
@@ -29360,6 +29354,8 @@ retail360-metrics.comcast.com
 retail360-preprod.comcast.com
 retail360-stg.comcast.com
 retail360a.cable.comcast.com
+retailpos-qa.comcast.com
+retailpos-uat.comcast.com
 retailweb.comcast.com
 retesc-cen-ch2-1q.slb.comcast.com
 retesc-central-as-1p.slb.comcast.com
@@ -36132,6 +36128,8 @@ www.retail.comcast.com
 www.retail.g.comcast.com
 www.retail360-admin-preprod.comcast.com
 www.retail360.comcast.com
+www.retailpos-uat.comcast.com
+www.retailpos.comcast.com
 www.retina.comcast.com
 www.ric.dev.rules.comcast.com
 www.ric.qa.rules.comcast.com

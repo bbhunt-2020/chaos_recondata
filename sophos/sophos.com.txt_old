@@ -3324,13 +3324,21 @@ endpoint-ingest.cloudstation.eu-west-1.prod.hydra.sophos.com
 endpoint-ingest.cloudstation.eu-west-1.qa.hydra.sophos.com
 endpoint-ingest.cloudstation.us-east-2.prod.hydra.sophos.com
 endpoint-ingest.cloudstation.us-west-2.qa.hydra.sophos.com
+endpoint-policy-cloudstation-eu-central-1.prod.hydra.sophos.com
 endpoint-policy-cloudstation-eu-west-1.dev.hydra.sophos.com
 endpoint-policy-cloudstation-eu-west-1.inf.hydra.sophos.com
+endpoint-policy-cloudstation-eu-west-1.prod.hydra.sophos.com
+endpoint-policy-cloudstation-us-east-2.prod.hydra.sophos.com
 endpoint-policy-cloudstation-us-west-2.dev3.hydra.sophos.com
+endpoint-policy-cloudstation-us-west-2.prod.hydra.sophos.com
 endpoint-policy-cloudstation-us-west-2.qa.hydra.sophos.com
+endpoint-policy.cloudstation.eu-central-1.prod.hydra.sophos.com
 endpoint-policy.cloudstation.eu-west-1.dev.hydra.sophos.com
 endpoint-policy.cloudstation.eu-west-1.inf.hydra.sophos.com
+endpoint-policy.cloudstation.eu-west-1.prod.hydra.sophos.com
+endpoint-policy.cloudstation.us-east-2.prod.hydra.sophos.com
 endpoint-policy.cloudstation.us-west-2.dev3.hydra.sophos.com
+endpoint-policy.cloudstation.us-west-2.prod.hydra.sophos.com
 endpoint-policy.cloudstation.us-west-2.qa.hydra.sophos.com
 endpoint-query-cloudhub-eu-west-1.dev3.hydra.sophos.com
 endpoint-query-cloudstation-eu-central-1.prod.hydra.sophos.com
@@ -3967,6 +3975,7 @@ gzl6c4mu.cloudstation.us-west-2.qa.hydra.sophos.com
 gzp7x4ol.cloudstation.eu-central-1.qa.hydra.sophos.com
 h0j39lc5.cloudstation.eu-west-1.dev.hydra.sophos.com
 h0uyt06s.cloudstation.eu-west-1.dev.hydra.sophos.com
+h1c2dq3j.cloudstation.eu-central-1.prod.hydra.sophos.com
 h1fcbyjs-cloudstation-eu-west-1.inf.hydra.sophos.com
 h2856gkc.cloudhub.eu-west-1.qa.hydra.sophos.com
 h2msoad2.cloudhub.eu-west-1.inf.hydra.sophos.com
@@ -6770,6 +6779,7 @@ mcs-data-ingest.cloudstation.eu-west-1.inf.hydra.sophos.com
 mcs-data-ingest.cloudstation.us-west-2.qa.hydra.sophos.com
 mcs-ps-pub.mcs-push-server-eu-central-1.prod.hydra.sophos.com
 mcs-ps-pub.mcs-push-server-eu-central-1.qa.hydra.sophos.com
+mcs-ps-pub.mcs-push-server-eu-west-1.dev.hydra.sophos.com
 mcs-ps-pub.mcs-push-server-eu-west-1.inf.hydra.sophos.com
 mcs-ps-pub.mcs-push-server-eu-west-1.prod.hydra.sophos.com
 mcs-ps-pub.mcs-push-server-eu-west-1.qa.hydra.sophos.com
@@ -7065,6 +7075,7 @@ nl2a9igt.cloudstation.eu-central-1.qa.hydra.sophos.com
 nlc4t86y.cloudstation.eu-west-1.inf.hydra.sophos.com
 nldmy10a.cloudstation.us-west-2.qa.hydra.sophos.com
 nm3bxcwb.cloudstation.eu-west-1.inf.hydra.sophos.com
+nmc2srw9.cloudstation.eu-west-1.prod.hydra.sophos.com
 nn41y9xu.cloudstation.eu-west-1.prod.hydra.sophos.com
 nn51do3o.cloudhub.eu-west-1.dev3.hydra.sophos.com
 nor45oor.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -7270,6 +7281,7 @@ oy6hkzpa-cloudstation-us-west-2.qa.hydra.sophos.com
 oyn70hvd.cloudstation.eu-west-1.inf.hydra.sophos.com
 oypacwsa.cloudhub.eu-west-1.qa.hydra.sophos.com
 oyu0osva.cloudstation.eu-west-1.inf.hydra.sophos.com
+ozudeivd.cloudstation.us-west-2.prod.hydra.sophos.com
 p.link.sophos.com
 p0.d.hmr.sophos.com
 p0.d2.hmr.sophos.com
@@ -8570,7 +8582,9 @@ tenant-directory.cloudstation.us-west-2.prod.hydra.sophos.com
 tenant-directory.cloudstation.us-west-2.qa.hydra.sophos.com
 terbeion-eu-west-1.qa.hydra.sophos.com
 terra-test.stn000cmh.ctr.sophos.com
+terra-test2.inf.hydra.sophos.com
 terra.test.stn000cmh.ctr.sophos.com
+terra.test2.inf.hydra.sophos.com
 terratest.inf.hydra.sophos.com
 terratest.stn000cmh.ctr.sophos.com
 test-aa-cert-cloudhub-eu-west-1.dev.hydra.sophos.com
@@ -8799,6 +8813,7 @@ u72czkie.eu-central-1.qa.o365.sophos.com
 u7rof12n.cloudstation.eu-west-1.prod.hydra.sophos.com
 u8inidrr.cloudstation.eu-west-1.inf.hydra.sophos.com
 u962188x.cloudstation.us-west-2.qa.hydra.sophos.com
+u9dglhe4.cloudstation.us-east-2.prod.hydra.sophos.com
 u9gx8jyk.cloudstation.eu-west-1.dev.hydra.sophos.com
 ua89ho5i-cloudstation-eu-west-1.inf.hydra.sophos.com
 uad0z2cx.cloudstation.eu-west-1.inf.hydra.sophos.com

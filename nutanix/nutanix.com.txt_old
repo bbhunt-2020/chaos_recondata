@@ -1305,6 +1305,7 @@ themis-eng-342644.dev.dev-iam.xi.nutanix.com
 themis-eng-351734.dev.dev-iam.xi.nutanix.com
 themis-eng-357443.dev.dev-iam.xi.nutanix.com
 themis-eng-369460.dev.dev-iam.xi.nutanix.com
+themis-eng-374387.dev.dev-iam.xi.nutanix.com
 themis-enh-testdelay.dev.dev-iam.xi.nutanix.com
 themis-entity-scope-fiql.us-east-dev.iam.xi.nutanix.com
 themis-entity-scope-fiql.us-west-dev.iam.xi.nutanix.com
@@ -1453,6 +1454,7 @@ ui-revert-41-eng-321657.dev.dev-iam.xi.nutanix.com
 ui-scroll-bug.dev.dev-iam.xi.nutanix.com
 ui-test.dev.dev-iam.xi.nutanix.com
 ui-wel-bug.dev.dev-iam.xi.nutanix.com
+ui-wel-issue.dev.dev-iam.xi.nutanix.com
 uk-1.dev-xi.nutanix.com
 uk-1.stage-xi.nutanix.com
 uk-1.test-xi.nutanix.com
@@ -1534,6 +1536,7 @@ user-authn-eng-337635.dev.dev-iam.xi.nutanix.com
 user-authn-eng-342556.dev.dev-iam.xi.nutanix.com
 user-authn-eng-347412.dev.dev-iam.xi.nutanix.com
 user-authn-eng-348200.dev.dev-iam.xi.nutanix.com
+user-authn-eng-350274-search.dev.dev-iam.xi.nutanix.com
 user-authn-eng-350274.dev.dev-iam.xi.nutanix.com
 user-authn-eng-351854.dev.dev-iam.xi.nutanix.com
 user-authn-eng-356594.dev.dev-iam.xi.nutanix.com

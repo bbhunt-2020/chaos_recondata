@@ -61,3 +61,14 @@ endor-challenge-cluster.dev.asf.telekom.de
 test-mobilityapp.telekom.de
 betatest-prod.ng.telekom.net
 forum-betatest-prod.ng.telekom.net
+alb.runtime-dev.aws.telekom.de
+robobrain-dev.telekom.de
+coremagic-staging.telekom.de
+coremagic-dev.telekom.de
+rocme-staging.telekom.de
+policies-api.telekom.de
+robobrain-staging.telekom.de
+rocme-dev.telekom.de
+zmkm-sandb-dev.telekom.de
+alb-mvp.runtime-dev.aws.telekom.de
+robobrain.telekom.de

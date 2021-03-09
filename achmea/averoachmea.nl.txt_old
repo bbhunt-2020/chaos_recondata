@@ -7,6 +7,8 @@ acc-cm-mijnleven.averoachmea.nl
 acc-cm-www.averoachmea.nl
 acc-gezondheidsverklaring.averoachmea.nl
 acc-gezondheidsverklaringaov.averoachmea.nl
+acc-login-select.averoachmea.nl
+acc-login-select.mijnleven.averoachmea.nl
 acc-login.mijnleven.averoachmea.nl
 acc-mijn.averoachmea.nl
 acc-mijnleven.averoachmea.nl
@@ -43,6 +45,8 @@ formulier.averoachmea.nl
 gezondheidsverklaring.averoachmea.nl
 gezondheidsverklaringaov.averoachmea.nl
 inloggen-digid.averoachmea.nl
+login-select.averoachmea.nl
+login-select.mijnleven.averoachmea.nl
 login.mijnleven.averoachmea.nl
 mailadres.averoachmea.nl
 mijn.averoachmea.nl
@@ -64,6 +68,8 @@ tst-api.mijnleven.averoachmea.nl
 tst-cm-mijnleven.averoachmea.nl
 tst-cm-www.averoachmea.nl
 tst-gezondheidsverklaringaov.averoachmea.nl
+tst-login-select.averoachmea.nl
+tst-login-select.mijnleven.averoachmea.nl
 tst-login.mijnleven.averoachmea.nl
 tst-mijnleven.averoachmea.nl
 tst-www.averoachmea.nl

@@ -858,6 +858,9 @@ assets-assets-api-fix-retrieve-tenant.dev.codefi.network
 assets-assets-api-fix-tenant-creation.dev.codefi.network
 assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-ephemeral.dev.codefi.network
+assets-eu-ops.codefi.network
+assets-eu-staging.codefi.network
+assets-eu.codefi.network
 assets-ops.codefi.network
 assets-paris-demo.codefi.network
 assets-paris-dev.codefi.network
@@ -1268,6 +1271,7 @@ web-app-chore-cst-794.dev.codefi.network
 web-app-chore-securosys.dev.codefi.network
 web-app-cst-403-summary-info-table.dev.codefi.network
 web-app-cst-408-attach-address.dev.codefi.network
+web-app-cst-416-issues.dev.codefi.network
 web-app-cst-467-add-ledger-integration.dev.codefi.network
 web-app-cst-476-add-ledger-integration-hidden.dev.codefi.network
 web-app-cst-527-reporting-summary.dev.codefi.network

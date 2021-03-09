@@ -12,3 +12,6 @@ caas-antelop-ob-raifal.mastercard.com
 oauth-ui.requesttopay.preprod.mastercard.com
 green.oauth-ui.requesttopay.preprod.mastercard.com
 caas-antelop-ob-raifal-mtf.mastercard.com
+stage.ngmcaidadmin.mastercard.com
+stage.ngmcaidms.mastercard.com
+stage2.stl.api.gateway.mastercard.com

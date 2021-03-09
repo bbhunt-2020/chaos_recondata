@@ -16720,6 +16720,7 @@ designmemegmail.feedproxy.ghs.google.com
 desktop.google.com
 desktop.l.google.com
 desktop2.google.com
+devcorpmail-proxy1.hot.corp.google.com
 devicemanagement.google.com
 devradius-gnap.corp.google.com
 devradius-gnap5-3.hot.corp.google.com
@@ -16771,7 +16772,6 @@ dnsq1f.feedproxy.ghs.google.com
 doc.google.com
 doclist.bounces.google.com
 docs-nightly.corp.google.com
-docs.testonly.google.com
 docs0.google.com
 docs1.google.com
 docs2.google.com
@@ -27184,6 +27184,7 @@ jd0dbt.feedproxy.ghs.google.com
 jdatms-devdb03.vm.corp.google.com
 jdatms-devdb04.vm.corp.google.com
 jdatms-devdb13.vm.corp.google.com
+jeeters-color.corp.google.com
 jeffwaughgmail.feedproxy.ghs.google.com
 jenping-color.printer.corp.google.com
 jgfteh2lba3lu.mzwj7mdio5baxppg.if.v4.ipv6-exp.l.google.com
@@ -35577,7 +35578,6 @@ printserver-iplex.mtv.corp.google.com
 printserver-iplex2.mtv.corp.google.com
 printserver-master.mtv.corp.google.com
 printserver-master.twd.corp.google.com
-printserver-master1.cbf.corp.google.com
 printserver-master1.mtv.corp.google.com
 printserver-master2.cbf.corp.google.com
 printserver-master2.twd.corp.google.com
@@ -51952,7 +51952,6 @@ test.corp.google.com
 test.devsite.corp.google.com
 test.google.com
 test.plus.sandbox.google.com
-testcert1.testonly.google.com
 testrail-mobile.corp.google.com
 testrail1.cbf.corp.google.com
 testrail1.hot.corp.google.com
