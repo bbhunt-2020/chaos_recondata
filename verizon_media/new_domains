@@ -15,3 +15,5 @@ id-amt-db-bf02.prod.bf2.yahoo.com
 zookeeper3.databroker.paranoids.bf1.yahoo.com
 zookeeper1.databroker.paranoids.bf1.yahoo.com
 zookeeper2.databroker.paranoids.bf1.yahoo.com
+beacon.staging.yahoo.com
+test.geo.yahoo.com

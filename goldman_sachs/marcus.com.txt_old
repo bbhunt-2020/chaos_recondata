@@ -400,6 +400,7 @@ uat.secondary-01.mongodb.infra.marcus.com
 uat.secondary-02.mongodb.infra.marcus.com
 uat.tableau.infra.marcus.com
 uat.voicegw.infra.marcus.com
+uat1.agent.consumer.cards.marcus.com
 uat1.consumer.cards.marcus.com
 uat2.cards.marcus.com
 uat3.external.corebanking-events.checking.marcus.com

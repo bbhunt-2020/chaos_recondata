@@ -184,6 +184,7 @@ prod-artifactory.build.corp.creditkarma.com
 prom-cktest-back-end.paas.creditkarma.com
 prom-cktest-bulk-vault.paas.creditkarma.com
 prom-cktest-vault.paas.creditkarma.com
+prom-neg-cktest-back-end.paas.creditkarma.com
 prom-neg-cktest-bulk-vault.paas.creditkarma.com
 prom-neg-cktest-vault.paas.creditkarma.com
 prom-prod-ck-bulk-usc1.paas.creditkarma.com

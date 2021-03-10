@@ -1257,6 +1257,9 @@ dhphavail-wbench.devops.telekom.de
 dialog.b2b.telekom.de
 dictionary.telekom.de
 dienstplan-dssd.telekom.de
+digihub-run07.workbench.telekom.de
+digihub-run08.workbench.telekom.de
+digihub-run09.workbench.telekom.de
 digital-schutzpaket-id-alarm.telekom.de
 digitracker.telekom.de
 dina.telekom.de
@@ -2715,6 +2718,7 @@ magentaview-uat.aws.telekom.de
 magentaview.telekom.de
 magentawiki.telekom.de
 magic-dev.telekom.de
+magic-vault.telekom.de
 magic-verify.telekom.de
 magic.telekom.de
 mail-and-cloud.telekom.de
@@ -5162,6 +5166,7 @@ tkpbw-cit4.telekom.de
 tkpbw.telekom.de
 tkpzs-cit4.telekom.de
 tkrohn-tf-dev-lb.evangelist.aws.telekom.de
+tkrohn-tf-test-lb.evangelists.aws.telekom.de
 tkwd.b2b.telekom.de
 tkworld.b2b.telekom.de
 tlabsmail.labs.telekom.de
@@ -5396,6 +5401,7 @@ umfragen2.telekom.de
 umt-abnahme.telekom.de
 umt2-test.telekom.de
 unittest.otc.a4.telekom.de
+ur-etau.sppm.telekom.de
 ur.sppm.telekom.de
 urgent-backup.telekom.de
 urgent-test.telekom.de

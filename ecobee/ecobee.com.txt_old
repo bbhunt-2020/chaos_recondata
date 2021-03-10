@@ -114,6 +114,7 @@ contractor.hs-dev.ecobee.com
 contractor.hs-prod.ecobee.com
 contractor.hs-stage.ecobee.com
 cw-dev.ecobee.com
+daapi.op-prod.ecobee.com
 dependabot.soteria.ecobee.com
 dev-app-svc.ecobee.com
 dev-app-svc.stage.ecobee.com

@@ -16,3 +16,10 @@ secfocus.ct.finra.org
 secfocus.pa.finra.org
 secfocus.dev.finra.org
 secfocus.finra.org
+metastor.pa.finra.org
+metastor.db.dev.pa.finra.org
+metastor.apprd.dev.pa.finra.org
+metastor.db.prod.pa.finra.org
+metastor.apprd.ct.pa.finra.org
+metastor.db.ct.pa.finra.org
+metastor.apprd.prod.pa.finra.org

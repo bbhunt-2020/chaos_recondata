@@ -227,6 +227,7 @@ athena.gsa.gov
 atllaser.gsa.gov
 auctionsres.gsa.gov
 auth.fleet-dev.fcs.gsa.gov
+auth.fss19-dev.fcs.gsa.gov
 autoauctions.gsa.gov
 autoauctionsb.fas.gsa.gov
 autochoice.fas.gsa.gov
@@ -259,6 +260,7 @@ biedwxir4-dev.fas.gsa.gov
 biedwxir4-test.fas.gsa.gov
 blogs.gsa.gov
 bm.fleet-dev.fcs.gsa.gov
+bm.fleet-test.fcs.gsa.gov
 bonegnasher.gsa.gov
 bonnie.gsa.gov
 bookit.gsa.gov
@@ -301,6 +303,7 @@ cart-dev.fas.gsa.gov
 cart-test.fas.gsa.gov
 cart.fas.gsa.gov
 catalog.fleet-dev.fcs.gsa.gov
+catalog.fleet-test.fcs.gsa.gov
 catalog.gsa.gov
 cbponboard.pbs.gsa.gov
 ccda-staging.gsa.gov
@@ -66747,6 +66750,7 @@ midatlantic.pbs.gsa.gov
 mileageexpress.fss.gsa.gov
 mirage.gsa.gov
 mnr.fleet-dev.fcs.gsa.gov
+mnr.fleet-test.fcs.gsa.gov
 mobile.anywhere.gsa.gov
 mobile.gsa.gov
 mobile.gsaapps.gsa.gov
@@ -67401,6 +67405,7 @@ stats.gsa.gov
 stgateway.gsa.gov
 store-web.fleet-dev.fcs.gsa.gov
 store.fleet-dev.fcs.gsa.gov
+store.fleet-test.fcs.gsa.gov
 storefront.eos.gsa.gov
 storefront.test-eos.gsa.gov
 str.fas.gsa.gov

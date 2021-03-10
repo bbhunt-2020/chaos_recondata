@@ -4799,6 +4799,7 @@ cif.int.net.nokia.com
 cig.impact.saas.nokia.com
 cig.impactiot.saas.nokia.com
 cig.ioteu.saas.nokia.com
+cis-labs.int.net.nokia.com
 citrixapps.int.net.nokia.com
 cl.dev2.shop.nokia.com
 cl.dev3.shop.nokia.com
@@ -5190,6 +5191,9 @@ csgeu.ext.nokia.com
 csgfi.ext.nokia.com
 csi-default.csfp.dev.software.nokia.com
 csi-test.csfp.dev.software.nokia.com
+csmp1.cert.saas.nokia.com
+csmp1b.cert.saas.nokia.com
+csmp1g.cert.saas.nokia.com
 cstest.nokia.com
 ct.nokia.com
 ct.sandbox.developer.nokia.com
@@ -5199,6 +5203,7 @@ ctd-i.mdm.nokia.com
 ctd.coach.nokia.com
 ctd.mdm.nokia.com
 ctdcoach.nokia.com
+ctfeebrsmp-temp-hs42418.cert.saas.nokia.com
 ctlivrdev.hc-vlab.saas.nokia.com
 cto-devtest.deb.dev-intg.software.nokia.com
 ctt.nokia.com
@@ -5612,6 +5617,7 @@ dc4.xpress.nokia.com
 dc5.xpress.nokia.com
 dc6.xpress.nokia.com
 dclab.net.nokia.com
+dclinkmas.saas.nokia.com
 dcms-dev.online.nokia.com
 dcms-int.online.nokia.com
 dcms-intqa.online.nokia.com
@@ -6108,6 +6114,7 @@ eks-csfp-dr.csfp.dev.software.nokia.com
 eks-csfp.csfp.dev.software.nokia.com
 eks-csfp21fp1-dr.csfp.dev.software.nokia.com
 eks-csfp21fp1-p8.csfp.dev.software.nokia.com
+eks-csfp21fp2-dr.csfp.dev.software.nokia.com
 eks-customer.csfp.dev.software.nokia.com
 eks-mo-latest.csfp.dev.software.nokia.com
 eks-mo-new.csfp.dev.software.nokia.com
@@ -7410,6 +7417,7 @@ gates.ext.net.nokia.com
 gates.int.net.nokia.com
 gb.mobileshop.nokia.com
 gbohomecare.saas.nokia.com
+gctfeebrsmp-temp-hs42418.cert.saas.nokia.com
 gdc-ru.ext.net.nokia.com
 gdc-vrn.ext.net.nokia.com
 gdclive.ext.nokia.com
@@ -10108,6 +10116,7 @@ pool.lrdr-multithree.glb.nokia.com
 pool.lrdr-multitwo.glb.nokia.com
 pop.fit.nokia.com
 pop3.mpqa.nokia.com
+pops-eks-test.csfp.dev.software.nokia.com
 portal.access.nokia.com
 portal.deb.pre-prod.software.nokia.com
 portal.deb.software.nokia.com
@@ -12921,6 +12930,8 @@ smp001-13.americas.nokia.com
 smprx01x.ext.nokia.com
 smr.discussions.europe.nokia.com
 smsgw.net.nokia.com
+smsinfotech.int.net.nokia.com
+smsmda.int.net.nokia.com
 smt.nmg.nokia.com
 smtp.ext.nokia.com
 smtp.fit.nokia.com

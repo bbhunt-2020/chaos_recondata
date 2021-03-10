@@ -40,6 +40,7 @@ depcrm16dev.lahitapiola.fi
 depcrm16test.lahitapiola.fi
 dev-abc.lahitapiola.fi
 devsecops.lahitapiola.fi
+docconverter.lahitapiola.fi
 documentarchive.lahitapiola.fi
 elamanturva.lahitapiola.fi
 ext-gw.lahitapiola.fi
@@ -280,6 +281,7 @@ turvallisuuspoikkeamat.lahitapiola.fi
 uat-abc.lahitapiola.fi
 uat-ext-gw.lahitapiola.fi
 uat-int-gw.lahitapiola.fi
+uat.docconverter.lahitapiola.fi
 uat.documentarchive.lahitapiola.fi
 uat.katre.lahitapiola.fi
 uat.ods.lahitapiola.fi

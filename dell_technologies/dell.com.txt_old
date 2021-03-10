@@ -9083,7 +9083,10 @@ dsuspnetchdt01.dell.com
 dsuszencolprd01.us.dell.com
 dsuszenprdrm01.us.dell.com
 dtc-2.us.dell.com
+dtc-pc1.dell.com
+dtc-ps3.dell.com
 dtc-uat.dell.com
+dtc.ins.dell.com
 dtcnlpc1px01.amer.dell.com
 dtcnlpc1px03.amer.dell.com
 dtcnlps3px02.amer.dell.com
@@ -11724,6 +11727,7 @@ jira2-dr.gtie.dell.com
 jira2-stage.gtie.dell.com
 jira2-uat.gtie.dell.com
 jira2.gtie.dell.com
+jira2.us.dell.com
 jira3-dr.gtie.dell.com
 jira3-stage.gtie.dell.com
 jira3.gtie.dell.com
@@ -11792,6 +11796,7 @@ jpsupportapp2.jp.dell.com
 jv34fb2.server.oob.devops.dell.com
 jyyby42.server.oob.devops.dell.com
 k1000dms1.dell.com
+k1000dms2.dell.com
 k1100wk.dell.com
 k1aas.dell.com
 kabuto.us.dell.com
@@ -13288,15 +13293,12 @@ omega-cfo-perf.us.dell.com
 omega-cfo-perf2-apj.apac.dell.com
 omega-corp-ge4.us.dell.com
 omega-corp-omega-cfo-ge4.us.dell.com
-omega-cp-adm.us.dell.com
 omega-cp-perf.us.dell.com
 omega-cp.us.dell.com
-omega-eps-adm.us.dell.com
 omega-eps-aps.us.dell.com
 omega-eps-ge4.us.dell.com
 omega-eps-perf.us.dell.com
 omega-eps.ins.dell.com
-omega-eps.us.dell.com
 omega-ge4-rr2.us.dell.com
 omega-ge4.us.dell.com
 omega-gps.us.dell.com
@@ -13811,7 +13813,6 @@ pc1-pci-omega-443.us.dell.com
 pc1-pci-omega-app-ha-ssl.us.dell.com
 pc1-pci-omega-aps.us.dell.com
 pc1-pci-omega-cp-vip.us.dell.com
-pc1-pci-omega-cp.us.dell.com
 pc1-pci-omega-eps-aps-vip.us.dell.com
 pc1-pci-omega-eps.us.dell.com
 pc1-pci-omega-gps.us.dell.com
@@ -14890,9 +14891,7 @@ ps3-pci-omega-app-ssl.us.dell.com
 ps3-pci-omega-aps.us.dell.com
 ps3-pci-omega-cp-vip.us.dell.com
 ps3-pci-omega-cp.us.dell.com
-ps3-pci-omega-eps-aps-vip.us.dell.com
 ps3-pci-omega-eps.us.dell.com
-ps3-pci-omega-gps.us.dell.com
 ps3-pci-omegasup-443.us.dell.com
 ps3-pdmopsmgr.apj.dell.com
 ps3-performancedirect.us.dell.com
@@ -16078,6 +16077,7 @@ serviceplusprd-ps3.us.dell.com
 serviceplusstaging.dell.com
 services-email.dell.com
 services-pc1.dell.com
+services-pc1.pcf.dell.com
 services-perf2-osb.kul.apac.dell.com
 services-s3b.dell.com
 services.build.soa.us.dell.com
@@ -17763,7 +17763,6 @@ u2vmpwctiweb13.aus.amer.dell.com
 u2vmpwctiweb15.aus.amer.dell.com
 u2vmpwerecap02.aus.amer.dell.com
 u2vmpwerecap03.aus.amer.dell.com
-u2vmqtcpgpsap01.us.dell.com
 u2vmqtcpgpsap02.us.dell.com
 u2vmqtcpmwap01.us.dell.com
 u2vmqtcpmwap02.us.dell.com
@@ -18409,6 +18408,7 @@ wiki.pgre.dell.com
 wiki.us.dell.com
 wiki2.pgre.dell.com
 wikitest.labs.dell.com
+wildbear.us.dell.com
 win7.dell.com
 win7staging.dell.com
 windchill-ge2.us.dell.com

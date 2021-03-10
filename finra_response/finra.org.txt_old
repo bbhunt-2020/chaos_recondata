@@ -1552,8 +1552,15 @@ memberportal3.qc.finra.org
 memberportal4.qc.finra.org
 memx.finra.org
 memx.qa.finra.org
+metastor.apprd.ct.pa.finra.org
+metastor.apprd.dev.pa.finra.org
+metastor.apprd.prod.pa.finra.org
+metastor.db.ct.pa.finra.org
+metastor.db.dev.pa.finra.org
+metastor.db.prod.pa.finra.org
 metastor.dev.finra.org
 metastor.finra.org
+metastor.pa.finra.org
 metastor.qa.finra.org
 metis.ct.finra.org
 metis.dev.finra.org

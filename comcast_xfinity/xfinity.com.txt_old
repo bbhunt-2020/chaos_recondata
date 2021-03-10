@@ -136,6 +136,7 @@ api.stg.xfinity.com
 api.wcdc.int.xfinity.com
 api.wcdc.prd.xfinity.com
 api.wcdc.stg.xfinity.com
+api.wifi.connected.xfinity.com
 api.xchat.xfinity.com
 api.xfinity.com
 apicluster.ca.xfinity.com
@@ -331,6 +332,7 @@ buyflow-dev.xfn-ops.xfinity.com
 buyflow.xfn-ops.xfinity.com
 ca.xc3.xfinity.com
 caapi.xfinity.com
+cable.wifi.connected.xfinity.com
 cablewifi-qa.xfinity.com
 cablewifi-st.xfinity.com
 cablewifi.xfinity.com
@@ -1124,8 +1126,10 @@ login-static.xfinity.com
 login-stg.mobile.xfinity.com
 login.g.xfinity.com
 login.mobile.xfinity.com
+login.wifi.connected.xfinity.com
 login.xc3.xfinity.com
 login.xfinity.com
+logout.wifi.connected.xfinity.com
 low-xdns.xfinity.com
 lowxdns.g.xfinity.com
 lrctool-cvr-cox.gslb2.xfinity.com
@@ -1746,6 +1750,7 @@ programs.xfinity.com
 prometheus.cms.xfinity.com
 protectionextension.xfinity.com
 prov-st.wifi.xfinity.com
+prov.wifi.connected.xfinity.com
 prov.wifi.ula.xfinity.com
 prov.wifi.xfinity.com
 prv.www.int.xfinity.com

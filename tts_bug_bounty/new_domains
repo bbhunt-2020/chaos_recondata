@@ -62,3 +62,8 @@ api.a.aws-ocp.gsa.gov
 apps.a.aws-ocp.gsa.gov
 api.a.gcp-ocp.gsa.gov
 apps.a.gcp-ocp.gsa.gov
+store.fleet-test.fcs.gsa.gov
+bm.fleet-test.fcs.gsa.gov
+mnr.fleet-test.fcs.gsa.gov
+auth.fss19-dev.fcs.gsa.gov
+catalog.fleet-test.fcs.gsa.gov

@@ -3359,12 +3359,14 @@ cust84.applebees.goodrx.com
 cust92.cdn.goodrx.com
 cveapi.gold.goodrx.com
 cveapi.heydoctor.goodrx.com
+cwf-aexgro334-e1834c9e.dev.uw2.eng.goodrx.com
 cwf-backingoutdesdonr-736e1d3f.dev.uw2.eng.goodrx.com
 cwf-cdknewmode-7a959e9f.dev.uw2.eng.goodrx.com
 cwf-dashboardprescrip-5c704188.dev.uw2.eng.goodrx.com
 cwf-ditchephemeralcfl-81a9058d.dev.uw2.eng.goodrx.com
 cwf-featcheckout-46312823.dev.uw2.eng.goodrx.com
 cwf-featdraftpagesmai-b22c0b55.dev.uw2.eng.goodrx.com
+cwf-featfixes-f704dd48.dev.uw2.eng.goodrx.com
 cwf-featmaildelivery-8e12384d.dev.uw2.eng.goodrx.com
 cwf-featreactmatisseu-ccf5cb3b.dev.uw2.eng.goodrx.com
 cwf-featservicecards-835fb5df.dev.uw2.eng.goodrx.com
@@ -3387,7 +3389,9 @@ cwf-revert1189seg631s-0b68f006.dev.uw2.eng.goodrx.com
 cwf-seg631sitesearche-1bef0dac.dev.uw2.eng.goodrx.com
 cwf-segmentdocumentat-51704a2c.dev.uw2.eng.goodrx.com
 cwf-sergio-3bffa4eb.dev.uw2.eng.goodrx.com
+cwf-spanishhomepagete-1ff577c2.dev.uw2.eng.goodrx.com
 cwf-univeralregtests-37cac90b.dev.uw2.eng.goodrx.com
+cwf-updatee2econfigs-8fac35de.dev.uw2.eng.goodrx.com
 cwf-updatesegmentvers-9f8006db.dev.uw2.eng.goodrx.com
 cwf-webviewnpc-4d91be1d.dev.uw2.eng.goodrx.com
 cwww.antiviruskfb.goodrx.com
@@ -4769,7 +4773,6 @@ htwww.antivirus9.goodrx.com
 htwww.antivirusbilling.goodrx.com
 htwww.antivirusc.goodrx.com
 htwww.antiviruscdn.goodrx.com
-htwww.antivirusdemo.goodrx.com
 htwww.antivirusdocker.goodrx.com
 htwww.antiviruseuwe.goodrx.com
 htwww.antiviruskor.goodrx.com
@@ -4803,7 +4806,6 @@ htwww.demo-antivirus.goodrx.com
 htwww.docker.antivirus.goodrx.com
 htwww.edge.antivirus.goodrx.com
 htwww.eng.antivirus.goodrx.com
-htwww.eu-antivirus.goodrx.com
 htwww.eu.antivirus.goodrx.com
 htwww.europe-antivirus.goodrx.com
 htwww.europeantivirus.goodrx.com
@@ -4864,7 +4866,6 @@ htwwwint.antivirus.goodrx.com
 htwwwjune.antivirus.goodrx.com
 htwwwnautilus.antivirus.goodrx.com
 htwwwoceania.antivirus.goodrx.com
-htwwworigin.antivirus.goodrx.com
 htwwwpriv.antivirus.goodrx.com
 htwwwproduction.antivirus.goodrx.com
 htwwwrepository.antivirus.goodrx.com
@@ -4874,7 +4875,6 @@ htwwwservice.antivirus.goodrx.com
 htwwwstage1.antivirus.goodrx.com
 htwwwstatic.antivirus.goodrx.com
 htwwwtest1.antivirus.goodrx.com
-htwwwtomcat.antivirus.goodrx.com
 htwwwtpe.antivirus.goodrx.com
 htwwwv1.antivirus.goodrx.com
 hw-antivirus-edu.goodrx.com

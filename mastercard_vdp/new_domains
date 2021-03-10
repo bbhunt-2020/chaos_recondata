@@ -15,3 +15,7 @@ caas-antelop-ob-raifal-mtf.mastercard.com
 stage.ngmcaidadmin.mastercard.com
 stage.ngmcaidms.mastercard.com
 stage2.stl.api.gateway.mastercard.com
+mtf.lac-cce.ips-mq-ccemq1.mastercard.com
+mtf.lac-cce.ips-outbound-settlement.mastercard.com
+mtf.lac-cce.ips-mq-ccemq2.mastercard.com
+caas-fdpl-ob-sgb-mtf.mastercard.com

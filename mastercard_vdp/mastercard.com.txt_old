@@ -900,6 +900,7 @@ caas-eurobankergasias.mastercard.com
 caas-europayisrael.mastercard.com
 caas-fareastone-mtf.mastercard.com
 caas-fareastone.mastercard.com
+caas-fdpl-ob-sgb-mtf.mastercard.com
 caas-fdpl-ob-sgb.mastercard.com
 caas-foo-ob-kfh-mtf.mastercard.com
 caas-foo-ob-kfh.mastercard.com
@@ -2173,8 +2174,11 @@ mtf.kansharewards.com.au.mastercard.com
 mtf.ksc.api.gateway.mastercard.com
 mtf.ksc.tds.mdes.mastercard.com
 mtf.ksc.vs.miserver.mastercard.com
+mtf.lac-cce.ips-mq-ccemq1.mastercard.com
+mtf.lac-cce.ips-mq-ccemq2.mastercard.com
 mtf.lac-cce.ips-mq1.mastercard.com
 mtf.lac-cce.ips-mq2-usd.mastercard.com
+mtf.lac-cce.ips-outbound-settlement.mastercard.com
 mtf.lac-cce.ips-settlement-rtpservices.mastercard.com
 mtf.latinamerica.mastercard.com
 mtf.linux.incontrol-proxy.mastercard.com

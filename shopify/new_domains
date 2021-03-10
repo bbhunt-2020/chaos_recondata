@@ -1,3 +1,4 @@
 flower.staging.airflow.shopifykloud.com
 flower.global.airflow.shopifykloud.com
 speedboat-presto.data-acq.shopifykloud.com
+flower.canada.airflow.shopifykloud.com

@@ -991,6 +991,7 @@ pg-exporter-bootstrap-fix-cv.dev.dev-iam.xi.nutanix.com
 pg-exporter-bootstrap-proxy-x.dev.dev-iam.xi.nutanix.com
 phren-staging.eng.nutanix.com
 phren.eng.nutanix.com
+phx-eng-xi-security-jenkins-2.umvm.nutanix.com
 phx-it-hycu-prod-1.corp.nutanix.com
 phx-it-hycu-prod-2.corp.nutanix.com
 phx-it-hycu.corp.nutanix.com
@@ -1344,6 +1345,7 @@ themis-json-log.dev.dev-iam.xi.nutanix.com
 themis-keyname.dev.dev-iam.xi.nutanix.com
 themis-logs.dev.dev-iam.xi.nutanix.com
 themis-mar1.dev.dev-iam.xi.nutanix.com
+themis-mar8-lint.dev.dev-iam.xi.nutanix.com
 themis-may29-immutable.dev.dev-iam.xi.nutanix.com
 themis-move-tavern-out.us-east-dev.iam.xi.nutanix.com
 themis-move-tavern-out.us-west-dev.iam.xi.nutanix.com
@@ -1677,6 +1679,7 @@ www.oxygen-fusion-review.eng.nutanix.com
 www.partnerportal.nutanix.com
 www.phren-staging.eng.nutanix.com
 www.phren.eng.nutanix.com
+www.phx-eng-xi-security-jenkins-2.umvm.nutanix.com
 www.prism-analytics.dev.nutanix.com
 www.qbot-production.corp.nutanix.com
 www.qbot-staging.corp.nutanix.com

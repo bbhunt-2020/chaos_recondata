@@ -194,7 +194,9 @@ ansibleca.kdc.capitalone.com
 ansibletower-card.cloud.capitalone.com
 ansibletower-card.kdc.capitalone.com
 ants-perf-east.clouddqt.capitalone.com
+ants-perf.capitalone.com
 ants-qa.clouddqt.capitalone.com
+ants-sb.capitalone.com
 ants-sb.clouddqt.capitalone.com
 apex-messaging-service-qa.clouddqt.capitalone.com
 api-3pp-salesforce-cde.capitalone.com
@@ -2135,6 +2137,7 @@ learning.capitalone.com
 learninghive.capitalone.com
 learningsandbox.capitalone.com
 ledzeppelin.kdc.capitalone.com
+legalportal.capitalone.com
 legoland-dev.wld.capitalone.com
 legoland-eeadev.cloudwld.capitalone.com
 legoland-eeaprd-uk.cloudwld.capitalone.com

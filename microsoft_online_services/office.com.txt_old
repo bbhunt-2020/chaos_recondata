@@ -319,6 +319,9 @@ dummy.torus.office.com
 dummycert.wac.office.com
 ea-odcom.office.com
 ea-odcsup.office.com
+eacgcchighaadcert.office.com
+eacgcchighgcpcert.office.com
+eacgcchighmdmcert.office.com
 eacprodaadcert.office.com
 eacprodgcpcert.office.com
 eacprodgenevawarmpath.office.com
@@ -859,6 +862,7 @@ pdonotificationrouter-ssl.office.com
 pennysigningcertkey.office.com
 phx-efz.ms-acdc.office.com
 platformtest.portal.office.com
+plscoresigningcertkey.office.com
 pn1-direct-ip.office.com
 policyprotect.outlook.office.com
 polymer.sti.test.office.com

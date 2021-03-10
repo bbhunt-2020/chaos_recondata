@@ -83,6 +83,7 @@ apps.pilot.k8s.us-west-2.aws.secureworks.com
 apps.prod.k8s.us-east-1.aws.secureworks.com
 apps.prod.k8s.us-west-2.aws.secureworks.com
 apps.test.k8s.us-west-2.aws-test.secureworks.com
+aprio.vdr.secureworks.com
 aps.secureworks.com
 atl-ocsedge.secureworks.com
 atl-rtr01.secureworks.com
@@ -660,6 +661,7 @@ keycloak.security.secureworks.com
 keycloak3scale.aws.secureworks.com
 ldpc.secureworks.com
 link.secureworks.com
+link2.secureworks.com
 log.ampd.secureworks.com
 log.ampd02.secureworks.com
 log.ampd03.secureworks.com
