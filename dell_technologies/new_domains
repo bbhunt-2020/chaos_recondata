@@ -105,3 +105,6 @@ qatestpreprod.sandbox.boomi.com
 akgwtest5.runtime-sandbox.boomi.com
 sravaz1.sandbox.boomi.com
 az643.sandbox.boomi.com
+router.dcp-pipeline.boomi.com
+pii.intelligence.boomi.com
+orchestrator.dcp-pipeline.boomi.com

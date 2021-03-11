@@ -1359,6 +1359,7 @@ ondemand.qaclone.boomi.com
 ondemand.qaclone.platform.boomi.com
 ops.boomi.com
 opstest1.sandbox.boomi.com
+orchestrator.dcp-pipeline.boomi.com
 orchestrator.dcp-sandbox.boomi.com
 ordadmin.ord.boomi.com
 ordatom1dev.ord.boomi.com
@@ -1392,6 +1393,7 @@ perfplat01.sandbox.boomi.com
 pete-platformservices.sandbox.boomi.com
 pii-iantest.boomi.com
 pii-iantest.sandbox.boomi.com
+pii.intelligence.boomi.com
 pii.pipeline.intelligence.boomi.com
 pii.sandbox.boomi.com
 pipeline.boomi.com
@@ -1471,6 +1473,7 @@ rjackplat1.sandbox.boomi.com
 rjackplat2.sandbox.boomi.com
 rockscooking.sandbox.boomi.com
 rohandev-platformservices.sandbox.boomi.com
+router.dcp-pipeline.boomi.com
 router.dcp-sandbox.boomi.com
 rpawsbroker1.sandbox.boomi.com
 rpgwtest1.sandbox.boomi.com

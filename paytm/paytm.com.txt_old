@@ -159,6 +159,7 @@ email.paytm.com
 ent-internal.paytm.com
 entertainmentblog.paytm.com
 es-staging.paytm.com
+ext-prod-oauth-aws.paytm.com
 extranet.paytm.com
 extranetstaging.paytm.com
 fastag-api.paytm.com
@@ -221,6 +222,7 @@ images.paytm.com
 informatics.paytm.com
 ins.paytm.com
 insurance.paytm.com
+int-prod-oauth-aws.paytm.com
 ion.paytm.com
 iot.paytm.com
 jenkins.paytm.com

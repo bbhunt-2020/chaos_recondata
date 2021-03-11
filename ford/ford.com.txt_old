@@ -311,7 +311,6 @@ apps.sb02.awsuswest02.caas.ford.com
 apps.sb03.awsuswest02.caas.ford.com
 apps.sb03.azuseast01.caas.ford.com
 apps.spt.ford.com
-appsrv.b2bintra.ford.com
 appv2-concourse.cf.ford.com
 apqp.ford.com
 apsupvip1-prod.fmc1.ford.com
@@ -483,7 +482,6 @@ b2bbuyer-in.ford.com
 b2bbuyer-uk.ford.com
 b2bbuyerfordau.warley.ford.com
 b2bpasswordchange.ford.com
-b2cdns01.eub2c.ford.com
 b2cdns02.eub2c.ford.com
 b2cglobal2authorlb-int-vip-ashadc01-rprxy2.ash.ford.com
 b2cglobal2authorlb-int-vip-chiadc01-rprxy2.chi.ford.com
@@ -1118,6 +1116,7 @@ deu2z521.b2d.ford.com
 dev-aem.parts.ford.com
 dev-auth-coc.parts.ford.com
 dev-coc.parts.ford.com
+dev-discoverability.taas.ford.com
 dev-esign.apps.edcpd01.cf.ford.com
 dev-exp-build.taas.ford.com
 dev-iam.taas.ford.com
@@ -7536,6 +7535,7 @@ wwwdev-stamps-esp.app.ford.com
 wwwdev-susritatestingiis.app.ford.com
 wwwdev-testapicmsusrita2.app.ford.com
 wwwdev-testiisvra.app.ford.com
+wwwdev-testingdeliis1solsen15.app.ford.com
 wwwdev-testmsusrita12.app.ford.com
 wwwdev-testnpatiban55.app.ford.com
 wwwdev-testnpatiban87.app.ford.com

@@ -358,6 +358,8 @@ server-tig.staging.corp.mongodb.com
 skunkworks.staging.corp.mongodb.com
 snoofer.corp.mongodb.com
 snyk-broker.infosec.mongodb.com
+spinnaker-dev.corp.mongodb.com
+spinnaker.corp.mongodb.com
 splunk.corp.mongodb.com
 spruce.mongodb.com
 stage.community.mongodb.com
@@ -467,6 +469,8 @@ www.realm-qa.mongodb.com
 www.repo.mongodb.com
 www.resources.mongodb.com
 www.restore-backup-stage.mongodb.com
+www.spinnaker-dev.corp.mongodb.com
+www.spinnaker.corp.mongodb.com
 www.splunk.corp.mongodb.com
 www.stage.developer.mongodb.com
 www.support-search.mongodb.com

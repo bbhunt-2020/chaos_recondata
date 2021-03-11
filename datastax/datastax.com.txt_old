@@ -395,6 +395,7 @@ prometheus-internal.ingress.us-east-2.prod.apps.paas.datastax.com
 prometheus-internal.prod.cloud.datastax.com
 pros-uat.datastax.com
 pros.datastax.com
+pulsar-aws-useast2-staging.staging.streaming.datastax.com
 pulsar-aws-useast2.dev.streaming.datastax.com
 pulsar-aws-useast2.staging.streaming.datastax.com
 qa.vector.datastax.com

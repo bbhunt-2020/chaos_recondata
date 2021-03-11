@@ -19,3 +19,5 @@ mtf.lac-cce.ips-mq-ccemq1.mastercard.com
 mtf.lac-cce.ips-outbound-settlement.mastercard.com
 mtf.lac-cce.ips-mq-ccemq2.mastercard.com
 caas-fdpl-ob-sgb-mtf.mastercard.com
+caas-oberthur-ob-fci.mastercard.com
+caas-oberthur-ob-fci-mtf.mastercard.com

@@ -188,8 +188,10 @@ af-east-201-console-dev.huaweicloud.com
 af-south-1-console-static.huaweicloud.com
 af-south-1-console.huaweicloud.com
 af-south-1-static.huaweicloud.com
+af-west-202-console-dev.huaweicloud.com
 af3166b1ed084c10a819fe8e57a8af27.waf.huaweicloud.com
 antivirus.aitken.archive.forum.huaweicloud.com
+ap-northeast-201-console-dev.huaweicloud.com
 ap-southeast-3-console-static.huaweicloud.com
 ap-southeast-3-console.huaweicloud.com
 api-cn-east-2.devcloud.huaweicloud.com
@@ -320,6 +322,7 @@ edu.huaweicloud.com
 education.huaweicloud.com
 ef465edc05a8482baec6ba45b5f7b9ad.waf.huaweicloud.com
 eu-central-202-console-dev.huaweicloud.com
+eu-north-201-console-dev.huaweicloud.com
 event.huaweicloud.com
 f1d8feb844c94f2bb4ad4178cad62ec7.waf.huaweicloud.com
 f2a29028f4be418e9b96d07d1e0ec20b.waf.huaweicloud.com
@@ -372,6 +375,7 @@ localhost.cloudec.huaweicloud.com
 market.huaweicloud.com
 marketplace-intl.huaweicloud.com
 me-east-207-console-dev.huaweicloud.com
+me-east-208-console-dev.huaweicloud.com
 media-cache.huaweicloud.com
 meeting.huaweicloud.com
 meetingshow.huaweicloud.com

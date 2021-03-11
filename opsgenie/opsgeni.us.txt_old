@@ -706,6 +706,7 @@ bozkan-mobileapp.opsgeni.us
 br-antivirus.api.opsgeni.us
 br9.api.opsgeni.us
 bridge-antivirus.atlassian-app.opsgeni.us
+bridge-docs-test.opsgeni.us
 bridge-webportail.atlassian-app.opsgeni.us
 bridge-wecsi.atlassian-app.opsgeni.us
 bridge-wemailrelayantivirus.atlassian-app.opsgeni.us
@@ -939,6 +940,7 @@ dns2antivirus.api.opsgeni.us
 dnses-cluster.api.opsgeni.us
 docker.app.opsgeni.us
 docker.mobileapp.opsgeni.us
+docs-test.opsgeni.us
 dogfood-dev.app.opsgeni.us
 dogfood-dev.mobileapp.opsgeni.us
 dom1.mustafa.opsgeni.us

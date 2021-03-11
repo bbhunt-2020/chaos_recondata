@@ -127,6 +127,7 @@ akt-slsi-test.telekom.de
 aktionsangebote.telekom.de
 aktuell.telekom.de
 al-mv-cit4.telekom.de
+al-mv-s.telekom.de
 al-mv.telekom.de
 alarmruf-dmz-cc.telekom.de
 alarmruf-ewu-cc.telekom.de
@@ -134,7 +135,10 @@ alarmruf-tua-cc.telekom.de
 alb-1.telekom.de
 alb-c4.telekom.de
 alb-mvp.runtime-dev.aws.telekom.de
+alb-s.telekom.de
 alb.runtime-dev.aws.telekom.de
+albc-s.telekom.de
+aldb.telekom.de
 aldebaran-cluster.dev.asf.telekom.de
 alertmanager.das-schiff.telekom.de
 alertmanager.g8s.p5x.telekom.de
@@ -201,6 +205,7 @@ api.oasis.telekom.de
 api.ocp000.aws-tc.telekom.de
 api.ocp001.aws-tc.telekom.de
 api.ocp501.tc-npr.aws.telekom.de
+api.rbm.telekom.de
 apigateway.cert.telekom.de
 apimportal.apim-ta-ext.telekom.de
 apimportal.apim-ta.telekom.de
@@ -214,6 +219,7 @@ apolushkin-test-cluster.dev.asf.telekom.de
 apos-sbx.one-reporting.telekom.de
 app-advisor.telekom.de
 app-operator-2-7-0.g8s.p5x.telekom.de
+app-operator-3-2-0.g8s.p5x.telekom.de
 app.telekom.de
 app1-igg.telekom.de
 app1-kocos.telekom.de
@@ -1837,6 +1843,7 @@ genial.telekom.de
 geo-address-management.dev.asf.telekom.de
 geo-address-management.geo-address-management.dev.asf.telekom.de
 geo-address-management.uat1.asf.telekom.de
+geo-location-management.dev.asf.telekom.de
 geo-site-management.dev.asf.telekom.de
 geo-site-management.prod.asf.telekom.de
 geo-site-management.uat.asf.telekom.de
@@ -2555,6 +2562,8 @@ kvae4.telekom.de
 kvas.telekom.de
 kvat1.telekom.de
 kvat2.telekom.de
+kvp-mobil.telekom.de
+kvp-tool.telekom.de
 kvpa01.telekom.de
 kvpc02.telekom.de
 kvpc04.telekom.de
@@ -4077,6 +4086,7 @@ q4dea7sa000z618.laboratories.telekom.de
 q4dea7sa000z619.laboratories.telekom.de
 q4dea7sa031.laboratories.telekom.de
 q4dea7sa0sgz004.laboratories.telekom.de
+q4dea7sa0sgzls1.laboratories.telekom.de
 q4dea7samksz001.laboratories.telekom.de
 q4dee1sa051.ffm.telekom.de
 q4dee1sa053.ffm.telekom.de
@@ -4656,6 +4666,7 @@ sonar.kube.devops.telekom.de
 sonarqube.demowb.devops.telekom.de
 sophia.aws.telekom.de
 sot.telekom.de
+spacegate.telekom.de
 spam-info.telekom.de
 spapps.telekom.de
 spapps2.telekom.de
@@ -4792,6 +4803,7 @@ stodb-wbench.devops.telekom.de
 stodb.telekom.de
 stoea-ref.telekom.de
 storemanager-prod.telekom.de
+story.geschaeftskunden.telekom.de
 strabag-pfs.telekom.de
 stranet-ta.b2b.telekom.de
 stu2-skswms-sst.telekom.de
@@ -5103,6 +5115,8 @@ testumgebung-spapps.telekom.de
 testumgebung-spapps2.telekom.de
 testwb.devops.telekom.de
 tf-backend.devops.telekom.de
+tfan-dev.telekom.de
+tfan.telekom.de
 tg01.telekom.de
 tg02.telekom.de
 tgov-qa.telekom.de
@@ -5630,6 +5644,7 @@ web-sued.telekom.de
 web-suedwest.telekom.de
 web-west.telekom.de
 web.telekom.de
+web4al-s.telekom.de
 webappproxy-ta.telekom.de
 webcco-ta.telekom.de
 webcco.geschaeftskunden.telekom.de
@@ -5656,6 +5671,8 @@ websso-dev.corp.telekom.de
 websso-test-saml2.telekom.de
 websvcs.telekom.de
 webtest.telekom.de
+webtools-dev.telekom.de
+webtools.telekom.de
 webxplor-tst.telekom.de
 webxplor.telekom.de
 weiterbildung-extern.telekom.de
@@ -5770,6 +5787,8 @@ worx-sso.telekom.de
 worx.telekom.de
 wpad-script.laboratories.telekom.de
 wpad.laboratories.telekom.de
+wpr-dev.telekom.de
+wpr.telekom.de
 wrapperfe-external-cc.telekom.de
 wrapperfe-external-ewu-cc.telekom.de
 wrapperfe-external-tua-cc.telekom.de
@@ -6019,6 +6038,7 @@ www.sprm-dev.telekom.de
 www.sprm-test.telekom.de
 www.sprm.telekom.de
 www.srm-websso.onesrm.telekom.de
+www.story.geschaeftskunden.telekom.de
 www.stranet-ta.b2b.telekom.de
 www.studio.geschaeftskunden-test-cit4.telekom.de
 www.suppliers-qas.telekom.de
