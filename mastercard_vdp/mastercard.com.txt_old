@@ -904,6 +904,8 @@ caas-fdpl-ob-sgb-mtf.mastercard.com
 caas-fdpl-ob-sgb.mastercard.com
 caas-foo-ob-kfh-mtf.mastercard.com
 caas-foo-ob-kfh.mastercard.com
+caas-gemalto-ob-curve-mtf.mastercard.com
+caas-gemalto-ob-curve.mastercard.com
 caas-gemalto-ob-icc-mtf.mastercard.com
 caas-gemaltooboedenred-mtf.mastercard.com
 caas-gemaltooboedenred.mastercard.com
@@ -1342,6 +1344,7 @@ dev.dp.stl.mastercard.com
 dev.dxp.mastercard.com
 dev.track.mastercard.com
 dev.walletsolutions.mastercard.com
+dev1.citi.sso.wrapper.mastercard.com
 devcloud.mastercard.com
 developer.mastercard.com
 developer2.mastercard.com
@@ -2014,6 +2017,8 @@ missionfed.sdg2.mastercard.com
 missionfed.sdg2demo.mastercard.com
 mix-reserved-4.mastercard.com
 mix-reserved-5.mastercard.com
+mjakmdtest.mastercard.com
+mjakmdtest2.mastercard.com
 mmsaa.mastercard.com
 mng.mc.mastercard.com
 mobg.mastercard.com
@@ -2121,6 +2126,8 @@ mtf.citi.sing.mts.mastercard.com
 mtf.citi.sso.signer.mastercard.com
 mtf.citi.sso.wrapper.mastercard.com
 mtf.citipay.mastercard.com
+mtf.comcomadmin.mastercard.com
+mtf.comcomms.mastercard.com
 mtf.consents.mastercard.com
 mtf.consumerauth.mastercard.com
 mtf.corporatecontrol.mastercard.com
@@ -2227,6 +2234,8 @@ mtf.mts.mastercard.com
 mtf.mtscloud.mastercard.com
 mtf.mydxp.mastercard.com
 mtf.navigator.mastercard.com
+mtf.ngmcaidadmin.mastercard.com
+mtf.ngmcaidms.mastercard.com
 mtf.offers.ignitecreditcard.com.au.mastercard.com
 mtf.otaws.mastercard.com
 mtf.outboundproxy.mastercard.com

@@ -618,6 +618,10 @@ eclm-test-sn805-vmitr.marriott.com
 eclm-test-sn806-vmitr.marriott.com
 eclm-test60iioto878.marriott.com
 eclm-test60iioto8781.marriott.com
+eclm-testsn5601iioto878.marriott.com
+eclm-testsn560ii1oto878.marriott.com
+eclm-testsn560iioto8718.marriott.com
+eclm-testsn560iioto878.marriott.com
 eclm-testsn58-iiotov878.marriott.com
 eclm-testsn71iioto878.marriott.com
 eclm-testsn77iioto878.marriott.com
@@ -1225,6 +1229,7 @@ ironportreporting.marriott.com
 ironporttracking.marriott.com
 itdc.cloud.marriott.com
 itdcdev.cloud.marriott.com
+ivos-test.marriott.com
 ivoscc.marriott.com
 ivosextranet.marriott.com
 jenkins-a.marriott.com
@@ -2178,6 +2183,7 @@ val2.marriott.com
 val3.marriott.com
 valdp1.marriott.com
 valtest.marriott.com
+valtestadvance.marriott.com
 valtestmultidomain.marriott.com
 vanity.marriott.com
 vanityvip1.marriott.com

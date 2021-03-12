@@ -276,7 +276,6 @@ apache2-blow.sunburn.dkb.r.salesforce.com
 apar.salesforce.com
 api-explorer.commercecloud.salesforce.com
 api-test.internal.salesforce.com
-api.appexchange.salesforce.com
 api.billingapp.commercecloud.salesforce.com
 api.bluetail.internal.salesforce.com
 api.chi.raiden.salesforce.com
@@ -6780,6 +6779,7 @@ dcl7-ncg1-c5-iad4.na168-ia4.my.salesforce.com
 dcl7-ncg1-c5-iad4.na170-ia4.my.salesforce.com
 dcl7-ncg1-c6-iad5.cs159-ia5.salesforce.com
 dcl7-ncg1-c6-iad5.cs165-ia5.salesforce.com
+dcl7-ncg1-c6-iad5.cs167-ia5.my.salesforce.com
 dcl7-ncg1-c6-iad5.cs167-ia5.salesforce.com
 dcl7-ncg1-c6-iad5.cs172-ia5.my.salesforce.com
 dcl7-ncg1-c6-iad5.cs193-ia5.salesforce.com
@@ -8654,6 +8654,7 @@ hsi--training.cs13.my.salesforce.com
 hsi.my.salesforce.com
 hta.my.salesforce.com
 htgapp-asg.salesforce.com
+htgapp-cdu.salesforce.com
 htgapp-chi-sp4.salesforce.com
 htgapp-dfw.salesforce.com
 htgapp-frf.salesforce.com
@@ -9501,6 +9502,7 @@ na21-wax.g.salesforce.com
 na21.my.salesforce.com
 na215-api.salesforce.com
 na215.salesforce.com
+na217-api.salesforce.com
 na22-chi-1.my.salesforce.com
 na22-chi-1.salesforce.com
 na22-chi-2.my.salesforce.com
@@ -13193,6 +13195,7 @@ zillowgroup.my.salesforce.com
 zuora.my.salesforce.com
 zuydsso.my.salesforce.com
 zyce-dev.cccnp0003.cnp-dev.commercecloud.salesforce.com
+zycf-stg.cccnp0003.cnp-dev.commercecloud.salesforce.com
 zymb-003.sandbox.cccnp0011.cnp-dev.commercecloud.salesforce.com
 zymb-007.sandbox.cccnp0011.cnp-dev.commercecloud.salesforce.com
 zymd-dev.cccnp0011.cnp-dev.commercecloud.salesforce.com
@@ -13287,6 +13290,7 @@ zzzz-001.sandbox.cccnp0003.cnp-dev.commercecloud.salesforce.com
 zzzz-004.sandbox.cccnp0001.cnp-dev.commercecloud.salesforce.com
 zzzz-004.sandbox.cccnp0002.cnp-dev.commercecloud.salesforce.com
 zzzz-005.sandbox.cccnp0001.cnp-dev.commercecloud.salesforce.com
+zzzz-037.sandbox.cccnp0003.cnp-dev.commercecloud.salesforce.com
 zzzz-dev.cccnp0007.cnp-dev.commercecloud.salesforce.com
 zzzz-dev.cccnp0009.cnp-dev.commercecloud.salesforce.com
 zzzz-prd.cccnp0001.cnp-dev.commercecloud.salesforce.com

@@ -1718,6 +1718,7 @@ flidar.dev.ap.tesla.services
 flidar.eng.ap.tesla.services
 flidar.stage.ap.tesla.services
 flide-internal.dev.ap.tesla.services
+flide-sim.ap.tesla.services
 flide.ap.tesla.services
 flide.dev.ap.tesla.services
 flide.eng.ap.tesla.services

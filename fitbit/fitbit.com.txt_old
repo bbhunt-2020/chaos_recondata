@@ -519,6 +519,7 @@ gcp02-nf-01.corp.fitbit.com
 gcp03-nf-01.corp.fitbit.com
 globalvpn.corp.fitbit.com
 go.fitbit.com
+gradle-enterprise-devel-gcp.site-ops.fitbit.com
 grafana.fitbit.com
 graphite-dr.fitbit.com
 graphite.fitbit.com
@@ -1013,6 +1014,7 @@ www.fbindia.store-in.fitbit.com
 www.fitbit.com
 www.fitforgood.fitbit.com
 www.fitnesstracker.fitbit.com
+www.gradle-enterprise-devel-gcp.site-ops.fitbit.com
 www.help.fitbit.com
 www.iedc.fitbit.com
 www.in-store.fitbit.com

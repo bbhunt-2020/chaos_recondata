@@ -7,6 +7,7 @@ ap-south-1-prod.direct.ccpl.internet.org
 ap-south-1-qa.direct.xwf.internet.org
 ap-southeast-1-dev.apdata.xsec.internet.org
 ap-southeast-1-dev.direct.xsec.internet.org
+ap-southeast-1-qa.apdata.xsec.internet.org
 ap-southeast-1-qa.direct.xsec.internet.org
 api.internal.standalone.xwf.internet.org
 api.standalone.xwf.internet.org
@@ -41,7 +42,10 @@ es-es.internet.org
 es-la.internet.org
 eu-central-1-dev.apdata.xwf.internet.org
 eu-es.internet.org
+eu-west-1-dev.apdata.xsec.internet.org
+eu-west-1-dev.apdata.xwf.internet.org
 eu-west-1-dev.direct.xsec.internet.org
+eu-west-2-dev.apdata.xwf.internet.org
 eu-west-2-dev.direct.xwf.internet.org
 fbpqa.beta.xwf.internet.org
 fbtokenizerdogfood.in.xwf.internet.org

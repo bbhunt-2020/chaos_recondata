@@ -24,6 +24,7 @@ abhitest3.sandbox.boomi.com
 akgwtest1.runtime-sandbox.boomi.com
 akgwtest1.sandbox.boomi.com
 akgwtest2.sandbox.boomi.com
+akgwtest3.runtime-sandbox.boomi.com
 akgwtest3.sandbox.boomi.com
 akgwtest4.sandbox.boomi.com
 akgwtest5.runtime-sandbox.boomi.com
@@ -204,6 +205,8 @@ dantest2.sandbox.boomi.com
 dantest3.sandbox.boomi.com
 datalake-pipeline.boomi.com
 dbslave01.ord.boomi.com
+dcp-2.dcp-pipeline.boomi.com
+dcp-3.dcp-pipeline.boomi.com
 dcp-intel-prod.intelligence.boomi.com
 dcp-intel-qa.pipeline.intelligence.boomi.com
 dcp-luis-dev.sandbox.boomi.com
@@ -240,6 +243,7 @@ devikadr2.sandbox.boomi.com
 devikadr3.sandbox.boomi.com
 devikadr4.sandbox.boomi.com
 devikamnbroker.sandbox.boomi.com
+devnew.sandbox.boomi.com
 devplat.sandbox.boomi.com
 devplat2.sandbox.boomi.com
 dfwadmin.boomi.com
@@ -1124,6 +1128,7 @@ occm-us-east-1-testmerge.sandbox.boomi.com
 occm-us-east-1-testplat2.sandbox.boomi.com
 occm-us-east-1-testplat3.sandbox.boomi.com
 occm-us-east-1-tethys.sandbox.boomi.com
+occm-us-east-1-thehub.underdog-sandbox.boomi.com
 occm-us-east-1-themisto.sandbox.boomi.com
 occm-us-east-1-thishub.pipeline.boomi.com
 occm-us-east-1-thishub.sandbox.boomi.com
@@ -1210,6 +1215,7 @@ occm-us-west-2-khurikplat.sandbox.boomi.com
 occm-us-west-2-khurshedcloud1.sandbox.boomi.com
 occm-us-west-2-kimmdm4.sandbox.boomi.com
 occm-us-west-2-kimmdm5.sandbox.boomi.com
+occm-us-west-2-kimtest14.sandbox.boomi.com
 occm-us-west-2-kpawsnetapp1.sandbox.boomi.com
 occm-us-west-2-kphosts1.sandbox.boomi.com
 occm-us-west-2-kpplat11.sandbox.boomi.com
@@ -1319,6 +1325,7 @@ occm-us-west-2-swatidr11.sandbox.boomi.com
 occm-us-west-2-swatidr72.sandbox.boomi.com
 occm-us-west-2-swatidr91.sandbox.boomi.com
 occm-us-west-2-tcqa1.sandbox.boomi.com
+occm-us-west-2-thehub.underdog-sandbox.boomi.com
 occm-us-west-2-thishub.pipeline.boomi.com
 occm-us-west-2-thishub.sandbox.boomi.com
 occm-us-west-2-tmaitest1.sandbox.boomi.com

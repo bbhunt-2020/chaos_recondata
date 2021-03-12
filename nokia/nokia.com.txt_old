@@ -4595,6 +4595,8 @@ c102.qa.xpress.nokia.com
 c103.qa.xpress.nokia.com
 c120.qa.xpress.nokia.com
 c130.qa.xpress.nokia.com
+c3-fpga.int.net.nokia.com
+c3.int.net.nokia.com
 ca.dev3.shop.nokia.com
 ca.ncomit.create.nokia.com
 ca.ncomit.train.nokia.com
@@ -6122,6 +6124,7 @@ eks-mo-new.csfp.dev.software.nokia.com
 eks-mo.csfp.dev.software.nokia.com
 eks-official.csfp.dev.software.nokia.com
 eks-stab.csfp.dev.software.nokia.com
+eksosb.csfp.dev.software.nokia.com
 elearning.nokia.com
 eleaveglobal-test.int.net.nokia.com
 eleaveglobal.int.net.nokia.com

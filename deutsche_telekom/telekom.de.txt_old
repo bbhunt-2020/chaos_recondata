@@ -1181,6 +1181,7 @@ dev-pfau.telekom.de
 dev-sam-sso.telekom.de
 dev-sam.sso.telekom.de
 dev-trms.telekom.de
+dev-wwp.partner.aws.telekom.de
 dev.arnd.aws.telekom.de
 dev.asf.telekom.de
 dev.dev.asf.telekom.de
@@ -1745,6 +1746,7 @@ fisst-qas.onesrm.telekom.de
 fisst-t.onesrm.telekom.de
 fisst-z.onesrm.telekom.de
 fisst.onesrm.telekom.de
+fit.momvt.sgp.telekom.de
 fit4sales.telekom.de
 fki-dokumente.telekom.de
 fki-znk.telekom.de
@@ -4095,6 +4097,7 @@ q4deumsy01e.mms-dresden.telekom.de
 q4deumsy01f.mms-dresden.telekom.de
 qa-myshs24.telekom.de
 qa-pfau.telekom.de
+qa-wwp.partner.aws.telekom.de
 qa.dhei.telekom.de
 qadn01.dw.telekom.de
 qagpublic.cert.telekom.de
@@ -5564,6 +5567,7 @@ voice-test.telekom.de
 voicecast.aws.telekom.de
 voicemail.laboratories.telekom.de
 voicemail.telekom.de
+voicemailbox-test.ext.oasis.telekom.de
 voicemailskill.telekom.de
 vpn.telekom.de
 vpn1.design.telekom.de

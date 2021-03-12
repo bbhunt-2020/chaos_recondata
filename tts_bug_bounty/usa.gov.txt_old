@@ -80,6 +80,7 @@ asis.sanitycheck.staging.search.usa.gov
 asis.seagull.staging.search.usa.gov
 asis.search.usa.gov
 asis.snowflake.staging.search.usa.gov
+asis.sparrow1844.staging.search.usa.gov
 asis.srch1883.staging.search.usa.gov
 asis.tardigrade.staging.search.usa.gov
 asis.toothpick.staging.search.usa.gov
@@ -220,6 +221,7 @@ i14y.sanitycheck.staging.search.usa.gov
 i14y.seagull.staging.search.usa.gov
 i14y.search.usa.gov
 i14y.snowflake.staging.search.usa.gov
+i14y.sparrow1844.staging.search.usa.gov
 i14y.srch1883.staging.search.usa.gov
 i14y.tardigrade.staging.search.usa.gov
 i14y.toothpick.staging.search.usa.gov
@@ -273,6 +275,7 @@ kibana.sanitycheck.staging.search.usa.gov
 kibana.seagull.staging.search.usa.gov
 kibana.search.usa.gov
 kibana.snowflake.staging.search.usa.gov
+kibana.sparrow1844.staging.search.usa.gov
 kibana.srch1883.staging.search.usa.gov
 kibana.toothpick.staging.search.usa.gov
 kibana.totoro.staging.search.usa.gov
@@ -388,6 +391,7 @@ resque.sanitycheck.staging.search.usa.gov
 resque.seagull.staging.search.usa.gov
 resque.search.usa.gov
 resque.snowflake.staging.search.usa.gov
+resque.sparrow1844.staging.search.usa.gov
 resque.srch1883.staging.search.usa.gov
 resque.toothpick.staging.search.usa.gov
 resque.totoro.staging.search.usa.gov
@@ -415,6 +419,7 @@ secsearch.sites.infr.search.usa.gov
 sffeb.sites.usa.gov
 sites.usa.gov
 snowflake.staging.search.usa.gov
+sparrow1844.staging.search.usa.gov
 srch1883.staging.search.usa.gov
 ssa.sites.infr.search.usa.gov
 stage-beta.gobierno.usa.gov
