@@ -67,6 +67,11 @@ sso.website-eks.srv.lystit.com
 static.lystit.com
 talks.lystit.com
 test.hr-sync.hr-sync.lystit.com
+testing-web-paid.lystit.com
+testing-web-seo.lystit.com
+testing-web-sitemaps.lystit.com
+testing-web-user.lystit.com
+testing-web.lystit.com
 tools-eks.srv.lystit.com
 watchtower.lystit.com
 web.retailer-x-website-public.microservices.srv.lystit.com

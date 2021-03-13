@@ -27,6 +27,7 @@ api.marketplace.astra.datastax.com
 api.shr-cp82-ap-southeast-2.infra-dev.datastax.com
 api.stage.cloud.datastax.com
 api.staging.streaming.datastax.com
+api.streaming.datastax.com
 api.test.cloud.datastax.com
 apollo-dev.datastax.com
 apollo-stage.datastax.com
@@ -398,6 +399,7 @@ pros.datastax.com
 pulsar-aws-useast2-staging.staging.streaming.datastax.com
 pulsar-aws-useast2.dev.streaming.datastax.com
 pulsar-aws-useast2.staging.streaming.datastax.com
+pulsar-aws-useast2.streaming.datastax.com
 qa.vector.datastax.com
 registry.cloud-tools.datastax.com
 registry.dmc-prod-us-east-1.cloud-tools.datastax.com

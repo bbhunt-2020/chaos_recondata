@@ -3,3 +3,5 @@ pulsar-aws-useast2.staging.streaming.datastax.com
 api.staging.streaming.datastax.com
 next.datastax.com
 pulsar-aws-useast2-staging.staging.streaming.datastax.com
+api.streaming.datastax.com
+pulsar-aws-useast2.streaming.datastax.com

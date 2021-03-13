@@ -55,6 +55,7 @@ api.pilot.k8s.us-west-2.aws.secureworks.com
 api.prod.k8s.us-east-1.aws.secureworks.com
 api.prod.k8s.us-west-2.aws.secureworks.com
 api.secureworks.com
+api.taegis.secureworks.com
 api.test.k8s.us-west-2.aws-test.secureworks.com
 api2.secureworks.com
 apigw.gt.secureworks.com

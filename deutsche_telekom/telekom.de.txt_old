@@ -3201,6 +3201,7 @@ oast78334mail1.oam.oasis.telekom.de
 oast78334mail2.int.oasis.telekom.de
 oast78334mail2.oam.oasis.telekom.de
 oat-chf.telekom.de
+oat.oneshop.telekom.de
 oat.telekom.de
 oba-mon.telekom.de
 oba-timon.telekom.de
@@ -3709,6 +3710,7 @@ pia2a-z.one-erp.telekom.de
 pia2a.one-erp.telekom.de
 pilot-fit4sales.telekom.de
 pilot-quizapp.telekom.de
+pilot.deskbot.aws.telekom.de
 pilotmycap.telekom.de
 pims-prov-app-iat.zspi.telekom.de
 pims-prov-app-test.zspi.telekom.de
@@ -3754,6 +3756,7 @@ policies.telekom.de
 pone-pocdlsi.telekom.de
 porg-cluster.dev.asf.telekom.de
 porgs-cluster.dev.mah.telekom.de
+portal-ads.onehr.telekom.de
 portal-aux.sppm.telekom.de
 portal-bo.cert.telekom.de
 portal-cds-dev.telekom.de
@@ -3772,6 +3775,7 @@ portal-e.one-erp.telekom.de
 portal-int.sppm.telekom.de
 portal-m2m-download.telekom.de
 portal-m2m.telekom.de
+portal-qa-ads.onehr.telekom.de
 portal-qa-dl.onehr.telekom.de
 portal-qa.onehr.telekom.de
 portal-qas-websso.gfm-bi.telekom.de
@@ -3779,6 +3783,7 @@ portal-qas-ws.gfm-bi.telekom.de
 portal-qas.gfm-bi.telekom.de
 portal-qas.one-erp.telekom.de
 portal-t.one-erp.telekom.de
+portal-test-ads.onehr.telekom.de
 portal-test-dl.ghrbi.telekom.de
 portal-test-dl.onehr.telekom.de
 portal-test-ws.ghrbi.telekom.de
@@ -4350,6 +4355,7 @@ sam20.aws.telekom.de
 sam4k.telekom.de
 sap-pqit-dev.telekom.de
 sap-pqit-qas.telekom.de
+sapcar-dev.telekom.de
 sapcc-cockpit-amc.telekom.de
 sapcc-cockpit-dev.telekom.de
 sapcc-cockpit-e0c.telekom.de

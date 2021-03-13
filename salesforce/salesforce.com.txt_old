@@ -6547,7 +6547,6 @@ dcl7-hnd.ap8-hnd.my.salesforce.com
 dcl7-hnd.ap8-hnd.salesforce.com
 dcl7-hnd.cs112-hnd.salesforce.com
 dcl7-hnd.cs117-hnd.my.salesforce.com
-dcl7-hnd.cs117-hnd.salesforce.com
 dcl7-hnd.cs31-hnd.salesforce.com
 dcl7-hnd.cs57000-hnd.my.salesforce.com
 dcl7-hnd.cs57000-hnd.salesforce.com
@@ -6558,7 +6557,6 @@ dcl7-hnd.cs72-hnd.my.salesforce.com
 dcl7-hnd.hnd.edge.salesforce.com
 dcl7-hnd.umps1-c4-hnd.salesforce.com
 dcl7-iad.beacon-iad.salesforce.com
-dcl7-iad.cs15-iad.my.salesforce.com
 dcl7-iad.cs18-iad.salesforce.com
 dcl7-iad.cs67-iad.my.salesforce.com
 dcl7-iad.cs77-iad.my.salesforce.com
@@ -6573,7 +6571,6 @@ dcl7-iad.na50-iad.my.salesforce.com
 dcl7-iad.na57-iad.my.salesforce.com
 dcl7-iad.na57-iad.salesforce.com
 dcl7-iad.na66-iad.my.salesforce.com
-dcl7-iad.na72-iad.my.salesforce.com
 dcl7-iad.na73-iad.my.salesforce.com
 dcl7-iad.na78-iad.salesforce.com
 dcl7-iad.na87-iad.my.salesforce.com
@@ -6595,7 +6592,6 @@ dcl7-ncg0-cdg3.cs160-cdg.my.salesforce.com
 dcl7-ncg0-cdg3.cs160-cdg.salesforce.com
 dcl7-ncg0-cdg3.cs164-cdg.my.salesforce.com
 dcl7-ncg0-cdg3.cs174-cdg.salesforce.com
-dcl7-ncg0-cdg3.cs189-cdg.salesforce.com
 dcl7-ncg0-cdg3.cs84-cdg.my.salesforce.com
 dcl7-ncg0-cdg3.cs85-cdg.salesforce.com
 dcl7-ncg0-cdg3.cs88-cdg.my.salesforce.com
@@ -6716,7 +6712,6 @@ dcl7-ncg0-phx3.na112-ph2.my.salesforce.com
 dcl7-ncg0-phx3.na112-ph2.salesforce.com
 dcl7-ncg0-phx3.na113-ph2.my.salesforce.com
 dcl7-ncg0-phx3.na113-ph2.salesforce.com
-dcl7-ncg0-phx3.na114-ph2.salesforce.com
 dcl7-ncg0-phx3.na122-ph2.salesforce.com
 dcl7-ncg0-phx3.na124-ph2.salesforce.com
 dcl7-ncg0-phx3.na129-ph2.salesforce.com
@@ -6779,7 +6774,6 @@ dcl7-ncg1-c5-iad4.na168-ia4.my.salesforce.com
 dcl7-ncg1-c5-iad4.na170-ia4.my.salesforce.com
 dcl7-ncg1-c6-iad5.cs159-ia5.salesforce.com
 dcl7-ncg1-c6-iad5.cs165-ia5.salesforce.com
-dcl7-ncg1-c6-iad5.cs167-ia5.my.salesforce.com
 dcl7-ncg1-c6-iad5.cs167-ia5.salesforce.com
 dcl7-ncg1-c6-iad5.cs172-ia5.my.salesforce.com
 dcl7-ncg1-c6-iad5.cs193-ia5.salesforce.com
@@ -13228,6 +13222,7 @@ zyoe-stg.cccnp1.cnp-test1.commercecloud.salesforce.com
 zyog-dev.cccnp1.cnp-test1.commercecloud.salesforce.com
 zyoo-prd.cccnp1.cnp-test1.commercecloud.salesforce.com
 zyop-dev.cccnp1.cnp-test1.commercecloud.salesforce.com
+zyoz-dev.cccnp1.cnp-test1.commercecloud.salesforce.com
 zywave.my.salesforce.com
 zzbb-dev.cccnp0010.cnp-dev.commercecloud.salesforce.com
 zzbc-dev.cccnp0010.cnp-dev.commercecloud.salesforce.com

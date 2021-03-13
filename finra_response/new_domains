@@ -25,3 +25,13 @@ metastor.db.ct.pa.finra.org
 metastor.apprd.prod.pa.finra.org
 esp-ext.dr.finra.org
 wig.dr.finra.org
+doorbell-devint.fip.dev.finra.org
+isso-devint.fip.dev.finra.org
+ews-public-devint.fip.dev.finra.org
+ews-devint.fip.dev.finra.org
+ews-auth-devint.fip.dev.finra.org
+ewslogin-devint.fip.dev.finra.org
+isso-auth-devint.fip.dev.finra.org
+beast-api.finra.org
+ews-admin-devint.fip.dev.finra.org
+isso-admin-devint.fip.dev.finra.org

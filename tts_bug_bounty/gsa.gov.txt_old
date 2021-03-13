@@ -200,6 +200,7 @@ apps.prod-iae.bsp.gsa.gov
 appx.fss.gsa.gov
 apw.gsa.gov
 argocd.dev-ppm.fcs.gsa.gov
+argocd.mgmt-ppm.fcs.gsa.gov
 argocd.test-ppm.fcs.gsa.gov
 ariba01.fss.gsa.gov
 arlu1e0.fss.gsa.gov

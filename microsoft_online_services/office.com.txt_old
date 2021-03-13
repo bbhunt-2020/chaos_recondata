@@ -164,6 +164,7 @@ cdn.office.com
 cdn.transform.office.com
 cdp.pavo.office.com
 cdp.sipprod.office.com
+cdpingestion.manage.office.com
 cek.rps.lifecycle.office.com
 centraladminsigningcertkey.office.com
 changelifecycle.office.com
@@ -405,6 +406,7 @@ exonetworkmap.office.com
 expman.office.com
 fastravensigningcertkey.office.com
 fasttrack.office.com
+federatedsearchsigningcertkey.office.com
 ffo.hrcapps.office.com
 firstparty-aad-encrypt.setup.office.com
 firstparty-aad.setup.office.com
@@ -670,6 +672,7 @@ me1-direct-ip.office.com
 me2-direct-ip.office.com
 mea-direct-ip.office.com
 measure.office.com
+mediatransigningcertkey.office.com
 meetingcatchupsigningcertkey.office.com
 meetinginferences.substrate.office.com
 meetingsprocessor.substrate.office.com

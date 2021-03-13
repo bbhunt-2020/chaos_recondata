@@ -1011,6 +1011,7 @@ prism-analytics.dev.nutanix.com
 prod-portal.nutanix.com
 prod.saas.nutanix.com
 productsizer.nutanix.com
+prototypes.design.nutanix.com
 proxy-blackduck.dev.dev-iam.xi.nutanix.com
 proxy-cac-master.dev.dev-iam.xi.nutanix.com
 proxy-cac-persist.dev.dev-iam.xi.nutanix.com
@@ -1059,6 +1060,7 @@ repl-ssl.us-east-dev.iam.xi.nutanix.com
 repl-ssl.us-west-dev.iam.xi.nutanix.com
 reports.partners.nutanix.com
 research-stjude.icimartners.nutanix.com
+research.design.nutanix.com
 rnd-billing-api.nutanix.com
 rnd-billing-jobs.nutanix.com
 rnd-billing.nutanix.com
@@ -1081,6 +1083,7 @@ saas.nutanix.com
 sales.nutanix.com
 salesportal-api-origin.nutanix.com
 salesportal.nutanix.com
+sandbox.design.nutanix.com
 sc-dev.flow.nutanix.com
 sdbfjnsdfn.dev.stage-iam.xi.nutanix.com
 se.frame.nutanix.com
@@ -1220,6 +1223,7 @@ test.saas.nutanix.com
 test.salesportal.nutanix.com
 test.xpress.nutanix.com
 testdrive.aos.nutanix.com
+testdrive.leap.nutanix.com
 testdrive.nutanix.com
 testing.stage-iam.xi.nutanix.com
 themis-add-tavern.us-east-dev.iam.xi.nutanix.com
@@ -1685,10 +1689,13 @@ www.phren-staging.eng.nutanix.com
 www.phren.eng.nutanix.com
 www.phx-eng-xi-security-jenkins-2.umvm.nutanix.com
 www.prism-analytics.dev.nutanix.com
+www.prototypes.design.nutanix.com
 www.qbot-production.corp.nutanix.com
 www.qbot-staging.corp.nutanix.com
 www.raft.corp.nutanix.com
+www.research.design.nutanix.com
 www.rx.corp.nutanix.com
+www.sandbox.design.nutanix.com
 www.searchhead.corp.splunk.xi.nutanix.com
 www.searchlight-dev.beam.nutanix.com
 www.security.karbonator.dev.nutanix.com
@@ -1705,6 +1712,7 @@ www.support-monitoring.corp.nutanix.com
 www.support-tools.corp.nutanix.com
 www.sylveon.nutanix.com
 www.test-xi.nutanix.com
+www.testdrive.leap.nutanix.com
 www.tools-analytics-api.nutanix.com
 www.uk-1.dev-xi.nutanix.com
 www.uk-1.stage-xi.nutanix.com

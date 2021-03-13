@@ -5396,6 +5396,8 @@ ccnsuzb25m1091.network.microsoft.com
 ccnsuzb25m1092.network.microsoft.com
 ccobog192m1002.network.microsoft.com
 ccobog192m1091.network.microsoft.com
+ccobog192m1451.network.microsoft.com
+ccomedmdom1451.network.microsoft.com
 ccp.philly.selfhost.corp.microsoft.com
 ccp.pulsarx-int.microsoft.com
 ccpwebportaluat.microsoft.com
@@ -7942,7 +7944,6 @@ enterpriseregistration.parttest.extranettest.microsoft.com
 enterpriseregistration.sfb2019lss.rtmp.selfhost.corp.microsoft.com
 enterpriseregistration.windows.microsoft.com
 enterpriseregistration.wingroup.microsoft.com
-enterprisereportingjournal.cp.microsoft.com
 enterprista.microsoft.com
 entertainment.db2.cb3.glbdns.microsoft.com
 entertainment2.db2.cb3.glbdns.microsoft.com
@@ -11440,7 +11441,6 @@ mail14-tx2on0042.outbound.messaging.microsoft.com
 mail14-tx2on0043.outbound.messaging.microsoft.com
 mail14-tx2on0047.outbound.messaging.microsoft.com
 mail14-tx2on0055.outbon0025.outbound.messaging.microsoft.com
-mail14-tx2on0066.outbound.messaging.microsoft.com
 mail14-tx2on0068.outbound.messaging.microsoft.com
 mail14-tx2on0071.outbound.messaging.microsoft.com
 mail14-tx2on0073.outbound.messaging.microsoft.com
@@ -13014,7 +13014,6 @@ noterpsf.nw3.cloudapp.azurestack.selfhost.corp.microsoft.com
 notices.msncojp.jpchn.glbdns.microsoft.com
 notification-df.microsoft.com
 notification-gateway-int.mp.dse.glbdns2.microsoft.com
-notification-gateway-int.mp.dse.microsoft.com
 notification-gateway.mp.dps.glbdns2.microsoft.com
 notification.print-next.microsoft.com
 notificationclient-int.dse.mp.microsoft.com
@@ -16630,6 +16629,7 @@ shares.ppe.datatransfer.microsoft.com
 shares2.datatransfer.microsoft.com
 shares2.ppe.datatransfer.microsoft.com
 sharing.microsoft.com
+shazsecpack.geneva.keyvault.serviceshub.microsoft.com
 sheltuat.microsoft.com
 sherloc-canary.fl.teams.microsoft.com
 sherloc-int.fl.teams.microsoft.com

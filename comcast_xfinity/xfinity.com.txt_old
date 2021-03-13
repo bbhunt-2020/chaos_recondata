@@ -520,6 +520,10 @@ cms8.wcdc.int.xfinity.com
 cms8.wcdc.prd.xfinity.com
 cms8.wcdc.stg.xfinity.com
 cms8.xfinity.com
+cms9-build.dev.xfinity.com
+cms9-build.stg.xfinity.com
+cms9-build.xfinity.com
+cms9.dev.xfinity.com
 cms9.stg.xfinity.com
 cms9.xfinity.com
 cmt.xfinity.com
@@ -1075,6 +1079,10 @@ ipv6-proxy.xfinity.com
 is.xfinity.com
 joust.staging.xfinity.com
 joust.xfinity.com
+jss-build.dev.xfinity.com
+jss-build.stg.xfinity.com
+jss-build.xfinity.com
+jss.dev.xfinity.com
 jss.stg.xfinity.com
 jss.xfinity.com
 jupiter.home.xfinity.com
@@ -1088,6 +1096,12 @@ kibana.np.xfinity.com
 kibana.stg.xfinity.com
 kibana.xfinity.com
 labs.xfinity.com
+learn-build.dev.xfinity.com
+learn-build.stg.xfinity.com
+learn-build.xfinity.com
+learn.dev.xfinity.com
+learn.stg.xfinity.com
+learn.xfinity.com
 libre.selectwifi.xfinity.com
 livecache-beta-cvr.gslb2.xfinity.com
 livecache-cvr.gslb2.xfinity.com
