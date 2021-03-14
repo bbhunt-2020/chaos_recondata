@@ -1,5 +1,6 @@
 42.huffpost.net
 accounts.huffpost.net
+app-west.huffpost.net
 ar.edit.huffpost.net
 au-site.tools.huffpost.net
 au.blog.huffpost.net
@@ -45,6 +46,7 @@ old.42.huffpost.net
 origin-identifiers.huffpost.net
 origin.huffpost.net
 preview.huffpost.net
+prod.huffpost.net
 production-cloudmanager.huffpost.net
 production-securedrop.huffpost.net
 qa-ar.edit.huffpost.net
@@ -92,6 +94,11 @@ qc.preview.huffpost.net
 secrets.huffpost.net
 securedrop.huffpost.net
 site.tools.huffpost.net
+sso.app-west.huffpost.net
+sso.prod.huffpost.net
+sso.stage.huffpost.net
+sso.unstable.huffpost.net
+stage.huffpost.net
 staging-ar.blog.huffpost.net
 staging-ar.edit.huffpost.net
 staging-ar.preview.huffpost.net
@@ -147,6 +154,7 @@ staging-za.preview.huffpost.net
 tools.huffpost.net
 uk.blog.huffpost.net
 uk.preview.huffpost.net
+unstable.huffpost.net
 us.blog.huffpost.net
 us.content.huffpost.net
 us.edit.huffpost.net

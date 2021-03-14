@@ -29,6 +29,7 @@ code-scanning-reports.githubapp.com
 codeql-c-extractor-reports.githubapp.com
 codeql-profile-viewer.githubapp.com
 codeql-reports.githubapp.com
+coding-maintenance-reports.githubapp.com
 collector-internal.githubapp.com
 collector-new.githubapp.com
 collector-staging.githubapp.com
