@@ -40,7 +40,6 @@
 10121110.dev.e2e.certificate-manager.test.cloud.ibm.com
 10121213.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 1012130.eu-de.e2e.certificate-manager.test.cloud.ibm.com
-1012135.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 1012137.au-syd.e2e.certificate-manager.test.cloud.ibm.com
 1012137.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
 10122010.dev.e2e.certificate-manager.test.cloud.ibm.com
@@ -224,12 +223,9 @@
 1112117.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
 11121210.au-syd.e2e.certificate-manager.test.cloud.ibm.com
 11121211.eu-de.e2e.certificate-manager.test.cloud.ibm.com
-11121212.eu-de.e2e.certificate-manager.test.cloud.ibm.com
-11121214.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 11121214.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
 1112123.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
 1112125.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
-11121311.preprod.e2e.certificate-manager.test.cloud.ibm.com
 1112133.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 1112138.us-south.e2e.certificate-manager.test.cloud.ibm.com
 111220113.dev.e2e.certificate-manager.test.cloud.ibm.com
@@ -620,6 +616,9 @@
 1332032.preprod.e2e.certificate-manager.test.cloud.ibm.com
 1332033.us-south.e2e.certificate-manager.test.cloud.ibm.com
 1332037.au-syd.e2e.certificate-manager.test.cloud.ibm.com
+1332115.dev.e2e.certificate-manager.test.cloud.ibm.com
+1332137.us-east.e2e.certificate-manager.test.cloud.ibm.com
+1332137.us-south.e2e.certificate-manager.test.cloud.ibm.com
 13420210.preprod.e2e.certificate-manager.test.cloud.ibm.com
 1342027.preprod.e2e.certificate-manager.test.cloud.ibm.com
 1342031.au-syd.e2e.certificate-manager.test.cloud.ibm.com
@@ -4920,6 +4919,9 @@ a.132115.dev.e2e.certificate-manager.test.cloud.ibm.com
 a.1321310.us-east.e2e.certificate-manager.test.cloud.ibm.com
 a.132134.preprod.e2e.certificate-manager.test.cloud.ibm.com
 a.13221314.us-east.e2e.certificate-manager.test.cloud.ibm.com
+a.1332130.au-syd.e2e.certificate-manager.test.cloud.ibm.com
+a.13321310.eu-de.e2e.certificate-manager.test.cloud.ibm.com
+a.1332134.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 a.1342034.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 a.1342038.au-syd.e2e.certificate-manager.test.cloud.ibm.com
 a.1352036.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
@@ -7644,7 +7646,6 @@ bsc02wdc.private.us-south.websphereappsvr.cloud.ibm.com
 bsqldb.cloud.ibm.com
 bss-cluster.cloud.ibm.com
 bss.test.cloud.ibm.com
-bss.us-south.proxy.serviceendpoint.test.cloud.ibm.com
 bszhangwin08.sdad.sl.edst.ibm.com
 bt1u9hkf08a72oa2tup0-teleport.bastionx.cloud.ibm.com
 btat-win.haifa.il.ibm.com
@@ -12490,8 +12491,6 @@ gfs.dstdev.sl.edst.ibm.com
 ggi.solutions.ibm.com
 ghost.cloud.ibm.com
 ghost.test.cloud.ibm.com
-ghost.us-east.proxy.serviceendpoint.test.cloud.ibm.com
-ghost.us-south.proxy.serviceendpoint.test.cloud.ibm.com
 giam07.sdad.sl.edst.ibm.com
 giam10.sdad.sl.edst.ibm.com
 giam20.sdad.sl.edst.ibm.com
@@ -16344,9 +16343,7 @@ s.1112034.eu-de.e2e.certificate-manager.test.cloud.ibm.com
 s.1112037.au-syd.e2e.certificate-manager.test.cloud.ibm.com
 s.1112039.preprod.e2e.certificate-manager.test.cloud.ibm.com
 s.1112115.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
-s.1112127.eu-de.e2e.certificate-manager.test.cloud.ibm.com
 s.11121311.preprod.e2e.certificate-manager.test.cloud.ibm.com
-s.1112138.eu-de.e2e.certificate-manager.test.cloud.ibm.com
 s.11122028.au-syd.e2e.certificate-manager.test.cloud.ibm.com
 s.11122030.us-east.e2e.certificate-manager.test.cloud.ibm.com
 s.11122031.eu-de.e2e.certificate-manager.test.cloud.ibm.com
@@ -16393,6 +16390,7 @@ s.1212139.eu-de.e2e.certificate-manager.test.cloud.ibm.com
 s.121220314.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
 s.12122036.eu-de.e2e.certificate-manager.test.cloud.ibm.com
 s.12320310.eu-gb.e2e.certificate-manager.test.cloud.ibm.com
+s.12321313.us-east.e2e.certificate-manager.test.cloud.ibm.com
 s.1242006.dev.e2e.certificate-manager.test.cloud.ibm.com
 s.12520310.jp-tok.e2e.certificate-manager.test.cloud.ibm.com
 s.12520313.au-syd.e2e.certificate-manager.test.cloud.ibm.com
@@ -18921,6 +18919,7 @@ test212289385-4.dev2.certificate-manager.test.cloud.ibm.com
 test2131093350-2.dev2.certificate-manager.test.cloud.ibm.com
 test2131161346-2.dev2.certificate-manager.test.cloud.ibm.com
 test2131261113-4.dev2.certificate-manager.test.cloud.ibm.com
+test2131361013-4.dev2.certificate-manager.test.cloud.ibm.com
 test21316836-2.dev2.certificate-manager.test.cloud.ibm.com
 test213518717-3.pre.certificate-manager.test.cloud.ibm.com
 test21369714-1.dev2.certificate-manager.test.cloud.ibm.com

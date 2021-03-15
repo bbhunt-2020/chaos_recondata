@@ -207,6 +207,7 @@ datalake-pipeline.boomi.com
 dbslave01.ord.boomi.com
 dcp-2.dcp-pipeline.boomi.com
 dcp-3.dcp-pipeline.boomi.com
+dcp-4.dcp-pipeline.boomi.com
 dcp-intel-prod.intelligence.boomi.com
 dcp-intel-qa.pipeline.intelligence.boomi.com
 dcp-luis-dev.sandbox.boomi.com

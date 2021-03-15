@@ -41,12 +41,14 @@ en-gb.internet.org
 es-es.internet.org
 es-la.internet.org
 eu-central-1-dev.apdata.xwf.internet.org
+eu-central-1-qa.apdata.xwf.internet.org
 eu-es.internet.org
 eu-west-1-dev.apdata.xsec.internet.org
 eu-west-1-dev.apdata.xwf.internet.org
 eu-west-1-dev.direct.xsec.internet.org
 eu-west-2-dev.apdata.xwf.internet.org
 eu-west-2-dev.direct.xwf.internet.org
+eu-west-3-qa.apdata.xwf.internet.org
 fbpqa.beta.xwf.internet.org
 fbtokenizerdogfood.in.xwf.internet.org
 fi-fi.internet.org
@@ -128,6 +130,7 @@ tokenizerdogfood2.in.xwf.internet.org
 tokenizertes-al.al.xwf.internet.org
 tr-tr.internet.org
 us-west-2-dev.direct.xwf.internet.org
+us-west-2-qa.apdata.xwf.internet.org
 us-west-2.direct.xwf.internet.org
 us-west-2.xwfv3.xwf.internet.org
 vftest-gh.af.xwf.internet.org
