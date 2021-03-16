@@ -3359,6 +3359,8 @@ cust84.applebees.goodrx.com
 cust92.cdn.goodrx.com
 cveapi.gold.goodrx.com
 cveapi.heydoctor.goodrx.com
+cwf-500fix-57f8ab68.dev.uw2.eng.goodrx.com
+cwf-addsembed-5a35b4d6.dev.uw2.eng.goodrx.com
 cwf-aexgro334-e1834c9e.dev.uw2.eng.goodrx.com
 cwf-backingoutdesdonr-736e1d3f.dev.uw2.eng.goodrx.com
 cwf-cdknewmode-7a959e9f.dev.uw2.eng.goodrx.com
@@ -3390,6 +3392,8 @@ cwf-org1453-46801301.dev.uw2.eng.goodrx.com
 cwf-org1815-faba0032.dev.uw2.eng.goodrx.com
 cwf-paid1732homepageh-c818d8bf.dev.uw2.eng.goodrx.com
 cwf-paidsquad-b86451bf.dev.uw2.eng.goodrx.com
+cwf-relaxcodecov-baf52537.dev.uw2.eng.goodrx.com
+cwf-releasefix-5eb08014.dev.uw2.eng.goodrx.com
 cwf-revert1189seg631s-0b68f006.dev.uw2.eng.goodrx.com
 cwf-seg631sitesearche-1bef0dac.dev.uw2.eng.goodrx.com
 cwf-segmentdocumentat-51704a2c.dev.uw2.eng.goodrx.com
@@ -4683,7 +4687,6 @@ htwww-billing.antivirus.goodrx.com
 htwww-brand.antivirus.goodrx.com
 htwww-bucket.antivirus.goodrx.com
 htwww-cms1.antivirus.goodrx.com
-htwww-dev.antivirus.goodrx.com
 htwww-engine.antivirus.goodrx.com
 htwww-europe.antivirus.goodrx.com
 htwww-euw.antivirus.goodrx.com
@@ -4877,7 +4880,6 @@ htwwwstatic.antivirus.goodrx.com
 htwwwtest1.antivirus.goodrx.com
 htwwwtpe.antivirus.goodrx.com
 htwwwv1.antivirus.goodrx.com
-hw-antivirus-edu.goodrx.com
 hw-apsit.antivirus.goodrx.com
 hw-berkeley.antivirus-edu.goodrx.com
 hw-blocked.antivirus.goodrx.com
@@ -4885,7 +4887,6 @@ hw-dentalplans.antivirus.goodrx.com
 hw.antivirus-applebees.goodrx.com
 hw.antivirus.goodrx.com
 hw.assets.goodrx.com
-hw.blocked.antivirus.goodrx.com
 hw.goodrx.com
 hwantivirus-applebees.goodrx.com
 hwantivirus.goodrx.com
@@ -4902,7 +4903,6 @@ hwdentalplansantivirus.goodrx.com
 hwhtwww.antivirus.goodrx.com
 hwm.antivirus-applebees.goodrx.com
 hwm.antivirushchrxduncan.goodrx.com
-hwo3.antivirus-email.goodrx.com
 i-antivirus.goodrx.com
 i-blocked.antivirus.goodrx.com
 i-m.antivirus-smartrx.goodrx.com

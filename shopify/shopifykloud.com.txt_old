@@ -60,6 +60,8 @@ canada.vpnify.shopifykloud.com
 cm-airflow-dev-us-central1-1-prod.dev.airflow.shopifykloud.com
 cm-airflow-dev-us-central1-1.dev.airflow.shopifykloud.com
 cm-airflow-global-us-central1-1.global.airflow.shopifykloud.com
+cm-airflow-na-ne1-1-prod.canada.airflow.shopifykloud.com
+cm-airflow-na-ne1-1.canada.airflow.shopifykloud.com
 cm-data-exp-us-central1-1-prod.k8s-exp.shopifykloud.com
 cm-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 cm-data-pepto-us-central1-1.shopify-data-pepto.shopifykloud.com
@@ -339,6 +341,7 @@ presto-qa-214.presto-qa.shopifykloud.com
 presto-qa.playground.shopifykloud.com
 presto-qa.presto-qa.shopifykloud.com
 presto-qa.starscream-qa.presto.shopifykloud.com
+presto-sam-test.shopify-data-presto-global.shopifykloud.com
 presto-scheduled-a.shopify-data-presto-global.shopifykloud.com
 presto-scheduled-b.shopify-data-presto-global.shopifykloud.com
 presto-seamster.shopify-data-presto-global.shopifykloud.com

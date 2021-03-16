@@ -918,6 +918,7 @@ occm-us-east-1-odugucloud.sandbox.boomi.com
 occm-us-east-1-odugudc1.sandbox.boomi.com
 occm-us-east-1-oduguhub.sandbox.boomi.com
 occm-us-east-1-oduguhub1.sandbox.boomi.com
+occm-us-east-1-oduguhub1.underdog-sandbox.boomi.com
 occm-us-east-1-oduguplat.sandbox.boomi.com
 occm-us-east-1-oduguplat1.sandbox.boomi.com
 occm-us-east-1-oduguplat2.sandbox.boomi.com
@@ -1238,6 +1239,7 @@ occm-us-west-2-nrplatform.sandbox.boomi.com
 occm-us-west-2-odugu06.sandbox.boomi.com
 occm-us-west-2-odugudc1.sandbox.boomi.com
 occm-us-west-2-oduguhub1.sandbox.boomi.com
+occm-us-west-2-oduguhub1.underdog-sandbox.boomi.com
 occm-us-west-2-oduguplat1.sandbox.boomi.com
 occm-us-west-2-oduguplat1.underdog-sandbox.boomi.com
 occm-us-west-2-oduguplat2.sandbox.boomi.com

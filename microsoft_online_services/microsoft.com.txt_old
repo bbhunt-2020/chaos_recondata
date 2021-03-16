@@ -1574,7 +1574,6 @@ accounts.moleskinestudio.com.herokudns.ctmgmtservice-df.dce.mp.microsoft.com
 accountservices.microsoft.com
 accountspayableportal.mmd.microsoft.com
 accountuserservice-df.dce.mp.glbdns2.microsoft.com
-accountuserservice.dce.mp.microsoft.com
 accoutn.microsoft.com
 ace-ff-auth.microsoft.com
 acisaggregatorclient.graph.microsoft.com
@@ -4280,7 +4279,6 @@ b.apac.api.tenantuser.records.infra.teams.microsoft.com
 b.cws-int.dcat.dsp.mp.microsoft.com
 b.dataapi-dev.dcat.dsp.mp.microsoft.com
 b.emea.api.tenantuser.records.infra.teams.microsoft.com
-b.extorigin-tip.dcat.dsp.mp.microsoft.com
 b.familysafety.microsoft.com
 b.messaging.office.microsoft.com
 b.msit.api.tenantuser.records.infra.teams.microsoft.com
@@ -5132,6 +5130,7 @@ bvt.learningconsumpion.microsoft.com
 bvt.mlxma.microsoft.com
 bvt.oxa.microsoft.com
 by2.maf.adcenter.microsoft.com
+by2vlsctest51.microsoft.com
 byangiel.comlsctest.microsoft.com
 bzgmtstpfa01.bzgrrw.mfg.selfhost.corp.microsoft.com
 bzgmxa-dom.extest.microsoft.com
@@ -5704,6 +5703,7 @@ client.fabric.dev.detection.rome.microsoft.com
 client.fulfillment-int.mcapi.mp.microsoft.com
 client.fulfillment.mcapi.mp.microsoft.com
 client.int.pi.dps.microsoft.com
+client.learningapp.microsoft.com
 client.mams-int.microsoft.com
 client.onerf.dev.microsoft.com
 client.raas-asfc-prod-cluster.dfp.microsoft.com
@@ -6224,6 +6224,7 @@ consumerrecurrence-clientauth.cp.microsoft.com
 consumerrecurrence.cp.microsoft.com
 consumerrecurrencerunner-clientauth.cp.microsoft.com
 consumerreferencestore.corp.microsoft.com
+consumersecurity.microsoft.com
 consumersecuritysupport.microsoft.glbdns.microsoft.com
 consumerstore-int.corp.microsoft.com
 consumerstorefd-int.corp.microsoft.com
@@ -6352,6 +6353,7 @@ cps.microsoft.com
 cps.search.microsoft.com
 cpslite-stg2.community.services.support.microsoft.com
 cpslite.community.services.support.microsoft.com
+cpslitetest-qna-part.community.services.support.microsoft.com
 cpsproject.team.partners.extranet.microsoft.com
 cpsservices-sancert.microsoft.com
 cpsservices-stg-sancert.microsoft.com
@@ -7089,6 +7091,7 @@ dev.www.microsoft.com
 dev1-partnerincentives.microsoft.com
 dev2-partnerincentives.microsoft.com
 dev2.api.projectdenali.microsoft.com
+dev2.geneva.keyvault.insights.microsoft.com
 dev4.space.microsoft.com
 devapimclient-auth.dse.mp.microsoft.com
 devapp.teams.microsoft.com
@@ -7231,7 +7234,6 @@ dinhydhydp52v1.msftvpn-alt.ras.microsoft.com
 dinhydhydp52v1.msftvpn.ras.microsoft.com
 dinhydhydp52v2.network.microsoft.com
 dinhydhydsbc51.microsoft.com
-directory-int.teams.microsoft.com
 directory.netmeeting.microsoft.com
 directory.services.glbdns.microsoft.com
 directorypolicycache-test.teams.microsoft.com
@@ -7545,6 +7547,7 @@ e14mail.exchange.microsoft.com
 e28e3298-2a7c-43b8-91cc-2d4772b8dd76.microsoft.com
 e2e.cloudtest-user.rome3.rome.microsoft.com
 e2eappdev.mp.microsoft.com
+e2eenterprisereferenceportal.mp.microsoft.com
 e2eenterprisereferenceportalweb.mp.microsoft.com
 e2einvestigator-appx-signing.ppe.mediasync.microsoft.com
 e2eproductdiagnostics.mp.microsoft.com
@@ -7829,10 +7832,12 @@ emails-ppe.azure.microsoft.com
 emails.azure.microsoft.com
 emailservice.microsoft.com
 embeddedsocial.microsoft.com
+embeddeduat.microsoft.com
 emcd2.redmond.corp.microsoft.com
 emcextuat.glbdns2.microsoft.com
 emcsqlu2l.partners.extranet.microsoft.com
 emcws.glbdns2.microsoft.com
+emcws.parttest.extranettest.microsoft.com
 emcws2.partners.extranet.microsoft.com
 emcws2.parttest.extranettest.microsoft.com
 emea-settings.teams.microsoft.com
@@ -8034,6 +8039,7 @@ escalationfrontdoor-actions-prod.services.microsoft.com
 escalationfrontdoor-actions-test.services.microsoft.com
 esimgcd01.redmond.corp.microsoft.com
 esimgdevpxe01.ntdev.corp.microsoft.com
+esintellect.geneva.keyvault.microsoft.com
 eslive.partners.extranet.microsoft.com
 esp-dev.microsoft.com
 esp-int.microsoft.com
@@ -8159,6 +8165,7 @@ euw.services-dm1.premier.microsoft.com
 euw.services-tm1.premier.microsoft.com
 euw.services-tst1.premier.microsoft.com
 euw.services-uat.premier.microsoft.com
+euws.ship.support.microsoft.com
 ev-feedback.smartscreen.microsoft.com
 ev2prod.msdn.microsoft.com
 evd-tip.bingads.microsoft.com
@@ -8237,9 +8244,12 @@ expeccevroot2017.pki.microsoft.com
 experience.mms.microsoft.com
 experiences.iris.microsoft.com
 experiment.research.microsoft.com
+experimentation.ustdatasciences.microsoft.com
 expert.partners.extranet.microsoft.com
 expertextsea.partners.extranet.microsoft.com
+expertextwu2.partners.extranet.microsoft.com
 experts.microsoft.com
+expertzone.emea.microsoft.com
 expertzone.heot.glbdns.microsoft.com
 expertzone.microsoft.com
 expertzone.microsoft.com.glbdns2.microsoft.com
@@ -8400,6 +8410,7 @@ ext-s46r2402.azs.selfhost.corp.microsoft.com
 ext.adfs.glbdns.microsoft.com
 ext.jp.chan.kaw.cb3.glbdns.microsoft.com
 extendedservicesiteoc.partners.extranet.microsoft.com
+extendedsvcperf.parttest.extranettest.microsoft.com
 extendedvalvestemseoc.partners.extranet.microsoft.com
 extensibility.microsoftsearch.microsoft.com
 external.thea.microsoft.com
@@ -9028,6 +9039,7 @@ g1.gdom.extest.microsoft.com
 galenb-wac.ntdev.corp.microsoft.com
 gallery.technet.microsoft.com
 game.entertainment.msncojp.jpchn.glbdns.microsoft.com
+gamedevstore.partners.extranet.microsoft.com
 gamereports.microsoft.com
 games.microsoft.com
 games.uk.set.glbdns.microsoft.com
@@ -9050,7 +9062,6 @@ gateway.monitoring.geneva.esrp.microsoft.com
 gateway.msegcrm.microsoft.com
 gatewayext-corp-essppe2.corp.microsoft.com
 gatewaylabs.redmond.corp.microsoft.com
-gatewaysign-corp-essmopr3.corp.microsoft.com
 gaucrdp.microsoft.com
 gbprcb.ectest.one.microsoft.com
 gbrpegasusapp.aadcerts.microsoft.com
@@ -9074,6 +9085,7 @@ gcs.prod.asi.microsoft.com
 gcs.prod.detection.rome.microsoft.com
 gcs.stage.asi.microsoft.com
 gcs.stage.detection.rome.microsoft.com
+gcslearn.partners.extranet.microsoft.com
 gcsmobile.microsoft.com
 gdpr-dev.app.docs.microsoft.com
 gdpr-gne-cert-aippi.aip.microsoft.com
@@ -9122,6 +9134,7 @@ genuine.microsoft.com
 geo.microsoft.com
 geo201-dev.do.dsp.mp.microsoft.com
 geover-prod.id.dsp.mp.microsoft.com
+german.assessment.learning.microsoft.com
 germanycentral.prod.powerquery.microsoft.com
 germanynortheast.prod.powerquery.microsoft.com
 gestaltapi.microsoft.com
@@ -9631,6 +9644,8 @@ hrprofile1.microsoft.com
 hs.prev.windows.microsoft.com
 hs.test.windows.microsoft.com
 hs.windows.microsoft.com
+hssweb1.one.microsoft.com
+hssweb2.one.microsoft.com
 hssweb4.one.microsoft.com
 hssweb5.one.microsoft.com
 hssweb6.one.microsoft.com
@@ -10009,6 +10024,7 @@ instrument.scs.gcc.teams.microsoft.com
 instrument.scs.teams.microsoft.com
 instrumentdatarelay-pimsclientauth.cp.microsoft.com
 instrumentexport.cp.microsoft.com
+instrumentexport.dm2.cp.microsoft.com
 instrumentstore-paymentfileproxyclientauth-int.cp.microsoft.com
 int-answers.microsoft.com
 int-app.servicetrust.microsoft.com
@@ -10062,12 +10078,13 @@ int.mstf.microsoft.com
 int.nlu.speech.microsoft.com
 int.onlinehelp.microsoft.com
 int.prev-windows.microsoft.com
-int.prssaudit.geneva.keyvault.prss.microsoft.com
+int.profileapi.services.microsoft.com
 int.rewardsplatform.microsoft.com
 int.sds.microsoft.com
 int.services.social.microsoft.com
 int.sls.microsoft.com
 int.social.answers.microsoft.com
+int.social.expression.microsoft.com
 int.social.microsoft.com
 int.spserv.microsoft.com
 int.stiauth.sds.microsoft.com
@@ -10643,6 +10660,7 @@ layoutocr-test.microsoft.com
 layoutocr-uat.microsoft.com
 layoutocr.microsoft.com
 lb.appsuggestions.teams.microsoft.com
+lbu165.rte.microsoft.com
 lbu170.rte.microsoft.com
 lca-in.microsoft.com
 lcatxweb02hv.parttest.extranettest.microsoft.com
@@ -10854,6 +10872,7 @@ login-b.mms.microsoft.com
 login.cap.microsoft.com
 login.capdev.microsoft.com
 login.capqa.microsoft.com
+login.groove.microsoft.com
 login.microsoft.com
 login.mms.microsoft.com
 login.msn.glbdns.microsoft.com
@@ -10918,6 +10937,7 @@ lsdp28.meet.microsoft.com
 lsdp29.meet.microsoft.com
 lsdrdgw.corp.microsoft.com
 lsi.microsoft.com
+lslm01.meet.microsoft.com
 lslm02.meet.microsoft.com
 lslm03.meet.microsoft.com
 lslm07.meet.microsoft.com
@@ -10972,6 +10992,7 @@ lync17.lyncweb.microsoft.com
 lync18.lyncweb.microsoft.com
 lync19.lyncweb.microsoft.com
 lync20.lyncweb.microsoft.com
+lync22.lyncweb.microsoft.com
 lync23.lyncweb.microsoft.com
 lync24.lyncweb.microsoft.com
 lync25.lyncweb.microsoft.com
@@ -10993,6 +11014,7 @@ lyncbvtse.lyncbvt.rtmp.selfhost.corp.microsoft.com
 lyncdiscover.clientsemain.rtmp.selfhost.corp.microsoft.com
 lyncdiscover.cssp.microsoft.com
 lyncdiscover.legacy2010.rtmp.selfhost.corp.microsoft.com
+lyncdiscover.mssupport.microsoft.com
 lyncdiscoverinternal.clientsemain.rtmp.selfhost.corp.microsoft.com
 lyncdiscoverinternal.cssp.microsoft.com
 lyncdiscoverinternal.legacy2010.rtmp.selfhost.corp.microsoft.com
@@ -11011,6 +11033,7 @@ m-acc.microsoft.com
 m.bingads.microsoft.com
 m.bmsua01.manage-beta.microsoft.com
 m.bmsua02.manage-beta.microsoft.com
+m.bmsuc01.manage-beta.microsoft.com
 m.buildingabrighterfuture.set.glbdns.microsoft.com
 m.dmsua02.manage-dogfood.microsoft.com
 m.fei.amsua0602.manage.microsoft.com
@@ -11108,6 +11131,7 @@ maestroapi.microsoft.com
 maf.adcenter.glbdns2.microsoft.com
 maf.adcenter.microsoft.com
 maf.api.bingads.microsoft.com
+maftest.adcenter.microsoft.com
 magicfolder-client.docs.microsoft.com
 mahuangaladdin001.smltenant.microsoft.com
 mahuangaladdin014.smltenant.microsoft.com
@@ -11165,9 +11189,13 @@ mail-db8lp0181.outbound.messaging.microsoft.com
 mail-db8lp0182.outbound.messaging.microsoft.com
 mail-db8lp0185.outbound.messaging.microsoft.com
 mail-db8lp0188.outbound.messaging.microsoft.com
+mail-db8lp0189.outbound.messaging.microsoft.com
+mail-db8un0243.outbound.messaging.microsoft.com
 mail-db8un0244.outbound.messaging.microsoft.com
 mail-db9lp0235.outbound.messaging.microsoft.com
+mail-db9lp0238.outbound.messaging.microsoft.com
 mail-db9lp0240.outbound.messaging.microsoft.com
+mail-db9lp0250.outbound.messaging.microsoft.com
 mail-db9un0247.outbound.messaging.microsoft.com
 mail-eopbgr1ging.microsoft.com
 mail-sdf.graph.microsoft.com
@@ -11181,11 +11209,15 @@ mail.legacy2013.rtmp.selfhost.corp.microsoft.com
 mail.outbound.messaging.microsoft.com
 mail.previewdf.messaging.microsoft.com
 mail.research.microsoft.com
+mail.us.messaging.microsoft.com
 mail02.apsswp.rte.microsoft.com
 mail02.eurfw.rte.microsoft.com
 mail04.eurswp.rte.microsoft.com
 mail04.redfw.rte.microsoft.com
+mail05.redfw.rte.microsoft.com
 mail06.swp.rte.microsoft.com
+mail07.swp.rte.microsoft.com
+mail1.assist.microsoft.com
 mail1.messaging.microsoft.com
 mail1.wfp.microsoft.com
 mail11.eurswp.rte.microsoft.com
@@ -11214,13 +11246,16 @@ mail14-am1hn0220.outbound.messaging.microsoft.com
 mail14-am1nn0223.outbound.messaging.microsoft.com
 mail14-am1nn0231.outbound.messaging.microsoft.com
 mail14-am1on0031.outbound.messaging.microsoft.com
+mail14-am1on0032.outbound.messaging.microsoft.com
 mail14-am1on0033.outbound.messaging.microsoft.com
+mail14-am1on0057.outbound.messaging.microsoft.com
 mail14-am1on0058.outbound.messaging.microsoft.com
 mail14-am1on0059.outbound.messaging.microsoft.com
 mail14-am1on0068.outbound.messaging.microsoft.com
 mail14-am1on0073.outbound.messaging.microsoft.com
 mail14-am1on0075.outbound.messaging.microsoft.com
 mail14-am1on0079.outbound.messaging.microsoft.com
+mail14-am1on0080.outbound.messaging.microsoft.com
 mail14-am1on0088.outbound.messaging.microsoft.com
 mail14-am1on0093.outbound.messaging.microsoft.com
 mail14-am1on0098.outbound.messaging.microsoft.com
@@ -11231,6 +11266,7 @@ mail14-am1on0110.outbound.messaging.microsoft.com
 mail14-am1on0111.outbound.messaging.microsoft.com
 mail14-am1on0112.outbound.messaging.microsoft.com
 mail14-ch1bn0119.outbound.messaging.microsoft.com
+mail14-ch1bn0122.outbound.messaging.microsoft.com
 mail14-ch1bn0124.outbound.messaging.microsoft.com
 mail14-ch1bn0125.outbound.messaging.microsoft.com
 mail14-ch1bn0127.outbound.messaging.microsoft.com
@@ -11238,6 +11274,7 @@ mail14-ch1bn0133.outbound.messaging.microsoft.com
 mail14-ch1bn0148.outbound.messaging.microsoft.com
 mail14-ch1bn0153.outbound.messaging.microsoft.com
 mail14-ch1bn0158.outbound.messaging.microsoft.com
+mail14-ch1bn0170.outbound.messaging.microsoft.com
 mail14-ch1bn0173.outbound.messaging.microsoft.com
 mail14-ch1bn0179.outbound.messaging.microsoft.com
 mail14-ch1bn0188.outbound.messaging.microsoft.com
@@ -11248,7 +11285,10 @@ mail14-ch1bn0196.outbound.messaging.microsoft.com
 mail14-ch1bn0202.outbound.messaging.microsoft.com
 mail14-ch1hn0166.outbound.messaging.microsoft.com
 mail14-ch1hn0215.outbound.messaging.microsoft.com
+mail14-ch1hn0220.outbound.messaging.microsoft.com
 mail14-ch1nn0231.outbound.messaging.microsoft.com
+mail14-ch1nn0238.outbound.messaging.microsoft.com
+mail14-ch1nn0241.outbound.messaging.microsoft.com
 mail14-ch1on0047.outbound.messaging.microsoft.com
 mail14-ch1on0055.outbound.messaging.microsoft.com
 mail14-ch1on0063.outbound.messaging.microsoft.com
@@ -11260,12 +11300,14 @@ mail14-ch1on0080.outbound.messaging.microsoft.com
 mail14-ch1on0086.outbound.messaging.microsoft.com
 mail14-ch1on0087.outbound.messaging.microsoft.com
 mail14-ch1on0090.outbound.messaging.microsoft.com
+mail14-ch1on0099.outbound.messaging.microsoft.com
 mail14-ch1on0102.outbound.messaging.microsoft.com
 mail14-ch1on0104.outbound.messaging.microsoft.com
 mail14-ch1on0107.outbound.messaging.microsoft.com
 mail14-co1bn0119.outbound.messaging.microsoft.com
 mail14-co1bn0121.outbound.messaging.microsoft.com
 mail14-co1bn0134.outbound.messaging.microsoft.com
+mail14-co1bn0137.outbound.messaging.microsoft.com
 mail14-co1bn0144.outbound.messaging.microsoft.com
 mail14-co1bn0151.outbound.messaging.microsoft.com
 mail14-co1bn0155.outbound.messaging.microsoft.com
@@ -11282,6 +11324,8 @@ mail14-co1nn0241.outbound.messaging.microsoft.com
 mail14-co1on0024.outbound.messaging.microsoft.com
 mail14-co1on0025.outbound.messaging.microsoft.com
 mail14-co1on0028.outbound.messaging.microsoft.com
+mail14-co1on0052.outbound.messaging.microsoft.com
+mail14-co1on0054.outbound.messaging.microsoft.com
 mail14-co1on0063.outbound.messaging.microsoft.com
 mail14-co1on0064.outbound.messaging.microsoft.com
 mail14-co1on0065.outbound.messaging.microsoft.com
@@ -11297,14 +11341,17 @@ mail14-co1on0099.outbound.messaging.microsoft.com
 mail14-co1on0106.outbound.messaging.microsoft.com
 mail14-co9bn0119.outbound.messaging.microsoft.com
 mail14-co9bn0120.outbound.messaging.microsoft.com
+mail14-co9bn0134.outbound.messaging.microsoft.com
 mail14-co9bn0136.outbound.messaging.microsoft.com
 mail14-co9bn0156.outbound.messaging.microsoft.com
 mail14-co9bn0159.outbound.messaging.microsoft.com
+mail14-co9bn0161.outbound.messaging.microsoft.com
 mail14-co9bn0171.outbound.messaging.microsoft.com
 mail14-co9bn0173.outbound.messaging.microsoft.com
 mail14-co9bn0183.outbound.messaging.microsoft.com
 mail14-co9bn0192.outbound.messaging.microsoft.com
 mail14-co9bn0193.outbound.messaging.microsoft.com
+mail14-co9bn0194.outbound.messaging.microsoft.com
 mail14-co9bn0196.outbound.messaging.microsoft.com
 mail14-co9bn0201.outbound.messaging.microsoft.com
 mail14-co9bn0214.outbound.messaging.microsoft.com
@@ -11327,6 +11374,7 @@ mail14-co9on0048.outbound.messaging.microsoft.com
 mail14-co9on0049.outbound.messaging.microsoft.com
 mail14-co9on0065.outbound.messaging.microsoft.com
 mail14-co9on0066.outbound.messaging.microsoft.com
+mail14-co9on0068.outbound.messaging.microsoft.com
 mail14-co9on0076.outbound.messaging.microsoft.com
 mail14-co9on0084.outbound.messaging.microsoft.com
 mail14-co9on0087.outbound.messaging.microsoft.com
@@ -11334,6 +11382,7 @@ mail14-co9on0090.outbound.messaging.microsoft.com
 mail14-co9on0093.outbound.messaging.microsoft.com
 mail14-co9on0097.outbound.messaging.microsoft.com
 mail14-co9on0105.outbound.messaging.microsoft.com
+mail14-co9on0108.outbound.messaging.microsoft.com
 mail14-co9on0110.outbound.messaging.microsoft.com
 mail14-co9on0113.outbound.messaging.microsoft.com
 mail14-db8bn0119.outbound.messaging.microsoft.com
@@ -11350,6 +11399,7 @@ mail14-db8bn0185.outbound.messaging.microsoft.com
 mail14-db8bn0190.outbound.messaging.microsoft.com
 mail14-db8bn0195.outbound.messaging.microsoft.com
 mail14-db8bn0203.outbound.messaging.microsoft.com
+mail14-db8hn0218.outbound.messaging.microsoft.com
 mail14-db8nn0223.outbound.messaging.microsoft.com
 mail14-db8nn0228.outbound.messaging.microsoft.com
 mail14-db8nn0229.outbound.messaging.microsoft.com
@@ -11365,12 +11415,15 @@ mail14-db8on0040.outbound.messaging.microsoft.com
 mail14-db8on0041.outbound.messaging.microsoft.com
 mail14-db8on0054.outbound.messaging.microsoft.com
 mail14-db8on0057.outbound.messaging.microsoft.com
+mail14-db8on0062.outbound.messaging.microsoft.com
 mail14-db8on0067.outbound.messaging.microsoft.com
 mail14-db8on0072.outbound.messaging.microsoft.com
 mail14-db8on0075.outbound.messaging.microsoft.com
+mail14-db8on0079.outbound.messaging.microsoft.com
 mail14-db8on0080.outbound.messaging.microsoft.com
 mail14-db8on0084.outbound.messaging.microsoft.com
 mail14-db8on0089.outbound.messaging.microsoft.com
+mail14-db8on0094.outbound.messaging.microsoft.com
 mail14-db8on0095.outbound.messaging.microsoft.com
 mail14-db8on0096.outbound.messaging.microsoft.com
 mail14-db8on0099.outbound.messaging.microsoft.com
@@ -11382,9 +11435,12 @@ mail14-db9bn0128.outbound.messaging.microsoft.com
 mail14-db9bn0133.outbound.messaging.microsoft.com
 mail14-db9bn0138.outbound.messaging.microsoft.com
 mail14-db9bn0151.outbound.messaging.microsoft.com
+mail14-db9bn0169.outbound.messaging.microsoft.com
+mail14-db9bn0182.outbound.messaging.microsoft.com
 mail14-db9bn0186.outbound.messaging.microsoft.com
 mail14-db9bn0194.outbound.messaging.microsoft.com
 mail14-db9bn0197.outbound.messaging.microsoft.com
+mail14-db9bn0198.outbound.messaging.microsoft.com
 mail14-db9bn0200.outbound.messaging.microsoft.com
 mail14-db9bn0204.outbound.messaging.microsoft.com
 mail14-db9bn0212.outbound.messaging.microsoft.com
@@ -11405,24 +11461,34 @@ mail14-db9on0044.outbound.messaging.microsoft.com
 mail14-db9on0046.outbound.messaging.microsoft.com
 mail14-db9on0056.outbound.messaging.microsoft.com
 mail14-db9on0057.outbound.messaging.microsoft.com
+mail14-db9on0059.outbound.messaging.microsoft.com
 mail14-db9on0060.outbound.messaging.microsoft.com
 mail14-db9on0064.outbound.messaging.microsoft.com
 mail14-db9on0072.outbound.messaging.microsoft.com
 mail14-db9on0076.outbound.messaging.microsoft.com
+mail14-db9on0078.outbound.messaging.microsoft.com
 mail14-db9on0079.outbound.messaging.microsoft.com
 mail14-db9on0089.outbound.messaging.microsoft.com
+mail14-db9on0099.outbound.messaging.microsoft.com
 mail14-db9on0101.outbound.messaging.microsoft.com
 mail14-db9on0102.outbound.messaging.microsoft.com
 mail14-db9on0103.outbound.messaging.microsoft.com
 mail14-db9on0109.outbound.messaging.microsoft.com
 mail14-tx2bn0119.outbound.messaging.microsoft.com
 mail14-tx2bn0123.outbound.messaging.microsoft.com
+mail14-tx2bn0125.outbound.messaging.microsoft.com
+mail14-tx2bn0132.outbound.messaging.microsoft.com
+mail14-tx2bn0134.outbound.messaging.microsoft.com
 mail14-tx2bn0137.outbound.messaging.microsoft.com
+mail14-tx2bn0139.outbound.messaging.microsoft.com
 mail14-tx2bn0142.outbound.messaging.microsoft.com
 mail14-tx2bn0160.outbound.messaging.microsoft.com
+mail14-tx2bn0164.outbound.messaging.microsoft.com
 mail14-tx2bn0167.outbound.messaging.microsoft.com
 mail14-tx2bn0171.outbound.messaging.microsoft.com
 mail14-tx2bn0177.outbound.messaging.microsoft.com
+mail14-tx2bn0179.outbound.messaging.microsoft.com
+mail14-tx2bn0188.outbound.messaging.microsoft.com
 mail14-tx2bn0192.outbound.messaging.microsoft.com
 mail14-tx2bn0200.outbound.messaging.microsoft.com
 mail14-tx2bn0204.outbound.messaging.microsoft.com
@@ -11440,6 +11506,7 @@ mail14-tx2on0042.outbound.messaging.microsoft.com
 mail14-tx2on0043.outbound.messaging.microsoft.com
 mail14-tx2on0047.outbound.messaging.microsoft.com
 mail14-tx2on0055.outbon0025.outbound.messaging.microsoft.com
+mail14-tx2on0062.outbound.messaging.microsoft.com
 mail14-tx2on0066.outbound.messaging.microsoft.com
 mail14-tx2on0068.outbound.messaging.microsoft.com
 mail14-tx2on0071.outbound.messaging.microsoft.com
@@ -11456,6 +11523,7 @@ mail14-tx2on0107.outbound.messaging.microsoft.com
 mail14-tx2on0110.outbound.messaging.microsoft.com
 mail14-tx2on0112.outbound.messaging.microsoft.com
 mail14-tx2on0113.outbound.messaging.microsoft.com
+mail14-va3bn0118.outbound.messaging.microsoft.com
 mail14-va3bn0124.outbound.messaging.microsoft.com
 mail14-va3bn0131.outbound.messaging.microsoft.com
 mail14-va3bn0139.outbound.messaging.microsoft.com
@@ -11468,9 +11536,11 @@ mail14-va3bn0182.outbound.messaging.microsoft.com
 mail14-va3bn0183.outbound.messaging.microsoft.com
 mail14-va3bn0189.outbound.messaging.microsoft.com
 mail14-va3bn0190.outbound.messaging.microsoft.com
+mail14-va3bn0192.outbound.messaging.microsoft.com
 mail14-va3bn0200.outbound.messaging.microsoft.com
 mail14-va3bn0202.outbound.messaging.microsoft.com
 mail14-va3bn0204.outbound.messaging.microsoft.com
+mail14-va3hn0215.outbound.messaging.microsoft.com
 mail14-va3hn0218.outbound.messaging.microsoft.com
 mail14-va3nn0226.outbound.messaging.microsoft.com
 mail14-va3nn0235.outbound.messaging.microsoft.com
@@ -11488,10 +11558,13 @@ mail14-va3on0062.outbound.messaging.microsoft.com
 mail14-va3on0064.outbound.messaging.microsoft.com
 mail14-va3on0066.outbound.messaging.microsoft.com
 mail14-va3on0069.outbound.messaging.microsoft.com
+mail14-va3on0078.outbound.messaging.microsoft.com
 mail14-va3on0087.outbound.messaging.microsoft.com
 mail14-va3on0094.outbound.messaging.microsoft.com
+mail14-va3on0095.outbound.messaging.microsoft.com
 mail14-va3on0098.outbound.messaging.microsoft.com
 mail14.eurswp.rte.microsoft.com
+mail14.swp.rte.microsoft.com
 mail145.gate6.g.mlgns.messaging.microsoft.com
 mail15.betawhatsappviber.c4-tx2hn0213.outbound.messaging.microsoft.com
 mail15.clientee.rtmp.selfhost.corp.microsoft.com
@@ -11761,6 +11834,7 @@ mashup.css.microsoft.com
 mashupppe.css.microsoft.com
 masportal.support.microsoft.com
 maspqa.support.microsoft.com
+massppe.microsoft.com
 masstest.partners.extranet.microsoft.com
 mast.corp.microsoft.com
 mast.microsoft.com
@@ -12360,7 +12434,6 @@ msitservicecatalogsit.parttest.extranettest.microsoft.com
 msitservicecataloguat.partners.extranet.microsoft.com
 msitservicecataloguatext.partners.extranet.microsoft.com
 msitsrvtxttest.partners.extranet.microsoft.com
-mskeysencryptionuat.mskeys.microsoft.com
 mskkjp.partners.extranet.microsoft.com
 msl-ext.glbdns2.microsoft.com
 mslearningcontent.microsoft.com
@@ -12922,6 +12995,7 @@ nextnbtestgroup.smltenant.microsoft.com
 ngimbrtcrm.partners.extranet.microsoft.com
 ngimcrm.partners.extranet.microsoft.com
 ngimfilequn.partners.extranet.microsoft.com
+ngimhotfixsrs.parttest.extranettest.microsoft.com
 ngimperfclient.parttest.extranettest.microsoft.com
 ngimtwip.parttest.extranettest.microsoft.com
 ngimtwipclient.parttest.extranettest.microsoft.com
@@ -13263,6 +13337,7 @@ office365.pinpoint.microsoft.com
 officeapps.live.comoffice.microsoft.com
 officebeta.glbdns.microsoft.com
 officebetaimages.microsoft.com
+officedog.selfhost.corp.microsoft.com
 officegemini-vendor.redmond.corp.microsoft.com
 officeint.microsoft.com
 officelive.microsoft.com
@@ -13532,6 +13607,7 @@ p4baz2.partners.extranet.microsoft.com
 p4baz5.partners.extranet.microsoft.com
 p4baz6.partners.extranet.microsoft.com
 p5.prod.eus.apslb.cp.microsoft.com
+pa3.lync.mds.microsoft.com
 paasnativedeploy.microsoft.com
 pac-cy.dse.mp.microsoft.com
 pace-clientcert-dataservice-int.microsoft.com
@@ -13900,6 +13976,7 @@ pop3.hot.glbdns.microsoft.com
 pop3bc.glbdns2.microsoft.com
 portableidentitycardadmin.ppe.did.microsoft.com
 portal-build.startups.microsoft.com
+portal-dev.mercury.microsoft.com
 portal-int.mercury.microsoft.com
 portal-partnerincentives.microsoft.com
 portal-uat.imagine.microsoft.com
@@ -13912,6 +13989,7 @@ portal.bmsua02.manage-beta.microsoft.com
 portal.changemanager.fcm.azure.microsoft.com
 portal.csec.microsoft.com
 portal.daas.microsoft.com
+portal.dmsua02.manage-dogfood.microsoft.com
 portal.ds-staging.microsoft.com
 portal.ds.mrs.microsoft.com
 portal.ex.azure.microsoft.com
@@ -14260,6 +14338,7 @@ pr-lgtm.corp.microsoft.com
 pr-provisioning-pk3.ensdevsec.mp.microsoft.com
 pr-provisioning-pk3ensdevsec.mp.glbdns2.microsoft.com
 pr.dev.sasweb.microsoft.com
+pr.dl.saw.microsoft.com
 pr.fullproduct.download.microsoft.com
 pr.pamweb.microsoft.com
 pr.vpn.saw.microsoft.com
@@ -14299,6 +14378,7 @@ preview.api.flow.microsoft.com
 preview.bingads.microsoft.com
 preview.eagreements.microsoft.com
 preview.library.microsoft.com
+preview.mceondemand.microsoft.com
 preview.microsoft.com
 preview.partnerdevice.microsoft.com
 preview.personnel.microsoft.com
@@ -14470,7 +14550,9 @@ profile.academic.research.microsoft.com
 profile.msdn.microsoft.com
 profile.ppe.collab.mixedreality.microsoft.com
 profile.prod.collab.mixedreality.microsoft.com
+profileuat.microsoft.com
 profilevet-aad.registration.cp.microsoft.com
+profitabilitybenchmark.microsoft.com
 program-config.payoutmanagement.dps.microsoft.com
 progressivemedia-mlxite3-static.microsoft.com
 projectdenali.microsoft.com
@@ -14907,6 +14989,7 @@ quotecenter-vnext.microsoft.com
 quotecomposer.int.l2o.microsoft.com
 quotecomposer.l2o.microsoft.com
 quotecomposer.local.l2o.microsoft.com
+quy.cam.uk.eu.microsoft.com
 r-1.prod-cdn.webapps.microsoft.com
 r-1.qa-cdn.webapps.microsoft.com
 r-1.sit-cdn.webapps.microsoft.com
@@ -14922,10 +15005,14 @@ r.sconline-int.microsoft.com
 r.sit.webapps.microsoft.com
 r.testc.manage.microsoft.com
 r.webapps.microsoft.com
+r152.mails2.microsoft.com
 r162.mails2.microsoft.com
+r165.mails2.microsoft.com
+r168.mails2.microsoft.com
 r173.mails2.microsoft.com
 r2releasezone1sfencrypt.corp.microsoft.com
 r450.voice.microsoft.com
+r76.mails.microsoft.com
 ra-int-client.dce.mp.microsoft.com
 ra-int.dce.mp.glbdns2.microsoft.com
 ra.dce.mp.glbdns2.microsoft.com
@@ -14933,6 +15020,8 @@ ra.dce.mp.microsoft.com
 ra.microsoft.com
 ra12b01.azs.selfhost.corp.microsoft.com
 ra2.sbweb.microsoft.com
+ra30.sbweb.microsoft.com
+ra5.sbweb.microsoft.com
 raa.support.microsoft.com
 raadvankerkentilburg.nweb.microsoft.com
 raas.microsoft.com
@@ -15031,6 +15120,7 @@ rdsh2016-13-gw.rdvteam.stbtest.microsoft.com
 rdtoken.wvdexci1.microsoft.com
 rdtoken.wvdexci2.microsoft.com
 rdtoken.wvdexci3.microsoft.com
+rdxprodbeex1.redmond.corp.microsoft.com
 rdxprodraex3.redmond.corp.microsoft.com
 rdxprodramed1.redmond.corp.microsoft.com
 rdxstagraex4.redmond.corp.microsoft.com
@@ -15054,6 +15144,7 @@ recognitionext.partners.extranet.microsoft.com
 recognitionexteus.partners.extranet.microsoft.com
 recognitionextscus.partners.extranet.microsoft.com
 recognitionextsea.partners.extranet.microsoft.com
+recognitionextwu2.partners.extranet.microsoft.com
 recognitionscus.partners.extranet.microsoft.com
 recognitionsea.partners.extranet.microsoft.com
 recognitionstaging.partners.extranet.microsoft.com
@@ -15106,6 +15197,7 @@ register.microsoft.com
 register.print-ppe.microsoft.com
 register.techsummit.microsoft.com
 register3.parttest.extranettest.microsoft.com
+registermsdnpob.parttest.extranettest.microsoft.com
 registeru2.parttest.extranettest.microsoft.com
 registrar.gov.teams.microsoft.com
 registration.print-ppe.microsoft.com
@@ -15127,6 +15219,7 @@ release-automation.redmond.corp.microsoft.com
 release-ppe.prss.microsoft.com
 releaseserviceapi.one.microsoft.com
 relmc.testcert.rdx.office.microsoft.com
+remote.microsoft.com
 remoteassistance.support.services.microsoft.com
 render.dev.sx.microsoft.com
 render.eastus.sx.microsoft.com
@@ -15140,6 +15233,8 @@ renewableassets.cp.microsoft.com
 renewnowsan1.ustcms.microsoft.com
 rep.aria.microsoft.com
 replay.enterprisereportingservice.cp.microsoft.com
+reportabuse.int.microsoftedge.microsoft.com
+reportapi.current.adcenter-pace.microsoft.com
 reportdataservices.partners.extranet.microsoft.com
 reportdataservicesclientu3.partners.extranet.microsoft.com
 reporting.familysafety.microsoft.com
@@ -15242,6 +15337,7 @@ revenueallocatortimejournal.dm2.cp.microsoft.com
 revenueallocatorusage.bn4.cp.microsoft.com
 revenueallocatorusage.co1.cp.microsoft.com
 revenueallocatorusage.dm2.cp.microsoft.com
+revenueallocatorusage.dm2p.cp.microsoft.com
 reverseproxy.dfp.microsoft.com
 reversespeechconsultant.cocatortimejournal.cp.microsoft.com
 review-search-access.docs.microsoft.com
@@ -15267,6 +15363,7 @@ rimefeeder.test.azurefraud.microsoft.com
 ris.creativeservice-int.microsoft.com
 riskevaluation.cp.glbdns2.microsoft.com
 rkpredict.cp.microsoft.com
+rkprime.ppe.wus2.apslb.cp.microsoft.com
 rkprime.prod.wcus.apslb.cp.microsoft.com
 rkprime.prod.wus2.apslb.cp.microsoft.com
 rl.dds.account.microsoft.com
@@ -15307,6 +15404,7 @@ roboselfserveuat.microsoft.com
 robouat.microsoft.com
 roclicensing-int.partners.extranet.microsoft.com
 roclicensing.partners.extranet.microsoft.com
+roclicensingsit1.partners.extranet.microsoft.com
 roclicensinguat2.partners.extranet.microsoft.com
 roi-transform.microsoft.com
 roi.transform.microsoft.com
@@ -15781,6 +15879,7 @@ rtam.css.microsoft.com
 rtamapi.css.microsoft.com
 rtamapippe.css.microsoft.com
 rtc12tap.microsoft.com
+rtc12tap.partners.extranet.microsoft.com
 rtc5343bigip.corp.microsoft.com
 rtc5343sigrep.343i.selfhost.corp.microsoft.com
 rtcollab.photos-dev.microsoft.com
@@ -15907,6 +16006,7 @@ sa.fp.wd.microsoft.com
 sa.ite3.mlx.microsoft.com
 saasportalmain.corp.microsoft.com
 sabproweb01.northamerica.corp.microsoft.com
+sabrix-smoke.cp.microsoft.com
 sac-messaging.saw.microsoft.com
 saconfig.microsoft.com
 safecopcd.team.partners.extranet.microsoft.com
@@ -15921,6 +16021,7 @@ samarium.carbon.microsoft.com
 sampleconstsvc1.dce.mp.microsoft.com
 samples.msdn.microsoft.com
 samscalegroupapp.aadcerts.microsoft.com
+samsla.microsoft.com
 san-francisco.techsummit.microsoft.com
 san.ustcms.microsoft.com
 san2.ustcms.microsoft.com
@@ -16035,6 +16136,7 @@ scacuscmwbpp01.partners.extranet.microsoft.com
 scacusscmwbcu02.redmond.corp.microsoft.com
 scaffolding.microsoft.com
 scanondemand.redmond.corp.microsoft.com
+scarlet.cam.uk.eu.microsoft.com
 scawuscmwebcu01.redmond.corp.microsoft.com
 scc-dev.ce.microsoft.com
 sccmdfif.redmond.corp.microsoft.com
@@ -16123,6 +16225,7 @@ scom-bn3-ms001.redmond.corp.microsoft.com
 sconline-int.microsoft.com
 scoringservice.partners.extranet.microsoft.com
 scotty.buddy.microsoft.com
+scp.partners.extranet.microsoft.com
 scpsecurity-stg.microsoft.com
 scpsecurityservice.microsoft.com
 scr-06-369.sp.partners.extranet.microsoft.com
@@ -16150,6 +16253,7 @@ scusignupppe.microsoft.com
 scusignupppeprv.microsoft.com
 scusignupprv.microsoft.com
 scusstaxlwb01.partners.extranet.microsoft.com
+scusstaxlwb02.partners.extranet.microsoft.com
 sdk-mlxperfdev.microsoft.com
 sdklite.emea.glbdns.microsoft.com
 sdklite.emea.glbdns2.microsoft.com
@@ -16166,6 +16270,7 @@ se.adcenterbt.microsoft.com
 se.chan.db2.cb3.glbdns.microsoft.com
 se.db2.cb3.glbdns.microsoft.com
 se.db2.cb3.glbdns2.microsoft.com
+sea-academy.microsoft.com
 sea.jp.jpchn.glbdns.microsoft.com
 sea.mam.manage.microsoft.com
 sea.onlinebackup.microsoft.com
@@ -16245,6 +16350,7 @@ securityservices.adcenterapi.microsoft.com
 securityservices.asia.adcenter.microsoft.com
 securityservices.beta.adcenter.microsoft.com
 securityservices.eu.adcenter.microsoft.com
+securityservices.main.adcenter.microsoft.com
 securityservices.sandbox.adcenter.microsoft.com
 seedtest.msdx.microsoft.com
 selfhost.adminuiweb.mdsauth.manage-selfhost.microsoft.com
@@ -16555,11 +16661,13 @@ sfmgmtcert.strm-prodgccm-us-00-scus.microsoft.com
 sfr2prod.juno.microsoft.com
 sfs-int.dcat.dsp.mp.microsoft.com
 sftdbuatwebdav.partners.extranet.microsoft.com
+sftextint.parttest.extranettest.microsoft.com
 sftintuat.partners.extranet.microsoft.com
 sftools.microsoft.com
 sftp.beta.ads.microsoft.com
 sftppartnertomace-encryption.mace.microsoft.com
 sftppartnertomaceppe-encryption.mace.microsoft.com
+sftuat.one.microsoft.com
 sftus.one.microsoft.com
 sfwebpagetest.redmond.corp.microsoft.com
 sfwebpagetest2.redmond.corp.microsoft.com
@@ -16653,6 +16761,8 @@ shopping.msncojp.jpchn.glbdns.microsoft.com
 short-validity-cert-0226-zb.ustcms.microsoft.com
 shswda01.download.manage-selfhost.microsoft.com
 shtest.adminuiweb.mdsauth.manage-selfhost.microsoft.com
+shuttle-mgr.datatransfer.microsoft.com
+si-maf.adcenter.microsoft.com
 si.adcenterapidownload.microsoft.com
 si.api.adcenter.microsoft.com
 si.bingads.glbdns2.microsoft.com
@@ -16660,6 +16770,7 @@ si.m.bingads.microsoft.com
 sidecarsigncert.manage.microsoft.com
 sidetree.did.microsoft.com
 sidewinders.northamerica.corp.microsoft.com
+siebelpreprod.partners.extranet.microsoft.com
 siebsand.parttest.extranettest.microsoft.com
 siggen-eu.func.cp.wd.microsoft.com
 sign.jihuatest.testssladmin.vsa.sha.microsoft.com
@@ -16700,6 +16811,7 @@ sip.legacy2015.rtmp.selfhost.corp.microsoft.com
 sip.lyncbvt.rtmp.selfhost.corp.microsoft.com
 sip.surenderlss.rtmp.selfhost.corp.microsoft.com
 sipalt.microsoft.com
+sipdog.microsoft.com
 siphon-client.mams.microsoft.com
 sipint1.mds.microsoft.com
 sipint2.mds.microsoft.com
@@ -16849,6 +16961,7 @@ smpaccountexception-client-int.microsoft.com
 smpaccountexception-client.dps.microsoft.com
 sms-psb-ibcm.microsoft.com
 sms-psc-wsus.microsoft.com
+sms-psd-nlb.microsoft.com
 smsb-df.fl.teams.microsoft.com
 smsb.fl.teams.microsoft.com
 smtest.carbon.microsoft.com
@@ -17058,6 +17171,7 @@ spynettest.microsoft.com
 sqa-pis2s.microsoft.com
 sqa1-partnerincentives.microsoft.com
 sqa2-portal-partnerincentives.microsoft.com
+sqa2.partners.extranet.microsoft.com
 sqa3-partnerincentives.microsoft.com
 sqa3-portal-partnerincentives.microsoft.com
 sqlbuppe.redmond.corp.microsoft.com
@@ -17108,6 +17222,7 @@ srvtxwuilb.partners.extranet.microsoft.com
 ssapi-int.mpgsc.glbdns.microsoft.com
 ssapi-int.mpgsc.glbdns2.microsoft.com
 ssc.one.microsoft.com
+sscpob.parttest.extranettest.microsoft.com
 ssencrypt.sm.carbon.microsoft.com
 ssl.apps.dev.microsoft.com
 ssl.canary.graph.microsoft.com
@@ -18009,6 +18124,7 @@ tip2.powerquery.microsoft.com
 tip2.uiflows.flow.microsoft.com
 tips-int.microsoft.com
 tips.microsoft.com
+tk.webfolders.partners.extranet.microsoft.com
 tk2.stb.co1.cb3.glbdns.microsoft.com
 tk3-pt-dc-01.parttest.extranettest.microsoft.com
 tk3-pt-dc-02.parttest.extranettest.microsoft.com
@@ -18083,6 +18199,7 @@ tk5ctslyncfe01.partners.extranet.microsoft.com
 tk5ctslyncfe02.partners.extranet.microsoft.com
 tk5ctslyncpool1.partners.extranet.microsoft.com
 tk5ctslyncpool1hlbint.partners.extranet.microsoft.com
+tk5ecscrmis04f.partners.extranet.microsoft.com
 tk5engiwdw01.partners.extranet.microsoft.com
 tk5esvcpis7.partners.extranet.microsoft.com
 tk5esvdaxis15.partners.extranet.microsoft.com
@@ -18220,6 +18337,7 @@ tokensigningsit.partners.extranet.microsoft.com
 tokensqlmi-azurevpnclientauth.cp.microsoft.com
 tokyo-portal.msftvpn.ras.microsoft.com
 tomertemp.dev.detection.rome.microsoft.com
+toolbar-prod-bn01.microsoft.com
 toolboxclient-int.fulfillment.mcapi.mp.microsoft.com
 toolkit.bingads.microsoft.com
 tools-bn4.cp.microsoft.com
@@ -18253,6 +18371,7 @@ tpmdhasselfhost.redmond.corp.microsoft.com
 tr.chan.db2.cb3.glbdns.microsoft.com
 tr.db2.cb3.glbdns.microsoft.com
 tr.db2.cb3.glbdns2.microsoft.com
+tradenet.partners.extranet.microsoft.com
 tradenetreportserveruat.partners.extranet.microsoft.com
 trader.dradenetuat.partners.extranet.microsoft.com
 tradescreenapi.selfhost.partners.extranet.microsoft.com
@@ -18289,6 +18408,7 @@ trafficshapingintcdnemulator.mp.glbdns2.microsoft.com
 trailers.video.microsoft.com
 training.microsoft.com
 training.serviceshub.microsoft.com
+training.test.ep.parttest.extranettest.microsoft.com
 trainingdev.parttest.extranettest.microsoft.com
 trainingsupport-preview.microsoft.com
 transactions-gallatinauth.microsoft.com
@@ -18402,7 +18522,9 @@ uag.prod.daccess.glbdns.microsoft.com
 uagcol.prod.daccess.glbdns.microsoft.com
 uaofirstrelease.api.flow.microsoft.com
 uar.complianceautomation.microsoft.com
+uat-community.services.support.microsoft.com
 uat-cpsservices-sancert.microsoft.com
+uat-fud.community.services.support.microsoft.com
 uat-partnerincentives.microsoft.com
 uat-partnersupport.microsoft.com
 uat-pis2s.microsoft.com
@@ -18418,12 +18540,14 @@ uat.subscriptions.msdn.microsoft.com
 uat.technet.microsoft.com
 uat2-partnerincentives.microsoft.com
 uat2-portal-partnerincentives.microsoft.com
+uatcertplanner.one.microsoft.com
 uatidentitymanagement.microsoft.com
 uatra.one.microsoft.com
 ucmkibana.bingads.microsoft.com
 ucmproxy.bingads.microsoft.com
 ucpublicforums.microsoft.com
 ucvision.microsoft.com
+ucw81.meet.microsoft.com
 ucx.microsoft.com
 ucxsvc.microsoft.com
 udaauthenticationmodule.manage-beta.microsoft.com
@@ -18437,6 +18561,7 @@ udc.udc0.glbdns2.microsoft.com
 uddi.microsoft.com
 uddi.rte.microsoft.com
 ude-stg.support.microsoft.com
+ude-test.support.microsoft.com
 ude.corp.microsoft.com
 ugcsearch-origin.mediaservices.microsoft.com
 ugcsearch.microsoft.com
@@ -18521,11 +18646,14 @@ unitedstatesfirstrelease.api.bap.microsoft.com
 unitedstatesfirstrelease.api.cds.microsoft.com
 univers1.research.microsoft.com
 universalaccounts.client.skype.microsoft.com
+university.microsoft.com
 upload-int.dps.mp.microsoft.com
 upload.dps.mp.microsoft.com
 uploadartifacts.azuremarketplace.microsoft.com
 urlappmapping.sfp.microsoft.com
+urlf.msft.scm.microsoft.com
 urlp.gcc.teams.microsoft.com
+urlreputation-sn3p.smartscreen.microsoft.com
 urlshortener-server-int.teams.microsoft.com
 urlshortener-server-test.teams.microsoft.com
 urlshortener.infra.gcc.teams.microsoft.com
@@ -18570,6 +18698,7 @@ useast.prod.powerquery.microsoft.com
 user.ext1skype.dev.microsoft.com
 user.ext1skype.ppe.microsoft.com
 user.ext2skype.ppe.microsoft.com
+user.licensing.microsoft.com
 user.partners.extranet.microsoft.com
 userescalation.lens.microsoft.com
 userprofile.ws.microsoft.com
@@ -18577,6 +18706,7 @@ userprofilestaging.partners.extranet.microsoft.com
 userprofilesvc-apac.teams.microsoft.com
 userprofilesvc.teams.microsoft.com
 userrequests-uk.securitycenter.microsoft.com
+userresearch.microsoft.com
 usertest.microsoft.com
 usmevpn.glbdns2.microsoft.com
 usnc-b.services-uat.premier.microsoft.com
@@ -18637,6 +18767,8 @@ v5.windowsupdate.microsoft.com
 v9.update.microsoft.com
 va.download.windowsbeta.microsoft.com
 va3ehsobe001.messaging.microsoft.com
+va3ehsobe003.messaging.microsoft.com
+va3ehsobe004.messaging.microsoft.com
 va3ehsobe006.messaging.microsoft.com
 validating.dev.ustcms.microsoft.com
 validation-int.dps.mp.microsoft.com
@@ -18830,6 +18962,7 @@ venu.scdev.microsoft.com
 vepbuilder.microsoft.com
 vepcdn.microsoft.com
 vepcdnstage.microsoft.com
+vepcontent.microsoft.com
 vepexp.glbdns.microsoft.com
 vepexp.microsoft.com
 verify.microsoft.com
@@ -18843,6 +18976,7 @@ vh002.msllab.microsoft.com
 vh009.msllab.microsoft.com
 vh010.pbt.microsoft.com
 vh011.pbt.microsoft.com
+vh013.pbt.microsoft.com
 vh014.msllab.microsoft.com
 vh015.msllab.microsoft.com
 vh016.msllab.microsoft.com
@@ -18850,13 +18984,19 @@ vh02.beta.virtuallab.microsoft.com
 vh020.msllab.microsoft.com
 vh025.msllab.microsoft.com
 vh04.beta.virtuallab.microsoft.com
+vh101.beta.msllab.microsoft.com
 vh101.msllab.microsoft.com
 vh12.virtuallab.microsoft.com
 vh16.virtuallab.microsoft.com
 vh17.virtuallab.microsoft.com
+vh18.virtuallab.microsoft.com
+vh20.virtuallab.microsoft.com
+vh23.virtuallab.microsoft.com
 vh29.virtuallab.microsoft.com
+vh30.virtuallab.microsoft.com
 vh34.virtuallab.microsoft.com
 vh38.virtuallab.microsoft.com
+vh39.virtuallab.microsoft.com
 vh3s79988d5u.pp.163.co23.msllab.microsoft.com
 viananth-desk.redmond.corp.microsoft.com
 victor.01.22.2020.02.ustcms.microsoft.com
@@ -18900,14 +19040,17 @@ vlaingfake188.ustcms.microsoft.com
 vlan292.bl2-f6x-2ar.microsoft.com
 vlas-ext.glbdns2.microsoft.com
 vlas-int.glbdns2.microsoft.com
+vlasstsdit3ext.parttest.extranettest.microsoft.com
 vlasstsltext.partners.extranet.microsoft.com
 vlasstsltext.parttest.extranettest.microsoft.com
+vlasstsperfext.parttest.extranettest.microsoft.com
 vlasu2.parttest.extranettest.microsoft.com
 vlasuat2.parttest.extranettest.microsoft.com
 vlasuat2int.partners.extranet.microsoft.com
 vlasuat3.parttest.extranettest.microsoft.com
 vlblfc.ettest.microsoft.com
 vlcmdit1cmsext.parttest.extranettest.microsoft.com
+vlcmdit1external.parttest.extranettest.microsoft.com
 vlcmltcmsext.parttest.extranettest.microsoft.com
 vlcmltext.parttest.extranettest.microsoft.com
 vlcmsit3cmsext.parttest.extranettest.microsoft.com
@@ -18923,6 +19066,7 @@ vlcoresrvuat1.partners.extranet.microsoft.com
 vlfs-co1.partners.extranet.microsoft.com
 vlfs-tk5.partners.extranet.microsoft.com
 vlfs.glbdns2.microsoft.com
+vlfslt.partners.extranet.microsoft.com
 vlfslt.parttest.extranettest.microsoft.com
 vlfsprdsql.partners.extranet.microsoft.com
 vlfstest.partners.extranet.microsoft.com
@@ -18949,6 +19093,7 @@ vlscapidev02.corp.microsoft.com
 vlscapiprod.one.microsoft.com
 vlscapiuat.partners.extranet.microsoft.com
 vlscapiwc.partners.extranet.microsoft.com
+vlscco1test.microsoft.com
 vlscintsvc.partners.extranet.microsoft.com
 vlscsfuat1.one.microsoft.com
 vlscsfuat2.one.microsoft.com
@@ -18979,6 +19124,7 @@ vnext.quotecenter-test.microsoft.com
 vnext.ucm.bingads.microsoft.com
 vnextapi.ucm.bingads.microsoft.com
 volga.partners.extranet.microsoft.com
+voltage-pp-0000.encryption.messaging.microsoft.com
 volumelicensing.microsoft.com
 vortex-sandbox.data.glbdns2.microsoft.com
 vortex-win-sandbox.data.microsoft.com
@@ -19028,11 +19174,13 @@ vtxv2wusuatadm1.partners.extranet.microsoft.com
 vtxwcusw03.partners.extranet.microsoft.com
 vtxwuspadmw01.redmond.corp.microsoft.com
 vuat.msdn.microsoft.com
+vuat.onlinehelp.microsoft.com
 vueling.answers.microsoft.com
 vvr.partners.extranet.microsoft.com
 vvrperflt.parttest.extranettest.microsoft.com
 vvruat2.partners.extranet.microsoft.com
 vvruat2.parttest.extranettest.microsoft.com
+vvruat3.partners.extranet.microsoft.com
 vvrweb.glbdns2.microsoft.com
 vvrwebuat.glbdns2.microsoft.com
 w2pazmetsql02.partners.extranet.microsoft.com
@@ -19083,7 +19231,9 @@ watson1.officeprep.microsoft.com
 watson101.watson.microsoft.com
 watson104.watson.microsoft.com
 watson2.microsoft.com
+watson2.officeint.microsoft.com
 watson2.officeprep.microsoft.com
+watson2.watson.microsoft.com
 watson4.watson.microsoft.com
 watson5.watson.microsoft.com
 watson6.watson.microsoft.com
@@ -19110,6 +19260,7 @@ watsonservice-dev02.corp.microsoft.com
 watsonsparetire.microsoft.com
 wb.dlservice.microsoft.com
 wb01.nz.partners.retail.microsoft.com
+wb1.lync.mds.microsoft.com
 wbp-adoprx-001.redmond.corp.microsoft.com
 wbp-adoprx-002.redmond.corp.microsoft.com
 wbp-adoprx-003.redmond.corp.microsoft.com
@@ -19124,6 +19275,7 @@ wbv-ovfsprx-il.middleeast.corp.microsoft.com
 wc.ficp.support.microsoft.com
 wc.support.microsoft.com
 wca.partners.extranet.microsoft.com
+wcfservice.msdn.microsoft.com
 wcumsscusuwb11.partners.extranet.microsoft.com
 wcumsscusuwb12.partners.extranet.microsoft.com
 wcus-int.dsaz.geneva.keyvault.prss.microsoft.com
@@ -19182,6 +19334,7 @@ webappsext.octop.rtmp.selfhost.corp.microsoft.com
 webcourier.msncojp.jpchn.glbdns.microsoft.com
 webedge.sbweb.microsoft.com
 webevents.microsoft.com
+webfolders.metaservices.microsoft.com
 webilb.partners.extranet.microsoft.com
 webilb2.partners.extranet.microsoft.com
 webjob-dev.imagine.microsoft.com
@@ -19286,6 +19439,7 @@ wiki.geneva.keyvault.dev.cayman.microsoft.com
 wildcard.consumer.fulfillment-int.mp.microsoft.com
 wildcard.downloadoffice2010.microsoft.com
 wildcard.video.microsoft.com
+win-mx-01.ppe.datatransfer.microsoft.com
 win-sdx.microsoft.com
 win.test.dzinefer.microsoft.com
 win10partners.microsoft.com
@@ -19317,6 +19471,7 @@ windowssdk.msdn.microsoft.com
 windowsserver.pinpoint.microsoft.com
 winesassetmgmt-streaming.microsoft.com
 winesassetmgmt2.microsoft.com
+winmail2.microsoft.com
 winntfs.files.wortp-gw-ukw.microsoft.com
 winqual.microsoft.com
 winqual.partners.extranet.microsoft.com
@@ -19429,6 +19584,7 @@ wus.shadowrole-writer.m365.microsoft.com
 wus2-autosuggestindexer-int.bigcatalog.microsoft.com
 wus2-ppe.scanx.geneva.keyvault.prss.microsoft.com
 wus2.ppe.cloudtest.microsoft.com
+wus2inetdns.microsoft.com
 wussignupppe.microsoft.com
 wussignupprv.microsoft.com
 wut.abuse.smartscreen.microsoft.com
@@ -19451,6 +19607,7 @@ www.advertising.microsoft.com
 www.aether.microsoft.com
 www.aiblog.microsoft.com
 www.aiblogs.microsoft.com
+www.answers.microsoft.com
 www.applicationinsights.microsoft.com
 www.backoffice.microsoft.com
 www.beta.manage.microsoft.com
@@ -19464,6 +19621,7 @@ www.compete.imagine.microsoft.com
 www.connect.microsoft.com
 www.connectppe.microsoft.com
 www.custom.microsoft.com
+www.cy1test53.microsoft.com
 www.cy1test57.microsoft.com
 www.cy1test59.microsoft.com
 www.cy1test60.microsoft.com

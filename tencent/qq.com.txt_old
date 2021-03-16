@@ -13029,6 +13029,7 @@ conf.p2p.qq.com
 config-test.xcast.qq.com
 config.tgp.qq.com
 config.xcast.qq.com
+configserver.tab.sparta.html5.qq.com
 configsvr.3g.qq.com
 configsvr.msf.3g.qq.com
 configsvr.openmsf.3g.qq.com
@@ -26118,6 +26119,7 @@ pepsi.qq.com
 pepsi2009.qq.com
 pepsifootball.qq.com
 perfdog.qq.com
+permit.qq.com
 pernose.qq.com
 perrier.ffm.qq.com
 pet.3g.qq.com
@@ -27256,6 +27258,7 @@ q8y1q.qq.com
 q9a504.4676.rngz8u.qq.com
 q9cor.qq.com
 q9yp0.qq.com
+qa.fy.qq.com
 qa.hssm.qq.com
 qa.lining.ym.qq.com
 qa.uma.qq.com
@@ -31523,12 +31526,14 @@ t9va4.qq.com
 ta.qq.com
 ta694.qq.com
 taa.qq.com
+tab.sparta.html5.qq.com
 tabtest.qq.com
 tacc.qq.com
 tacc.video.qq.com
 tad.qq.com
 tadcase.file.e.qq.com
 tae.qq.com
+taf-envlife-renewal.ias.qq.com
 taf.qq.com
 tafang.qq.com
 tafrtt.map.qq.com
@@ -31959,6 +31964,7 @@ test.ssr.sy.qq.com
 test.static.res.qq.com
 test.sy.qq.com
 test.syhm.qq.com
+test.taf-envlife-renewal.ias.qq.com
 test.tcmfileservice.qq.com
 test.teacher-development.qq.com
 test.tencent.qq.com

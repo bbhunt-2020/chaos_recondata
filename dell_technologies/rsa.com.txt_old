@@ -24,7 +24,9 @@ assets.staging.netwitness.rsa.com
 authlive.netwitness.rsa.com
 authlive.staging.netwitness.rsa.com
 author-dev.rsa.com
+author-prod.rsa.com
 author-qa.rsa.com
+author-stage.rsa.com
 author-www-dev.rsa.com
 author-www-origin.rsa.com
 author-www-stage.rsa.com
@@ -221,6 +223,10 @@ prod.barp.oauth.sign.rsa.com
 progressive-dev.archer.rsa.com
 progressive.archer.rsa.com
 publish-dev.rsa.com
+publish1-prod.rsa.com
+publish1-stage.rsa.com
+publish2-prod.rsa.com
+publish2-stage.rsa.com
 qa.barp.enc.rsa.com
 qa.barp.sign.rsa.com
 qa.rsa.com

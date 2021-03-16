@@ -1009,6 +1009,10 @@ crms-abnahme.telekom.de
 crms.telekom.de
 crmt-adp.telekom.de
 crmtdev.telekom.de
+crmtlup-http1.telekom.de
+crmtlup-http2.telekom.de
+crmtlup.telekom.de
+crmtmig.telekom.de
 crmtrfu.telekom.de
 crmtrfusip.telekom.de
 crmtrfuvplus.telekom.de
@@ -1560,6 +1564,7 @@ einrichten.telekom.de
 einsamobile.b2b.telekom.de
 eki-support.telekom.de
 ekurdiukov-cluster.dev.asf.telekom.de
+elastic-poc.dev.asf.telekom.de
 elastic-test.dev.asf.telekom.de
 elastic.devops.telekom.de
 elasticsearch-beta.typo3-sit.telekom.de
@@ -3119,6 +3124,7 @@ netzdatenplus.telekom.de
 new-zealand-cluster.dev.asf.telekom.de
 newauth.dev.devops.telekom.de
 newnormal.telekom.de
+newsim.b2b.telekom.de
 newskilling-it.telekom.de
 newskilling.telekom.de
 next-sece-it.telekom.de
@@ -3196,6 +3202,7 @@ o365mail08.telekom.de
 o365mail09.telekom.de
 o365mail10.telekom.de
 o365sts.telekom.de
+oa46439emcon03.ext.oasis.telekom.de
 oast78334mail1.int.oasis.telekom.de
 oast78334mail1.oam.oasis.telekom.de
 oast78334mail2.int.oasis.telekom.de
@@ -4027,6 +4034,7 @@ pumas.telekom.de
 put-kibana.telekom.de
 put-test.telekom.de
 put-ux.telekom.de
+put.aws.telekom.de
 put.telekom.de
 pw3.telekom.de
 pw7.telekom.de
@@ -5787,6 +5795,7 @@ wohnungswirtschaft.telekom.de
 wolkenflitzer.aws.telekom.de
 wolkenflitzer.telekom.de
 workbench.telekom.de
+workflow.dev.devops.telekom.de
 workforcemanagement.telekom.de
 workplace-verbindungsnetz-abnahme.telekom.de
 workplace-verbindungsnetz-produktivreferenz.telekom.de

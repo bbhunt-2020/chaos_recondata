@@ -1020,6 +1020,7 @@ proxy-circleci-migration.dev.dev-iam.xi.nutanix.com
 proxy-crl-file.dev.dev-iam.xi.nutanix.com
 proxy-eng-357443.dev.dev-iam.xi.nutanix.com
 proxy-eng-369469.dev.dev-iam.xi.nutanix.com
+proxy-eng-380093.dev.dev-iam.xi.nutanix.com
 proxy-envoy-mem.dev.dev-iam.xi.nutanix.com
 proxy-feature-revocation.dev.dev-iam.xi.nutanix.com
 proxy-fix-lint.dev.dev-iam.xi.nutanix.com
