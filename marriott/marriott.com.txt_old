@@ -614,12 +614,18 @@ eclm-test-028sn10-ssaho359-031421.marriott.com
 eclm-test-030sn11-ssaho359-031421.marriott.com
 eclm-test-033sn03-ssaho359-031521.marriott.com
 eclm-test-035sn11-ssaho359-031521.marriott.com
+eclm-test-039sn04-ssaho359-031521.marriott.com
 eclm-test-040sn03-hnamd761.marriott.com
+eclm-test-040sn03-ssaho359-031521.marriott.com
 eclm-test-041sn03-ssaho359-031521.marriott.com
 eclm-test-041sn03-ssaho359-san-031521.marriott.com
 eclm-test-042sn03-ssaho359-031521.marriott.com
 eclm-test-043sn11-ssaho359-031521-san.marriott.com
 eclm-test-043sn11-ssaho359-031521.marriott.com
+eclm-test-046sn05-ssaho359-031521-san.marriott.com
+eclm-test-046sn05-ssaho359-031521.marriott.com
+eclm-test-049sn03-ssaho359-031521-san.marriott.com
+eclm-test-049sn03-ssaho359-031521.marriott.com
 eclm-test-sn003-009-hnamd.marriott.com
 eclm-test-sn03-001-hnamd761.marriott.com
 eclm-test-sn03-005-hnamd.marriott.com
@@ -733,6 +739,9 @@ extraanetdev.marriott.com
 extranet.marriott.com
 extranet.xwip.marriott.com
 extranetcloud.marriott.com
+extranetcloudetc-useast1.marriott.com
+extranetcloudetc-uswest2.marriott.com
+extranetcloudetc.marriott.com
 extranetcloudprod13.marriott.com
 extranetcloudprod16.marriott.com
 extranetcloudtest.marriott.com
@@ -740,6 +749,7 @@ extranetdev.marriott.com
 extranetdevsso.marriott.com
 extranetdevx509.marriott.com
 extranetetc.marriott.com
+extranetetcx509.marriott.com
 extranetpub.marriott.com
 extranetsec.marriott.com
 extranetsso.marriott.com

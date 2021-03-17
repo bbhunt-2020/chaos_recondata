@@ -9,3 +9,6 @@ api.stage2du26.stage.paypal.com
 rrvs-live.qa.paypal.com
 photogallery.qa.venmo.com
 edge.sandbox.paypal.com
+staging-simulator-elb.internal.skybridge.paydiant.com
+www.stage2du74.stage.paypal.com
+api.stage2du74.stage.paypal.com

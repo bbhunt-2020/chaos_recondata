@@ -165,6 +165,9 @@ deviceapi-staging.arlo.com
 deviceapidev4.messaging.arlo.com
 devicesecurity-preprod.arlo.com
 devicesecurity.arlo.com
+devtest-demandware.devtest.arlo.com
+devtest-tridion.devtest.arlo.com
+devtest-verisure.devtest.arlo.com
 devtest.arlo.com
 devtest1.arlo.com
 diagtool-dev.arlo.com
@@ -203,6 +206,7 @@ helpcenter-goldenqa.arlo.com
 helpcenter-staging.arlo.com
 helpcenter.arlo.com
 homekit-qa.arlo.com
+httpbin.devtest.arlo.com
 hybrid.arlo.com
 image.e.arlo.com
 investor.arlo.com

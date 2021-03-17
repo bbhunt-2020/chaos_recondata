@@ -299,6 +299,8 @@ presto-conductor-w7hfrc3y-data-presto-northamerica-northeast1-3.shopify-data-pre
 presto-configurator-1.presto.shopifykloud.com
 presto-configurator.presto.shopifykloud.com
 presto-control.presto-qa.shopifykloud.com
+presto-exper-a.shopify-data-presto-global.shopifykloud.com
+presto-exper-b.shopify-data-presto-global.shopifykloud.com
 presto-for-datachi-coordinator.presto.shopifykloud.com
 presto-for-datachi.presto.shopifykloud.com
 presto-for-hdfs-stats.presto.shopifykloud.com
@@ -328,6 +330,8 @@ presto-production-adhoc-a-presto-data-presto-us-central1-2.shopify-data-presto-g
 presto-production-adhoc-a.shopify-data-presto-global.shopifykloud.com
 presto-production-adhoc-b-presto-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com
 presto-production-adhoc-b.shopify-data-presto-global.shopifykloud.com
+presto-production-exper-a.shopify-data-presto-global.shopifykloud.com
+presto-production-exper-b.shopify-data-presto-global.shopifykloud.com
 presto-production-scheduled-a-presto-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com
 presto-production-scheduled-a.shopify-data-presto-global.shopifykloud.com
 presto-production-scheduled-b-presto-data-presto-us-central1-2.shopify-data-presto-global.shopifykloud.com

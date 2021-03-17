@@ -658,8 +658,10 @@ businessdictionary-wbench-reg.devops.telekom.de
 businessdictionary-wbench.devops.telekom.de
 bv-etau.telekom.de
 bvd-mon.telekom.de
+bvgk-cit4.telekom.de
 bvgk.telekom.de
 bvw-bssfn.telekom.de
+bvw-cit4.telekom.de
 bvw-etau.telekom.de
 bvw.telekom.de
 bw-bits.one-reporting.telekom.de
@@ -1670,6 +1672,7 @@ etts-carrier.telekom.de
 etts-test.telekom.de
 etts.telekom.de
 eut.telekom.de
+evangelist.aws.telekom.de
 event.telekom.de
 eventportal-test.telekom.de
 eventportal.telekom.de
@@ -2131,6 +2134,7 @@ icinga.telekom.de
 icld.telekom.de
 icona-abnahme.telekom.de
 icona-entwicklung.telekom.de
+ics-bc-tool.telekom.de
 icst.telekom.de
 ictdata.laboratories.telekom.de
 icts-services.telekom.de
@@ -3403,6 +3407,7 @@ odl-mn01.odl.telekom.de
 odl-mn02.odl.telekom.de
 odl-mn03.odl.telekom.de
 odl-mstr01.odl.telekom.de
+odl-mstr02.odl.telekom.de
 odl-nifi01.odl.telekom.de
 odl-nifi02.odl.telekom.de
 odl-nifi03.odl.telekom.de
@@ -3900,6 +3905,7 @@ prima-link.telekom.de
 prima-plus-service.uat.asf.telekom.de
 primaplus.telekom.de
 priv.admitrie.gigadev.telekom.de
+priv.admitrie2.gigadev.telekom.de
 priv.cl01.gigadev.telekom.de
 priv.cl02.gigadev.telekom.de
 priv.cl03.gigadev.telekom.de
@@ -4009,6 +4015,7 @@ pu7.telekom.de
 pub-frasr-035-ms.vc.telekom.de
 pub-frasr-035.vc.telekom.de
 pub.admitrie.gigadev.telekom.de
+pub.admitrie2.gigadev.telekom.de
 pub.cl01.gigadev.telekom.de
 pub.cl02.gigadev.telekom.de
 pub.cl03.gigadev.telekom.de
@@ -4540,6 +4547,7 @@ share1.zspi.telekom.de
 shared-solman.telekom.de
 sharefile-sys.telekom.de
 sharepoint-ngssm.telekom.de
+shiny.odl.telekom.de
 shipment-tracking.dev.asf.telekom.de
 shop-geschaeftskunden.telekom.de
 shop.geschaeftskunden-test-cit4.telekom.de
@@ -5072,6 +5080,7 @@ teqcycle.b2b.telekom.de
 termin-test.telekom.de
 termin.telekom.de
 terminvereinbarung.telekom.de
+terra.aws.telekom.de
 tess-abn.telekom.de
 tess-ewu1.telekom.de
 tess-ewu2.telekom.de

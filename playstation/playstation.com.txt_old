@@ -63,6 +63,7 @@ api.direct-stage2.playstation.com
 api.direct-stage3.playstation.com
 api.direct.playstation.com
 api.ivaldi.playstation.com
+api.ivaldi2.playstation.com
 api.playstation.com
 app-perms.playstation.com
 ar.playstation.com
@@ -382,12 +383,14 @@ designkit.poc.playstation.com
 dev-debug.asia.playstation.com
 dev-public.asia.playstation.com
 dev.api.ivaldi.playstation.com
+dev.api.ivaldi2.playstation.com
 dev.blog.br.playstation.com
 dev.blog.latam.playstation.com
 dev.blog.us.playstation.com
 dev.chat.playstation.com
 dev.io.playstation.com
 dev.ivaldi.playstation.com
+dev.ivaldi2.playstation.com
 dev.playstation.com
 dev.wrapup.playstation.com
 devsearch.playstation.com
@@ -596,6 +599,7 @@ isl.e1-np.tools.playstation.com
 it.blog.eu.playstation.com
 it.playstation.com
 ivaldi.playstation.com
+ivaldi2.playstation.com
 jenkins-global.pdc.playstation.com
 jenkins-uswest2.playstation.com
 jenkins.playstation.com
@@ -933,12 +937,14 @@ sp-int.store.playstation.com
 stage-psn-connect.psnbeta.eu.playstation.com
 stage-us.playstation.com
 stage.api.ivaldi.playstation.com
+stage.api.ivaldi2.playstation.com
 stage.br.playstation.com
 stage.cdn.us.playstation.com
 stage.chat.playstation.com
 stage.community.us.playstation.com
 stage.io.playstation.com
 stage.ivaldi.playstation.com
+stage.ivaldi2.playstation.com
 stage.my.playstation.com
 stage.playstation.com
 stage.wrapup.playstation.com

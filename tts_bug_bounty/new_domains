@@ -100,3 +100,13 @@ resque.ypestis.staging.search.usa.gov
 resque.sparrow1786.staging.search.usa.gov
 kibana.raphus.staging.search.usa.gov
 linkerd.mgmt-ppm.fcs.gsa.gov
+jenkins.mgmt-ppm.fcs.gsa.gov
+zipkin-collector.mgmt-ppm.fcs.gsa.gov
+prometheus.mgmt-ppm.fcs.gsa.gov
+loki-server.mgmt-ppm.fcs.gsa.gov
+zipkin-ui.mgmt-ppm.fcs.gsa.gov
+selenium-hub.mgmt-ppm.fcs.gsa.gov
+docker-registry.jfrog.mgmt-ppm.fcs.gsa.gov
+jfrog.mgmt-ppm.fcs.gsa.gov
+grafana.mgmt-ppm.fcs.gsa.gov
+sonar.mgmt-ppm.fcs.gsa.gov

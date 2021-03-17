@@ -9872,8 +9872,10 @@ apf.integ.amazon.com
 api-amazondevices-cn.amazon.com
 api-amazondevices-na.amazon.com
 api-audible-ca-preprod-iad.iad.proxy.amazon.com
+api-audible-de-preprod.amazon.com
 api-audible-in-preprod-dub.dub.proxy.amazon.com
 api-audible-it-preprod.dub.amazon.com
+api-audible-jp-preprod.pdx.amazon.com
 api-audible-uk-preprod.amazon.com
 api-dashboard-bjs.ec2.amazon.com
 api-dashboard-bom-prod.ec2.amazon.com
@@ -10273,7 +10275,6 @@ audit.aka.amazon.com
 audit.corp.amazon.com
 audit.integ.amazon.com
 audith.signin.aws.amazon.com
-audits.amazon.com
 audits.pdx.corp.amazon.com
 audittool-na.amazon.com
 audrey.corp.amazon.com
@@ -10665,7 +10666,6 @@ awsinsider.corp.amazon.com
 awsinsider.integ.amazon.com
 awsinterview.signin.aws.amazon.com
 awsinvestments-gamma.aka.corp.amazon.com
-awsinvestments.aka.corp.amazon.com
 awslambda-ap-s-1-fe-alb-2128639220.ap-south-1.elb.amazon.com
 awslambda-ap-se-1-elb-1953269633.ap-southeast-1.elb.amazonaws.com.amazon.com
 awslogs-ops-console.corp.amazon.com
@@ -10911,6 +10911,7 @@ billdesk-harbor.amazon.com
 billdeskbom-tokenization-decryption.payments.corp.uat.amazon.com
 billing-musiccentral.integ.amazon.com
 billing-musiccentral.integ.amazon.com.amazon.com
+billing-videocentral.integ.amazon.com
 billing-videocentral.integ.amazon.com.amazon.com
 billing-videodirect-jp.integ.amazon.com
 billing-videodirect.integ.amazon.com.amazon.com
@@ -11377,7 +11378,6 @@ cdws-sln-pdx-d.integ.amazon.com
 cdws.eu-west-1.amazon.com
 cdws.us-west-2.amazon.com
 cefeedback-corp.aea.amazon.com
-celebrate.integ.amazon.com
 cell0.us-east-1.beta.signer.console-api.aws-dev.amazon.com
 cenports.signin.aws.amazon.com
 centralflow.corp.amazon.com
@@ -13529,6 +13529,7 @@ emersontech.signin.aws.amazon.com
 emf-operator-console-cell1-zhy.corp.amazon.com
 emf-operator-console-cell1.zhy.amazon.com
 emf-operator-console-cell2-zhy.corp.amazon.com
+emf-operator-console-cell3-zhy.corp.amazon.com
 eml.us-east-1.amazon.com
 empire.corp.amazon.com
 emr-console-us-gov-west-1.pdt.amazon.com
@@ -13599,7 +13600,6 @@ esi.ab.eu.mc.mtf.amazon.com
 esi.ab.eu.mc.prod.amazon.com
 esi.ab.eu.mc.stage.amazon.com
 esi.ab.na.amazon.com
-esi.ab.na.citibank.amazon.com
 esi.ab.na.ms.mtf.amazon.com.amazon.com
 esi.ab.na.ms.prod.amazon.com.amazon.com
 esi.ab.na.ms.stage.amazon.com.amazon.com
@@ -13832,6 +13832,7 @@ fetchapi-na.amazon.com
 fexportal-eu.amazon.com
 fexportal.integ.amazon.com
 ffrm-troubleshooting-na.amazon.com
+ffrm-troubleshooting-tcp.integ.amazon.com
 fftg-beta.corp.amazon.com
 fiat.amazon.com
 fifodashboard.amazon.com
@@ -13855,7 +13856,6 @@ fintech-cwb-test.integ.amazon.com
 fintech-cwb-uat.corp.amazon.com
 fints-eu-g7g-preprod.amazon.com
 fio-simple-dashboard.integ.amazon.com
-fiona.corp.amazon.com
 fips-eu-preprod.amazon.com
 fips-eu.amazon.com
 fips-fe-preprod.amazon.com
@@ -14013,7 +14013,6 @@ frat-na-external.amazon.com
 frat-na-external.gamma.amazon.com
 freeip.amazon.com
 freetime.amazon.com
-freeway.amazon.com
 fromage.amazon.com
 frp-config-eu.integ.amazon.com
 frp-config-na.integ.amazon.com
@@ -14083,12 +14082,9 @@ g2s2.corp.amazon.com
 galaga-pricing-jp.aka.amazon.com
 galaga-pricing.amazon.com
 galaxydatalake.corp.amazon.com
-galaxyhubble-arn.aka.amazon.com
 galaxyhubble-bah.aka.amazon.com
 galaxyhubble-beta.iad.amazon.com
-galaxyhubble-bjs.aka.amazon.com
 galaxyhubble-bjs.amazon.com
-galaxyhubble-gamma-pdx.amazon.com
 galaxyhubble-gamma.pdx.amazon.com
 galaxyhubble-integ-iad.amazon.com
 galaxyhubble-integ.iad.amazon.com
@@ -14502,7 +14498,6 @@ hour.corp.amazon.com
 hoverboard-beta.corp.amazon.com
 hr.amazon.com
 hrdataworm.corp.amazon.com
-hrkey.corp.amazon.com
 hrr-beta.corp.amazon.com
 hrr.corp.amazon.com
 hrs-workspaces.corp.amazon.com
@@ -14529,7 +14524,6 @@ huddles.amazon.com
 huddles.buckeye.amazon.com
 hula-st.amazon.com
 hula.amazon.com
-hulk-uz1-b-eu-p-dub.dub.proxy.amazon.com
 hvhbgcawsprod.amazon.com
 hwa2-portal.amazon.com
 hwmon-data-vip.arn.amazon.com
@@ -15201,6 +15195,7 @@ kdh-region.cpt.amazon.com
 kdh-region.hkg.amazon.com
 kdh-region.hyd.amazon.com
 kdh-region.mxp.amazon.com
+kdh-region.zaz.amazon.com
 kdh-region.zrh.amazon.com
 kdk.amazon.com
 kdm-beta.corp.amazon.com
@@ -15520,6 +15515,7 @@ lily-authdataplane.cell-1.prod.ap-northeast-1.amazon.com
 lily-authdataplane.cell-1.prod.ap-south-1.amazon.com
 lily-authdataplane.cell-1.prod.ap-southeast-1.amazon.com
 lily-authdataplane.cell-1.prod.ap-southeast-2.amazon.com
+lily-authdataplane.cell-1.prod.us-west-2.amazon.com
 lily-aw-beta.amazon.com
 lily-cdr.fra.amazon.com
 lily-cdr.pdx.amazon.com
@@ -16560,6 +16556,7 @@ ns-mr-prod1.geneva.h47.amazon.com
 ns.amazon.com
 ns.jarca.amazon.com
 ns1.amazon.com
+nsm-apa-external.aka.corp.amazon.com
 nsm-apa-external.cmh.amazon.com
 nsm-bah.aka.corp.amazon.com
 nsm-beta.aka.corp.amazon.com
@@ -16567,6 +16564,7 @@ nsm-bom.aka.corp.amazon.com
 nsm-corp.amazon.com
 nsm-dub.aka.corp.amazon.com
 nsm-dub.amazon.com
+nsm-iad.aka.corp.amazon.com
 nsm-iad.amazon.com
 nsm-lab.aka.corp.amazon.com
 nsm-mel.aka.corp.amazon.com
@@ -16886,6 +16884,7 @@ parkside-cbs-preprod-cmh50.cmh.amazon.com
 parkside-cbs-preprod-dub4.aka.dub.amazon.com
 parkside-cbs-preprod-fra52.aka.fra.amazon.com
 parkside-cbs-preprod-fra52.fra.amazon.com
+parkside-cbs-preprod-fra53.aka.fra.amazon.com
 parkside-cbs-preprod-icn53.aka.icn.amazon.com
 parkside-cbs-preprod-icn53.icn.amazon.com
 parkside-cbs-preprod-lhr53.lhr.amazon.com
@@ -16894,6 +16893,7 @@ parkside-cbs-preprod-sin2.aka.sin.amazon.com
 parkside-cbs-preprod-sin2.sin.amazon.com
 parkside-cbs-preprod-syd7.syd.amazon.com
 parkside-cbs-preprod-yul51.yul.amazon.com
+parkside-cbs-preprod.aka.iad.amazon.com
 parkside-cbs-preprod.iad.amazon.com
 parkside-cbs-prod-arn50.aka.arn.amazon.com
 parkside-cbs-prod-arn51.aka.arn.amazon.com
@@ -16940,6 +16940,7 @@ parkside-ds2-preprod-cdg53.aka.cdg.amazon.com
 parkside-ds2-preprod-cdg53.cdg.amazon.com
 parkside-ds2-preprod-cdg54.cdg.amazon.com
 parkside-ds2-preprod-cmh50.cmh.amazon.com
+parkside-ds2-preprod-dub2.aka.dub.amazon.com
 parkside-ds2-preprod-dub2.dub.amazon.com
 parkside-ds2-preprod-fra52.fra.amazon.com
 parkside-ds2-preprod-icn53.aka.icn.amazon.com
@@ -16988,7 +16989,6 @@ parkside-ds2-prod-sin4.aka.sin.amazon.com
 parkside-ds2-prod-yul50.aka.yul.amazon.com
 parkside-ds2-prod-yul51.yul.amazon.com
 parkside-ds2-prod-yul52.aka.yul.amazon.com
-partner-identity-master.corp.amazon.com
 partner-identity.integ.amazon.com
 partner.amazon.com
 passport-opf-na.amazon.com
@@ -17342,7 +17342,6 @@ preclearancedev.amazon.com
 preferences-adoption.corp.amazon.com
 preis.signin.aws.amazon.com
 premium-shipping-restriction.amazon.com
-premonition-ui-prod-pdx.aka.amazon.com
 premonition-ui.aka.amazon.com
 prepmanager-dub.amazon.com
 preprod-api-audible-tcp-iad.iad.proxy.amazon.com
@@ -17355,6 +17354,7 @@ preprod-trans-logistics.amazon.com
 preprod-translator.amazon.com
 preview-flex-capacity-eu.amazon.com
 preview-flex-capacity-jp.amazon.com
+preview.games.amazon.com
 prg2-portal.amazon.com
 pricingrules-preprod-fe.amazon.com
 pricingrules-preprod-na.amazon.com
@@ -17950,7 +17950,6 @@ s3master-finder.amazon.com
 s3prod-cramps.iad.proxy.amazon.com
 s3prod-finder.amazon.com
 s3prod-icn-throttledashboard.amazon.com
-s9-dra-bidder-beta-dub.aka.amazon.com
 s9-dra-bidder-beta-sin.aka.amazon.com
 s9-dra-bidder-dub.aka.amazon.com
 s9-dra-bidder-iad.aka.amazon.com
@@ -18396,7 +18395,6 @@ sidekick.aka.amazon.com
 sidewalk-prov-gamma.amazon.com
 siege-canary-na.amazon.com
 siem-security-portal-gamma-iad.iad.proxy.amazon.com
-siem-security-portal-iad.iad.proxy.amazon.com
 siem-security-portal.corp.amazon.com
 sierra-discovery-gamma.integ.amazon.com
 sierra-discovery.amazon.com
@@ -19292,6 +19290,7 @@ subs-eu-prod-dub.dub.proxy.amazon.com
 subs-fe-prod-pdx.amazon.com
 subs-fe-prod.amazon.com
 subs-jp-prod-pdx.pdx.proxy.amazon.com
+subs-na-gamma-iad.iad.proxy.amazon.com
 subs-na-gamma.iad.amazon.com
 subs-na-prod-iad.iad.proxy.amazon.com
 subs-na-prod.amazon.com
@@ -19440,6 +19439,7 @@ tangoe.corp.amazon.com
 taos-na-prod.amazon.com
 tap-beta.corp.amazon.com
 tap-gamma.corp.amazon.com
+tap.corp.amazon.com
 tapestry-beta.corp.amazon.com
 tapestry.corp.amazon.com
 tapingo.signin.aws.amazon.com
@@ -20029,6 +20029,7 @@ vcc-onboarding.amazon.com
 vcs-1.vtc.amazon.com
 vcs-expressway-0101.sea3.amazon.com
 vcs-expressway-0102.vtc.amazon.com
+vcs-expressway-0102.vtc.corp.amazon.com
 vcs-expressway-0103.vtc.amazon.com
 vcs-expressway-0103.vtc.corp.amazon.com
 vcs-matrix-gamma.corp.amazon.com
@@ -20112,7 +20113,6 @@ vip-management.aea.amazon.com
 virtua.signin.aws.amazon.com
 virtuacop-devo.corp.amazon.com
 vision-dev.iad.corp.amazon.com
-visionloop.aka.corp.amazon.com
 visits.beta.amazon.com
 visits.corp.amazon.com
 vispro-eu.corp.amazon.com

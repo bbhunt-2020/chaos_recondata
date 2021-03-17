@@ -109,7 +109,10 @@ api1.prod.ax.url.gs.com
 api1.uat.ax.url.gs.com
 api2.qa.txb.gs.com
 api2.txb.gs.com
+api3.dev.txb.gs.com
 api3.qa.txb.gs.com
+api3.sit.txb.gs.com
+api3.uat.txb.gs.com
 apitest.marquee-qa.gs.com
 apps-qa.wifi.gs.com
 apps.wifi.gs.com
@@ -1320,8 +1323,11 @@ truist.gs.com
 tv.netflix.gs.com
 twilio-ext.gs.com
 txb.gs.com
+txbdev.gs.com
 txbqa.gs.com
 txbqa2.gs.com
+txbsit.gs.com
+txbuat.gs.com
 uat-mosaic.cft.gs.com
 uat.api.ccm.gs.com
 uat.atlassian.devcollab.gs.com

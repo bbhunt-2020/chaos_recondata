@@ -1216,6 +1216,8 @@ dev-oemfulfillment.bentley.com
 dev-offlinelog-eus2.bentley.com
 dev-opencommsanalyst.bentley.com
 dev-openconstruction.bentley.com
+dev-opentoweriq-staging.bentley.com
+dev-opentoweriq.bentley.com
 dev-operationaltestsscheduler.bentley.com
 dev-partner.bentley.com
 dev-payloadresolvesvc-staging.bentley.com
@@ -1274,6 +1276,7 @@ dev-pwdm-uks-staging.bentley.com
 dev-pwdm-uks.bentley.com
 dev-pwdm.bentley.com
 dev-pwdrive-delegation.bentley.com
+dev-pwdrivesettings.bentley.com
 dev-pwrconversionorchestrator.bentley.com
 dev-pwwacinvitationmanager.bentley.com
 dev-ratelimitworkaround.bentley.com
@@ -2417,6 +2420,8 @@ qa-offlinelog-weu.bentley.com
 qa-onprem-ims.bentley.com
 qa-ontrack.bentley.com
 qa-opencommsanalyst.bentley.com
+qa-opentoweriq-staging.bentley.com
+qa-opentoweriq.bentley.com
 qa-operationaltestsscheduler.bentley.com
 qa-payloadresolvesvc-staging.bentley.com
 qa-payloadresolvesvc.bentley.com
@@ -2557,6 +2562,7 @@ qa-towersightitwin-staging.bentley.com
 qa-towersightitwin.bentley.com
 qa-usermanagement-staging.bentley.com
 qa-usermanagement.bentley.com
+qa-userprovisioning.bentley.com
 qa-uxiocrqgycnmw.bc.plat.bentley.com
 qa-vr-block.bentley.com
 qa-watersight-staging.bentley.com

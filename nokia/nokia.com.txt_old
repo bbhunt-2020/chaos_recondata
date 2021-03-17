@@ -4187,6 +4187,7 @@ atg-ats-cooos.nswatg.nokia.com
 atg-ats-coos.nswatg.nokia.com
 atg-ats-coss.nswatg.nokia.com
 atg-ats-hcl-arto.nswatg.nokia.com
+atg-ats-hcl-as.atg.nokia.com
 atg-ats-hcl-as.nswatg.nokia.com
 atg-ats-hcl-dl.nswatg.nokia.com
 atg-ats-test.nswatg.nokia.com
@@ -9738,6 +9739,7 @@ odnpin.nokia.com
 odnpin.us.nokia.com
 oesdemo.ext.nokia.com
 offer.dac.nokia.com
+ohaws.norc.dev.software.nokia.com
 ohsf.ext.nokia.com
 oidc.zina.net.nokia.com
 olcsservices.web.nokia.com
@@ -13468,6 +13470,7 @@ staging.elk.digital-assistant.nokia.com
 staging.juniper.nokia.com
 staging.learn.nokia.com
 staging.mosh.nokia.com
+staging.saas.nokia.com
 staging.st.aws.pbapi.nlp.nokia.com
 staging.xpress.nokia.com
 static.health.nokia.com

@@ -40,7 +40,6 @@
 12vpn.antivirus.goodrx.com
 13-antivirus-edu.goodrx.com
 13-cdn.antivirus.goodrx.com
-13-dentalplansantivirus.goodrx.com
 13-secure.antivirus.goodrx.com
 13-workmarket.antivirus.goodrx.com
 13-www.dentalplans.antivirus.goodrx.com
@@ -54,10 +53,8 @@
 13.www.dentalplans.antivirus.goodrx.com
 13antivirus-applebees.goodrx.com
 13antivirus-email.goodrx.com
-13antivirus.goodrx.com
 13berkeley.antivirus-edu.goodrx.com
 13o3.antivirus-email.goodrx.com
-13www.dentalplans.antivirus.goodrx.com
 14-antivirus-edu.goodrx.com
 14-antivirus-smartrx.goodrx.com
 14-apfm.goodrx.com
@@ -3363,6 +3360,10 @@ cwf-500fix-57f8ab68.dev.uw2.eng.goodrx.com
 cwf-addsembed-5a35b4d6.dev.uw2.eng.goodrx.com
 cwf-aexgro334-e1834c9e.dev.uw2.eng.goodrx.com
 cwf-backingoutdesdonr-736e1d3f.dev.uw2.eng.goodrx.com
+cwf-bodee2estagingdep-207bc9bb.dev.uw2.eng.goodrx.com
+cwf-cdk-broken-thunder-275757.dev.uw2.eng.goodrx.com
+cwf-cdk-rapid-math-851749.dev.uw2.eng.goodrx.com
+cwf-cdk-small-feather-416430.dev.uw2.eng.goodrx.com
 cwf-cdknewmode-7a959e9f.dev.uw2.eng.goodrx.com
 cwf-dashboardprescrip-5c704188.dev.uw2.eng.goodrx.com
 cwf-dfpbumpoptimizely-c32c53c0.dev.uw2.eng.goodrx.com
@@ -3373,15 +3374,19 @@ cwf-featfixes-f704dd48.dev.uw2.eng.goodrx.com
 cwf-featfixtests-5eed4d0f.dev.uw2.eng.goodrx.com
 cwf-featmaildelivery-8e12384d.dev.uw2.eng.goodrx.com
 cwf-featmaildeliverym-8cea991b.dev.uw2.eng.goodrx.com
+cwf-featmaildeliveryt-bb9df096.dev.uw2.eng.goodrx.com
 cwf-featreactmatisseu-ccf5cb3b.dev.uw2.eng.goodrx.com
 cwf-featservicecards-835fb5df.dev.uw2.eng.goodrx.com
 cwf-featsignupheaderf-68232894.dev.uw2.eng.goodrx.com
 cwf-featvaccinetracke-d6867123.dev.uw2.eng.goodrx.com
 cwf-fep626-d274314d.dev.uw2.eng.goodrx.com
 cwf-fep626ddpino-1ead3d4a.dev.uw2.eng.goodrx.com
+cwf-fixhamburgerstyli-73fa431e.dev.uw2.eng.goodrx.com
 cwf-fixvaccinefindero-bb7e0305.dev.uw2.eng.goodrx.com
+cwf-fixvaccinephone-f42d59ac.dev.uw2.eng.goodrx.com
 cwf-fixyamltypo-2a677456.dev.uw2.eng.goodrx.com
 cwf-goodrx-de9729da.dev.uw2.eng.goodrx.com
+cwf-homepageauthstate-51ca3607.dev.uw2.eng.goodrx.com
 cwf-maildeliverypages-b246d316.dev.uw2.eng.goodrx.com
 cwf-nngorg1687-fd99355c.dev.uw2.eng.goodrx.com
 cwf-nngorg1799-626373da.dev.uw2.eng.goodrx.com
@@ -4885,12 +4890,9 @@ hw-berkeley.antivirus-edu.goodrx.com
 hw-blocked.antivirus.goodrx.com
 hw-dentalplans.antivirus.goodrx.com
 hw.antivirus-applebees.goodrx.com
-hw.antivirus.goodrx.com
 hw.assets.goodrx.com
 hw.goodrx.com
-hwantivirus-applebees.goodrx.com
 hwantivirus.goodrx.com
-hwcdn-antivirus.goodrx.com
 hwcdn-dentalplans.antivirus.goodrx.com
 hwcdn-m.antivirus-applebees.goodrx.com
 hwcdn-www.antiviruskfb.goodrx.com
@@ -4899,8 +4901,6 @@ hwcdn.goodrx.com
 hwcdno3.antivirus-email.goodrx.com
 hwcdnvpn.antivirus.goodrx.com
 hwcdnwww.dentalplans.antivirus.goodrx.com
-hwdentalplansantivirus.goodrx.com
-hwhtwww.antivirus.goodrx.com
 hwm.antivirus-applebees.goodrx.com
 hwm.antivirushchrxduncan.goodrx.com
 i-antivirus.goodrx.com
@@ -4908,7 +4908,6 @@ i-blocked.antivirus.goodrx.com
 i-m.antivirus-smartrx.goodrx.com
 i-workmarket.antivirus.goodrx.com
 i.antivirus-smartrx.goodrx.com
-i.blocked.antivirus.goodrx.com
 i.htwww.antivirus.goodrx.com
 iam.gold.goodrx.com
 iantivirus.goodrx.com
@@ -5935,7 +5934,6 @@ m.containerworkmarket.antivirus.goodrx.com
 m.control.antivirushchrxduncan.goodrx.com
 m.dec-antivirus-applebees.goodrx.com
 m.dec.antivirushchrxduncan.goodrx.com
-m.dev.goodrx.com
 m.devantivirus-smartrx.goodrx.com
 m.developer-antivirus-smartrx.goodrx.com
 m.developer.antivirus-smartrx.goodrx.com
@@ -7899,6 +7897,7 @@ skinsdentalplans.antivirus.goodrx.com
 skinsdentalplansantivirus.goodrx.com
 skinsm.antivirus-applebees.goodrx.com
 skinswww.antiviruskfb.goodrx.com
+small-feather-416430.dev.uw2.eng.goodrx.com
 smartrx.announce.goodrx.com
 smartrx.goodrx.com
 smartrxantiviruspre.goodrx.com

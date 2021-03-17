@@ -521,6 +521,7 @@ dns5.gsa.gov
 dns6.gsa.gov
 dns7.gsa.gov
 docker-registry.jfrog.dev-ppm.fcs.gsa.gov
+docker-registry.jfrog.mgmt-ppm.fcs.gsa.gov
 docker-registry.jfrog.test-ppm.fcs.gsa.gov
 dpa-dev.gsa.gov
 dpa.gsa.gov
@@ -1011,6 +1012,7 @@ govsalesupload.fas.gsa.gov
 govsalesuploadb.fas.gsa.gov
 govspace.gsa.gov
 grafana.dev-ppm.fcs.gsa.gov
+grafana.mgmt-ppm.fcs.gsa.gov
 grafana.test-ppm.fcs.gsa.gov
 grant.gsa.gov
 grex.pbs.gsa.gov
@@ -66648,8 +66650,10 @@ iwww.solar.gsa.gov
 jasper.bsp.gsa.gov
 jenkins.dev-ppm.fcs.gsa.gov
 jenkins.fss19-dev.fcs.gsa.gov
+jenkins.mgmt-ppm.fcs.gsa.gov
 jenkins.test-ppm.fcs.gsa.gov
 jfrog.dev-ppm.fcs.gsa.gov
+jfrog.mgmt-ppm.fcs.gsa.gov
 jfrog.test-ppm.fcs.gsa.gov
 join.gsa.gov
 join.tts.gsa.gov
@@ -66712,6 +66716,7 @@ loadbalancer-portal.fas.gsa.gov
 loadbalancer_int.itss.gsa.gov
 lobm.gsa.gov
 login.acquisition-uat.gsa.gov
+loki-server.mgmt-ppm.fcs.gsa.gov
 loki-server.test-ppm.fcs.gsa.gov
 lop.gsa.gov
 m.gsa.gov
@@ -67058,6 +67063,7 @@ prod-iae.bsp.gsa.gov
 prod.acr.mcaas.fcs.gsa.gov
 prod.dxcore.dx.mcaas.fcs.gsa.gov
 prometheus.dev-ppm.fcs.gsa.gov
+prometheus.mgmt-ppm.fcs.gsa.gov
 prometheus.test-ppm.fcs.gsa.gov
 propertydisposal.gsa.gov
 proxy.gsa.gov
@@ -67326,6 +67332,7 @@ secureauth.gsa.gov
 secureauth.test-eos.gsa.gov
 secureauth.test.gsa.gov
 secureauth1.test.gsa.gov
+selenium-hub.mgmt-ppm.fcs.gsa.gov
 selenium-hub.test-ppm.fcs.gsa.gov
 servicedesk.gsa.gov
 servicedesk.wip3.gsa.gov
@@ -67364,6 +67371,7 @@ soaext.gsa.gov
 solar.gsa.gov
 solarwinds.ocfo.gsa.gov
 sonar.dev-ppm.fcs.gsa.gov
+sonar.mgmt-ppm.fcs.gsa.gov
 sonar.test-ppm.fcs.gsa.gov
 spaceneedle.gsa.gov
 spanky.gsa.gov
@@ -68072,6 +68080,8 @@ xpsec.gss.gsa.gov
 xpwi.gsa.gov
 xpwi.gss.gsa.gov
 zipkin-collector.dev-ppm.fcs.gsa.gov
+zipkin-collector.mgmt-ppm.fcs.gsa.gov
 zipkin-collector.test-ppm.fcs.gsa.gov
 zipkin-ui.dev-ppm.fcs.gsa.gov
+zipkin-ui.mgmt-ppm.fcs.gsa.gov
 zipkin-ui.test-ppm.fcs.gsa.gov

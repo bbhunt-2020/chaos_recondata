@@ -66,6 +66,9 @@ dashboard.emp.telekom.net
 db.liveberater.telekom.net
 db.staging.liveberater.telekom.net
 de-lab-expe-001.ms.telekom.net
+de-lab-msr-tp-vcse-01.tplab.telekom.net
+de-lab-msr-tp-vcse-02.tplab.telekom.net
+de-lab-msr-tp-vcse-vip-01.tplab.telekom.net
 demo.emp.telekom.net
 dev.telefon-einrichten.telekom.net
 dev.vote.telekom.net
@@ -133,6 +136,7 @@ january.hcslab.telekom.net
 jira-developer.dtoneapp.telekom.net
 jira-staging.dtoneapp.telekom.net
 jira.dtoneapp.telekom.net
+join.tplab.telekom.net
 keycloak.dev.pmatrem.telekom.net
 keycloak.prod.pmatrem.telekom.net
 keycloak.staging.pmatrem.telekom.net
@@ -255,6 +259,7 @@ test.webhook.telekom.net
 tippspiel.telekom.net
 tma.telekom.net
 toolbox.telekom.net
+tplab.telekom.net
 treuegeschenk.telekom.net
 tv-bundle.telekom.net
 tv.telekom.net

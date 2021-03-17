@@ -1928,6 +1928,8 @@ commonrecon-dev.wellsfargo.com
 commonrecon-dv2-ox.wellsfargo.com
 commonrecon-dv2-sls.wellsfargo.com
 commonrecon-dv2.wellsfargo.com
+commonrecon-fix-ox.wellsfargo.com
+commonrecon-fix-sls.wellsfargo.com
 commonrecon-fix.wellsfargo.com
 commonrecon-ist.wellsfargo.com
 commonrecon-ldt.wellsfargo.com
@@ -4112,6 +4114,8 @@ kzcom-gw-dev.wellsfargo.com
 kzcom-gw-dv2-ox.wellsfargo.com
 kzcom-gw-dv2-sls.wellsfargo.com
 kzcom-gw-dv2.wellsfargo.com
+kzcom-gw-fix-ox.wellsfargo.com
+kzcom-gw-fix-sls.wellsfargo.com
 kzcom-gw-fix.wellsfargo.com
 kzcom-gw-ist-ox.wellsfargo.com
 kzcom-gw-ist-sls.wellsfargo.com

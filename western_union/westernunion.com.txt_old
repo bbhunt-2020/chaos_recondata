@@ -562,6 +562,10 @@ origin.developeruat.westernunion.com
 origin.mnt-chi.globalpay.westernunion.com
 origin.mnt-res.globalpay.westernunion.com
 origin.mnt.globalpay.westernunion.com
+origin.partnergateway.dev.westernunion.com
+origin.partnergateway.qa.westernunion.com
+origin.partnergateway.uat.westernunion.com
+origin.partnergateway.westernunion.com
 origin.payment-tracking.business.westernunion.com
 origin.payment-tracking.dev.westernunion.com
 origin.payment-tracking.qa.westernunion.com

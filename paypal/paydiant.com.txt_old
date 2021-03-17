@@ -278,6 +278,7 @@ ssotest.qa.paydiant.com
 staging-elb.external.skybridge.paydiant.com
 staging-elb.internal.skybridge.paydiant.com
 staging-recruit-fback-backend.thoughtworks-labs.net.herokudns.coternal.skybridge.paydiant.com
+staging-simulator-elb.internal.skybridge.paydiant.com
 staging-sitestatus.external.skybridge.paydiant.com
 staging.internal.skybridge.paydiant.com
 staging.paydiant.com
