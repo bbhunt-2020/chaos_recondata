@@ -72,6 +72,7 @@ collector-008.newrelic.com
 collector-009.newrelic.com
 collector-010.newrelic.com
 collector-1.newrelic.com
+collector-1.staging-collectors.newrelic.com
 collector-101.newrelic.com
 collector-102.newrelic.com
 collector-103.newrelic.com
@@ -164,6 +165,7 @@ collector-197.newrelic.com
 collector-198.newrelic.com
 collector-199.newrelic.com
 collector-2.newrelic.com
+collector-2.staging-collectors.newrelic.com
 collector-200.newrelic.com
 collector-202.newrelic.com
 collector-204.newrelic.com
@@ -235,6 +237,7 @@ collector-7.newrelic.com
 collector-8.newrelic.com
 collector-9.newrelic.com
 collector-pool.newrelic.com
+collector-pool.staging-collectors.newrelic.com
 collector.newrelic.com
 collector0.newrelic.com
 collector1.newrelic.com

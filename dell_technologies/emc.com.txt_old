@@ -5589,6 +5589,7 @@ frkv140251.isus.emc.com
 frkv140252.isus.emc.com
 frkv140254.isus.emc.com
 frkv15001.isus.emc.com
+frkv15005.isus.emc.com
 frkv15006.isus.emc.com
 frkv15007.isus.emc.com
 frkv15008.isus.emc.com
@@ -5837,6 +5838,7 @@ frkv17027.isus.emc.com
 frkv17028.isus.emc.com
 frkv17029.isus.emc.com
 frkv17030.isus.emc.com
+frkv17031.isus.emc.com
 frkv17032.isus.emc.com
 frkv17033.isus.emc.com
 frkv17034.isus.emc.com
@@ -8180,7 +8182,6 @@ mfgtrain.isus.emc.com
 microsites.emc.com
 midb1dc1.isus.emc.com
 middle-east.emc.com
-midrangesizer-test.emc.com
 midrangesizer.emc.com
 mil0001.isus.emc.com
 mil0002.isus.emc.com
@@ -12392,7 +12393,6 @@ unity.emc.com
 unitycloudbeta.emc.com
 unitycloudbetaint.emc.com
 unitycloudbetatest.emc.com
-unitysizer-test.emc.com
 unitysizer.emc.com
 unitytest.emc.com
 unk-for-smtp.isus.emc.com

@@ -546,6 +546,8 @@ keymaster.trust.roku.com
 keys-dev.cti.roku.com
 keys-ingress.cti.roku.com
 keys.cti.roku.com
+keys.us-east-1.cti.roku.com
+keys.us-west-2.cti.roku.com
 keys1-dev.cti.roku.com
 keysvc.cs.roku.com
 kibana.infra.sr.roku.com

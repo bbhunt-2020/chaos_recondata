@@ -7,3 +7,6 @@ discourse-admin.university.mongodb.com
 ps.staging.corp.mongodb.com
 ts-amer.staging.corp.mongodb.com
 search.corp.mongodb.com
+helm3-upgrade-test.prod.corp.mongodb.com
+helm3-upgrade-test.test.corp.mongodb.com
+helm3-upgrade-test.staging.corp.mongodb.com

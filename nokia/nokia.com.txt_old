@@ -3872,6 +3872,7 @@ af-simple.csfp.dev.software.nokia.com
 afcore-ns.cci-eks.csfp.dev.software.nokia.com
 afcore-ns.ccieks.csfp.dev.software.nokia.com
 afcore-ns.jtws-eks.csfp.dev.software.nokia.com
+afcore-ns.jtws-nat.csfp.dev.software.nokia.com
 ail.ntc.nokia.com
 airlite.int.net.nokia.com
 aj-inet-rtr.ext.nokia.com
@@ -8071,6 +8072,7 @@ jackie-chan.us.dev-intg.software.nokia.com
 jaklacap.net.nokia.com
 jasper.ccieks.csfp.dev.software.nokia.com
 jasper.jtws-eks.csfp.dev.software.nokia.com
+jasper.jtws-nat.csfp.dev.software.nokia.com
 jcb.int.net.nokia.com
 jdc.qa.int.net.nokia.com
 jenkins-1.cutlass.nokia.com
@@ -8103,6 +8105,7 @@ jose.journeys.nokia.com
 jp.dac.nokia.com
 jp.networks.nokia.com
 jtws-eks.csfp.dev.software.nokia.com
+jtws-nat.csfp.dev.software.nokia.com
 juntossomosnokia.int.net.nokia.com
 kanto.ntc.nokia.com
 kck.apac1.nokia.com
@@ -8122,6 +8125,7 @@ kinoc002.ext.nokia.com
 kinoc005.ext.nokia.com
 kiribati.nokia.com
 kiribatirib.ext.nokia.com
+knix.ats-serverless.atg.nokia.com
 knowledge.nokia.com
 knowledge.search.nokia.com
 knowledge1.support.nokia.com
@@ -8874,6 +8878,7 @@ nbcm.nokia.com
 nbl.ext.net.nokia.com
 nbl.int.net.nokia.com
 nbl.nokia.com
+nblfailover.ext.int.nokia.com
 nblfailover.ext.net.nokia.com
 nblfailover.int.net.nokia.com
 nblfallback.ext.net.nokia.com
@@ -13677,6 +13682,7 @@ techcmo.int.nokia.com
 techwebapp.nokia.com
 tej.nokia.com
 telenordia-gw.nokia.com
+telstrademo.csfp.dev.software.nokia.com
 temp-api.knowledge.nokia.com
 temp-erm.nokia.com
 temp-ickm.online.nokia.com

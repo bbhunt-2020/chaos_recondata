@@ -873,6 +873,8 @@ dev-connect-hcprojectprovisioningapi-staging.bentley.com
 dev-connect-hcprojectprovisioningapi.bentley.com
 dev-connect-hcprojectprovisioningmanagement-staging.bentley.com
 dev-connect-hcprojectprovisioningmanagement.bentley.com
+dev-connect-healthchecktest-staging.bentley.com
+dev-connect-healthchecktest.bentley.com
 dev-connect-ics-admin-staging.bentley.com
 dev-connect-ics-admin.bentley.com
 dev-connect-ics-adminui-staging.bentley.com
@@ -1301,6 +1303,8 @@ dev-sap-portal.bentley.com
 dev-sccontextregistrylistener.bentley.com
 dev-selectserver.bentley.com
 dev-seq.bentley.com
+dev-shwetatest-staging.bentley.com
+dev-shwetatest.bentley.com
 dev-signingservice-staging.bentley.com
 dev-signingservice.bentley.com
 dev-softwaredownloads.bentley.com
@@ -2734,6 +2738,7 @@ txdot-it.bentley.com
 uat-communities.bentley.com
 uat.cm.bentley.com
 uks.aw-cs.bentley.com
+uksouth-dev.openground.bentley.com
 uksouth-qa.openground.bentley.com
 ulasseq.bentley.com
 user-ind.bentley.com

@@ -81,8 +81,6 @@
 15antivirus-email.goodrx.com
 15antivirus.apfm.goodrx.com
 15blocked.antivirus.goodrx.com
-15hihc.antivirus.goodrx.com
-15m.antivirus-smartrx.goodrx.com
 15vpn.antivirus.goodrx.com
 15www.dentalplansantivirus.goodrx.com
 16-antivirus-applebees.goodrx.com
@@ -90,7 +88,6 @@
 16-apsit.antivirus.goodrx.com
 16-dentalplans.goodrx.com
 16-m.antivirus-applebees.goodrx.com
-16.antivirus-email.goodrx.com
 16.cdn.antivirus.goodrx.com
 16.goodrx.com
 16.vpn.antivirus.goodrx.com
@@ -3388,6 +3385,7 @@ cwf-fixyamltypo-2a677456.dev.uw2.eng.goodrx.com
 cwf-goodrx-de9729da.dev.uw2.eng.goodrx.com
 cwf-homepageauthstate-51ca3607.dev.uw2.eng.goodrx.com
 cwf-maildeliverypages-b246d316.dev.uw2.eng.goodrx.com
+cwf-maildeliverystyle-996953d8.dev.uw2.eng.goodrx.com
 cwf-nngorg1687-fd99355c.dev.uw2.eng.goodrx.com
 cwf-nngorg1799-626373da.dev.uw2.eng.goodrx.com
 cwf-nngorg356-b3f434f0.dev.uw2.eng.goodrx.com
@@ -3406,8 +3404,10 @@ cwf-sergio-3bffa4eb.dev.uw2.eng.goodrx.com
 cwf-skipurlshttpasser-dca44697.dev.uw2.eng.goodrx.com
 cwf-spanishhomepagete-1ff577c2.dev.uw2.eng.goodrx.com
 cwf-univeralregtests-37cac90b.dev.uw2.eng.goodrx.com
+cwf-unskipintegration-9bce6608.dev.uw2.eng.goodrx.com
 cwf-updatee2econfigs-8fac35de.dev.uw2.eng.goodrx.com
 cwf-updatesegmentvers-9f8006db.dev.uw2.eng.goodrx.com
+cwf-verifydeplopyslac-23ee963c.dev.uw2.eng.goodrx.com
 cwf-webviewnpc-4d91be1d.dev.uw2.eng.goodrx.com
 cwww.antiviruskfb.goodrx.com
 danieapp.goodrx.com

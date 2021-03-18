@@ -1,5 +1,7 @@
 autodiscover.pon-cat.com
 content.pon-cat.com
+dremio-prod.pon-cat.com
+dremio-tst.pon-cat.com
 hybrid.pon-cat.com
 motorennieuws.pon-cat.com
 myponpower.pon-cat.com
@@ -16,6 +18,8 @@ tst.so.se.pon-cat.com
 used.pon-cat.com
 webdk.pon-cat.com
 wfm.pon-cat.com
+www.dremio-prod.pon-cat.com
+www.dremio-tst.pon-cat.com
 www.myponpower.pon-cat.com
 www.nyheder.pon-cat.com
 www.partstore-prd.pon-cat.com

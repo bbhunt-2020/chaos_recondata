@@ -1,3 +1,7 @@
+bot-middleware.mediamarkt.pt
+chatbot.mediamarkt.pt
+dev-bot-middleware.mediamarkt.pt
+dev-chatbot.mediamarkt.pt
 dev.mediamarkt.pt
 link.mediamarkt.pt
 lithium.mediamarkt.pt
@@ -5,4 +9,6 @@ notifications.mediamarkt.pt
 prelive.mediamarkt.pt
 qa.mediamarkt.pt
 specials.mediamarkt.pt
+staging-bot-middleware.mediamarkt.pt
+staging-chatbot.mediamarkt.pt
 www.mediamarkt.pt

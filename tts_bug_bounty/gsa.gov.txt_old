@@ -900,6 +900,7 @@ fss-sao.fss.gsa.gov
 fss-slcdb01.fss.gsa.gov
 fss-slcsam01.fss.gsa.gov
 fss-strdb01.fss.gsa.gov
+fss-ui-dev.fss19-dev.fcs.gsa.gov
 fss.107.250.gsa.gov
 fss.gsa.gov
 fss.r8.gsa.gov
@@ -66632,6 +66633,7 @@ issuance.usaccess.gsa.gov
 istage.wip4.gsa.gov
 ists.r8.gsa.gov
 it-solutions.gsa.gov
+itdb.mcaas.fcs.gsa.gov
 ithelp.gsa.gov
 iti.gsa.gov
 itjobs.open.gsa.gov
@@ -67062,6 +67064,7 @@ pricespaid.fas.gsa.gov
 prod-iae.bsp.gsa.gov
 prod.acr.mcaas.fcs.gsa.gov
 prod.dxcore.dx.mcaas.fcs.gsa.gov
+prod.itdb.mcaas.fcs.gsa.gov
 prometheus.dev-ppm.fcs.gsa.gov
 prometheus.mgmt-ppm.fcs.gsa.gov
 prometheus.test-ppm.fcs.gsa.gov
@@ -67913,6 +67916,7 @@ www.gsaxcesspractice.fas.gsa.gov
 www.gsbca.gsa.gov
 www.gsbca2.gsa.gov
 www.gws.gsa.gov
+www.hallways.cap.gsa.gov
 www.hrlinks.gsa.gov
 www.images.gsasolutions.gsa.gov
 www.imtest.gsa.gov

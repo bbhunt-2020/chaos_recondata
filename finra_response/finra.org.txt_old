@@ -1934,6 +1934,7 @@ public-int.di.qa.dr.finra.org
 public.cdip.ct.finra.org
 public.cdip.finra.org
 public.cdip.qa.finra.org
+public.di.dr.finra.org
 public.di.finra.org
 public.di.qa.finra.org
 pulsesftp-gw.finra.org
@@ -2172,6 +2173,7 @@ rex.finra.org
 rex.qa.finra.org
 rm-int.qa.finra.org
 rm.ct.finra.org
+rm.dr.finra.org
 rm.finra.org
 rm.qa.finra.org
 rocky.dev.dr.finra.org

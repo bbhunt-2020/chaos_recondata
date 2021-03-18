@@ -3910,6 +3910,7 @@ priv.cl01.gigadev.telekom.de
 priv.cl02.gigadev.telekom.de
 priv.cl03.gigadev.telekom.de
 priv.cl04.gigadev.telekom.de
+priv.cl05.gigadev.telekom.de
 priv.kirill.gigadev.telekom.de
 priv.kirill2.gigadev.telekom.de
 priv.mp-logstack.gigadev.telekom.de
@@ -4020,6 +4021,7 @@ pub.cl01.gigadev.telekom.de
 pub.cl02.gigadev.telekom.de
 pub.cl03.gigadev.telekom.de
 pub.cl04.gigadev.telekom.de
+pub.cl05.gigadev.telekom.de
 pub.kirill.gigadev.telekom.de
 pub.kirill2.gigadev.telekom.de
 pub.mp-logstack.gigadev.telekom.de
@@ -4689,6 +4691,8 @@ someyer-cluster.dev.asf.telekom.de
 sommers-challenge.dev.asf.telekom.de
 sonar.kube.devops.telekom.de
 sonarqube.demowb.devops.telekom.de
+sonarqube.dev.devops.telekom.de
+sonarqube.test.devops.telekom.de
 sophia.aws.telekom.de
 sot.telekom.de
 spacegate.telekom.de

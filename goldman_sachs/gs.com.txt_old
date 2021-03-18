@@ -1082,6 +1082,7 @@ qa-service.imd-investment-catalog.site.gs.com
 qa-twilio-ext.gs.com
 qa.accounts.gs.com
 qa.atlassian.devcollab.gs.com
+qa.b2b.sfx.gs.com
 qa.cabs.services.gs.com
 qa.confluence.devcollab.gs.com
 qa.developer.gs.com
@@ -1106,6 +1107,7 @@ qa.nyrail2.orbit.gs.com
 qa.orbitdrive.gs.com
 qa.publish.gsamweb.services.gs.com
 qa.select.gs.com
+qa.sfx.gs.com
 qa.symphony.gs.com
 qa.tracking.gs.com
 qa1-login.gs.com

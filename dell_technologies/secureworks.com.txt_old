@@ -124,6 +124,7 @@ aws-test.secureworks.com
 aws.secureworks.com
 awtunnel.secureworks.com
 bhp.vdr.secureworks.com
+braintrace.vdr.secureworks.com
 buhvpn.secureworks.com
 ca1.vdp.secureworks.com
 ca1.vdr.secureworks.com
@@ -133,6 +134,7 @@ callgw-callgw.apps.prod.k8s.us-east-1.aws.secureworks.com
 callgw.gt.secureworks.com
 callgw.secureworks.com
 carbonblack-signing.secureworks.com
+cdpq.vdr.secureworks.com
 certcheck.secureworks.com
 certs.security.secureworks.com
 chat.secureworks.com
@@ -141,8 +143,10 @@ chi1www01.secureworks.com
 click.communications.secureworks.com
 cloud.communications.secureworks.com
 cloud.secureworks.com
+cloud.vdr.secureworks.com
 cluster.b.redcloak.secureworks.com
 cms1.internap.secureworks.com
+cocd.vdr.secureworks.com
 code.secureworks.com
 collector.ctpx.secureworks.com
 compliancecentral.secureworks.com
@@ -165,6 +169,7 @@ ct-mobiledashboard.apps.agile.k8s.us-east-1.aws.secureworks.com
 ct-mobiledashboard.apps.pilot.k8s.us-east-1.aws.secureworks.com
 ct-mobiledashboard.apps.prod.k8s.us-east-1.aws.secureworks.com
 ctpx.secureworks.com
+cyberswat.vdr.secureworks.com
 dailinlync.secureworks.com
 data.analytics.ctpx.secureworks.com
 data.analytics.portal.secureworks.com
@@ -172,8 +177,10 @@ db1.internap.secureworks.com
 de-he.deaddrop.secureworks.com
 de-he.pilot.deaddrop.secureworks.com
 deaddrop.secureworks.com
+defendify.vdr.secureworks.com
 demo.ctpx.secureworks.com
 demo.secureworks.com
+demo.vdr.secureworks.com
 democompliancecentral.secureworks.com
 demologvault.secureworks.com
 dev-editor.secureworks.com
@@ -182,6 +189,7 @@ developer-agile-apigw.secureworks.com
 developer-api.secureworks.com
 developer-pilot-apigw.secureworks.com
 dialinlync.secureworks.com
+djd.vdr.secureworks.com
 docker.secureworks.com
 docrocket2.cloud.secureworks.com
 docrocket3.cloud.secureworks.com
@@ -220,6 +228,7 @@ gcr.docker.secureworks.com
 get.remotetesting.secureworks.com
 globalcrossing.mss.secureworks.com
 go.secureworks.com
+gosecure.vdr.secureworks.com
 graphs.secureworks.com
 groundhog.secureworks.com
 gt.secureworks.com
@@ -661,6 +670,7 @@ keycloak.aws-test.secureworks.com
 keycloak.aws.secureworks.com
 keycloak.security.secureworks.com
 keycloak3scale.aws.secureworks.com
+lambda.vdr.secureworks.com
 ldpc.secureworks.com
 link.secureworks.com
 link2.secureworks.com
@@ -688,7 +698,9 @@ maw3.ir.secureworks.com
 maw4.ir.secureworks.com
 mdmmagr.secureworks.com
 mdmseg.secureworks.com
+mees.vdr.secureworks.com
 meetinlync.secureworks.com
+metabaseq.vdr.secureworks.com
 mission-e.docker.secureworks.com
 mobiledashboard.gt.secureworks.com
 mobiledashboard.secureworks.com
@@ -709,6 +721,7 @@ ocs.secureworks.com
 ocsav.secureworks.com
 ocswc.secureworks.com
 ocsweb.secureworks.com
+orenda.vdr.secureworks.com
 outsidevdi.secureworks.com
 p-atl1boomi02.secureworks.com
 p-atl1ctarepo-app-vip.mss.secureworks.com
@@ -779,8 +792,11 @@ rss01.secureworks.com
 rss02.secureworks.com
 sales.secureworks.com
 scm.secureworks.com
+scotia.vdr.secureworks.com
 searchlight.secureworks.com
 securehub.secureworks.com
+securicy.vdr.secureworks.com
+securis.vdr.secureworks.com
 services.mss.secureworks.com
 sherlockd.atl.secureworks.com
 shoe.secureworks.com
@@ -802,6 +818,7 @@ staging-apicast-pilot-apigw.secureworks.com
 staging-pilot-apigw.secureworks.com
 staging.secureworks.com
 staging.superawesging.secureworks.com
+staging.vdr.secureworks.com
 static.secureworks.com
 status.ctpx.secureworks.com
 sun.mss.secureworks.com
@@ -864,6 +881,7 @@ vulnerabilityscanning-eu.mss.secureworks.com
 vulnerabilityscanning-pod2.mss.secureworks.com
 vulnerabilityscanning-pod3.mss.secureworks.com
 vulnerabilityscanning.mss.secureworks.com
+vygl.vdr.secureworks.com
 web.secureworks.com
 web1.internap.secureworks.com
 web2.internap.secureworks.com

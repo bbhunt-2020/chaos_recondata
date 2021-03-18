@@ -36,6 +36,7 @@ logging.kibana.lob.com
 logstash-logging-monitoring.lob.com
 mail.lob.com
 mock.lob.com
+mtls.api.lob.com
 new.vpn.lob.com
 ns1.lob.com
 ns2.lob.com

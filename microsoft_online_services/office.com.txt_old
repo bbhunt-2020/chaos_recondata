@@ -238,6 +238,7 @@ controltower.office.com
 cortanaruntimesigningcertkey.office.com
 cortanashssigningcertkey.office.com
 cortanauxosigningcertkey.office.com
+cortemastsigningcertkey.office.com
 cosubretailer.osi.office.com
 cosubsigningcertkey.office.com
 cot-ip.office.com
@@ -337,6 +338,7 @@ eacsdfwarmpathcert.geneva.keyvault.office.com
 eacsigningcertkey.office.com
 eas.config.office.com
 eas.office.com
+eas.offline.suite.office.com
 eas.shell.suite.office.com
 eas.webshell.suite.office.com
 easauth.office.com
@@ -359,6 +361,7 @@ edog.osi.office.com
 eduanalyticssigningcertkey.office.com
 ejp.config.office.com
 ejp.office.com
+ejp.offline.suite.office.com
 ejp.shell.suite.office.com
 ejp.webshell.suite.office.com
 ejpauth.office.com
@@ -390,6 +393,7 @@ eus-odcsup.edog.office.com
 eus-odcsup.office.com
 eus.config.office.com
 eus.office.com
+eus.offline.suite.office.com
 eus.shell.suite.office.com
 eus.webshell.suite.office.com
 eus2-00.lifecycle.office.com
@@ -720,6 +724,7 @@ nam1-ppe.gcs.office.com
 nam1.gcs.office.com
 ncu.config.office.com
 ncu.office.com
+ncu.offline.suite.office.com
 ncu.prv.config.office.com
 ncu.shell.suite.office.com
 ncu.webshell.suite.office.com
@@ -737,12 +742,14 @@ ncuprv.webshell.suite.office.com
 network.office.com
 neu.config.office.com
 neu.office.com
+neu.offline.suite.office.com
 neu.shell.suite.office.com
 neu.webshell.suite.office.com
 neuauth.office.com
 neuhome.office.com
 neuportal.office.com
 news202011.outlook.office.com
+news202103.outlook.office.com
 newsletter.outlook.office.com
 nova-dev-torus.substrate.office.com
 nova-int-torus.substrate.office.com
@@ -802,6 +809,7 @@ officelicensingsigningcertkey.office.com
 officemaxsvcssigningcertkey.office.com
 officemru.outlook.office.com
 officeswaysigningcertkey.office.com
+offline.suite.office.com
 ohmy-1.puppyfood.office.com
 ohmy-2.puppyfood.office.com
 ohmy.office.com
@@ -983,6 +991,7 @@ sc1-direct-ip.office.com
 schedulersigningcertkey.office.com
 scu.config.office.com
 scu.office.com
+scu.offline.suite.office.com
 scu.prv.config.office.com
 scu.shell.suite.office.com
 scu.webshell.suite.office.com
@@ -997,6 +1006,10 @@ scuportalprv.office.com
 scuprodprv.office.com
 scuprodprvcontroltower.office.com
 scuprv.webshell.suite.office.com
+sdep-kevlarppe.office.com
+sdep-kevlarprod.office.com
+sdep-torusjit-kevlarppe.office.com
+sdep-torusjit-kevlarprod.office.com
 sdf.config.office.com
 sdf.geneva.keyvault.searchinsightsvalidationgeneva.office.com
 sdf.listingsapi.businesscenter.office.com
@@ -1005,6 +1018,7 @@ sdfv2.sns.outlook.office.com
 sdgporonfig.office.com
 sea.config.office.com
 sea.office.com
+sea.offline.suite.office.com
 sea.shell.suite.office.com
 sea.webshell.suite.office.com
 seaauth.office.com
@@ -1042,6 +1056,7 @@ shieldnotes.gin.fast.office.com
 sienna.osikevlartorus.office.com
 signedurl.outlook.office.com
 signin.office.com
+signoff.offline.suite.office.com
 signoff.shell.suite.office.com
 signoff.webshell.suite.office.com
 sin.config.office.com
@@ -1092,6 +1107,7 @@ substrateingestion.outlook.office.com
 success.office.com
 suk.config.office.com
 suk.office.com
+suk.offline.suite.office.com
 suk.shell.suite.office.com
 suk.webshell.suite.office.com
 sukauth.office.com
@@ -1239,6 +1255,7 @@ weu-odcsup.edog.office.com
 weu-odcsup.office.com
 weu.config.office.com
 weu.office.com
+weu.offline.suite.office.com
 weu.shell.suite.office.com
 weu.webshell.suite.office.com
 weuauth.office.com
@@ -1255,6 +1272,7 @@ win.config.office.com
 windowsskillssigningcertkey.office.com
 wjp.config.office.com
 wjp.office.com
+wjp.offline.suite.office.com
 wjp.shell.suite.office.com
 wjp.webshell.suite.office.com
 wjpauth.office.com
@@ -1280,6 +1298,7 @@ writinganalyticsv2-sdfv2.outlook.office.com
 writinganalyticsv2.outlook.office.com
 wuk.config.office.com
 wuk.office.com
+wuk.offline.suite.office.com
 wuk.shell.suite.office.com
 wuk.webshell.suite.office.com
 wukauth.office.com
@@ -1292,6 +1311,7 @@ wus-odcsup.edog.office.com
 wus-odcsup.office.com
 wus.config.office.com
 wus.office.com
+wus.offline.suite.office.com
 wus.shell.suite.office.com
 wus.webshell.suite.office.com
 wus2-00.lifecycle.office.com

@@ -234,6 +234,9 @@ greenhouse-manager.corp.mongodb.com
 greeter-acme.devops.test.corp.mongodb.com
 greeter-san.tls.test.corp.mongodb.com
 hello.mongodb.com
+helm3-upgrade-test.prod.corp.mongodb.com
+helm3-upgrade-test.staging.corp.mongodb.com
+helm3-upgrade-test.test.corp.mongodb.com
 hostmaster.mongodb.com
 httpbin.gateway.test.corp.mongodb.com
 hub.mongodb.com

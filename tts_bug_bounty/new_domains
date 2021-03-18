@@ -110,3 +110,7 @@ docker-registry.jfrog.mgmt-ppm.fcs.gsa.gov
 jfrog.mgmt-ppm.fcs.gsa.gov
 grafana.mgmt-ppm.fcs.gsa.gov
 sonar.mgmt-ppm.fcs.gsa.gov
+www.hallways.cap.gsa.gov
+itdb.mcaas.fcs.gsa.gov
+fss-ui-dev.fss19-dev.fcs.gsa.gov
+prod.itdb.mcaas.fcs.gsa.gov

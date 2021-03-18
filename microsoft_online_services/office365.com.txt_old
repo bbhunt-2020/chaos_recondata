@@ -115,7 +115,9 @@ jp.storagecdn.actions.office365.com
 kevlar.actions.office365.com
 kevlar.azureconvergence.office365.com
 kevlar.edog.actions.office365.com
+kevlar.edog.sam.actions.office365.com
 kevlar.int.actions.office365.com
+kevlar.sam.actions.office365.com
 kr.storagecdn.actions.office365.com
 lb.geo-live.office365.com
 lb.geo-sdf.office365.com

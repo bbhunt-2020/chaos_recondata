@@ -400,6 +400,7 @@ pulsar-aws-useast2-staging.staging.streaming.datastax.com
 pulsar-aws-useast2.dev.streaming.datastax.com
 pulsar-aws-useast2.staging.streaming.datastax.com
 pulsar-aws-useast2.streaming.datastax.com
+pvt-pulsar-aws-useast2.streaming.datastax.com
 qa.vector.datastax.com
 registry.cloud-tools.datastax.com
 registry.dmc-prod-us-east-1.cloud-tools.datastax.com

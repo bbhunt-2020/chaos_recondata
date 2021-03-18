@@ -822,6 +822,9 @@ sdkgw.stage-us1.twilio.com
 sdkgw.stage-us2.twilio.com
 sdkgw.us1.twilio.com
 sdonovan.twilio.com
+sdp.corp.twilio.com
+sdp.dev.twilio.com
+sdp.stage.twilio.com
 se.twilio.com
 sean.twilio.com
 sec-syslog-collector.corp.twilio.com

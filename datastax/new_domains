@@ -5,3 +5,4 @@ next.datastax.com
 pulsar-aws-useast2-staging.staging.streaming.datastax.com
 api.streaming.datastax.com
 pulsar-aws-useast2.streaming.datastax.com
+pvt-pulsar-aws-useast2.streaming.datastax.com

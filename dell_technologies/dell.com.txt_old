@@ -79,6 +79,8 @@
 3n3df42.server.oob.devops.dell.com
 3n3ff42.server.oob.devops.dell.com
 3n47f42.server.oob.devops.dell.com
+3plportal.dell.com
+3plportaluat.dell.com
 3ppwh41.us.dell.com
 3pscb31.aus.amer.dell.com
 3q376l1.server.oob.devops.dell.com
@@ -2613,6 +2615,8 @@ ausfwjpnweb01.aus.amer.dell.com
 ausfwkwfdapp09.aus.amer.dell.com
 ausfwkwfdapp10.aus.amer.dell.com
 ausfwkwfdapp11.aus.amer.dell.com
+ausfwmssprxy3.aus.amer.dell.com
+ausfwmssprxy4.aus.amer.dell.com
 ausfwmssweb06-1.aus.amer.dell.com
 ausfwmssweb06.aus.amer.dell.com
 ausfwmssweb07.aus.amer.dell.com
@@ -7240,6 +7244,7 @@ cscapsit1.healthcare.dell.com
 cscvpn01.us.dell.com
 csg7041.aus.amer.dell.com
 csi.dell.com
+csm-td-lab2.dell.com
 csm-td-staging.dell.com
 cspdb.dell.com
 csr-dit.dell.com
@@ -14422,7 +14427,6 @@ plmportalsslperf.ap.dell.com
 plmsp-sit.us.dell.com
 plz1swfwcorp01-v300.us.dell.com
 plz1swfwcorp01-v900.us.dell.com
-plz1swfwcorp02-v300.us.dell.com
 plz1swfwcorp02-v900.us.dell.com
 pm4life.dell.com
 pmappmon01.aus.amer.dell.com
@@ -14445,12 +14449,10 @@ pmt03.us.dell.com
 pmt04.us.dell.com
 pn1corpcore1-natnet1.us.dell.com
 pn1corpcore1-natnet2.us.dell.com
-pn2fms1prodclus.us.dell.com
 pn2fms1prodofs.us.dell.com
 pn3msfc1-natnet1.us.dell.com
 pn3msfc1-natnet2.us.dell.com
 pn3msfc2-natnet1.us.dell.com
-pn3msfc2-natnet2.us.dell.com
 pn3printer01.us.dell.com
 pnegsvd.us.dell.com
 pnmwgproxy01-dmz.us.dell.com
@@ -14672,7 +14674,6 @@ ps-accessories-cdn.us.dell.com
 ps-accessories.dell.com
 ps-accessoriesapj.us.dell.com
 ps-advisor.us.dell.com
-ps-advisorapj.us.dell.com
 ps-advisorsapj.us.dell.com
 ps-advisorseuro.us.dell.com
 ps-aorderbroker.us.dell.com
@@ -14685,12 +14686,9 @@ ps-b2bservices.us.dell.com
 ps-bbrac.us.dell.com
 ps-catalogapj.us.dell.com
 ps-clarity.us.dell.com
-ps-cms.us.dell.com
-ps-cmswip.us.dell.com
 ps-configsrv.us.dell.com
 ps-configtools.us.dell.com
 ps-configure.dell.com
-ps-configureap.us.dell.com
 ps-configureapj.us.dell.com
 ps-connectorservice.dell.com
 ps-content.us.dell.com
@@ -14714,7 +14712,6 @@ ps-gemarketing.us.dell.com
 ps-gen.us.dell.com
 ps-gennetfarm.dell.com
 ps-globaladvisors.us.dell.com
-ps-gmap.euro.dell.com
 ps-gpdsops.us.dell.com
 ps-isaproxy.us.dell.com
 ps-jpapp.us.dell.com
@@ -16133,6 +16130,8 @@ shg02-myconnect.dell.com
 shop.software.dell.com
 showcase-vrrp.us.dell.com
 showcase.dell.com
+si-staging.dell.com
+si.dell.com
 sib12pilot.us.dell.com
 sic.dell.com
 sic.demos.dell.com
@@ -18794,6 +18793,7 @@ www.syddsc.apj.dell.com
 www.techconcierge.dell.com
 www.techniciandirect.dell.com
 www.techpageone.dell.com
+www.teckno.dell.com
 www.test.share.software.dell.com
 www.testvault.dell.com
 www.twn.dell.com
