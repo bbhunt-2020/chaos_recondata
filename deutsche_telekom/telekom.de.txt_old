@@ -468,6 +468,7 @@ bdi-wbench-reg.devops.telekom.de
 bdi-wbench.devops.telekom.de
 bdmp.telekom.de
 bdmp2.telekom.de
+bdosecurity.b2b.telekom.de
 beacon-aws.telekom.de
 beacon-aws02.telekom.de
 bear-test.telekom.de
@@ -738,6 +739,8 @@ caaa.telekom.de
 caas-p02.telekom.de
 caas-p03.telekom.de
 caas-portal-integration.telekom.de
+caas-portal-sandbox.telekom.de
+caas-s01.telekom.de
 caas-t03.telekom.de
 caas-t101.telekom.de
 cacti-ngssm.telekom.de
@@ -1796,6 +1799,7 @@ fpf-bzm-ref.telekom.de
 fpf-bzm-test.telekom.de
 fpf-bzm.telekom.de
 fpf-dev.telekom.de
+fpf-mc-maps.telekom.de
 fpf-mc-ref.telekom.de
 fpf-mc-test.telekom.de
 fpf-mc-training.telekom.de
@@ -2731,6 +2735,7 @@ magentaforce.b2b.telekom.de
 magentaforce.prod.websso.telekom.de
 magentaforce.telekom.de
 magentagaming.b2b.telekom.de
+magentasso-mycard-dev.caas-t01.telekom.de
 magentaview-dev.aws.telekom.de
 magentaview-prd.aws.telekom.de
 magentaview-prod.aws.telekom.de
@@ -2832,6 +2837,7 @@ medien-center.telekom.de
 mediencenter.telekom.de
 meetdtpi.telekom.de
 meilenportal.telekom.de
+meine-foerderung.telekom.de
 meintelefon2.telekom.de
 meintelefon3.telekom.de
 merlin.telekom.de
@@ -3911,6 +3917,9 @@ priv.cl02.gigadev.telekom.de
 priv.cl03.gigadev.telekom.de
 priv.cl04.gigadev.telekom.de
 priv.cl05.gigadev.telekom.de
+priv.h01.gigadev.telekom.de
+priv.h02.gigadev.telekom.de
+priv.h04.gigadev.telekom.de
 priv.kirill.gigadev.telekom.de
 priv.kirill2.gigadev.telekom.de
 priv.mp-logstack.gigadev.telekom.de
@@ -4022,6 +4031,9 @@ pub.cl02.gigadev.telekom.de
 pub.cl03.gigadev.telekom.de
 pub.cl04.gigadev.telekom.de
 pub.cl05.gigadev.telekom.de
+pub.h01.gigadev.telekom.de
+pub.h02.gigadev.telekom.de
+pub.h04.gigadev.telekom.de
 pub.kirill.gigadev.telekom.de
 pub.kirill2.gigadev.telekom.de
 pub.mp-logstack.gigadev.telekom.de
@@ -4630,6 +4642,8 @@ slim-ionex-app.zspi.telekom.de
 slim-lisa-app-test.zspi.telekom.de
 slim-test.zspi.telekom.de
 slim.zspi.telekom.de
+sm-gax.aws.telekom.de
+sm-gcxi.aws.telekom.de
 sm-itc.aws.telekom.de
 sm-plugin.aws.telekom.de
 sm-prod.telekom.de
@@ -4637,6 +4651,7 @@ sm-prod1.telekom.de
 sm-prod2.telekom.de
 sm-prod3.telekom.de
 sm-prod4.telekom.de
+sm-pulse.aws.telekom.de
 smallbusiness-ppu.telekom.de
 smallbusiness.telekom.de
 smart-dev.telekom.de
@@ -5098,6 +5113,7 @@ test-bau.evergabe.telekom.de
 test-before.telekom.de
 test-bl-ecass.telekom.de
 test-dashboards.telekom.de
+test-domain.aws.telekom.de
 test-dtmip.telekom.de
 test-ecass.telekom.de
 test-eks-pulumi.dev.asf.telekom.de
@@ -5269,6 +5285,9 @@ touchstone.telekom.de
 towers-watson-test.telekom.de
 towers.b2b.telekom.de
 tp-tool.telekom.de
+tpns-dev.sgp.telekom.de
+tpns-preprod.sgp.telekom.de
+tpns.sgp.telekom.de
 tps-iat.telekom.de
 tps.telekom.de
 tpt-ngssm.telekom.de
@@ -5474,9 +5493,13 @@ vam-be.telekom.de
 vam-login.telekom.de
 vam.telekom.de
 vao-ecass.telekom.de
+vault-api.dev.devops.telekom.de
+vault-api.test.devops.telekom.de
+vault.dev.devops.telekom.de
 vault.mgmt.otc.a4.telekom.de
 vault.ta.sign.res.telekom.de
 vault.ta.tvpp.res.telekom.de
+vault.test.devops.telekom.de
 vc-dashboard.telekom.de
 vc.telekom.de
 vcd-gppng2-01.inf.oasis.telekom.de
@@ -5706,6 +5729,7 @@ webtools-dev.telekom.de
 webtools.telekom.de
 webxplor-tst.telekom.de
 webxplor.telekom.de
+wegrow.telekom.de
 weiterbildung-extern.telekom.de
 weiterbildung.telekom.de
 wekan.telekom.de

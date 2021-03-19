@@ -864,6 +864,7 @@ assets-assets-api-fix-redocs-pipeline.dev.codefi.network
 assets-assets-api-fix-retrieve-tenant.dev.codefi.network
 assets-assets-api-fix-tenant-creation.dev.codefi.network
 assets-assets-api-fix-tenant-logs.dev.codefi.network
+assets-assets-api-test-trigger.dev.codefi.network
 assets-assets-front-chore-ca-3714.dev.codefi.network
 assets-ephemeral.dev.codefi.network
 assets-eu-ops.codefi.network

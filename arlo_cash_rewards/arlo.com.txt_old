@@ -33,6 +33,7 @@ ambassador-eks-clientapi-dev.arlo.com
 api.arlo.com
 apidev.arlo.com
 apigoldendev.arlo.com
+apigoldendevz1.arlo.com
 apigoldenqa.arlo.com
 apiqa.arlo.com
 apiqa2.arlo.com
@@ -500,6 +501,7 @@ notifications.arlo.com
 oauth-goldendevz1.arlo.com
 oauth.arlo.com
 oauthdev.arlo.com
+oauthgoldendevz1.arlo.com
 oauthpartner-goldendev.arlo.com
 oauthqa.arlo.com
 oauthqa2.arlo.com
@@ -539,10 +541,12 @@ panaroma01.arlo.com
 panorama01.arlo.com
 partner-goldendev.arlo.com
 partnerapi-goldendev.arlo.com
+partnerapi-goldendevz1.arlo.com
 partnerapi-goldenqa.arlo.com
 partnerapi-test.arlo.com
 partnerapi.arlo.com
 partneroauth-goldendev.arlo.com
+partneroauth-goldendevz1.arlo.com
 partneroauth-goldenqa.arlo.com
 partneroauth-secure-goldendev.arlo.com
 partneroauth-test.arlo.com

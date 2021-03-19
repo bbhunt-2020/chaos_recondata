@@ -32,3 +32,5 @@ s1.i.mmr.mep.tomtom.com
 concourse.mapcontent-dev.tomtom.com
 uat-02.cdn.telematics.tomtom.com
 cma-flask.sre-lab.tomtomgroup.com
+jaeger.sre-lab.tomtomgroup.com
+matcher-viewer.maps-amf.tomtom.com

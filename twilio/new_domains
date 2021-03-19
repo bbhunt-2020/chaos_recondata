@@ -78,3 +78,5 @@ aacc609314c606aa54d84f363feb81112b99a2f1.console.dev.twilio.com
 sdp.dev.twilio.com
 sdp.stage.twilio.com
 sdp.corp.twilio.com
+admiral-with-corp-backends.stage.twilio.com
+admiral-with-corp-backends-tmp.stage.twilio.com

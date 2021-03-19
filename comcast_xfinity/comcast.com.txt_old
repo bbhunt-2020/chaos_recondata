@@ -1027,12 +1027,6 @@ advisorui.cable.comcast.com
 advodb-nb-apgrd.cable.comcast.com
 advodb-nb-bpgrd.cable.comcast.com
 advodb-wc-bpgrd.cable.comcast.com
-advomsapp.comcast.com
-advomsapp1.comcast.com
-advomsapp2.comcast.com
-advomsweb.comcast.com
-advomsweb1.comcast.com
-advomsweb2.comcast.com
 advomswebperf.comcast.com
 advwo-wc-01p.cable.comcast.com
 advxgdtr.cable.comcast.com
@@ -1713,8 +1707,6 @@ blkapp-po-3p.cable.comcast.com
 blocklist.securitydashboard.cable.comcast.com
 blog.pabs.comcast.com
 blue_old.cable.comcast.com
-bluedot.cable.comcast.com
-bluedottest.cable.comcast.com
 bmsl-esp.cable.comcast.com
 bmsl-int.cable.comcast.com
 bmsl-stg.cable.comcast.com
@@ -1931,6 +1923,7 @@ cadm-cmc-1p.cable.comcast.com
 caelsexcmb01-ilo.cable.comcast.com
 caelsexcmb01.cable.comcast.com
 cafe-nxgen-po-prd-vip.cable.comcast.com
+cafe360.cable.comcast.com
 cafeapp-ch2-14s.cable.comcast.com
 cafeapp-ch2-21s.cable.comcast.com
 cafeapp-ch2-a5s.cable.comcast.com
@@ -1992,10 +1985,15 @@ cafelog-wc-b1p.cable.comcast.com
 cafelog-wc-bp-vip.cable.comcast.com
 cafelog.cable.comcast.com
 cafems-stg.cable.comcast.com
+cafenx-wc-a.cable.comcast.com
+cafepf-po-a1p.cable.comcast.com
 cafepf-po-a2p.cable.comcast.com
 cafepf-po-b1p.cable.comcast.com
+cafepf-wc-a1p.cable.comcast.com
 cafepf-wc-a2p.cable.comcast.com
 cafepf-wc-b2p.cable.comcast.com
+cafeplatform-soak.gslb2.comcast.com
+cafeplatform.gslb2.comcast.com
 cafepod-wc-2u.cable.comcast.com
 cafespw-ch2-a7s.cable.comcast.com
 cafespw-dt-1f.cable.comcast.com
@@ -2011,9 +2009,11 @@ cafeui-ch2-16s.cable.comcast.com
 cafeui-ch2-17s.cable.comcast.com
 cafeui-ch2-6s.cable.comcast.com
 cafeui-dt-1i-nat.cable.comcast.com
+cafeui-po-a15p.cable.comcast.com
 cafeui-po-a18p.cable.comcast.com
 cafeui-po-a19p.cable.comcast.com
 cafeui-po-a20p.cable.comcast.com
+cafeui-po-a21p.cable.comcast.com
 cafeui-po-a22p.cable.comcast.com
 cafeui-po-a23p.cable.comcast.com
 cafeui-po-a3p.cable.comcast.com
@@ -2024,8 +2024,13 @@ cafeui-wc-11s.cable.comcast.com
 cafeui-wc-5s.cable.comcast.com
 cafeui-wc-a11p.cable.comcast.com
 cafeui-wc-a12p.cable.comcast.com
+cafeui-wc-a18p.cable.comcast.com
+cafeui-wc-a20p.cable.comcast.com
 cafeui-wc-a4p.cable.comcast.com
+cafeui-wc-b.cable.comcast.com
+cafeui-wc-b2p.cable.comcast.com
 cafeui-wc-b3p.cable.comcast.com
+cafeui-wc-b6p.cable.comcast.com
 cafeui.g.cable.comcast.com
 caftcdb-wc-1q.cable.comcast.com
 cai-admc-am1.cable.comcast.com
@@ -3402,7 +3407,6 @@ cmpstp-po-6p.cable.comcast.com
 cmpstp-po-vip.cable.comcast.com
 cmpstp-wc-5p-vip.cable.comcast.com
 cmpstp-wc-vip.cable.comcast.com
-cmptcrnr.cable.comcast.com
 cmptrn-po-11p.cable.comcast.com
 cmptrn-po-12p.cable.comcast.com
 cmptrn-po-14p.cable.comcast.com
@@ -18227,8 +18231,6 @@ netviz.snp.comcast.com
 networktrack.cable.comcast.com
 netzoom-ch2-1p.cable.comcast.com
 new-vip-for-leaders-online.cable.comcast.com
-newbuild.cable.comcast.com
-newbuildtest.cable.comcast.com
 newccdnmicatch.cable.comcast.com
 newccdnmicatchremote.cable.comcast.com
 newengland.comcast.com
@@ -18953,6 +18955,7 @@ notification-gateway.bsd-cloud.comcast.com
 notification-gateway.np.api-business.comcast.com
 notification-management.api-business.comcast.com
 notification-status-service-qa.np.api-business.comcast.com
+notification-status-service-stg-va.np.api-business.comcast.com
 novardb1.cable.comcast.com
 novarweb.cable.comcast.com
 np.martech.business.comcast.com
@@ -19111,7 +19114,6 @@ obiweb-wc-3p.cable.comcast.com
 obiweb-wc-4p.cable.comcast.com
 obiweb-wc-p01.cable.comcast.com
 object-service.dev.ibis.comcast.com
-observatory.cable.comcast.com
 ocaapps-wc-2p.cable.comcast.com
 ocbfc-wc-as-vip.cable.comcast.com
 ocbfc-wc-bs-vip.cable.comcast.com
@@ -19149,6 +19151,7 @@ ofa.cable.comcast.com
 oh-11.staging.vault.comcast.com
 oh-12.vault.comcast.com
 oh-16.vault.comcast.com
+oh-17.staging.vault.comcast.com
 oh-17.vault.comcast.com
 oh-2.staging.vault.comcast.com
 oh-24.vault.comcast.com
@@ -19162,6 +19165,7 @@ oh-38.vault.comcast.com
 oh-41.vault.comcast.com
 oh-44.staging.vault.comcast.com
 oh-46.staging.vault.comcast.com
+oh-48.staging.vault.comcast.com
 oh-8.vault.comcast.com
 oh-9.vault.comcast.com
 oh-aws.api-business.comcast.com
@@ -25399,7 +25403,6 @@ testcenseasmidtier.cable.comcast.com
 testcid.cable.comcast.com
 testclt.cable.comcast.com
 testcm.cable.comcast.com
-testcmptcrnr.cable.comcast.com
 testctstep.cable.comcast.com
 testdata-wc-1p.cable.comcast.com
 testdecisionengine.cable.comcast.com
@@ -25996,7 +25999,6 @@ va-herndon-worldgat-r1.cable.comcast.com
 va-herndon-worldgat-r2.cable.comcast.com
 va-herndon-worldgat-vlan40-hsrp.cable.comcast.com
 va.ac-gateway.api-business.comcast.com
-va.activecore.digital.business.comcast.com
 va.activecore.np.digital.business.comcast.com
 va.admin.digital.business.comcast.com
 va.app-1-dist.np.digital.business.comcast.com
@@ -27639,8 +27641,6 @@ was-tsv01-derry-nh.cable.comcast.com
 was-tsv01-manchester-nh-question.cable.comcast.com
 was-tsv01-milford-ma.cable.comcast.com
 waseal-5zfpwz1.cable.comcast.com
-watchedtech.cable.comcast.com
-watchedtechtest.cable.comcast.com
 watchtower.dev.us-west-2.janus.comcast.com
 watchtower.observability.janus.comcast.com
 watchtower.prod-b.us-east-1.janus.comcast.com
@@ -28106,7 +28106,6 @@ www.bizopstops.cable.comcast.com
 www.blacklist.acebeta.comcast.com
 www.blacklistmgr.acebeta.comcast.com
 www.blog.pabs.comcast.com
-www.bluedot.cable.comcast.com
 www.bluedottest.cable.comcast.com
 www.bom-external.g.cable.comcast.com
 www.bpssp.cable.comcast.com
@@ -29422,7 +29421,6 @@ www.walynvdipsc08.cable.comcast.com
 www.walynverrec01.cable.comcast.com
 www.walynverrec02.cable.comcast.com
 www.waseal-5zfpwz1.cable.comcast.com
-www.watchedtech.cable.comcast.com
 www.wbsfa-vip-stg.cable.comcast.com
 www.wbsl.cable.comcast.com
 www.wbweb-as-vip-stg.cable.comcast.com
@@ -29627,11 +29625,13 @@ xmalai-stage.comcast.com
 xmalai.comcast.com
 xmalaiapp-prod.gslb2.comcast.com
 xmalaiapp-stg.gslb2.comcast.com
+xmalainginx-1p.gslb4.comcast.com
 xmalaiweb-preprod-as-1p.slb.comcast.com
 xmcareapp-ch2-1p.slb.comcast.com
 xmcareappalai.gslb2.comcast.com
 xmcareweb-1p.gslb2.comcast.com
 xmcareweb-as-1p.slb.comcast.com
+xmdmflask-1p.gslb4.comcast.com
 xmftacrm-po-1p.cable.comcast.com
 xmftacrm-po-2p.cable.comcast.com
 xmftad2c-po-1d.cable.comcast.com

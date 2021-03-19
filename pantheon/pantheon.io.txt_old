@@ -3058,4 +3058,5 @@ www.community.pantheon.io
 www.pantheon.io
 zuora-payment-service-webhook-receiver.production.general-01.us-central1.internal.k8s.pantheon.io
 zuora-payment-service-webhook-receiver.sandbox-var-testing.sbx03.pantheon.io
+zuora-payment-service-webhook-receiver.sandbox.svc.pantheon.io
 zuora-payment-service-webhook-receiver.svc.pantheon.io

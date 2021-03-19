@@ -13,6 +13,8 @@
 1bsp-c127.wellsfargo.com
 1bsp-q117.wellsfargo.com
 1bsp-q127.wellsfargo.com
+1bsp-v117.wellsfargo.com
+1bsp-v127.wellsfargo.com
 1mgm-cert.wellsfargo.com
 1mgm-dr.wellsfargo.com
 1mgm.wellsfargo.com
@@ -2702,7 +2704,9 @@ e1tm1pd1it008.wellsfargo.com
 e1tm1pd1it008r.wellsfargo.com
 e2-bpdirect-dev.wellsfargo.com
 e2000t.wellsfargo.com
+e2ox1pd1ap001.wellsfargo.com
 e2ox1pd1ap001r.wellsfargo.com
+e2ox1pd1en001.wellsfargo.com
 e2ox1pd1en001r.wellsfargo.com
 e2ox1pd1md001r.wellsfargo.com
 e2ox1pd1sc001r.wellsfargo.com
@@ -2713,7 +2717,9 @@ e2si1pd1sc001r.wellsfargo.com
 e2si1pd1sc002r.wellsfargo.com
 e2si1pd1sc003r.wellsfargo.com
 e2si1pd1sc004r.wellsfargo.com
+e2sv1pd1ap002.wellsfargo.com
 e2sv1pd1ap002r.wellsfargo.com
+e2sv1pd1en001.wellsfargo.com
 e2sv1pd1en001r.wellsfargo.com
 e2sv1pd1sc001r.wellsfargo.com
 e2sv1pd1sc002r.wellsfargo.com
@@ -9503,8 +9509,10 @@ wuvra01a0313.wellsfargo.com
 wuvra02a0313.wellsfargo.com
 wuvra03a0313.wellsfargo.com
 wuvra96a0588.wellsfargo.com
+wuvra96a0921.wellsfargo.com
 wuvra97a0588.wellsfargo.com
 wuvra98a0588.wellsfargo.com
+wuvra98a0921.wellsfargo.com
 wuvra99a0588.wellsfargo.com
 wuvra99a0966.wellsfargo.com
 wuvre98a0003.wellsfargo.com

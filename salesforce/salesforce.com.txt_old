@@ -4294,7 +4294,6 @@ dcl2-phx.cs63-phx.salesforce.com
 dcl2-phx.cs69-phx.salesforce.com
 dcl2-phx.cs70-phx.my.salesforce.com
 dcl2-phx.cs998-phx.my.salesforce.com
-dcl2-phx.cs998-phx.salesforce.com
 dcl2-phx.la2-c1-phx.salesforce.com
 dcl2-phx.la2-c1cs-phx.salesforce.com
 dcl2-phx.la2-c2-phx.salesforce.com
@@ -7824,6 +7823,7 @@ dwgin-cftx-dev.cccnp0006.cnp-dev.commercecloud.salesforce.com
 dwgin-realm-pbkg-dev.cccnp0006.cnp-dev.commercecloud.salesforce.com
 dwgin-zyaa-dev.cccnp0010.cnp-dev.commercecloud.salesforce.com
 dwgin-zyca-dev.cccnp0001.cnp-dev.commercecloud.salesforce.com
+dwgin-zycg-prd.cccnp0003.cnp-dev.commercecloud.salesforce.com
 dwgin-zymc-prd.cccnp0011.cnp-dev.commercecloud.salesforce.com
 dwgin-zyme-dev.cccnp0011.cnp-dev.commercecloud.salesforce.com
 dwgin-zymg-prd.cccnp0011.cnp-dev.commercecloud.salesforce.com

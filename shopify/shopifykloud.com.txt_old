@@ -317,6 +317,7 @@ presto-lb-test.shopifykloud.com
 presto-lb.shopifykloud.com
 presto-load-2.presto.shopifykloud.com
 presto-load.presto.shopifykloud.com
+presto-logging.shopify-data-presto-global.shopifykloud.com
 presto-maestro-presto-maestro-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 presto-meastro-testing.k8s-exp.shopifykloud.com
 presto-meastro.k8s-exp.shopifykloud.com

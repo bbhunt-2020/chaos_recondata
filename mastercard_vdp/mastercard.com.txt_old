@@ -621,6 +621,7 @@ api.ext.redemption.mastercard.com
 api.files.mastercard.com
 api.gateway.mastercard.com
 api.gw.external.mastercard.com
+api.identity.mastercard.com
 api.mastercard.com
 api.mobile.lcl.dev.mastercard.com
 api.mptse.mastercard.com
@@ -2572,6 +2573,7 @@ praxell.perf2.truaxis.mastercard.com
 praxell.qa.truaxis.mastercard.com
 praxell.truaxis.mastercard.com
 prd.ptsa.mastercard.com
+prd.sdg2.mastercard.com
 prd.sdpush.clt.wng.mastercard.com
 prd.ssp.mastercard.com
 pre-qa1.ccagent.mastercard.com
@@ -2708,6 +2710,7 @@ remote.files.mastercard.com
 reports.communitypass.mastercard.com
 restaurant.mastercard.com
 rhb.gateway.mastercard.com
+ri-ctck-client.mastercard.com
 roadtomilan.mastercard.com
 rppsmtf.mastercard.com
 rppsprd.mastercard.com

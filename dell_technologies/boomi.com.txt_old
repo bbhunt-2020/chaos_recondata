@@ -32,6 +32,7 @@ akgwtest5.runtime-sandbox.boomi.com
 akgwtest6.runtime-sandbox.boomi.com
 alexmolecule.sandbox.boomi.com
 alon.dcp-pipeline.boomi.com
+alon.dcp-sandbox.boomi.com
 anavplat.sandbox.boomi.com
 anavrel.sandbox.boomi.com
 anavsept.sandbox.boomi.com
@@ -464,6 +465,7 @@ kpplat13.sandbox.boomi.com
 kpplat14.sandbox.boomi.com
 kpplat16.sandbox.boomi.com
 kpplat17.sandbox.boomi.com
+kpplat19.sandbox.boomi.com
 kpplat5.sandbox.boomi.com
 kpplat7.sandbox.boomi.com
 kpplat8.sandbox.boomi.com
@@ -875,6 +877,7 @@ occm-us-east-1-kpplat13.sandbox.boomi.com
 occm-us-east-1-kpplat14.sandbox.boomi.com
 occm-us-east-1-kpplat16.sandbox.boomi.com
 occm-us-east-1-kpplat17.sandbox.boomi.com
+occm-us-east-1-kpplat19.sandbox.boomi.com
 occm-us-east-1-kpplat5.sandbox.boomi.com
 occm-us-east-1-kpplat7.sandbox.boomi.com
 occm-us-east-1-kpplat8.sandbox.boomi.com
@@ -1117,6 +1120,7 @@ occm-us-east-1-swati80.sandbox.boomi.com
 occm-us-east-1-swatic17.sandbox.boomi.com
 occm-us-east-1-swatic20.sandbox.boomi.com
 occm-us-east-1-swatic21.sandbox.boomi.com
+occm-us-east-1-swatic21.underdog-sandbox.boomi.com
 occm-us-east-1-swatic22.sandbox.boomi.com
 occm-us-east-1-swatic24.sandbox.boomi.com
 occm-us-east-1-swatidr11.sandbox.boomi.com
@@ -1184,6 +1188,7 @@ occm-us-west-2-arpithacloud.sandbox.boomi.com
 occm-us-west-2-aws648.sandbox.boomi.com
 occm-us-west-2-awsfipstrue.sandbox.boomi.com
 occm-us-west-2-brianawstest2.sandbox.boomi.com
+occm-us-west-2-callisto.sandbox.boomi.com
 occm-us-west-2-christest1.sandbox.boomi.com
 occm-us-west-2-christest10.sandbox.boomi.com
 occm-us-west-2-christest2.sandbox.boomi.com
@@ -1225,6 +1230,7 @@ occm-us-west-2-kphosts1.sandbox.boomi.com
 occm-us-west-2-kpplat11.sandbox.boomi.com
 occm-us-west-2-kpplat13.sandbox.boomi.com
 occm-us-west-2-kpplat17.sandbox.boomi.com
+occm-us-west-2-kpplat19.sandbox.boomi.com
 occm-us-west-2-kpplat5.sandbox.boomi.com
 occm-us-west-2-kppwd2.sandbox.boomi.com
 occm-us-west-2-kpsec2.sandbox.boomi.com

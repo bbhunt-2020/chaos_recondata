@@ -73,6 +73,7 @@ asis.pelomyxa.staging.search.usa.gov
 asis.porifera.staging.search.usa.gov
 asis.pusheen.staging.search.usa.gov
 asis.pylori.staging.search.usa.gov
+asis.radiodurans.staging.search.usa.gov
 asis.raphus.staging.search.usa.gov
 asis.riftia.staging.search.usa.gov
 asis.rubrobacter.staging.search.usa.gov
@@ -217,6 +218,7 @@ i14y.pelomyxa.staging.search.usa.gov
 i14y.porifera.staging.search.usa.gov
 i14y.pusheen.staging.search.usa.gov
 i14y.pylori.staging.search.usa.gov
+i14y.radiodurans.staging.search.usa.gov
 i14y.raphus.staging.search.usa.gov
 i14y.riftia.staging.search.usa.gov
 i14y.rubrobacter.staging.search.usa.gov
@@ -274,6 +276,7 @@ kibana.pelomyxa.staging.search.usa.gov
 kibana.porifera.staging.search.usa.gov
 kibana.pusheen.staging.search.usa.gov
 kibana.pylori.staging.search.usa.gov
+kibana.radiodurans.staging.search.usa.gov
 kibana.raphus.staging.search.usa.gov
 kibana.riftia.staging.search.usa.gov
 kibana.rubrobacter.staging.search.usa.gov
@@ -368,6 +371,7 @@ proxylb.us-west-2.infr.search.usa.gov
 publications.usa.gov
 pusheen.staging.search.usa.gov
 pylori.staging.search.usa.gov
+radiodurans.staging.search.usa.gov
 raphus.staging.search.usa.gov
 rcfl.sites.usa.gov
 registry.usa.gov
@@ -394,6 +398,7 @@ resque.pelomyxa.staging.search.usa.gov
 resque.porifera.staging.search.usa.gov
 resque.pusheen.staging.search.usa.gov
 resque.pylori.staging.search.usa.gov
+resque.radiodurans.staging.search.usa.gov
 resque.raphus.staging.search.usa.gov
 resque.riftia.staging.search.usa.gov
 resque.rubrobacter.staging.search.usa.gov
