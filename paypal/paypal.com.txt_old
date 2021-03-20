@@ -122,6 +122,7 @@ api-venmo-e2e.qa.paypal.com
 api-venmo-qa.qa.paypal.com
 api.ach2dc.stage.paypal.com
 api.amex.stage.paypal.com
+api.au10tix.stage.paypal.com
 api.beta-sandbox.paypal.com
 api.bofa.stage.paypal.com
 api.braintree.stage.paypal.com
@@ -2564,8 +2565,11 @@ wukong-dev.qa.paypal.com
 wwage.paypal.com
 www-carrier.paypal.com
 www-st.paypal.com
+www-v1.sandbox.paypal.com
+www-v2.sandbox.paypal.com
 www.ach2dc.stage.paypal.com
 www.amex.stage.paypal.com
+www.au10tix.stage.paypal.com
 www.beta-sandbox.paypal.com
 www.bofa.stage.paypal.com
 www.braintree.stage.paypal.com

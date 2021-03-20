@@ -31,6 +31,8 @@ bl2mugshot.yammer.com
 blackadder.integration.yammer.com
 blackmirror.integration.yammer.com
 blog.yammer.com
+bootstrap.stage-central-1.mesos.yammer.com
+bootstrap.stage-east-1.mesos.yammer.com
 bounciezk.eu.yammer.com
 bounciezk.us.yammer.com
 bounciezkquorum.eu.yammer.com
@@ -300,6 +302,8 @@ mailout.yammer.com
 mailrelay.eu.yammer.com
 mailrelay.staging.yammer.com
 marketing.yammer.com
+master.stage-central-1.mesos.yammer.com
+master.stage-east-1.mesos.yammer.com
 masterldap-1.tools.yammer.com
 masterldap-2.tools.yammer.com
 masterldap.tools.yammer.com
@@ -529,6 +533,14 @@ twinpeaks.integration.yammer.com
 undercroft.yammer.com
 us-1.int.yammer.com
 user.integration.yammer.com
+vault-1.stage-central-1.mesos.yammer.com
+vault-1.stage-east-1.mesos.yammer.com
+vault-2.stage-central-1.mesos.yammer.com
+vault-2.stage-east-1.mesos.yammer.com
+vault-3.stage-central-1.mesos.yammer.com
+vault-3.stage-east-1.mesos.yammer.com
+vault.stage-central-1.mesos.yammer.com
+vault.stage-east-1.mesos.yammer.com
 veep.integration.yammer.com
 vpn.yammer.com
 vpn1.sjc1.yammer.com

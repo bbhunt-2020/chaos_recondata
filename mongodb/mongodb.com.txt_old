@@ -395,6 +395,7 @@ support.staging.corp.mongodb.com
 syseng-influx.mongodb.com
 syseng.prod.corp.mongodb.com
 syseng.staging.corp.mongodb.com
+target.test.corp.mongodb.com
 tchelper-staging.corp.mongodb.com
 tchelper.corp.mongodb.com
 tcp-tester.gateway.staging.corp.mongodb.com

@@ -484,6 +484,7 @@ staging-collector-103.newrelic.com
 staging-collector-2.newrelic.com
 staging-collector-pool.newrelic.com
 staging-collector.newrelic.com
+staging-collectors.newrelic.com
 staging-connect.newrelic.com
 staging-custom-event-inserter.newrelic.com
 staging-discuss.newrelic.com

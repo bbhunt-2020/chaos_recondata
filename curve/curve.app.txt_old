@@ -71,6 +71,7 @@ prometheus-spend-see.platform.vision.curve.app
 prometheus.platform.curve.app
 prometheus.platform.mysterio.curve.app
 prometheus.platform.vision.curve.app
+retool.production.curve.app
 send.curve.app
 send.production.curve.app
 send.production.prod.curve.app

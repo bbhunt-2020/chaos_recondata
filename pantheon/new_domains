@@ -3,3 +3,4 @@ feature-pmts-30-terraform-config.pmt-staging.pantheon.io
 laravel-8-fixes.pmt-staging.pantheon.io
 devpmt-844-increase-max-execution-time.pmt-staging.pantheon.io
 zuora-payment-service-webhook-receiver.sandbox.svc.pantheon.io
+devpmt-843-implement-static-ip.pmt-staging.pantheon.io

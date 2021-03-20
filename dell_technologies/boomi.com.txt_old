@@ -1140,6 +1140,7 @@ occm-us-east-1-thehub.underdog-sandbox.boomi.com
 occm-us-east-1-themisto.sandbox.boomi.com
 occm-us-east-1-thishub.pipeline.boomi.com
 occm-us-east-1-thishub.sandbox.boomi.com
+occm-us-east-1-thishub.underdog-sandbox.boomi.com
 occm-us-east-1-thyone.sandbox.boomi.com
 occm-us-east-1-timbuktu02.sandbox.boomi.com
 occm-us-east-1-titan.sandbox.boomi.com
@@ -1170,6 +1171,7 @@ occm-us-east-2-swatic20.sandbox.boomi.com
 occm-us-east-2-swatic21.sandbox.boomi.com
 occm-us-east-2-swatic22.sandbox.boomi.com
 occm-us-east-2-swatic3.sandbox.boomi.com
+occm-us-east-2-thishub.underdog-sandbox.boomi.com
 occm-us-west-1-futuna.sandbox.boomi.com
 occm-us-west-1-kppeer2.pipeline.boomi.com
 occm-us-west-1-oduguhub1.sandbox.boomi.com
@@ -1217,6 +1219,7 @@ occm-us-west-2-jiveturkey.sandbox.boomi.com
 occm-us-west-2-jwelshp1.sandbox.boomi.com
 occm-us-west-2-jwelshp2.sandbox.boomi.com
 occm-us-west-2-jwelshp3.sandbox.boomi.com
+occm-us-west-2-kalyke.sandbox.boomi.com
 occm-us-west-2-karishmadr.sandbox.boomi.com
 occm-us-west-2-karishmadr2.sandbox.boomi.com
 occm-us-west-2-karishmadr8.sandbox.boomi.com
@@ -1339,6 +1342,7 @@ occm-us-west-2-tcqa1.sandbox.boomi.com
 occm-us-west-2-thehub.underdog-sandbox.boomi.com
 occm-us-west-2-thishub.pipeline.boomi.com
 occm-us-west-2-thishub.sandbox.boomi.com
+occm-us-west-2-thishub.underdog-sandbox.boomi.com
 occm-us-west-2-tmaitest1.sandbox.boomi.com
 occm-us-west-2-waftest.sandbox.boomi.com
 occm-us-west-2-waftest1.sandbox.boomi.com

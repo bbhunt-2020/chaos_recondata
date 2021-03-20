@@ -867,6 +867,7 @@ idsccidsqa.cusa.canon.com
 idsccipr.cusa.canon.com
 idscciqa.cusa.canon.com
 idscsadevoidc.cusa.canon.com
+idscsadv.cusa.canon.com
 idscsapr.cusa.canon.com
 idscsaqa.cusa.canon.com
 idscsaqa2.cusa.canon.com
@@ -1190,6 +1191,8 @@ nymsdv170.cusa.canon.com
 nymsdv170.devcorp.cusa.canon.com
 nymsdv171.cusa.canon.com
 nymsdv171.devcorp.cusa.canon.com
+nymsdv193.corp.cusa.canon.com
+nymsdv193.cusa.canon.com
 nymsdz114.cusa.canon.com
 nymsdz115.cusa.canon.com
 nymsdz135.cusa.canon.com
@@ -1234,6 +1237,8 @@ nymspr543.corp.cusa.canon.com
 nymspr543.cusa.canon.com
 nymspr544.corp.cusa.canon.com
 nymspr544.cusa.canon.com
+nymspr546.corp.cusa.canon.com
+nymspr546.cusa.canon.com
 nymspr67.corp.cusa.canon.com
 nymspr758.corp.cusa.canon.com
 nymspr758.cusa.canon.com
@@ -1680,6 +1685,7 @@ sql.nymsdz44.cusa.canon.com
 sqsbr.cusa.canon.com
 sqsmex.cusa.canon.com
 ssoapidev.cusa.canon.com
+ssotoken.cusa.canon.com
 stage.jp.canon.com
 stage.s21qa.csa.canon.com
 stage.seeimpossible.usa.canon.com

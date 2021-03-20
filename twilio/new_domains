@@ -80,3 +80,4 @@ sdp.stage.twilio.com
 sdp.corp.twilio.com
 admiral-with-corp-backends.stage.twilio.com
 admiral-with-corp-backends-tmp.stage.twilio.com
+vnv-pipeline-coordinator.stage-us1.twilio.com

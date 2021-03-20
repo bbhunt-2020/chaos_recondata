@@ -230,6 +230,8 @@ aws.staging.smartsheet.com
 aws.test.smartsheet.com
 aww.smartsheet.com
 b51t7s2.apollo.smartsheet.com
+baselines-release-0.box.lab.smartsheet.com
+baselines-release-1.box.lab.smartsheet.com
 baselines.box.lab.smartsheet.com
 basil.box.lab.smartsheet.com
 basil2.box.lab.smartsheet.com
@@ -880,6 +882,8 @@ laurel.smartsheet.com
 learn.smartsheet.com
 leo.box.lab.smartsheet.com
 lescott.box.lab.smartsheet.com
+linksbranch.box.lab.smartsheet.com
+linksdev.box.lab.smartsheet.com
 llarue-desktop.apollo.smartsheet.com
 lleong-develop.box.lab.smartsheet.com
 localstack-upgrade.box.lab.smartsheet.com
@@ -1377,6 +1381,8 @@ vferreria-desktop.apollo.smartsheet.com
 vferreria-test.box.lab.smartsheet.com
 vferreria.box.lab.smartsheet.com
 vftest.box.lab.smartsheet.com
+video-transcoding.smartsheet.com
+video-transcoding.test.smartsheet.com
 vince-temp.box.lab.smartsheet.com
 vince.box.lab.smartsheet.com
 vinceftest.box.lab.smartsheet.com

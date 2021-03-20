@@ -12,3 +12,4 @@ helm3-upgrade-test.test.corp.mongodb.com
 helm3-upgrade-test.staging.corp.mongodb.com
 mars.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
+target.test.corp.mongodb.com

@@ -1949,6 +1949,10 @@ coms-ceo-prod.wellsfargo.com
 coms-ceo-uat.wellsfargo.com
 coms-ceo.g.wellsfargo.com
 conf.wellsfargo.com
+confirmcard-birm.wellsfargo.com
+confirmcard-svdc.wellsfargo.com
+confirmcard.g.wellsfargo.com
+confirmcard.wellsfargo.com
 connect.secure.staging.wellsfargo.com
 connect.secure.wellsfargo.com
 connect6.secure.evetest.wellsfargo.com
@@ -3347,6 +3351,8 @@ expressendclienttest.wellsfargo.com
 expresssendclient.wellsfargo.com
 expresssendclienttest.wellsfargo.com
 exs-prod-svc.wellsfargo.com
+external-exchange-dev.wellsfargo.com
+external-exchange-qa.wellsfargo.com
 exwzr1001-ext.wellsfargo.com
 ezra.wellsfargo.com
 fabst-win.wellsfargo.com

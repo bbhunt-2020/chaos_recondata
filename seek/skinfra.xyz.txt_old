@@ -1,6 +1,7 @@
 anchorman.skinfra.xyz
 api.skinfra.xyz
 artefacts.artefacts.prod.skinfra.xyz
+artefacts.dev.skinfra.xyz
 artefacts.eng.dev.skinfra.xyz
 artefacts.eng.prod.skinfra.xyz
 artefacts.prod.skinfra.xyz

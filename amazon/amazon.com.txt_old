@@ -9246,6 +9246,7 @@ acp-dashboard-cn.aka.amazon.com
 acr.amazon.com
 acs-relay-preprod.amazon.com
 acs-relay.amazon.com
+act-fe.corp.amazon.com
 actinides-us-west-2.amazon.com
 actlabs.signin.aws.amazon.com
 acuity-jenkins-secure.corp.amazon.com
@@ -14766,6 +14767,7 @@ itrss-dash.corp.amazon.com
 iwssynchrony.ach.saml.amazon.com
 ixd-arsenal.corp.amazon.com
 jackson-config-service.aka.amazon.com
+jainpr-ap-east-1.beta.signer.console-api.aws-dev.amazon.com
 jam-beta-dev.corp.amazon.com
 jam-prod.corp.amazon.com
 jamf-integ-admin.amazon.com
@@ -17780,9 +17782,7 @@ sedi-https-internal-eu-dub.dub.proxy.amazon.com.amazon.com
 sedi-https-internal-eu.aka.amazon.com.amazon.com
 sedi-https-internal-eu.dub.amazon.com
 sedi-https-internal-eu.dub.amazon.com.amazon.com
-sedi-https-internal-in-dub.dub.proxy.amazon.com
 sedi-https-internal-in.aka.amazon.com
-sedi-https-internal-in.dub.amazon.com
 sedi-https-internal-jp-pdx.pdx.proxy.amazon.com.amazon.com
 sedi-https-internal-jp.aka.amazon.com
 sedi-https-internal-jp.aka.amazon.com.amazon.com
