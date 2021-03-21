@@ -1,3 +1,4 @@
+021sn11-talib308-1903.marriott.com
 029-sn11-download.val.standard4096.marriott.com
 030-sn11-download.csr.val.standard4096.marriott.com
 29hqwahr8wryun2g.marriott.com
@@ -609,11 +610,15 @@ eclm-sn150iioto878.marriott.com
 eclm-test-002-sn03-hnamd.marriott.com
 eclm-test-003-sn03-vmitr236-np.marriott.com
 eclm-test-015sn10-ssaho359-031221.marriott.com
+eclm-test-023sn10-talib308-1903.marriott.com
 eclm-test-026sn03-ssaho359-031521.marriott.com
 eclm-test-028sn10-ssaho359-031421.marriott.com
+eclm-test-029sn11-talib308-1903.marriott.com
 eclm-test-030sn11-ssaho359-031421.marriott.com
 eclm-test-033sn03-ssaho359-031521.marriott.com
+eclm-test-035sn11-2-talib308-1903.marriott.com
 eclm-test-035sn11-ssaho359-031521.marriott.com
+eclm-test-037sn03-val-319.marriott.com
 eclm-test-039sn04-ssaho359-031521.marriott.com
 eclm-test-040sn03-hnamd761.marriott.com
 eclm-test-040sn03-ssaho359-031521.marriott.com
@@ -622,6 +627,7 @@ eclm-test-041sn03-ssaho359-san-031521.marriott.com
 eclm-test-042sn03-ssaho359-031521.marriott.com
 eclm-test-043sn11-ssaho359-031521-san.marriott.com
 eclm-test-043sn11-ssaho359-031521.marriott.com
+eclm-test-043sn11-talib308-1903.marriott.com
 eclm-test-046sn05-ssaho359-031521-san.marriott.com
 eclm-test-046sn05-ssaho359-031521.marriott.com
 eclm-test-049sn03-ssaho359-031521-san.marriott.com
@@ -637,6 +643,7 @@ eclm-test-sn102-vmitr.marriott.com
 eclm-test-sn103-vmitr.marriott.com
 eclm-test-sn805-vmitr.marriott.com
 eclm-test-sn806-vmitr.marriott.com
+eclm-test2-035sn11-2-talib308-1903.marriott.com
 eclm-test60iioto878.marriott.com
 eclm-test60iioto8781.marriott.com
 eclm-testsn5601iioto878.marriott.com
@@ -649,6 +656,7 @@ eclm-testsn77iioto878.marriott.com
 eclm-testsn78iioto878.marriott.com
 eclm-testsn80iioto878.marriott.com
 eclm-testsn88iioto878.marriott.com
+eclm.marriott.com
 eclmtessn71iioto878.marriott.com
 eclmtestiioto69iioto878.marriott.com
 eclmtestsn66iioto878.marriott.com
@@ -1758,6 +1766,7 @@ na.marriott.com
 nad-week-of-wonders.marriott.com
 netmri.marriott.com
 new-york-broadway.marriott.com
+newdomain.marriott.com
 neworleans.marriott.com
 news.marriott.com
 newsletters.marriott.com
@@ -2122,6 +2131,8 @@ theexchange.marriott.com
 theplatform.marriott.com
 theplatform1.marriott.com
 theplatform2.marriott.com
+theurl.marriott.com
+theworldsurl.marriott.com
 thread.marriott.com
 thycotic.marriott.com
 thycoticdr.marriott.com
@@ -2157,6 +2168,7 @@ travel.marriott.com
 travelagents.marriott.com
 traveler.marriott.com
 travelguidance.marriott.com
+trentsresevoir.marriott.com
 trenttest.script.marriott.com
 tribrandnashville.marriott.com
 tribute-portfolio.marriott.com
@@ -2304,6 +2316,8 @@ www.deals.marriott.com
 www.detroit.marriott.com
 www.dev1.hvmi.marriott.com
 www.discover-design-hotels.marriott.com
+www.eclm-test-021sn11-talib308-1903.marriott.com
+www.eclm-test-023sn10-talib308-1903.marriott.com
 www.edition-hotels.marriott.com
 www.elite-achievement.marriott.com
 www.emea.marriott.com
@@ -2479,6 +2493,7 @@ xwip.marriott.com
 youarehere.marriott.com
 your-world-rewards.marriott.com
 yourspace.marriott.com
+yoururl.marriott.com
 yvrdtpc400020.fs.marrcorp.marriott.com
 yyzrgconference.marriott.com
 yyzrgvmmbg.marriott.com

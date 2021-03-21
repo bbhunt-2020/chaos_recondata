@@ -10788,6 +10788,7 @@ beta.occentral.legal.amazon.com
 beta.picking-console.na.integ.aftx.amazon.com
 beta.podcasters.amazon.com
 beta.returncap.corp.amazon.com
+beta.transactions.paymentservices.amazon.com
 beta2.amazon.com
 beta3.amazon.com
 betaman.amazon.com
@@ -17725,7 +17726,6 @@ sdpconsole-cn.integ.amazon.com
 sdpconsole-eu-prod.amazon.com
 sdpconsole-na.integ.amazon.com
 sds-mons-eu.dub.amazon.com
-sds-mons-jp.pdx.amazon.com
 sdu-backend-eu.dub.amazon.com
 sdvp-portal-gamma-na.aka.amazon.com
 se-a4k.amazon.com

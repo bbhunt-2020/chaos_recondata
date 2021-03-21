@@ -810,6 +810,7 @@
 _spf.prod.hydra.sophos.com
 a.home-dev.sophos.com
 a.home-qa.sophos.com
+a.home.sophos.com
 a0eu2tph.cloudstation.eu-west-1.inf.hydra.sophos.com
 a11jxo1w.cloudstation.eu-west-1.inf.hydra.sophos.com
 a1mi8lx3.cloudstation.eu-west-1.inf.hydra.sophos.com
@@ -8556,6 +8557,7 @@ t5utyc4o.cloudstation.eu-west-1.dev.hydra.sophos.com
 t63h4z10.cloudstation.eu-west-1.dev.hydra.sophos.com
 t6749x1x.cloudstation.eu-west-1.inf.hydra.sophos.com
 t6j4k5f3-cloudhub-eu-west-1.dev.hydra.sophos.com
+t88tgv04.cloudstation.eu-west-1.dev.hydra.sophos.com
 t8c4md8x.cloudstation.eu-west-1.inf.hydra.sophos.com
 tb97u0jm-cloudstation-us-west-2.qa.hydra.sophos.com
 tbnw4623.cloudstation.eu-west-1.dev.hydra.sophos.com

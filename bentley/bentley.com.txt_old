@@ -1206,6 +1206,7 @@ dev-imsoidcui.bentley.com
 dev-imval-schemaextractlisten.bentley.com
 dev-itscrm.bentley.com
 dev-itserp.bentley.com
+dev-itwin.bentley.com
 dev-itwinviewer.bentley.com
 dev-launchdarkly-staging.bentley.com
 dev-launchdarkly.bentley.com
@@ -1610,6 +1611,8 @@ octopus.bentley.com
 oemfulfillment-staging.bentley.com
 oemfulfillment.bentley.com
 ontrack.bentley.com
+opentoweriq-staging.bentley.com
+opentoweriq.bentley.com
 operationaltestsscheduler.bentley.com
 osarc-it.bentley.com
 outlook.bentley.com

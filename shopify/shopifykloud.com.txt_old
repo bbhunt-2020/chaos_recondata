@@ -128,6 +128,7 @@ druid-druid-router-ingress-druid-dev-us-east1-1.dev.druid.shopifykloud.com
 druid-druid-router-ingress-druid-mdm-us-central1-1.mdm.druid.shopifykloud.com
 druid-druid-router-ingress-druid-mdm-us-east1-1.mdm.druid.shopifykloud.com
 druid.k8s-exp.shopifykloud.com
+fast-monorail.shopify-data-presto-global.shopifykloud.com
 flower.canada.airflow.shopifykloud.com
 flower.dev.airflow.shopifykloud.com
 flower.global.airflow.shopifykloud.com
