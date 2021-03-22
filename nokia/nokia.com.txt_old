@@ -3817,7 +3817,6 @@ admin.conversations.nokia.com
 admin.dev.dndrfid.nokia.com
 admin.dev.mfmrfid.nokia.com
 admin.dev.personrfid.nokia.com
-admin.dryrun.fastrac.nokia.com
 admin.fastrac.nokia.com
 admin.it2.fastrac.nokia.com
 admin.learn.nokia.com
@@ -3833,7 +3832,6 @@ admin.qa.personrfid.nokia.com
 admin.qa.rfid.nokia.com
 admin.rain.int.net.nokia.com
 admin.rfid.nokia.com
-admin.support.publish.nokia.com
 admin.sw.update.nokia.com
 admin.trg.fastrac.nokia.com
 admin.wft.int.net.nokia.com
@@ -3852,7 +3850,6 @@ ae.prod.shop.web.nokia.com
 ae.qa.shop.web.nokia.com
 ae.sit.shop.nokia.com
 ae.sit2.shop.nokia.com
-ae.uat.shop.nokia.com
 af-eks-latest.csfp.dev.software.nokia.com
 af-eks.csfp.dev.software.nokia.com
 afcore-ns.cci-eks.csfp.dev.software.nokia.com
@@ -3890,8 +3887,6 @@ americas.ocsp.nokia.com
 americas.partners.nokia.com
 americas.qa.ocsp.nokia.com
 americas.trade.online.nokia.com
-americasites.nokia.com
-amprx01x.nokia.com
 amprx02x.nokia.com
 amq.imageexchange.nokia.com
 amtana.b2bcrm.nokia.com
@@ -3901,7 +3896,6 @@ analytics-dev.fastrac.nokia.com
 analytics-qa.fastrac.nokia.com
 analytics-trg.fastrac.nokia.com
 analytics-uat.fastrac.nokia.com
-analytics.b2bcrm.nokia.com
 analytics.developer.nokia.com
 analytics.dryrun.fastrac.nokia.com
 analytics.fastrac.nokia.com
@@ -4061,7 +4055,6 @@ appupdate.nokia.com
 appwizard.st.nokia.com
 apservice.int.net.nokia.com
 ar.dev2.shop.nokia.com
-ar.dev3.shop.nokia.com
 ar.ncomit.create.nokia.com
 ar.ncomit.train.nokia.com
 ar.ncomitsecure.create.nokia.com
@@ -4088,12 +4081,12 @@ artifactory-espoo2.int.net.nokia.com
 artifactory-fpark1.ext.net.nokia.com
 artifactory-hz1.ext.net.nokia.com
 artifactory-hz1.int.net.nokia.com
+artifactory-monitoring.ext.net.nokia.com
 artifactory-qa1.ext.net.nokia.com
 artifactory-qa1.int.net.nokia.com
 artifactory-ulm1.int.net.nokia.com
 artifactory-wro1.int.net.nokia.com
 artifactory.net.nokia.com
-artifed-qa.ext.net.nokia.com
 as-ext-intake.pr.bigdata.nokia.com
 as.im.nokia.com
 asas.net.nokia.com
@@ -4137,7 +4130,6 @@ at.ncomitsecure.train.nokia.com
 at.prod.nokia.com
 at.prod.shop.nokia.com
 at.sit.shop.nokia.com
-at.sit2.shop.nokia.com
 at.trade.online.nokia.com
 at.uat.shop.web.nokia.com
 atg-at-crossplane.nswatg.nokia.com
@@ -4259,7 +4251,6 @@ b2biqa.online.nokia.com
 b2bit-alt-salo.online.nokia.com
 b2bit-intra-salo.online.nokia.com
 b2bit-intra.online.nokia.com
-b2bpreview.prod.nokia.com
 b2bqa-alt.online.nokia.com
 b2bqa-intra-salo.online.nokia.com
 b2bqa-salo.online.nokia.com
@@ -4277,7 +4268,6 @@ backup.archive.nokia.com
 backup.mail.nokia.com
 backupmail.nokia.com
 backupowa.nokia.com
-backupqa.nokia.com
 backupsecuremail.nokia.com
 ballet.mlab.nokia.com
 barcelona.nokia.com
@@ -4350,7 +4340,6 @@ befas003x.ext.nokia.com
 beftwp01.ext.nokia.com
 beftwp02.ext.nokia.com
 beftwq01.ext.nokia.com
-beftwq02.ext.nokia.com
 begerrit.ext.net.nokia.com
 beilacap.net.nokia.com
 beimesbe2app.ext.nokia.com
@@ -4365,8 +4354,6 @@ beiwar.net.nokia.com
 bell-labs.nokia.com
 bemic001.ext.nokia.com
 bender.zina.net.nokia.com
-benoedns01.ext.nokia.com
-beplcm03.ext.nokia.com
 beplcm04.ext.nokia.com
 beplcmmw.ext.nokia.com
 beplcmtx.ext.nokia.com
@@ -4374,7 +4361,6 @@ berdb003b.ext.nokia.com
 berdb003b.nokia.com
 berdb007.ext.nokia.com
 berwtpws01.ext.nokia.com
-berwtqws01.ext.nokia.com
 besasco.nokia.com
 besce001.ext.nokia.com
 besce002.ext.nokia.com
@@ -4435,6 +4421,7 @@ blog.maps.nokia.com
 blog.networks.nokia.com
 blog.nokia.com
 blog.qt.nokia.com
+blog.rain.int.net.nokia.com
 blogbeta-admin.health.nokia.com
 blogbeta-direct.health.nokia.com
 blogbeta.health.nokia.com
@@ -4447,7 +4434,6 @@ bluelounge.nokia.com
 bmb.nokia.com
 bmccm.nokia.com
 bn-inet-rtr.ext.nokia.com
-bnprx01.ext.nokia.com
 boexi-dev.nokia.com
 bolero.mlab.nokia.com
 bolns02m.nokia.com
@@ -4458,18 +4444,15 @@ boosttest.ext.net.nokia.com
 bpqr-qa.int.net.nokia.com
 br.dev.shop.web.nokia.com
 br.dev2.shop.nokia.com
-br.dev3.shop.nokia.com
 br.ncomit.create.nokia.com
 br.ncomit.train.nokia.com
 br.ncomitsecure.create.nokia.com
 br.ncomitsecure.train.nokia.com
 br.networks.nokia.com
-br.prod.shop.web.nokia.com
 br.qa.shop.web.nokia.com
 br.sit2.shop.nokia.com
 br.uat.shop.web.nokia.com
 brand.nokia.com
-brandbook.nokia.com
 brandcenter-ad.ext.nokia.com
 brandcenter-qa.ext.net.nokia.com
 brandcenter.nokia.com
@@ -4492,10 +4475,8 @@ bugreports.qt.nokia.com
 bugzilla.nokia.com
 build.forum.nokia.com
 build.knowledge.nokia.com
-bulns02t.europe.nokia.com
 bulns02t.nokia.com
 businesssoftware.nokia.com
-busrv06nok.europe.nokia.com
 bw-p22.int.net.nokia.com
 bw.int.net.nokia.com
 c-nho.lighthouse.nokia.com
@@ -4530,7 +4511,6 @@ caext09.ext.nokia.com
 caext11.ext.nokia.com
 cafw01-s1p1.ext.nokia.com
 cafw01-s1p4.ext.nokia.com
-cafw01-s1p4vrrp.ext.nokia.com
 cahom01.ext.nokia.com
 cainetgw.ext.nokia.com
 cala1.xmpp.nokia.com
@@ -4566,10 +4546,8 @@ cares.support.nokia.com
 caresuat.support.nokia.com
 caribbean.nokia.com
 carribean.dev3.shop.nokia.com
-carribean.prod.shop.nokia.com
 carribean.prod.shop.web.nokia.com
 carribean.qa.shop.nokia.com
-carribean.qa.shop.web.nokia.com
 carribean.sit.shop.nokia.com
 carribean.sit2.shop.nokia.com
 carribean.uat.shop.nokia.com
@@ -4585,7 +4563,6 @@ cb2.push.nokia.com
 cb2bqa.nokia.com
 cc-tool-qa.nokia.com
 cc.developer.nokia.com
-cc.forum.nokia.com
 cc.qa.developer.nokia.com
 ccchina.ext.nokia.com
 cccp.ext.nokia.com
@@ -4594,7 +4571,6 @@ cccpdev.ext.nokia.com
 cccpit.ext.nokia.com
 ccdm-download.nokia.com
 ccdm-manager.nokia.com
-ccdm-microsoft-registration.nokia.com
 ccdm-microsoft.nokia.com
 ccdm-msmanager.nokia.com
 ccdm.nokia.com
@@ -4614,7 +4590,6 @@ cdbqas.int.net.nokia.com
 cdn.conversations.nokia.com
 cdn.nokia.com
 cdn.ozo.nokia.com
-cdnit.create.nokia.com
 cdnit.train.nokia.com
 cdp.apac1.nokia.com
 cdp.apac2.nokia.com
@@ -4625,9 +4600,7 @@ cdp1.trial.nokia.com
 cdp10.trial.nokia.com
 cdp2.trial.nokia.com
 cdp3.trial.nokia.com
-cdp4.trial.nokia.com
 cdp5.trial.nokia.com
-cdp6.trial.nokia.com
 cdp7.trial.nokia.com
 cdp8.trial.nokia.com
 cdp9.trial.nokia.com
@@ -4782,10 +4755,8 @@ cn.ncomit.train.nokia.com
 cn.ncomitsecure.create.nokia.com
 cn.ncomprodsecure.nokia.com
 cn.ncomqa.nokia.com
-cn.ncomqasecure.nokia.com
 cn.prod.shop.web.nokia.com
 cn.qa.shop.web.nokia.com
-cn.sit.shop.nokia.com
 cn.sit2.shop.nokia.com
 cn.strategyanalytics.com.cdnga.nokia.com
 cn.uat.shop.web.nokia.com
@@ -5166,6 +5137,7 @@ cust01-expw-cl7-e03.ext.net.nokia.com
 cust01-expw-cl7-e04.ext.net.nokia.com
 cust1.hc-qa.saas.nokia.com
 cust2.hc-qa.saas.nokia.com
+customer.nokia.com
 customer1.pesto.us.software.nokia.com
 customers.nokia.com
 customlocation.nokia.com
@@ -5197,6 +5169,7 @@ cvzwsmp17b.cert.saas.nokia.com
 cvzwsmp17g.cert.saas.nokia.com
 cvzwsmp18.cert.saas.nokia.com
 cvzwsmp18b.cert.saas.nokia.com
+cvzwsmp19.cert.saas.nokia.com
 cvzwsmp19b.cert.saas.nokia.com
 cvzwsmp19g.cert.saas.nokia.com
 cvzwsmp1b.cert.saas.nokia.com
@@ -5391,6 +5364,7 @@ dc4.xpress.nokia.com
 dc5.xpress.nokia.com
 dc6.xpress.nokia.com
 dclab.net.nokia.com
+dclinkmas.saas.nokia.com
 dcms-dev.online.nokia.com
 dcms-int.online.nokia.com
 dcms-qa.nokia.com
@@ -5435,7 +5409,6 @@ deere-beta.ext.nokia.com
 deesnrp1-atos.int.net.nokia.com
 deesnrq1-atos.int.net.nokia.com
 defectsearch.int.net.nokia.com
-deliveryquality.nokia.com
 demeter.cutlass.nokia.com
 demo-smp19.hc-vlab.saas.nokia.com
 demo.api.places.lbs.maps.nokia.com
@@ -5455,7 +5428,6 @@ demo.semaloc.public.devbln.europe.nokia.com
 demo001.ext.nokia.com
 demo002.ext.nokia.com
 demo003.ext.nokia.com
-demo004.ext.nokia.com
 demo005.ext.nokia.com
 demo02.places.nlp.nokia.com
 demo1.hc-trials.saas.nokia.com
@@ -5490,7 +5462,6 @@ dev-apservice.int.net.nokia.com
 dev-extract.dev.bigdata.nokia.com
 dev-new.rebel.nokia.com
 dev-nokiad8.nokia.com
-dev-on-business.nokia.com
 dev-on-dac.nokia.com
 dev-on-infocenter.nokia.com
 dev-on-offer-dac.nokia.com
@@ -5514,10 +5485,8 @@ dev.bigdata.nokia.com
 dev.cccp.ext.nokia.com
 dev.cg.b2bcrm.nokia.com
 dev.cmd.idc.nokia.com
-dev.ctd.coach.nokia.com
 dev.cudm.b2bcrm.nokia.com
 dev.dac.nokia.com
-dev.deb.dev.software.nokia.com
 dev.developer.nokia.com
 dev.dqmcs.nokia.com
 dev.eu.sef.dev.software.nokia.com
@@ -5533,6 +5502,7 @@ dev.nocs2.nokia.com
 dev.nocsrms.nokia.com
 dev.ocspreplication.nokia.com
 dev.p2p.supplier.nokia.com
+dev.rain.int.net.nokia.com
 dev.rebel.nokia.com
 dev.reporting.int.net.nokia.com
 dev.retailnet.nokia.com
@@ -5549,7 +5519,6 @@ dev2-on-dac.nokia.com
 dev2-on-infocenter.nokia.com
 dev2-www.networks.nokia.com
 dev2.accntmgmt.b2bcrm.nokia.com
-dev2.amtana.b2bcrm.nokia.com
 dev2.amtremote.b2bcrm.nokia.com
 dev2.analytics.b2bcrm.nokia.com
 dev2.cg.b2bcrm.nokia.com
@@ -5580,7 +5549,6 @@ devb.developer.nokia.com
 devbi.int.net.nokia.com
 devcg.rnet20.nokia.com
 devcmde.int.net.nokia.com
-developer.nokia.com
 developer.qt.nokia.com
 developerevents.nokia.com
 developers.nokia.com
@@ -5744,7 +5712,6 @@ ducks.cutlass.nokia.com
 dummyfireqanscs.online.nokia.com
 dummywww.fireint-it.nokia.com
 dusant.net.nokia.com
-dusbei.net.nokia.com
 dusedu.net.nokia.com
 dusirv.net.nokia.com
 duslab.net.nokia.com
@@ -5752,12 +5719,14 @@ duslacap.net.nokia.com
 dussha.net.nokia.com
 duswar.net.nokia.com
 dvzwsmp1.vzw.saas.nokia.com
+dvzwsmp1b.vzw.saas.nokia.com
 dvzwsmp1g.vzw.saas.nokia.com
 dvzwsmp2.vzw.saas.nokia.com
 dvzwsmp2g.vzw.saas.nokia.com
 dvzwsmp3.vzw.saas.nokia.com
 dvzwsmp3b.vzw.saas.nokia.com
 dvzwsmp3g.vzw.saas.nokia.com
+dvzwsmp4b.vzw.saas.nokia.com
 dvzwsmp4g.vzw.saas.nokia.com
 dvzwsmp5.vzw.saas.nokia.com
 dvzwsmp5b.vzw.saas.nokia.com
@@ -5795,11 +5764,13 @@ edi.online.nokia.com
 edi.qa.online.nokia.com
 edm.nokia.com
 edoclib-rilo.ext.nokia.com
+eduaesqa.ext.net.nokia.com
 edueks.csfp.dev.software.nokia.com
 edutrtprodapp.ext.net.nokia.com
 edutrtqa.ext.net.nokia.com
 ee-swip-qa.int.net.nokia.com
 ee-swip.int.net.nokia.com
+ee-swip2.int.net.nokia.com
 ee.dev2.shop.nokia.com
 ee.dev3.shop.nokia.com
 ee.ncomit.create.nokia.com
@@ -5820,6 +5791,7 @@ ejb.developer.nokia.com
 ejb.forum.nokia.com
 ejb.qa.developer.nokia.com
 ejbapps.poc.ext.nokia.com
+eks-21fp1.csfp.dev.software.nokia.com
 eks-5bp4qh.us.software.nokia.com
 eks-broker.csfp.dev.software.nokia.com
 eks-broker2.csfp.dev.software.nokia.com
@@ -5839,7 +5811,6 @@ eks-mo.csfp.dev.software.nokia.com
 eks-official.csfp.dev.software.nokia.com
 eks-stab.csfp.dev.software.nokia.com
 eksosb.csfp.dev.software.nokia.com
-elearning.nokia.com
 eleaveglobal-test.int.net.nokia.com
 eleaveglobal.int.net.nokia.com
 elk-mika.nokia.com
@@ -5861,36 +5832,29 @@ em.claroclp.suw.ovi.messaging.nokia.com
 em.ic201.bom.messaging.nokia.com
 em.mc1.notifications.atl.messaging.nokia.com
 em.mc101.atl.messaging.nokia.com
-em.mc103.atl.messaging.nokia.com
 em.mc2.notifications.atl.messaging.nokia.com
 em.mc201.atl.messaging.nokia.com
 em.mc202.atl.messaging.nokia.com
-em.mc203.atl.messaging.nokia.com
 em.mc3.notifications.atl.messaging.nokia.com
 em.mc302.atl.messaging.nokia.com
 em.mc303.atl.messaging.nokia.com
 em.mc402.atl.messaging.nokia.com
 em.mc403.atl.messaging.nokia.com
-em.mc5.notifications.atl.messaging.nokia.com
 em.mc501.atl.messaging.nokia.com
 em.mc502.atl.messaging.nokia.com
 em.mc503.atl.messaging.nokia.com
 em.movistarclp.suw.ovi.messaging.nokia.com
 em.movistarecp.suw.ovi.messaging.nokia.com
 em.movistarmxp.oie.messaging.nokia.com
-em.movistarvep.oie.messaging.nokia.com
 em.notifications.messaging.nokia.com
 em.oie11.messaging.nokia.com
 em.oie12.messaging.nokia.com
 em.oie13.messaging.nokia.com
 em.oie14.messaging.nokia.com
 em.oie15.messaging.nokia.com
-em.oie16.messaging.nokia.com
 em.oie17.messaging.nokia.com
 em.oie18.messaging.nokia.com
-em.oie19.messaging.nokia.com
 em.oie20.messaging.nokia.com
-em.oie22.messaging.nokia.com
 em.oie23.messaging.nokia.com
 em.oie24.messaging.nokia.com
 em.oie9.messaging.nokia.com
@@ -6400,7 +6364,6 @@ enterpriseenrollment.nokia.com
 enterpriseregistration.noe.nokia.com
 envivo.nokia.com
 ep-bi-qa.nokia.com
-ep-d-bi-a.nokia.com
 ep-d-bi.nokia.com
 ep-d-iat.nokia.com
 ep-d.nokia.com
@@ -6429,7 +6392,6 @@ es.prod.nokia.com
 es.prod.shop.web.nokia.com
 es.qa.shop.web.nokia.com
 es.sit.shop.nokia.com
-es.uat.shop.web.nokia.com
 esacce01.ext.nokia.com
 esacce01.nokia.com
 esacce02.ext.nokia.com
@@ -6444,14 +6406,12 @@ esagw00.nokia.com
 esapp02.ext.nokia.com
 esapp057.ext.nokia.com
 esapp058.ext.nokia.com
-esars02nok.ntc.nokia.com
 esbdc02ntc.ntc.nokia.com
 esbdc03ntc.ntc.nokia.com
 esblg005.ext.nokia.com.ext.nokia.com
 escall03nok.ext.nokia.com
 escall03u.ext.nokia.com
 escall04nok.ext.nokia.com
-escall04u.ext.nokia.com
 escall05nok.ext.nokia.com
 escall05u.ext.nokia.com
 escall06nok.ext.nokia.com
@@ -6482,7 +6442,6 @@ escodm03-n2.ext.nokia.com
 escodm03-n3.ext.nokia.com
 escodm04-n2.ext.nokia.com
 escodm04-n4.ext.nokia.com
-escodm04.ext.nokia.com
 escodmd02.ext.nokia.com
 escoladobebscodm01-n2.ext.nokia.com
 escovcoord1.ext.net.nokia.com
@@ -6495,12 +6454,9 @@ escrm005.ext.nokia.com
 escti01-z1.ext.nokia.com
 escti01.ext.nokia.com
 escti01u.ext.nokia.com
-escwpd-v01.ext.nokia.com
 escwpd01-n1.ext.nokia.com
 escwpd01-n2.ext.nokia.com
 escwpd01.ext.nokia.com
-escwpd02-n1.ext.nokia.com
-escwpd02-n2.ext.nokia.com
 escwpq-v01.ext.nokia.com
 escwpq-v09.ext.nokia.com
 escwpq-v10.ext.nokia.com
@@ -6511,7 +6467,6 @@ esebh02nok.ntc.nokia.com
 esebh03nok.ntc.nokia.com
 eseis02nok.ntc.nokia.com
 eseis06nok.ntc.nokia.com
-eseis08nok.ntc.nokia.com
 eseis10nok.ntc.nokia.com
 eseis12nok.ntc.nokia.com
 esele01nok.ext.nokia.com
@@ -6519,7 +6474,6 @@ esele02nok.ext.nokia.com
 esele03nok.ext.nokia.com
 eseled01.ext.nokia.com
 eselelb01.ext.nokia.com
-eselelb02.ext.nokia.com
 eseleq02.ext.nokia.com
 esepi01nok.ext.nokia.com
 esepi02nok.ext.nokia.com
@@ -6544,7 +6498,6 @@ esfrm16nok.ntc.nokia.com
 esfrm18nok.ntc.nokia.com
 esfrm23nok.ntc.nokia.com
 esfrm26nok.ntc.nokia.com
-esfrm27nok.ntc.nokia.com
 esftp001.ext.nokia.com
 esgen001.ext.nokia.com
 esgen002.ext.nokia.com
@@ -6596,7 +6549,6 @@ eslds67.nokia.com
 esldx02.nokia.com
 esles06.ext.nokia.com
 eslinap01.ntc.nokia.com
-eslinap02.ntc.nokia.com
 eslna02p.ntc.nokia.com
 eslna04p.ntc.nokia.com
 eslnc001-m.ext.nokia.com
@@ -6634,11 +6586,8 @@ esmdm003.ext.nokia.com
 esmdw001.ext.nokia.com
 esmdw002.ext.nokia.com
 esmdw003.ext.nokia.com
-esmdw005.nokia.com
-esmdw005x.ext.nokia.com
 esmdw008.ext.nokia.com
 esmdw009.nokia.com
-esmdw010.nokia.com
 esmeta02t.ext.nokia.com
 esmgw000.ext.nokia.com
 esmit001.ext.nokia.com
@@ -6699,13 +6648,11 @@ espmg003.ext.nokia.com
 espressa.werbekraspmg002.ext.nokia.com
 esprx01x.nokia.com
 esprx04x.nokia.com
-esprx08x.nokia.com
 esprx09x.nokia.com
 esprx145x.nokia.com
 espsdns02.ext.nokia.com
 espsha.net.nokia.com
 espwar.net.nokia.com
-esqcl004-n1.ext.nokia.com
 esqcl004.ext.nokia.com
 esqcl005-s1.ext.nokia.com
 esqcl005-s2.ext.nokia.com
@@ -6720,7 +6667,6 @@ essasco.nokia.com
 essasib.nokia.com
 essc01nok.ntc.nokia.com
 esscprd1.ext.nokia.com
-esscprp1.ext.nokia.com
 essds001.ext.nokia.com
 essgn002.ext.nokia.com
 esslgerrit-1.ext.net.nokia.com
@@ -6759,7 +6705,6 @@ esuap011-db.ext.nokia.com
 esuap013-db.ext.nokia.com
 esuap014-db.ext.nokia.com
 esuap015-db.ext.nokia.com
-esvms01ntc.ntc.nokia.com
 esvmsda01.ext.nokia.com
 esvmsing2.ntc.nokia.com
 esvmsing3.ntc.nokia.com
@@ -6783,7 +6728,6 @@ eswap013.ext.nokia.com
 eswap014.ext.nokia.com
 eswap015.ext.nokia.com
 eswap016.ext.nokia.com
-eswap017.ext.nokia.com
 eswapp030.ext.nokia.com
 eswapp035.ext.nokia.com
 eswapp036.ext.nokia.com
@@ -6816,7 +6760,6 @@ eu.marketing5it.create.nokia.com
 eu.marketing5it.train.nokia.com
 eu.marketing5itsecure.create.nokia.com
 eu.marketing5itsecure.train.nokia.com
-eu.marketing6it.create.nokia.com
 eu.marketing6it.train.nokia.com
 eu.marketing6itsecure.create.nokia.com
 eu.marketing7itsecure.create.nokia.com
@@ -6827,7 +6770,6 @@ eu.marketing9it.create.nokia.com
 eu.marketing9it.train.nokia.com
 eu.marketing9itsecure.create.nokia.com
 eu.marketing9itsecure.train.nokia.com
-eu.ncomit.create.nokia.com
 eu.ncomit.train.nokia.com
 eu.ncomitsecure.create.nokia.com
 eu.ncomitsecure.train.nokia.com
@@ -6845,7 +6787,6 @@ eura.lbdns.nokia.com
 europe.nokia.com
 europeit.create.nokia.com
 europeit.train.nokia.com
-europeitsecure.create.nokia.com
 europeitsecure.train.nokia.com
 events.forum.nokia.com
 events.nokia.com
@@ -6858,9 +6799,7 @@ exaleadcollab-dm.nokia.com
 exotic.deb.saas.nokia.com
 expandinghorizons.nokia.com
 expdmstst7.ext.nokia.com
-expdmstst8.ext.nokia.com
 expertcentre.nokia.com
-exprx01x.nokia.com
 ext-pmtools1.ext.nokia.com
 ext.nms.nokia.com
 ext.nokia.com
@@ -6885,7 +6824,6 @@ farsi.dev2.shop.nokia.com
 farsi.dev3.shop.nokia.com
 farsi.nokia.com
 farsi.prod.shop.web.nokia.com
-farsi.qa.shop.nokia.com
 farsi.sit.shop.nokia.com
 farsi.uat.shop.nokia.com
 fb.link.nokia.com
@@ -6897,7 +6835,6 @@ fds.net.nokia.com
 fds.nokia.com
 fds2.nokia.com
 fdsha-sso.qa.nokia.com
-fdsha.it.nokia.com
 fdsha.nokia.com
 fdsha.qa.nokia.com
 fdsqa-spain.net.nokia.com
@@ -6924,6 +6861,7 @@ fi-sal-atk2-nrsrv05.europe.nokia.com
 fi-sal-atk2-nrsrv06.europe.nokia.com
 fi-sal-atk2-nrweb01.europe.nokia.com
 fi-sal-atk2-nrweb02.europe.nokia.com
+fi-se-dk.mobileshop.nokia.com
 fi.dev.shop.nokia.com
 fi.dev2.shop.nokia.com
 fi.dev3.shop.nokia.com
@@ -6936,7 +6874,6 @@ fi.qa.shop.web.nokia.com
 fi.uat.shop.web.nokia.com
 fiartifactory.dev.int.nokia.com
 fieldforcemanagement-qa.nokia.com
-fieldforcemanagement.nokia.com
 fieswah004.nokia.com.nokia.com
 fihe3nok0734.ext.net.nokia.com
 fihe3nok0735.ext.net.nokia.com
@@ -6993,12 +6930,10 @@ forum.nokia.com
 forum.phones.nokia.com
 forums.connecting.nokia.com
 fota.nokia.com
-foxtrot.mlab.nokia.com
 fp-ca.net.nokia.com
 fp-ra.net.nokia.com
 fpcovsub1.ext.net.nokia.com
 fpgerrit.ext.net.nokia.com
-fpmgate.net.nokia.com
 fr.dev2.shop.nokia.com
 fr.dev3.shop.nokia.com
 fr.ncomit.create.nokia.com
@@ -7154,13 +7089,10 @@ healthsolutions.nokia.com
 heatmap.latest.locate.nokia.com
 hedbs03ntc.ntc.nokia.com
 heituh12lab.nokia.com
-heitv112lab.nokia.com
-hekvm1song.ext.nokia.com
 hel.int.nokia.com
 helmgate.net.nokia.com
 helns05t.ntc.nokia.com
 help.dac.nokia.com
-helsinki-ca.net.nokia.com
 helsinki-ra.net.nokia.com
 hemcb14ntc.ntc.nokia.com
 hemoedsmp.moedshe.ext.nokia.com
@@ -7168,7 +7100,6 @@ hemsc01ntc.ntc.nokia.com
 henap98ntc.ntc.nokia.com
 hera.ext.net.nokia.com
 herasit.ext.net.nokia.com
-herauat.ext.net.nokia.com
 herefisheye.nokia.com
 herejira.nokia.com
 hesrv17ntc.ntc.nokia.com
@@ -7191,9 +7122,7 @@ hk.ncomqasecure.nokia.com
 hk.prod.shop.web.nokia.com
 hk.qa.shop.web.nokia.com
 hk.sit.shop.nokia.com
-hk.uat.shop.nokia.com
 hkagw01.ext.nokia.com
-hkagw02.ext.nokia.com
 hkapp02nmp.ext.nokia.com
 hkcwinet-rtr01.ext.nokia.com
 hkcwinet-rtr02.ext.nokia.com
@@ -7239,10 +7168,8 @@ hr.ncomit.train.nokia.com
 hr.ncomitsecure.create.nokia.com
 hr.ncomitsecure.train.nokia.com
 hr.prod.shop.nokia.com
-hr.qa.shop.nokia.com
 hr.sit.shop.nokia.com
 hr.sit2.shop.nokia.com
-hr.uat.shop.nokia.com
 hsbb-account.nokia.com
 hsbb-sl-account.nokia.com
 hssearcher-dev.int.net.nokia.com
@@ -7255,7 +7182,6 @@ hu.ncomit.train.nokia.com
 hu.ncomitsecure.create.nokia.com
 hu.prod.nokia.com
 hu.prod.shop.nokia.com
-hu.sit2.shop.nokia.com
 hu.uat.shop.nokia.com
 hub.it.online.nokia.com
 hub.online.nokia.com
@@ -7304,9 +7230,6 @@ idmapp-qa.int.net.nokia.com
 idmapp.int.net.nokia.com
 idp.us.dev-intg.software.nokia.com
 ie.dev2.shop.nokia.com
-ie.dev3.shop.nokia.com
-ie.ncomit.create.nokia.com
-ie.ncomit.train.nokia.com
 ie.ncomitsecure.create.nokia.com
 ie.ncomitsecure.train.nokia.com
 ie.networks.nokia.com
@@ -7338,11 +7261,9 @@ im-outgoing3.sc2.messaging.nokia.com
 im-outgoing3.sc4.messaging.nokia.com
 im-outgoing4.sc2.messaging.nokia.com
 im-outgoing4.sc4.messaging.nokia.com
-im.aisthp.suw.ovi.messaging.nokia.com
 im.clarobrp.oie.messaging.nokia.com
 im.clarobrp.suw.ovi.messaging.nokia.com
 im.etisalataep.suw.ovi.messaging.nokia.com
-im.ic101.bom.messaging.nokia.com
 im.ic102.bom.messaging.nokia.com
 im.mc101.atl.messaging.nokia.com
 im.mc102.atl.messaging.nokia.com
@@ -7358,7 +7279,6 @@ im.mc303.atl.messaging.nokia.com
 im.movistarclp.suw.ovi.messaging.nokia.com
 im.movistarecp.suw.ovi.messaging.nokia.com
 im.movistarmxp.oie.messaging.nokia.com
-im.nokia.com
 im.notifications.messaging.nokia.com
 im.oie10.messaging.nokia.com
 im.oie11.messaging.nokia.com
@@ -7375,7 +7295,6 @@ im.oie23.messaging.nokia.com
 im.oie24.messaging.nokia.com
 im.oie9.messaging.nokia.com
 im.optusaup.oie.messaging.nokia.com
-im.optusaup.suw.ovi.messaging.nokia.com
 im.outgoing1.messaging.nokia.com
 im.outgoing2.messaging.nokia.com
 im.outgoing3.messaging.nokia.com
@@ -7395,7 +7314,6 @@ im.stg.mc101.atl.messaging.nokia.com
 im.stg.mc102.atl.messaging.nokia.com
 im.stg.mc103.atl.messaging.nokia.com
 im.stg.notifications.atl.messaging.nokia.com
-im.telcelmxp.suw.ovi.messaging.nokia.com
 im.telkomselidp.suw.ovi.messaging.nokia.com
 im.tenant106.ovi.messaging.nokia.com
 im.tenant201.ovi.messaging.nokia.com
@@ -7446,7 +7364,6 @@ imtqa.nokia.com
 imtuat.int.nokia.com
 in.dena.nokia.com
 in.networks.nokia.com
-in.nokia.com
 in.prod.nokia.com
 in.zina.net.nokia.com
 in2.nokia.com
@@ -7458,7 +7375,6 @@ inboundfed.ext.net.nokia.com
 inchetpt4midtierqavip.int.net.nokia.com
 india.mobileshop.nokia.com
 industryanalyst.networks.nokia.com
-info.networks.nokia.com
 info.publish.nokia.com
 info.thor.nokia.com
 infocenter.knowledge.nokia.com
@@ -7550,7 +7466,6 @@ it.iconnol.b2ccrm.online.nokia.com
 it.mobile.b2bcrm.nokia.com
 it.mobileshop.nokia.com
 it.ncomitsecure.create.nokia.com
-it.ncomitsecure.train.nokia.com
 it.networks.nokia.com
 it.nops-web.nokia.com
 it.obi.nokia.com
@@ -7577,24 +7492,21 @@ it2.cg.b2bcrm.nokia.com
 it2.ctd.coach.nokia.com
 it2.cudm.b2bcrm.nokia.com
 it2.dpbe.n-gage.nokia.com
-it2.gidb.n-gage.nokia.com
 it2.icon.b2ccrm.nokia.com
-it2.rp.nokia.com
 it2.rpadm.nokia.com
 it2.ucm.coach.nokia.com
 it2.ws.coach.nokia.com
 it2rprep.b2bcrm.nokia.com
 it3.analytics.b2bcrm.nokia.com
 it3.cg.b2bcrm.nokia.com
-ita.mlab.nokia.com
 ita73-5-78-198-47-143.fbx.pt2.lb.n-gage.nokia.com
 itana.rnet20.nokia.com
+itatlas-vf.ext.net.nokia.com
 itca-ocsp-qa.europe.nokia.com
 itca-ocsp.nokia.com
 itcg.rnet20.nokia.com
 itgnss.nokia.com
 itnokiacare.nokia.com
-itremote.rnet20.nokia.com
 itsm.nokia.com
 itsmit.nokia.com
 itsmit.ws.nokia.com
@@ -7631,7 +7543,6 @@ jksrv02nok.ntc.nokia.com
 jksrv04nok.ntc.nokia.com
 jmsmonitor.nokia.com
 jobs.nokia.com
-joget.mlab.nokia.com
 join.int.nokia.com
 join.nokia.com
 jose.journeys.nokia.com
@@ -7677,17 +7588,14 @@ lab-automation-tool.ext.net.nokia.com
 labs.qt.nokia.com
 labs.rain.int.net.nokia.com
 labtest1.ext.nokia.com
-labtest1.nokia.com
 labtest2.ext.nokia.com
 labtest2.nokia.com
-lang.ext.nokia.com
 lara.ext.nokia.com
 lash14.ntc.nokia.com
 lash43.ntc.nokia.com
 latest.locate.nokia.com
 latest.venues.locate.nokia.com
 latinoamerica.ext.nokia.com
-latinoamerica1.ext.nokia.com
 latinoamerica2.ext.nokia.com
 lb.n-gage.nokia.com
 lbdns.nokia.com
@@ -7701,7 +7609,6 @@ learn2.online.nokia.com
 learning-content.nokia.com
 learning-it-ws.nokia.com
 learning-qa-ws.nokia.com
-learning-ws.nokia.com
 learningservices.nokia.com
 learningservicesdevlab.nokia.com
 learningservicesdevlabs.nokia.com
@@ -7723,7 +7630,6 @@ li.bom.messaging.nokia.com
 li.nokia.com
 li.suw.messaging.nokia.com
 library.developer.nokia.com
-library.forum.nokia.com
 library.maemodocs.nokia.com
 licenseeportal.nokia.com
 licensing.ae.pvw.musicstore.glb.nokia.com
@@ -7787,7 +7693,6 @@ llnw.img.euro1.music.nokia.com
 lmdc.nokia.com
 lmportal.mgdnok.nokia.com
 lmportal.nokia.com
-lms.ext.net.nokia.com
 lms.nokia.com
 lms2-qa.nokia.com
 locate.nokia.com
@@ -7855,12 +7760,10 @@ m-mywfmqa.ext.net.nokia.com
 m-mywfmtest.ext.net.nokia.com
 m.maps.nokia.com
 m.nokia.com
-m1tunnel.mlab.nokia.com
 m2m.qa.codm.ext.nokia.com
 m2m.signup.nokia.com
 ma.mpqa.nokia.com
 macs.nokia.com
-maemo.nokia.com
 maemoide.nokia.com
 mag.nokia.com
 magqa.nokia.com
@@ -7872,7 +7775,6 @@ mail-eu.ext.on.nokia.com
 mail-external.cutlass.nokia.com
 mail-na.ext.on.nokia.com
 mail-regional.ext.net.nokia.com
-mail-us.ext.net.nokia.com
 mail.culture.nokia.com
 mail.ext.net.nokia.com
 mail.extranet.forum.nokia.com
@@ -7916,7 +7818,6 @@ market.nokia.com
 marketing-portal.us.dev-intg.software.nokia.com
 marketing1itsecure.create.nokia.com
 marketing1itsecure.train.nokia.com
-marketing2it.create.nokia.com
 marketing2itsecure.create.nokia.com
 marketing2itsecure.train.nokia.com
 marketing3it.create.nokia.com
@@ -7944,7 +7845,6 @@ marketing9it.train.nokia.com
 marketing9itsecure.create.nokia.com
 marketstage.nokia.com
 markotest.nokia.com
-mars.mlab.nokia.com
 mascerca.nokia.com
 master1830sms.nokia.com
 mbb-transformation-waves.int.nokia.com
@@ -7956,7 +7856,6 @@ mcms.nokia.com
 mcms.qa.nokia.com
 mcms.sit.nokia.com
 mcms.tr.nokia.com
-mcp.sit.nokia.com
 mcr-dev.nokia.com
 mcr-it.nokia.com
 mcr.nokia.com
@@ -7965,7 +7864,6 @@ mcsextra.ext.nokia.com
 md.supplychain.nokia.com
 md.supplychain.qa.nokia.com
 mdc-configurator.nokia.com
-mdc-qa.nokia.com
 mdc.ext.nokia.com
 mdc.nokia.com
 mdg-d16.int.net.nokia.com
@@ -7994,7 +7892,6 @@ mediabank-prod.nokia.com
 mediabank-qa.nokia.com
 mediaroom.ext.nokia.com
 meego-qap-pre.meego.nokia.com
-meego-qap.meego.nokia.com
 meego-ux-guidelines.ext.nokia.com
 meet.nokia.com
 meeting-esstx01.nokia.com
@@ -8018,10 +7915,10 @@ metrics.edge.eu.dac.nokia.com
 metrics.edge.jp.dac.nokia.com
 metrics.edge.staging.dac.nokia.com
 metrics.edge.us.dac.nokia.com
+metrics.edge.west.us.dac.nokia.com
 metrics.nokia.com
 metrics2.nokia.com
 mewebservice.nokia.com
-mfe.nokia.com
 mfs-pre-sl-01.mh.nokia.com
 mfs-src-sl-01.mh.nokia.com
 mfsqa.fra.nokia.com
@@ -8040,6 +7937,7 @@ mg-mtacm-1-2.qa.nmg.nokia.com
 mg-sms-vip.it.nmg.nokia.com
 mg-sms-vip.prod.nmg.nokia.com
 mg-sms-vip.qa.nmg.nokia.com
+mgmt.homewifi.nokia.com
 mgmt01.homewifi.nokia.com
 mgw-da0.americas.nokia.com
 mgw-da01.nokia.com
@@ -8134,7 +8032,6 @@ mqtt.impact.saas.nokia.com
 mr-rapi.nokia.com
 mra.lbdns.nokia.com
 mrtg.atl.messaging.nokia.com
-msa.ext.net.nokia.com
 mscacdb.ncd.nokia.com
 mscan.americas.nokia.com
 msgsupport.hosting.nokia.com
@@ -8157,7 +8054,6 @@ muiapps.nokia.com
 multipath.fit.nokia.com
 multiterm.nokia.com
 multitermdev.nokia.com
-multitermqa.nokia.com
 music-emulator.nokia.com
 music.ae.pvw.musicstore.glb.nokia.com
 music.at.pvw.musicstore.glb.nokia.com
@@ -8247,7 +8143,6 @@ my.prod.nokia.com
 my.prod.shop.nokia.com
 my.prod.shop.web.nokia.com
 my.qa.shop.nokia.com
-my.qa.shop.web.nokia.com
 my.sit.shop.nokia.com
 my.sit2.shop.nokia.com
 my.uat.shop.nokia.com
@@ -8255,7 +8150,6 @@ myaccess.app.nokia.com
 myaccessdev.app.nokia.com
 myaccessqa.app.nokia.com
 myapp.alert.nokia.com
-myapproval.ext.nokia.com
 myapprovals.nokia.com
 myapprovals1.ext.nokia.com
 myapprovalsd.ext.nokia.com
@@ -8299,11 +8193,7 @@ mysiteqa.int.nokia.com
 myspace.ext.nokia.com
 mytoolbox.ext.net.nokia.com
 mywfmamericas.ext.net.nokia.com
-mywfmasiapacific.ext.net.nokia.com
 mywfmchina.ext.net.nokia.com
-mywfmchinaint.ext.net.nokia.com
-mywfmdamericas.ext.net.nokia.com
-mywfmdasiapacific.ext.net.nokia.com
 mywfmddev.ext.net.nokia.com
 mywfmdeuroafrica.ext.net.nokia.com
 mywfmdindia.ext.net.nokia.com
@@ -8311,7 +8201,6 @@ mywfmdqa.ext.net.nokia.com
 mywfmdtest.ext.net.nokia.com
 mywfmindia.ext.net.nokia.com
 mywfmqa.ext.net.nokia.com
-mywfmtest.ext.net.nokia.com
 mzilla-old.nokia.com
 mzilla.nokia.com
 n1-files.nokia.com
@@ -8359,7 +8248,6 @@ ncc.rotelle.eu.software.nokia.com
 ncc.test.eu.software.nokia.com
 ncd-support.ext.nokia.com
 ncd.ncomit.nokia.com
-ncd.ncomitsecure.create.nokia.com
 ncd.ncomitsecure.nokia.com
 ncd.ncomitsecure.train.nokia.com
 ncd.ncomprodsecure.nokia.com
@@ -8400,7 +8288,6 @@ ncpvipapqa.ext.nokia.com
 ncpvipweb.apac.nokia.com
 ncpvipwebqa.ext.nokia.com
 ncr.nokia.com
-ncsbsr03ou.ntc.nokia.com
 ncsbsr26ou.ntc.nokia.com
 ncsbsr27ou.ntc.nokia.com
 ncsmsg17es.ntc.nokia.com
@@ -8434,7 +8321,6 @@ ndp-mobility-wcf.ext.net.nokia.com
 ndp-mobility.ext.net.nokia.com
 ndp-pega-poc.ext.net.nokia.com
 ndp-pega-pprod.ext.net.nokia.com
-ndp-pega-qa.ext.net.nokia.com
 ndp-pega-sit.ext.net.nokia.com
 ndp-pega.ext.net.nokia.com
 ndp-pprod.ext.net.nokia.com
@@ -8480,7 +8366,6 @@ nds2.fdsqa-download.nokia.com
 nds2.ir.nokia.com
 nds2.learn2.nokia.com
 nds2.learn2uat.nokia.com
-nds2.learning-content-qa.nokia.com
 nds2.nce.nokia.com
 nds2.ncsp.nokia.com
 nds2.nokia-asia.nokia.com
@@ -8771,7 +8656,6 @@ njc.nokia.com
 nl-ams-nira.nokia.com
 nl-be.mobileshop.nokia.com
 nl.dev.shop.nokia.com
-nl.dev2.shop.nokia.com
 nl.dev3.shop.nokia.com
 nl.ncomit.create.nokia.com
 nl.ncomitsecure.train.nokia.com
@@ -8811,7 +8695,6 @@ nmovimail.messaging.nokia.com
 nmp4.sd.nmp.nokia.com
 nmpmode1.nokia.com
 nmpmode3.nokia.com
-nmpx.nmp.nokia.com
 nmstools.bom.messaging.nokia.com
 nmsupport.hosting.nokia.com
 nncdntest.company.nokia.com
@@ -8823,11 +8706,9 @@ nnrmsl.int.nokia.com
 nnrmsl.nokia.com
 nntp.cutlass.nokia.com
 nntpcache.nokia.com
-no.dev2.shop.nokia.com
 no.ncomit.create.nokia.com
 no.ncomitsecure.create.nokia.com
 no.ncomitsecure.train.nokia.com
-no.prod.nokia.com
 no.prod.shop.web.nokia.com
 no.qa.shop.nokia.com
 no.sit.shop.nokia.com
@@ -8843,7 +8724,6 @@ node.dev.isa.iot.nokia.com
 nokerpprd-atos.int.net.nokia.com
 nokerpqas-atos.int.net.nokia.com
 nokerpqas.int.net.nokia.com
-nokia-asia.ncomit.create.nokia.com
 nokia-asia.ncomit.nokia.com
 nokia-asia.ncomit.train.nokia.com
 nokia-asia.ncomitsecure.create.nokia.com
@@ -8874,7 +8754,6 @@ nokiacafe.online.nokia.com
 nokiacare.nokia.com
 nokiadevpdm.int.net.nokia.com
 nokiaedu.networks.nokia.com
-nokiaextranet.ext.nokia.com
 nokiajobs.ext.nokia.com
 nokiajobs1.ext.nokia.com
 nokiajobsd.ext.nokia.com
@@ -8896,15 +8775,11 @@ nokiaras-dal-wa2.americas.nokia.com
 nokiasoar.americas.nokia.com
 nokiausa.dev.shop.nokia.com
 nokiausa.dev2.shop.nokia.com
-nokiausa.ncomit.create.nokia.com
-nokiausa.ncomit.train.nokia.com
 nokiausa.ncomitsecure.train.nokia.com
 nokiausa.prod.shop.nokia.com
-nokiausa.qa.shop.web.nokia.com
 nokiausa.uat.shop.web.nokia.com
 nokldcfipidm01p.int.nokia.com
 noknic.nokia.com
-nokusa.prod.shop.nokia.com
 nokwdcfiidmp01p.int.nokia.com
 nokwdcfilyfe01p.nnok.nokia.com
 nokwdcfilyfe02p.nnok.nokia.com
@@ -8956,7 +8831,6 @@ npm.hc-qa.saas.nokia.com
 npm.hc-trials.saas.nokia.com
 npmsmd-repdev.nokia.com
 npmsmd.nokia.com
-nproxy.saas.nokia.com
 nps-dev.nokia.com
 nps.ccs.nokia.com
 npu.homecare.saas.nokia.com
@@ -9006,9 +8880,7 @@ nra-india-odc-vip.net.nokia.com
 nra-india.net.nokia.com
 nra-indonesia.net.nokia.com
 nra-japan.net.nokia.com
-nra-portugal.net.nokia.com
 nra-taiwan.net.nokia.com
-nra-turkey.net.nokia.com
 nra-uae.net.nokia.com
 nra01-japan.net.nokia.com
 nra02-japan.net.nokia.com
@@ -9030,7 +8902,6 @@ ns2nokiaco.ext.nokia.com
 ns3.fit.nokia.com
 ns3.glb.nokia.com
 ns3.nokia.com
-ns3.ops.software.nokia.com
 ns3.qt.nokia.com
 ns3.staging.ops.software.nokia.com
 ns4.nokia.com
@@ -9038,7 +8909,6 @@ ns4.ops.software.nokia.com
 ns4.staging.ops.software.nokia.com
 ns5.nokia.com
 ns6.nokia.com
-ns8.glb.nokia.com
 nsas-osdc.care.iot.nokia.com
 nsc.update.nokia.com
 nsctesting.update.nokia.com
@@ -9056,14 +8926,12 @@ nsdssoqa.nokia.com
 nshk.ext.nokia.com
 nsmp001.saas.nokia.com
 nsmp001b.saas.nokia.com
-nsmp001g.saas.nokia.com
 nsnlnxrpt.myrealestate.ext.nokia.com
 nsnrm.int.net.nokia.com
 nsnscope.americas.nokia.com
 nsp.developer.nokia.com
 nst-db.nokia.com
 nst-media.nokia.com
-nstore-qa.nokia.com
 nstring.nokia.com
 nstring2.nokia.com
 nstring2qa.nokia.com
@@ -9075,7 +8943,6 @@ nsx14.nokia.com
 nsx15.nokia.com
 nsx16.nokia.com
 nsx17.nokia.com
-nsx18.nokia.com
 nsx22.nokia.com
 nsx23.nokia.com
 nsx27.nokia.com
@@ -9087,9 +8954,7 @@ nsx33b.nokia.com
 nsx34.nokia.com
 nsx34b.nokia.com
 nsx35.nokia.com
-nsx35b.nokia.com
 nsx36.nokia.com
-nsx36b.nokia.com
 nsx37.nokia.com
 nsx37b.nokia.com
 nsx39.nokia.com
@@ -9102,10 +8967,8 @@ nsx50.nokia.com
 nsx50b.nokia.com
 nsx51.nokia.com
 nsx51b.nokia.com
-nsx52.nokia.com
 nsx52b.nokia.com
 nsx53.nokia.com
-nsx53b.nokia.com
 nsx7.nokia.com
 nsx8.nokia.com
 nt.accumendev.nokia.com
@@ -9114,12 +8977,12 @@ ntccwh01es.ntc.nokia.com
 ntcedi.ntc.nokia.com
 ntcmami.ntc.nokia.com
 ntcmls01es.ntc.nokia.com
-ntcswp02es.ntc.nokia.com
 ntehme051108.ehme.nt.ngn.ppp.infoweb.nokia.com
 ntmdev.nokia.com
 nuq.int.location.nokia.com
 nuq.location.nokia.com
 nuq.stg.location.nokia.com
+nuudle.app.nokia.com
 nvzwsmp1.vzw.saas.nokia.com
 nvzwsmp1g.vzw.saas.nokia.com
 nvzwsmp2.vzw.saas.nokia.com
@@ -9160,7 +9023,6 @@ ohsf.ext.nokia.com
 oidc.zina.net.nokia.com
 olcsservices.web.nokia.com
 old-uxg-demo.nokia.com
-olympos.europe.nokia.com
 on-tools.nokia.com
 onboard.wifi.nokia.com
 onestore.nokia.com
@@ -9184,7 +9046,6 @@ optics-jira-qa.int.net.nokia.com
 optics-jira.ext.net.nokia.com
 optics-jira.int.net.nokia.com
 orava-dev.ext.net.nokia.com
-orava-prod-chn.ext.net.nokia.com
 orava-prod-fin.ext.net.nokia.com
 orava-prod.ext.net.nokia.com
 orava-test-chn.ext.net.nokia.com
@@ -9219,7 +9080,6 @@ otpgw.europe.nokia.com
 otpgw.qa.europe.nokia.com
 ottawa.socialclub.app.nokia.com
 ouapp05net.ntc.nokia.com
-ouarp05.ext.nokia.com
 ouarp06.ext.nokia.com
 oubdc01ntc.ntc.nokia.com
 oubzcp01.ext.nokia.com
@@ -9298,10 +9158,8 @@ oufrm34nok.ntc.nokia.com
 oulab06nok-rm.ext.nokia.com
 oulns02t.ntc.nokia.com
 oulns03t.ntc.nokia.com
-oulns04t.ntc.nokia.com
 oulubo.ext.nokia.com
 ounss001.ext.nokia.com
-ounss002.ext.nokia.com
 oupcs001.ext.nokia.com
 ouplcm01.ext.nokia.com
 ousccd01.ext.nokia.com
@@ -9315,7 +9173,6 @@ ouscpp01.ext.nokia.com
 ouscpp02.ext.nokia.com
 ouscqa2in.ext.nokia.com
 ouscsp.ext.nokia.com
-ouscsq.ext.nokia.com
 ouscwp01.ext.nokia.com
 ouscwp01m1.ext.nokia.com
 ouscwp02.ext.nokia.com
@@ -9327,14 +9184,12 @@ ousrv56nok.ntc.nokia.com
 ousw81.nokia.com
 ousw82.nokia.com
 ousw83.nokia.com
-ousw84.nokia.com
 out.stg.atl.messaging.nokia.com
 out01.fds.nokia.com
 out01.fdsqa.nokia.com
 out01.learn.online.nokia.com
 out01.learnqa.nokia.com
 out01.nds.nokia.com
-out02.nds.nokia.com
 outageintelligence.iot.nokia.com
 oux17nok.ext.nokia.com
 oux18nok.ext.nokia.com
@@ -9344,7 +9199,6 @@ owa.nokia.com
 owa.wft.int.net.nokia.com
 ozo.nokia.com
 p66.int.net.nokia.com
-pa1.ocsweb.nokia.com
 pa3.ocsweb.nokia.com
 pages.nokia.com
 pams-pvwa.int.net.nokia.com
@@ -9366,7 +9220,6 @@ partneraccess.europe.nokia.com
 partneraccess.nokia.com
 partners.nokia.com
 partners2.nokia.com
-pass-it-on.nokia.com
 passiton.nokia.com
 payment.devint.nokia.com
 payment.nlp.nokia.com
@@ -9384,7 +9237,6 @@ pc-161-216.ntc.nokia.com
 pc-161-231.ntc.nokia.com
 pc-161-249.ntc.nokia.com
 pc1.ocsweb.nokia.com
-pc2.ocsweb.nokia.com
 pcrlab2.nokia.com
 pcrlab4.nokia.com
 pcsw2.odc.nokia.com
@@ -9417,7 +9269,6 @@ ph.nokia.com
 ph.prod.shop.nokia.com
 ph.prod.shop.web.nokia.com
 ph.qa.shop.nokia.com
-ph.qa.shop.web.nokia.com
 ph.sit.shop.nokia.com
 ph.sit2.shop.nokia.com
 ph.uat.shop.nokia.com
@@ -9460,7 +9311,6 @@ plm.int.net.nokia.com
 pluto.mlab.nokia.com
 pm.nokia.com
 pmtoolsweb.ext.nokia.com
-pnext.ext.nokia.com
 pnext.online.nokia.com
 pnpsigning.nokia.com
 pocaus-0.poc.ext.nokia.com
@@ -9481,7 +9331,6 @@ pocgts-6.poc.ext.nokia.com
 pocgts-7.poc.ext.nokia.com
 pocoms-0.poc.ext.nokia.com
 pocrapp01.poc.ext.nokia.com
-pocrapp02.poc.ext.nokia.com
 pocrclus01.poc.ext.nokia.com
 pocrclus02.poc.ext.nokia.com
 pocrdb01.poc.ext.nokia.com
@@ -9506,6 +9355,7 @@ pool.lrdr-multithree.glb.nokia.com
 pool.lrdr-multitwo.glb.nokia.com
 pop.fit.nokia.com
 pop3.mpqa.nokia.com
+pops-eks-test.csfp.dev.software.nokia.com
 portal.access.nokia.com
 portal.deb.pre-prod.software.nokia.com
 portal.deb.software.nokia.com
@@ -9548,7 +9398,6 @@ prmqa.ext.nokia.com
 prmtesting.ext.nokia.com
 prmtraining.ext.nokia.com
 prmviewsproduction.int.net.nokia.com
-pro.forum.nokia.com
 probe.fit.nokia.com
 processmanagement.int.nokia.com
 processpublishing.int.nokia.com
@@ -9629,7 +9478,6 @@ ptsqa.nokia.com
 ptt.svc.nokia.com
 pu.nokia.com
 pu.stg.nokia.com
-publish.developer.nokia.com
 publish.nokia.com
 pubsub.feeder.it.nokia.com
 pubsub.feeder.staging.nokia.com
@@ -9664,7 +9512,6 @@ qa.a1.odc.nokia.com
 qa.accntmgmt.b2bcrm.nokia.com
 qa.acumen.nokia.com
 qa.amtana.b2bcrm.nokia.com
-qa.amtremote.b2bcrm.ext.nokia.com
 qa.amtremote.b2bcrm.nokia.com
 qa.analytics.b2bcrm.nokia.com
 qa.ap.nokia.com
@@ -9688,7 +9535,6 @@ qa.da.nokia.com
 qa.dac.nokia.com
 qa.data.nokia.com
 qa.developer.nokia.com
-qa.digital-assistant.nokia.com
 qa.dndrfid.nokia.com
 qa.docs.in.nokia.com
 qa.dqmcs.nokia.com
@@ -9709,7 +9555,6 @@ qa.m.ctt.nokia.com
 qa.mapcreator.nokia.com
 qa.mdm.nokia.com
 qa.mncms.nokia.com
-qa.mobile2.b2bcrm.nokia.com
 qa.mynokiapurchase.nokia.com
 qa.ndx.nokia.com
 qa.nmg.nokia.com
@@ -9733,7 +9578,6 @@ qa.prontohub.int.net.nokia.com
 qa.public.ovistore.vcdn.nokia.com
 qa.pulse.nokia.com
 qa.rcps.nokia.com
-qa.rdcertification.nokia.com
 qa.reachout.nokia.com
 qa.rebel.nokia.com
 qa.reporting.int.net.nokia.com
@@ -9781,7 +9625,6 @@ qa5-www.networks.nokia.com
 qaapi.knowledge.nokia.com
 qabi.int.net.nokia.com
 qacas.nokia.com
-qacccpana.ext.nokia.com
 qacontentapi.knowledge.nokia.com
 qacrl.nokia.com
 qaickm.online.nokia.com
@@ -9831,7 +9674,6 @@ quickhandbhartiafrica.int.net.nokia.com
 qvfnzhdm.saas.nokia.com
 qvfnzhdmw.saas.nokia.com
 r.cdn.qa.nokia.com
-r.mcms.nokia.com
 r.mprod.nokia.com
 r.mqa.nokia.com
 r.msit.nokia.com
@@ -9849,6 +9691,7 @@ rapi.st.lhr.nokia.com
 rapport.nokia.com
 rapportii.saas.nokia.com
 ras-apac.int.net.nokia.com
+ras-beijing.int.net.nokia.com
 ras-emea.int.net.nokia.com
 ras-finland.int.net.nokia.com
 ras-india.int.net.nokia.com
@@ -9892,14 +9735,12 @@ reporting2.ncd.nokia.com
 reports-dev.fastrac.nokia.com
 reports-nvt.europe.nokia.com
 reports-qa.fastrac.nokia.com
-reports-trg.fastrac.nokia.com
 reports.download.nokia.com
 reports.fastrac4.nokia.com
 reports.music.nokia.com
 reports.nokia.com
 reports.push.nokia.com
 repository.arrow.nokia.com
-reqqa.nokia.com
 research.nokia.com
 research01.nokia.com
 resolve.net.nokia.com
@@ -9939,12 +9780,10 @@ rmtool.nokia.com
 rnd11.wellness.ext.nokia.com
 rnd9.wellness.ext.nokia.com
 ro.dev3.shop.nokia.com
-ro.ncomit.create.nokia.com
 ro.ncomit.train.nokia.com
 ro.ncomitsecure.train.nokia.com
 ro.qa.shop.nokia.com
 ro.qa.shop.web.nokia.com
-ro.sit2.shop.nokia.com
 ro.uat.shop.nokia.com
 rock.mlab.nokia.com
 rocket.dac.nokia.com
@@ -9958,9 +9797,7 @@ roomkit-secure.video.ext.net.nokia.com
 roomkitplus-secure.video.ext.net.nokia.com
 roomkitpro-secure.video.ext.net.nokia.com
 rosettanet-ch.ext.net.nokia.com
-rosettanet-it.ext.net.nokia.com
 rosettanet-qa.ext.net.nokia.com
-rosettanet.ext.net.nokia.com
 rosettanet.it.online.nokia.com
 rosettanet.online.nokia.com
 rosettanet.qa.online.nokia.com
@@ -9992,28 +9829,29 @@ ru.dev.shop.nokia.com
 ru.dev2.shop.nokia.com
 ru.dev3.shop.nokia.com
 ru.ncomit.create.nokia.com
-ru.ncomit.train.nokia.com
 ru.ncomitsecure.train.nokia.com
 ru.networks.nokia.com
 ru.prod.shop.nokia.com
-ru.prod.shop.web.nokia.com
 ru.uat.shop.web.nokia.com
 rumba.mlab.nokia.com
 runko-gw.nokia.com
-russia.forum.nokia.com
 russia.gdc.nokia.com
 ruwiki.ext.net.nokia.com
 s064.deb.saas.nokia.com
 s2s-rnif.online.nokia.com
 s2s.icon.online.nokia.com
+s2s.online.nokia.com
 s3.capsv-blr-qa.nokia.com
 s3.capsv-blr.nokia.com
 s3.capsv-dr.nokia.com
 s3.capsv-espoo-dr.nokia.com
 s3.capsv-espoo-qa.nokia.com
+s3.capsv-espoo.nokia.com
 s3.capsv-nsb-qa.nokia.com
+s3.capsv-nsb.nokia.com
 s3.capsv-qa.nokia.com
 s3.capsv.nokia.com
+s40-store.juniper.nokia.com
 s60-store.juniper.nokia.com
 s60releases.nokia.com
 s60token.ext.nokia.com
@@ -10021,6 +9859,7 @@ s60token.nokia.com
 sa-147-243-188-1.nokia.com
 sa-147-243-188-10.nokia.com
 sa-147-243-188-100.nokia.com
+sa-147-243-188-101.nokia.com
 sa-147-243-188-102.nokia.com
 sa-147-243-188-103.nokia.com
 sa-147-243-188-104.nokia.com
@@ -10049,8 +9888,10 @@ sa-147-243-188-126.nokia.com
 sa-147-243-188-127.nokia.com
 sa-147-243-188-129.nokia.com
 sa-147-243-188-13.nokia.com
+sa-147-243-188-130.nokia.com
 sa-147-243-188-131.nokia.com
 sa-147-243-188-134.nokia.com
+sa-147-243-188-135.nokia.com
 sa-147-243-188-136.nokia.com
 sa-147-243-188-137.nokia.com
 sa-147-243-188-138.nokia.com
@@ -10084,6 +9925,7 @@ sa-147-243-188-164.nokia.com
 sa-147-243-188-165.nokia.com
 sa-147-243-188-166.nokia.com
 sa-147-243-188-167.nokia.com
+sa-147-243-188-168.nokia.com
 sa-147-243-188-169.nokia.com
 sa-147-243-188-17.nokia.com
 sa-147-243-188-170.nokia.com
@@ -10091,6 +9933,7 @@ sa-147-243-188-171.nokia.com
 sa-147-243-188-172.nokia.com
 sa-147-243-188-173.nokia.com
 sa-147-243-188-174.nokia.com
+sa-147-243-188-175.nokia.com
 sa-147-243-188-176.nokia.com
 sa-147-243-188-177.nokia.com
 sa-147-243-188-178.nokia.com
@@ -10145,6 +9988,7 @@ sa-147-243-188-229.nokia.com
 sa-147-243-188-23.nokia.com
 sa-147-243-188-230.nokia.com
 sa-147-243-188-231.nokia.com
+sa-147-243-188-233.nokia.com
 sa-147-243-188-234.nokia.com
 sa-147-243-188-235.nokia.com
 sa-147-243-188-236.nokia.com
@@ -10169,6 +10013,7 @@ sa-147-243-188-253.nokia.com
 sa-147-243-188-254.nokia.com
 sa-147-243-188-26.nokia.com
 sa-147-243-188-27.nokia.com
+sa-147-243-188-28.nokia.com
 sa-147-243-188-29.nokia.com
 sa-147-243-188-3.nokia.com
 sa-147-243-188-30.nokia.com
@@ -10187,6 +10032,7 @@ sa-147-243-188-43.nokia.com
 sa-147-243-188-44.nokia.com
 sa-147-243-188-45.nokia.com
 sa-147-243-188-46.nokia.com
+sa-147-243-188-47.nokia.com
 sa-147-243-188-48.nokia.com
 sa-147-243-188-49.nokia.com
 sa-147-243-188-5.nokia.com
@@ -10204,9 +10050,12 @@ sa-147-243-188-60.nokia.com
 sa-147-243-188-61.nokia.com
 sa-147-243-188-62.nokia.com
 sa-147-243-188-63.nokia.com
+sa-147-243-188-64.nokia.com
 sa-147-243-188-65.nokia.com
 sa-147-243-188-66.nokia.com
 sa-147-243-188-67.nokia.com
+sa-147-243-188-68.nokia.com
+sa-147-243-188-69.nokia.com
 sa-147-243-188-7.nokia.com
 sa-147-243-188-70.nokia.com
 sa-147-243-188-71.nokia.com
@@ -10221,13 +10070,16 @@ sa-147-243-188-79.nokia.com
 sa-147-243-188-8.nokia.com
 sa-147-243-188-80.nokia.com
 sa-147-243-188-81.nokia.com
+sa-147-243-188-82.nokia.com
 sa-147-243-188-83.nokia.com
 sa-147-243-188-85.nokia.com
 sa-147-243-188-86.nokia.com
 sa-147-243-188-87.nokia.com
 sa-147-243-188-89.nokia.com
+sa-147-243-188-9.nokia.com
 sa-147-243-188-90.nokia.com
 sa-147-243-188-91.nokia.com
+sa-147-243-188-93.nokia.com
 sa-147-243-188-94.nokia.com
 sa-147-243-188-95.nokia.com
 sa-147-243-188-96.nokia.com
@@ -10269,6 +10121,7 @@ sa-147-243-189-133.nokia.com
 sa-147-243-189-134.nokia.com
 sa-147-243-189-135.nokia.com
 sa-147-243-189-136.nokia.com
+sa-147-243-189-137.nokia.com
 sa-147-243-189-138.nokia.com
 sa-147-243-189-139.nokia.com
 sa-147-243-189-14.nokia.com
@@ -10286,7 +10139,11 @@ sa-147-243-189-150.nokia.com
 sa-147-243-189-152.nokia.com
 sa-147-243-189-153.nokia.com
 sa-147-243-189-154.nokia.com
+sa-147-243-189-155.nokia.com
+sa-147-243-189-156.nokia.com
+sa-147-243-189-158.nokia.com
 sa-147-243-189-159.nokia.com
+sa-147-243-189-16.nokia.com
 sa-147-243-189-160.nokia.com
 sa-147-243-189-161.nokia.com
 sa-147-243-189-162.nokia.com
@@ -10299,6 +10156,7 @@ sa-147-243-189-169.nokia.com
 sa-147-243-189-170.nokia.com
 sa-147-243-189-171.nokia.com
 sa-147-243-189-172.nokia.com
+sa-147-243-189-173.nokia.com
 sa-147-243-189-174.nokia.com
 sa-147-243-189-175.nokia.com
 sa-147-243-189-176.nokia.com
@@ -10313,6 +10171,7 @@ sa-147-243-189-184.nokia.com
 sa-147-243-189-185.nokia.com
 sa-147-243-189-186.nokia.com
 sa-147-243-189-187.nokia.com
+sa-147-243-189-189.nokia.com
 sa-147-243-189-19.nokia.com
 sa-147-243-189-192.nokia.com
 sa-147-243-189-193.nokia.com
@@ -10328,7 +10187,9 @@ sa-147-243-189-202.nokia.com
 sa-147-243-189-203.nokia.com
 sa-147-243-189-204.nokia.com
 sa-147-243-189-205.nokia.com
+sa-147-243-189-206.nokia.com
 sa-147-243-189-207.nokia.com
+sa-147-243-189-208.nokia.com
 sa-147-243-189-209.nokia.com
 sa-147-243-189-21.nokia.com
 sa-147-243-189-210.nokia.com
@@ -10341,11 +10202,13 @@ sa-147-243-189-219.nokia.com
 sa-147-243-189-22.nokia.com
 sa-147-243-189-220.nokia.com
 sa-147-243-189-221.nokia.com
+sa-147-243-189-223.nokia.com
 sa-147-243-189-224.nokia.com
 sa-147-243-189-226.nokia.com
 sa-147-243-189-227.nokia.com
 sa-147-243-189-228.nokia.com
 sa-147-243-189-229.nokia.com
+sa-147-243-189-23.nokia.com
 sa-147-243-189-231.nokia.com
 sa-147-243-189-232.nokia.com
 sa-147-243-189-234.nokia.com
@@ -10363,11 +10226,13 @@ sa-147-243-189-244.nokia.com
 sa-147-243-189-245.nokia.com
 sa-147-243-189-246.nokia.com
 sa-147-243-189-247.nokia.com
+sa-147-243-189-248.nokia.com
 sa-147-243-189-249.nokia.com
 sa-147-243-189-25.nokia.com
 sa-147-243-189-250.nokia.com
 sa-147-243-189-251.nokia.com
 sa-147-243-189-252.nokia.com
+sa-147-243-189-253.nokia.com
 sa-147-243-189-254.nokia.com
 sa-147-243-189-26.nokia.com
 sa-147-243-189-27.nokia.com
@@ -10377,6 +10242,7 @@ sa-147-243-189-30.nokia.com
 sa-147-243-189-31.nokia.com
 sa-147-243-189-32.nokia.com
 sa-147-243-189-33.nokia.com
+sa-147-243-189-34.nokia.com
 sa-147-243-189-35.nokia.com
 sa-147-243-189-36.nokia.com
 sa-147-243-189-37.nokia.com
@@ -10396,7 +10262,9 @@ sa-147-243-189-5.nokia.com
 sa-147-243-189-50.nokia.com
 sa-147-243-189-51.nokia.com
 sa-147-243-189-52.nokia.com
+sa-147-243-189-53.nokia.com
 sa-147-243-189-54.nokia.com
+sa-147-243-189-55.nokia.com
 sa-147-243-189-56.nokia.com
 sa-147-243-189-57.nokia.com
 sa-147-243-189-59.nokia.com
@@ -10426,6 +10294,8 @@ sa-147-243-189-80.nokia.com
 sa-147-243-189-81.nokia.com
 sa-147-243-189-82.nokia.com
 sa-147-243-189-83.nokia.com
+sa-147-243-189-84.nokia.com
+sa-147-243-189-85.nokia.com
 sa-147-243-189-86.nokia.com
 sa-147-243-189-87.nokia.com
 sa-147-243-189-88.nokia.com
@@ -10433,9 +10303,11 @@ sa-147-243-189-89.nokia.com
 sa-147-243-189-9.nokia.com
 sa-147-243-189-90.nokia.com
 sa-147-243-189-91.nokia.com
+sa-147-243-189-92.nokia.com
 sa-147-243-189-94.nokia.com
 sa-147-243-189-97.nokia.com
 sa-147-243-189-99.nokia.com
+sa-147-243-190-1.nokia.com
 sa-147-243-190-101.nokia.com
 sa-147-243-190-102.nokia.com
 sa-147-243-190-103.nokia.com
@@ -10443,16 +10315,19 @@ sa-147-243-190-104.nokia.com
 sa-147-243-190-105.nokia.com
 sa-147-243-190-106.nokia.com
 sa-147-243-190-107.nokia.com
+sa-147-243-190-108.nokia.com
 sa-147-243-190-109.nokia.com
 sa-147-243-190-11.nokia.com
 sa-147-243-190-110.nokia.com
 sa-147-243-190-111.nokia.com
 sa-147-243-190-112.nokia.com
+sa-147-243-190-113.nokia.com
 sa-147-243-190-114.nokia.com
 sa-147-243-190-115.nokia.com
 sa-147-243-190-116.nokia.com
 sa-147-243-190-117.nokia.com
 sa-147-243-190-12.nokia.com
+sa-147-243-190-120.nokia.com
 sa-147-243-190-121.nokia.com
 sa-147-243-190-122.nokia.com
 sa-147-243-190-124.nokia.com
@@ -10476,6 +10351,7 @@ sa-147-243-190-143.nokia.com
 sa-147-243-190-144.nokia.com
 sa-147-243-190-145.nokia.com
 sa-147-243-190-146.nokia.com
+sa-147-243-190-147.nokia.com
 sa-147-243-190-148.nokia.com
 sa-147-243-190-149.nokia.com
 sa-147-243-190-15.nokia.com
@@ -10508,6 +10384,7 @@ sa-147-243-190-181.nokia.com
 sa-147-243-190-183.nokia.com
 sa-147-243-190-185.nokia.com
 sa-147-243-190-186.nokia.com
+sa-147-243-190-187.nokia.com
 sa-147-243-190-19.nokia.com
 sa-147-243-190-191.nokia.com
 sa-147-243-190-192.nokia.com
@@ -10522,6 +10399,7 @@ sa-147-243-190-200.nokia.com
 sa-147-243-190-201.nokia.com
 sa-147-243-190-202.nokia.com
 sa-147-243-190-203.nokia.com
+sa-147-243-190-204.nokia.com
 sa-147-243-190-205.nokia.com
 sa-147-243-190-206.nokia.com
 sa-147-243-190-207.nokia.com
@@ -10534,6 +10412,7 @@ sa-147-243-190-212.nokia.com
 sa-147-243-190-213.nokia.com
 sa-147-243-190-214.nokia.com
 sa-147-243-190-215.nokia.com
+sa-147-243-190-216.nokia.com
 sa-147-243-190-217.nokia.com
 sa-147-243-190-218.nokia.com
 sa-147-243-190-219.nokia.com
@@ -10565,6 +10444,7 @@ sa-147-243-190-246.nokia.com
 sa-147-243-190-247.nokia.com
 sa-147-243-190-248.nokia.com
 sa-147-243-190-249.nokia.com
+sa-147-243-190-25.nokia.com
 sa-147-243-190-250.nokia.com
 sa-147-243-190-251.nokia.com
 sa-147-243-190-252.nokia.com
@@ -10592,9 +10472,11 @@ sa-147-243-190-44.nokia.com
 sa-147-243-190-45.nokia.com
 sa-147-243-190-46.nokia.com
 sa-147-243-190-48.nokia.com
+sa-147-243-190-49.nokia.com
 sa-147-243-190-5.nokia.com
 sa-147-243-190-50.nokia.com
 sa-147-243-190-51.nokia.com
+sa-147-243-190-52.nokia.com
 sa-147-243-190-53.nokia.com
 sa-147-243-190-56.nokia.com
 sa-147-243-190-57.nokia.com
@@ -10605,8 +10487,10 @@ sa-147-243-190-62.nokia.com
 sa-147-243-190-63.nokia.com
 sa-147-243-190-64.nokia.com
 sa-147-243-190-65.nokia.com
+sa-147-243-190-67.nokia.com
 sa-147-243-190-68.nokia.com
 sa-147-243-190-69.nokia.com
+sa-147-243-190-7.nokia.com
 sa-147-243-190-70.nokia.com
 sa-147-243-190-71.nokia.com
 sa-147-243-190-72.nokia.com
@@ -10656,6 +10540,7 @@ sa-147-243-191-118.nokia.com
 sa-147-243-191-12.nokia.com
 sa-147-243-191-120.nokia.com
 sa-147-243-191-121.nokia.com
+sa-147-243-191-122.nokia.com
 sa-147-243-191-123.nokia.com
 sa-147-243-191-124.nokia.com
 sa-147-243-191-125.nokia.com
@@ -10678,6 +10563,8 @@ sa-147-243-191-145.nokia.com
 sa-147-243-191-146.nokia.com
 sa-147-243-191-147.nokia.com
 sa-147-243-191-148.nokia.com
+sa-147-243-191-149.nokia.com
+sa-147-243-191-15.nokia.com
 sa-147-243-191-151.nokia.com
 sa-147-243-191-152.nokia.com
 sa-147-243-191-153.nokia.com
@@ -10691,6 +10578,7 @@ sa-147-243-191-16.nokia.com
 sa-147-243-191-160.nokia.com
 sa-147-243-191-161.nokia.com
 sa-147-243-191-162.nokia.com
+sa-147-243-191-163.nokia.com
 sa-147-243-191-164.nokia.com
 sa-147-243-191-165.nokia.com
 sa-147-243-191-166.nokia.com
@@ -10699,6 +10587,7 @@ sa-147-243-191-168.nokia.com
 sa-147-243-191-169.nokia.com
 sa-147-243-191-17.nokia.com
 sa-147-243-191-170.nokia.com
+sa-147-243-191-171.nokia.com
 sa-147-243-191-172.nokia.com
 sa-147-243-191-173.nokia.com
 sa-147-243-191-174.nokia.com
@@ -10712,6 +10601,7 @@ sa-147-243-191-181.nokia.com
 sa-147-243-191-182.nokia.com
 sa-147-243-191-183.nokia.com
 sa-147-243-191-184.nokia.com
+sa-147-243-191-185.nokia.com
 sa-147-243-191-186.nokia.com
 sa-147-243-191-187.nokia.com
 sa-147-243-191-19.nokia.com
@@ -10744,6 +10634,7 @@ sa-147-243-191-22.nokia.com
 sa-147-243-191-220.nokia.com
 sa-147-243-191-222.nokia.com
 sa-147-243-191-223.nokia.com
+sa-147-243-191-224.nokia.com
 sa-147-243-191-225.nokia.com
 sa-147-243-191-226.nokia.com
 sa-147-243-191-227.nokia.com
@@ -10763,6 +10654,7 @@ sa-147-243-191-243.nokia.com
 sa-147-243-191-244.nokia.com
 sa-147-243-191-245.nokia.com
 sa-147-243-191-246.nokia.com
+sa-147-243-191-247.nokia.com
 sa-147-243-191-25.nokia.com
 sa-147-243-191-251.nokia.com
 sa-147-243-191-254.nokia.com
@@ -10779,12 +10671,14 @@ sa-147-243-191-38.nokia.com
 sa-147-243-191-39.nokia.com
 sa-147-243-191-4.nokia.com
 sa-147-243-191-41.nokia.com
+sa-147-243-191-42.nokia.com
 sa-147-243-191-43.nokia.com
 sa-147-243-191-44.nokia.com
 sa-147-243-191-45.nokia.com
 sa-147-243-191-46.nokia.com
 sa-147-243-191-47.nokia.com
 sa-147-243-191-48.nokia.com
+sa-147-243-191-49.nokia.com
 sa-147-243-191-5.nokia.com
 sa-147-243-191-50.nokia.com
 sa-147-243-191-51.nokia.com
@@ -10798,6 +10692,7 @@ sa-147-243-191-59.nokia.com
 sa-147-243-191-6.nokia.com
 sa-147-243-191-60.nokia.com
 sa-147-243-191-61.nokia.com
+sa-147-243-191-62.nokia.com
 sa-147-243-191-63.nokia.com
 sa-147-243-191-64.nokia.com
 sa-147-243-191-65.nokia.com
@@ -10808,6 +10703,8 @@ sa-147-243-191-69.nokia.com
 sa-147-243-191-70.nokia.com
 sa-147-243-191-72.nokia.com
 sa-147-243-191-74.nokia.com
+sa-147-243-191-75.nokia.com
+sa-147-243-191-77.nokia.com
 sa-147-243-191-78.nokia.com
 sa-147-243-191-8.nokia.com
 sa-147-243-191-80.nokia.com
@@ -10820,6 +10717,7 @@ sa-147-243-191-87.nokia.com
 sa-147-243-191-88.nokia.com
 sa-147-243-191-89.nokia.com
 sa-147-243-191-9.nokia.com
+sa-147-243-191-90.nokia.com
 sa-147-243-191-91.nokia.com
 sa-147-243-191-92.nokia.com
 sa-147-243-191-93.nokia.com
@@ -10858,7 +10756,9 @@ sachrp03.ext.nokia.com
 sachrp05.ext.nokia.com
 sacp003.ext.nokia.com
 sacpdwtd001.nokia.com
+sacpdwtq002.nokia.com
 sacpepop001.nokia.com
+sacpepop002.nokia.com
 sacpepop003.europe.nokia.com
 sact001.ext.nokia.com
 sadmst001.europe.nokia.com
@@ -10932,7 +10832,6 @@ saechtp09.nokia.com
 saechtp10.nokia.com
 saechtp11.nokia.com
 saechtp12.nokia.com
-saechtp13.nokia.com
 saechtp14.nokia.com
 saechtp15.nokia.com
 saechtp16.nokia.com
@@ -10980,7 +10879,6 @@ saecst03.nokia.com
 saectap01.ext.nokia.com
 saects04.nokia.com
 saects05.nokia.com
-saects07.nokia.com
 saedap102.ext.nokia.com
 saedap401.ext.nokia.com
 saedap501.ext.nokia.com
@@ -10994,8 +10892,6 @@ saedbdotp02-n2.ext.nokia.com
 saedbdotpp01.ext.nokia.com
 saedbdotpq01.ext.nokia.com
 saedctmit02.ext.nokia.com
-saedctmp00.nokia.com
-saedctmq01.nokia.com
 saedesx01.ext.nokia.com
 saedesx02.ext.nokia.com
 saedesx03.ext.nokia.com
@@ -11026,7 +10922,6 @@ saefilesharep01.nokia.com
 saefilesharep02.nokia.com
 saefilesharep03.nokia.com
 saefileshareq01.nokia.com
-saefileshareq02.nokia.com
 saefs01.nokia.com
 saegrwp01.europe.nokia.com
 saehdr001.ext.nokia.com
@@ -11044,13 +10939,11 @@ saehwmdb05.ext.nokia.com
 saehwmdb06.ext.nokia.com
 saehwmqdb05.ext.nokia.com
 saeiamp01.europe.nokia.com
-saeiamp02.europe.nokia.com
 saeiamp04.europe.nokia.com
 saeiamp05.europe.nokia.com
 saeinrp01.nokia.com
 saeintldap01.ext.nokia.com
 saeintprx01.europe.nokia.com
-saeitmvmq001.ext.nokia.com
 saekicsp16.europe.nokia.com
 saekicsp17.europe.nokia.com
 saelcron01.ext.nokia.com
@@ -11090,7 +10983,6 @@ saeljazz01.ext.nokia.com
 saeljira01.ext.nokia.com
 saeljira02.ext.nokia.com
 saelkmp01.nokia.com
-saelkmp02.nokia.com
 saelndz001.ext.nokia.com
 saelndz002.ext.nokia.com
 saelndz003.ext.nokia.com
@@ -11206,7 +11098,6 @@ saenfsftp003.ext.nokia.com
 saenfsftp004.ext.nokia.com
 saenfsftq001.nokia.com
 saenfsp001.ext.nokia.com
-saenfsp002.ext.nokia.com
 saenfsp003.ext.nokia.com
 saenfsp004.ext.nokia.com
 saenfsp005.ext.nokia.com
@@ -11216,7 +11107,6 @@ saenfsq003.ext.nokia.com
 saenfsq004.ext.nokia.com
 saenfsq005.ext.nokia.com
 saenintp01.europe.nokia.com
-saenintp02.europe.nokia.com
 saenis1072.ext.nokia.com
 saenis1073.ext.nokia.com
 saenis313.ext.nokia.com
@@ -11232,12 +11122,10 @@ saenrcp01.nokia.com
 saenstp03.nokia.com
 saenstp04.nokia.com
 saenw11t10.europe.nokia.com
-saenw11t11.europe.nokia.com
 saenwgap01.europe.nokia.com
 saenwgap02.europe.nokia.com
 saenwp01.europe.nokia.com
 saenwp02.europe.nokia.com
-saenwp03.europe.nokia.com
 saenwp05.europe.nokia.com
 saenwp06.europe.nokia.com
 saeobsboss01.ext.nokia.com
@@ -11245,12 +11133,10 @@ saeobsimg01.ext.nokia.com
 saeobsrepo01.ext.nokia.com
 saeombdlsq01.nokia.com
 saeombp06.nokia.com
-saeombp07.nokia.com
 saeombp08.nokia.com
 saeombp09.nokia.com
 saeombp12.nokia.com
 saeombp13.nokia.com
-saeombp14.nokia.com
 saeombp15.nokia.com
 saeombproq01.nokia.com
 saeopedshd01.nokia.com
@@ -11339,11 +11225,9 @@ saeperfp02.ext.nokia.com
 saeperfp03.ext.nokia.com
 saeperfp04.ext.nokia.com
 saeperfq01.ext.nokia.com
-saepfotaweb01.ext.nokia.com
 saepftp001.ext.nokia.com
 saepgit01.ext.nokia.com
 saepim01.ext.nokia.com
-saepim02.ext.nokia.com
 saepimq01.ext.nokia.com
 saepimq02.ext.nokia.com
 saepintegrapp03.europe.nokia.com
@@ -11408,7 +11292,6 @@ saesimapp03.ext.nokia.com
 saesimapp04.ext.nokia.com
 saesimapp05.ext.nokia.com
 saesimapp06.ext.nokia.com
-saesmup03.ext.nokia.com
 saesmup04.ext.nokia.com
 saesncfep01.europe.nokia.com
 saesncfep02.europe.nokia.com
@@ -11502,7 +11385,6 @@ safarm01.nmp.nokia.com
 safmv-nokiabup01ca.nokia.com
 safran-degrwp01.europe.nokia.com
 safrm11nok.nmp.nokia.com
-safrm14nok.nmp.nokia.com
 safw01.nokia.com
 sagenq01.ext.nokia.com
 saglb01.nokia.com
@@ -11514,7 +11396,6 @@ sagmesp.nokia.com
 sagmesp01tmp.nokia.com
 sagmesp02tmp.nokia.com
 sagmesptux01.nokia.com
-sagmesptux01tmp.nokia.com
 sagmesq.nokia.com
 sagmesqtux01.nokia.com
 sahrreporting.ext.nokia.com
@@ -11523,7 +11404,6 @@ sai2wq12-v1.nokia.com
 sai2wq13-v1.nokia.com
 saiiptool.ext.nokia.com
 saimesapq.ext.nokia.com
-saimesbe2app.ext.nokia.com
 saimesbe2dbp.ext.nokia.com
 saimescfapp.ext.nokia.com
 saimescfdbp.ext.nokia.com
@@ -11542,11 +11422,8 @@ sainf001.ext.nokia.com
 sainf002.ext.nokia.com
 sainf003.ext.nokia.com
 sainfd03.nokia.com
-sainfd08.nokia.com
 sainfd09.nokia.com
-sainfi02.nokia.com
 sainfq03.nokia.com
-saipmpkg02.nokia.com
 sais1imes.ext.nokia.com
 sakampa-inetrtr01.nokia.com
 sales.nokia.com
@@ -11564,7 +11441,6 @@ samusicfep03.europe.nokia.com
 samyapproval.ext.nokia.com
 samyapprovalsd.ext.nokia.com
 samyhrreports.ext.nokia.com
-samyprofile.ext.nokia.com
 samyprofiled.ext.nokia.com
 san1.nokia.com
 san2.nokia.com
@@ -11578,7 +11454,6 @@ sancssp01.europe.nokia.com
 sancssp02.nokia.com
 sandbox.forum.nokia.com
 sanediq03.nokia.com
-sanediq04.nokia.com
 sanedit01.nokia.com
 sanewn03.nmp.nokia.com
 sanfevmp001.europe.nokia.com
@@ -11595,7 +11470,6 @@ saodmimes.ext.nokia.com
 saoo1imes.ext.nokia.com
 sapcs004.ext.nokia.com
 sapcs006.ext.nokia.com
-sapcs010.ext.nokia.com
 sapdf01.nmp.nokia.com
 sapdma19.europe.nokia.com
 sapgui.nokia.com
@@ -11615,13 +11489,11 @@ saqcl001-s1.ext.nokia.com
 saqcl001-s2.ext.nokia.com
 saqcl001.ext.nokia.com
 sar-info.nokia.com
-sar.nokia.com
 sar95-10-88-185-86-203.fbx.proxqcl001.ext.nokia.com
 sarct001.ext.nokia.com
 sarct002.ext.nokia.com
 sas2s01nok.online.nokia.com
 sasemoob03.ext.nokia.com
-sasep101.ext.nokia.com
 sasgn003.ext.nokia.com
 sasgn004.ext.nokia.com
 saslm01.europe.nokia.com
@@ -11651,7 +11523,6 @@ sawapp027.ext.nokia.com
 sawapp032.ext.nokia.com
 sawapp033.ext.nokia.com
 sawapp034.ext.nokia.com
-sawapp035.ext.nokia.com
 sawapp036.ext.nokia.com
 sawapp038.ext.nokia.com
 sawdc050-temp.ext.nokia.com
@@ -11666,7 +11537,6 @@ sb-eu.lrdr-multithree.glb.nokia.com
 sb-eu.lrdr-multitwo.glb.nokia.com
 sb.beam.nokia.com
 sbc-ms-poc.ext.net.nokia.com
-sbc01-ms-poc.ext.net.nokia.com
 sbcypq6202w-lp130-02-76-68-138-23.dsl.bell.cpoc.ext.net.nokia.com
 sbm-d.nokia.com
 sbm-it.nokia.com
@@ -11718,6 +11588,7 @@ search.knowledge.nokia.com
 search.networks.nokia.com
 searchstage.networks.nokia.com
 seasonsgreetings.nokia.com
+sec-eks.csfp.dev.software.nokia.com
 secure.nokia.com
 securemail.nokia.com
 secureproxy.ent.nokia.com
@@ -11733,7 +11604,6 @@ sefprod.us.dev-intg.software.nokia.com
 sefstage.us.dev-intg.software.nokia.com
 segmentation.nokia.com
 segmentationdev.nokia.com
-segmentationint.nokia.com
 segmentationqa.nokia.com
 selfhelp.careforbusiness.nokia.com
 selftest.iot.nokia.com
@@ -11822,6 +11692,7 @@ siagp01-alt.nokia.com
 siagp01.nokia.com
 siagp02.nokia.com
 siagp03-alt.nokia.com
+siagp03.nokia.com
 siagp04.nokia.com
 siagp06.nokia.com
 siagp08.nokia.com
@@ -11832,6 +11703,7 @@ sibetap01.ext.nokia.com
 sibetap02.ext.nokia.com
 sibetap03.apac.nokia.com
 sibetap04.apac.nokia.com
+sibetaq02.apac.nokia.com
 sibm.euro1.music.nokia.com
 sibm.euro1.music.pvw.nokia.com
 sibm.euro1.music.sro1.nokia.com
@@ -11859,8 +11731,10 @@ sievaep001.ext.nokia.com
 sifas001.ext.nokia.com
 siffmappp01.ext.nokia.com
 siffmappq01.ext.nokia.com
+siffmjdm01.ext.nokia.com
 siffmrpp02.ext.nokia.com
 siffmrpp03.ext.nokia.com
+sifmtp001.ext.nokia.com
 signing.extrafed-qa.ext.net.nokia.com
 signing.extrafed.ext.net.nokia.com
 signup.nokia.com
@@ -11893,8 +11767,6 @@ sincpgweb01.apac.nokia.com
 sincpgweb02.apac.nokia.com
 sincppap02.apac.nokia.com
 sincpweb02.apac.nokia.com
-singapore-ca.net.nokia.com
-singapore-ra.net.nokia.com
 sinlacap.net.nokia.com
 sinon.cutlass.nokia.com
 sinwar.net.nokia.com
@@ -11924,6 +11796,7 @@ sitech-inetrtr01.ext.nokia.com
 sitech-inetsw01.ext.nokia.com
 sitech-inetsw02.ext.nokia.com
 sitetrack.net.nokia.com
+sits-support.ext.net.nokia.com
 siuap005.ext.nokia.com
 siuap006.ext.nokia.com
 siuap007.ext.nokia.com
@@ -11969,6 +11842,7 @@ smp-926ksj.penne.us1.software.nokia.com
 smp-926ksj.pesto.us.software.nokia.com
 smp.pesto.us.software.nokia.com
 smp.saas.nokia.com
+smp001-13.americas.nokia.com
 smprx01x.ext.nokia.com
 smr.discussions.europe.nokia.com
 smsgw.net.nokia.com
@@ -12032,12 +11906,14 @@ smtp1-33.nmg.nokia.com
 smtp1-33.qa.nmg.nokia.com
 smtp1-34.nmg.nokia.com
 smtp1-34.qa.nmg.nokia.com
+smtp1-35.nmg.nokia.com
 smtp1-35.qa.nmg.nokia.com
 smtp1-36.nmg.nokia.com
 smtp1-36.qa.nmg.nokia.com
 smtp1-37.nmg.nokia.com
 smtp1-37.qa.nmg.nokia.com
 smtp1-38.nmg.nokia.com
+smtp1-38.qa.nmg.nokia.com
 smtp1-39.nmg.nokia.com
 smtp1-39.qa.nmg.nokia.com
 smtp1-4.nmg.nokia.com
@@ -12046,6 +11922,7 @@ smtp1-40.nmg.nokia.com
 smtp1-40.qa.nmg.nokia.com
 smtp1-41.nmg.nokia.com
 smtp1-41.qa.nmg.nokia.com
+smtp1-42.nmg.nokia.com
 smtp1-42.qa.nmg.nokia.com
 smtp1-43.nmg.nokia.com
 smtp1-43.qa.nmg.nokia.com
@@ -12079,6 +11956,7 @@ smtp1-58.qa.nmg.nokia.com
 smtp1-59.nmg.nokia.com
 smtp1-59.qa.nmg.nokia.com
 smtp1-6.nmg.nokia.com
+smtp1-6.qa.nmg.nokia.com
 smtp1-60.nmg.nokia.com
 smtp1-60.qa.nmg.nokia.com
 smtp1-61.nmg.nokia.com
@@ -12087,6 +11965,7 @@ smtp1-62.nmg.nokia.com
 smtp1-62.qa.nmg.nokia.com
 smtp1-63.qa.nmg.nokia.com
 smtp1-64.nmg.nokia.com
+smtp1-64.qa.nmg.nokia.com
 smtp1-7.nmg.nokia.com
 smtp1-7.qa.nmg.nokia.com
 smtp1-8.nmg.nokia.com
@@ -12110,7 +11989,6 @@ smtp2-14.qa.nmg.nokia.com
 smtp2-15.nmg.nokia.com
 smtp2-15.qa.nmg.nokia.com
 smtp2-16.nmg.nokia.com
-smtp2-16.qa.nmg.nokia.com
 smtp2-17.nmg.nokia.com
 smtp2-18.nmg.nokia.com
 smtp2-18.qa.nmg.nokia.com
@@ -12125,6 +12003,7 @@ smtp2-22.qa.nmg.nokia.com
 smtp2-23.nmg.nokia.com
 smtp2-23.qa.nmg.nokia.com
 smtp2-24.nmg.nokia.com
+smtp2-24.qa.nmg.nokia.com
 smtp2-25.nmg.nokia.com
 smtp2-25.qa.nmg.nokia.com
 smtp2-26.nmg.nokia.com
@@ -12138,6 +12017,7 @@ smtp2-3.nmg.nokia.com
 smtp2-3.qa.nmg.nokia.com
 smtp2-30.nmg.nokia.com
 smtp2-30.qa.nmg.nokia.com
+smtp2-31.nmg.nokia.com
 smtp2-31.qa.nmg.nokia.com
 smtp2-32.qa.nmg.nokia.com
 smtp2-33.nmg.nokia.com
@@ -12172,6 +12052,7 @@ smtp2-5.nmg.nokia.com
 smtp2-5.qa.nmg.nokia.com
 smtp2-50.nmg.nokia.com
 smtp2-50.qa.nmg.nokia.com
+smtp2-51.nmg.nokia.com
 smtp2-51.qa.nmg.nokia.com
 smtp2-52.nmg.nokia.com
 smtp2-52.qa.nmg.nokia.com
@@ -12179,6 +12060,7 @@ smtp2-53.nmg.nokia.com
 smtp2-53.qa.nmg.nokia.com
 smtp2-54.nmg.nokia.com
 smtp2-54.qa.nmg.nokia.com
+smtp2-55.nmg.nokia.com
 smtp2-55.qa.nmg.nokia.com
 smtp2-56.nmg.nokia.com
 smtp2-56.qa.nmg.nokia.com
@@ -12186,6 +12068,7 @@ smtp2-57.nmg.nokia.com
 smtp2-57.qa.nmg.nokia.com
 smtp2-58.nmg.nokia.com
 smtp2-58.qa.nmg.nokia.com
+smtp2-59.nmg.nokia.com
 smtp2-59.qa.nmg.nokia.com
 smtp2-6.nmg.nokia.com
 smtp2-6.qa.nmg.nokia.com
@@ -12210,7 +12093,6 @@ smtp3-10.nmg.nokia.com
 smtp3-11.nmg.nokia.com
 smtp3-12.nmg.nokia.com
 smtp3-13.nmg.nokia.com
-smtp3-14.nmg.nokia.com
 smtp3-15.nmg.nokia.com
 smtp3-16.nmg.nokia.com
 smtp3-17.nmg.nokia.com
@@ -12232,6 +12114,7 @@ smtp3-32.nmg.nokia.com
 smtp3-33.nmg.nokia.com
 smtp3-34.nmg.nokia.com
 smtp3-35.nmg.nokia.com
+smtp3-36.nmg.nokia.com
 smtp3-37.nmg.nokia.com
 smtp3-38.nmg.nokia.com
 smtp3-39.nmg.nokia.com
@@ -12243,9 +12126,11 @@ smtp3-43.nmg.nokia.com
 smtp3-45.nmg.nokia.com
 smtp3-46.nmg.nokia.com
 smtp3-47.nmg.nokia.com
+smtp3-49.nmg.nokia.com
 smtp3-5.nmg.nokia.com
 smtp3-52.nmg.nokia.com
 smtp3-53.nmg.nokia.com
+smtp3-54.nmg.nokia.com
 smtp3-55.nmg.nokia.com
 smtp3-56.nmg.nokia.com
 smtp3-57.nmg.nokia.com
@@ -12256,8 +12141,11 @@ smtp3-61.nmg.nokia.com
 smtp3-62.nmg.nokia.com
 smtp3-63.nmg.nokia.com
 smtp3-64.nmg.nokia.com
+smtp3-7.nmg.nokia.com
+smtp3-9.nmg.nokia.com
 sn-outgoing1.sc6.messaging.nokia.com
 sn.ic101.bom.messaging.nokia.com
+sn.mc101.atl.messaging.nokia.com
 sn.mc201.atl.messaging.nokia.com
 sn.stg.mc101.atl.messaging.nokia.com
 sn.tenant601.ovi.messaging.nokia.com
@@ -12280,9 +12168,11 @@ socialcast.nokia.com
 socialcastqa.int.nokia.com
 socializer.nokia.com
 socialnews.nokia.com
+socks01.nokia.com
 soda.nokia.com
 softwarekeys.nokia.com
 softwaremarket.nokia.com
+solution.hubopt.isa.iot.nokia.com
 solutions.health.nokia.com
 sonarqube-qa2.int.net.nokia.com
 sonarqube.int.net.nokia.com
@@ -12292,12 +12182,11 @@ source.int.nokia.com
 source.nokia.com
 spapp1.spapps.nokia.com
 spapp2.spapps.nokia.com
-spapp3.spapps-qa.nokia.com
 spapp3.spapps.nokia.com
-spcc-it.nokia.com
 spcc-v72-it.nokia.com
 spearheadfeedback.nokia.com
 specs.ext.nokia.com
+sportalauth-dev.ext.net.nokia.com
 sportalauth-qa.ext.net.nokia.com
 sportalauth.ext.net.nokia.com
 sportstracker.nokia.com
@@ -12307,7 +12196,6 @@ sps-phase1-2.wing.nokia.com
 srm-p47.int.net.nokia.com
 srnmsa.ext.net.nokia.com
 srutqa.europe.nokia.com
-srv1.ext.nokia.com
 srvjira.ext.net.nokia.com
 srvjira.int.net.nokia.com
 ssa.europe.nokia.com
@@ -12325,7 +12213,6 @@ sso-lat.int.net.nokia.com
 sso-webdav-test.myrealestate.ext.nokia.com
 sso-webdav-training.myrealestate.ext.nokia.com
 sso-webdav.myrealestate.ext.nokia.com
-sso.brandbook.nokia.com
 sso.developer.nokia.com
 sso.forum.nokia.com
 sso.nokia.com
@@ -12419,16 +12306,17 @@ stage4-publish.networks.nokia.com
 stage4-www.networks.nokia.com
 stage5-www.networks.nokia.com
 staging-alerts.nokia.com
+staging-aslm.app.nokia.com
 staging-aslm.nokia.com
 staging-infocenter.nokia.com
 staging-infoproducts.nokia.com
 staging-mika.nokia.com
 staging-softwarekeys.nokia.com
 staging-wireless.nokia.com
+staging.admin.learn.nokia.com
 staging.api.learn.nokia.com
 staging.dac.nokia.com
 staging.deb.dev.software.nokia.com
-staging.digital-assistant.nokia.com
 staging.elk.digital-assistant.nokia.com
 staging.juniper.nokia.com
 staging.learn.nokia.com
@@ -12508,8 +12396,10 @@ supl.nokia.com
 supl.pos-ipv6.nlp.nokia.com
 supl.pos.nlp.nokia.com
 suplier.nokia.com
+supplier-ned-portal.net.nokia.com
 supplier-neq-portal.net.nokia.com
 supplier-nes-portal.int.net.nokia.com
+supplier-portal.net.nokia.com
 supplier.networks.nokia.com
 supplier.nokia.com
 supplychain.nokia.com
@@ -12532,6 +12422,7 @@ supportforum.networks.nokia.com
 svcuatint.us.nokia.com
 svl.int.nokia.com
 svn.fit.nokia.com
+svne1.ext.net.nokia.com
 svne1.isource-nokia.nokia.com
 svne2.ext.net.nokia.com
 sw.nokia.com
@@ -12566,10 +12457,12 @@ swlk2.ext.nokia.com
 swmanagement.nokia.com
 swmcollaboration.int.net.nokia.com
 swmcollaborationqa.int.net.nokia.com
+swpdbx01.ntc.nokia.com
 swpdbx02.ntc.nokia.com
 swpomc01.ntc.nokia.com
 swpomc51.ext.nokia.com
 swreuse.app.nokia.com
+swspde17ou.ntc.nokia.com
 swtrade.online.nokia.com
 swtt.update.nokia.com
 swupd.wifi.nokia.com
@@ -12583,6 +12476,7 @@ syncmp.it.nokia.com
 syncmp2.it.nokia.com
 szilla-old.nokia.com
 szilla.nokia.com
+szillaqa-old.nokia.com
 t.nokia.com
 tableau-idat-tool-dev.int.net.nokia.com
 tableau-idat-tool.int.net.nokia.com
@@ -12629,6 +12523,7 @@ temp-rmscert-noe.nokia.com
 temp-search.knowledge.nokia.com
 temp-wellness.nokia.com
 temp-www.connecting.apac.nokia.com
+temp.devicknowledge.online.nokia.com
 temp.devimkm.online.nokia.com
 temp.devimknowledge.online.nokia.com
 temp.nokiacafe.online.nokia.com
@@ -12660,6 +12555,7 @@ test219.nsd.nokia.com
 test3.cms.qa.nokia.com
 test3.qa.nokia.com
 test4.cms.qa.nokia.com
+test5.cms.qa.nokia.com
 test5.qa.nokia.com
 test81.nsd.nokia.com
 testaus.nokia.com
@@ -12711,6 +12607,7 @@ tnmv02.ntc.nokia.com
 tnso15.ntc.nokia.com
 tnso16.ntc.nokia.com
 tnso17.ntc.nokia.com
+tnso18.ntc.nokia.com
 tnso19.ntc.nokia.com
 tntst1.ntc.nokia.com
 tntst2.ntc.nokia.com
@@ -12794,6 +12691,7 @@ tw.ncomit.nokia.com
 tw.ncomit.train.nokia.com
 tw.ncomitsecure.nokia.com
 tw.ncomprodsecure.nokia.com
+tw.ncomqasecure.nokia.com
 tw.qa.shop.nokia.com
 tw.qa.shop.web.nokia.com
 tw.sit.shop.nokia.com
@@ -12811,6 +12709,8 @@ ua.ncomprodsecure.nokia.com
 ua.ncomqa.nokia.com
 ua.ncomqasecure.nokia.com
 ua.qa.shop.nokia.com
+ua.qa.shop.web.nokia.com
+ua.sit.shop.nokia.com
 ua.sit2.shop.nokia.com
 uat-at.trade.online.nokia.com
 uat-ch.trade.online.nokia.com
@@ -12845,6 +12745,7 @@ ucmdsslc.190.nokia.com
 ucmdsslc.192.nokia.com
 ucmdsslc.193.nokia.com
 uco-pwgw.nokia.com
+uco-uag.nokia.com
 ui.demo.isa.iot.nokia.com
 ui.dev.isa.iot.nokia.com
 ui.ioteu.saas.nokia.com
@@ -12915,9 +12816,11 @@ us-west-2.stg.data.nokia.com
 us-west-2.stg.location.nokia.com
 us.mobileshop.nokia.com
 us.nwcc.nokia.com
+us.qa.nokia.com
 us70uukbp003.dmz.nokia.com
 us70uukbp004.dmz.nokia.com
 usa-ca.net.nokia.com
+usa-ra.net.nokia.com
 usa.nokia.com
 usabilityqa.trade.online.nokia.com
 uscs.networks.nokia.com
@@ -13012,6 +12915,7 @@ vacamppvip13.ext.nokia.com
 vacamppvip14.ext.nokia.com
 vacamppvip15.ext.nokia.com
 vacampq10.ext.nokia.com
+vacampq14.ext.nokia.com
 vacampq15.ext.nokia.com
 vacampq16.ext.nokia.com
 vacampq17.ext.nokia.com
@@ -13035,6 +12939,7 @@ vacpp09-n2.ext.nokia.com
 vacpp09.ext.nokia.com
 vacpp10.ext.nokia.com
 vacpp11.ext.nokia.com
+vacpp12.ext.nokia.com
 vacpt01.ext.nokia.com
 vacpt02.ext.nokia.com
 vacvp-61.ext.nokia.com
@@ -13087,6 +12992,7 @@ vacwpvip14.ext.nokia.com
 vacwpvip15.ext.nokia.com
 vadaveq01.ext.nokia.com
 vadc-c17-lb.ext.nokia.com
+vadc-c17-lb1.ext.nokia.com
 vadc-c17-nat.ext.nokia.com
 vadc-c17-vl1711-lb.ext.nokia.com
 vadc-c17-vl1711-lb1.ext.nokia.com
@@ -13126,6 +13032,7 @@ vadc-c25-vl2541-fw2.ext.nokia.com
 vadc-c27-lb.ext.nokia.com
 vadc-c27-lb1.ext.nokia.com
 vadc-c27-lb2.ext.nokia.com
+vadc-c27-vl2711-lb.ext.nokia.com
 vadc-c27-vl2711-lb2.ext.nokia.com
 vadc-c27-vl2741-fw1.ext.nokia.com
 vadc-c29-lb.ext.nokia.com
@@ -13145,6 +13052,7 @@ vadpctest.ext.nokia.com
 vadqptsinsp01.ext.nokia.com
 vadqptsinsq01.ext.nokia.com
 vadqptsinst01.ext.nokia.com
+vadwiisp001.ext.nokia.com
 vaebe151.ext.nokia.com
 vaebe152.ext.nokia.com
 vaechpapp001.ext.nokia.com
@@ -13162,6 +13070,7 @@ vaftapxtrd01.ext.nokia.com
 vagen003.ext.nokia.com
 vagen004.ext.nokia.com
 vagen010.ext.nokia.com
+vagen011.ext.nokia.com
 vagen012.ext.nokia.com
 vagen013.ext.nokia.com
 vagen014.ext.nokia.com
@@ -13177,13 +13086,16 @@ vagfcapq004.ext.nokia.com
 vagfcapq007.ext.nokia.com
 vagfcapq009.ext.nokia.com
 vagfcapq012.ext.nokia.com
+vagfcwpp001.ext.nokia.com
 vagfcwpp002.ext.nokia.com
 vagfcwpp005.ext.nokia.com
 vagfcwpp006.ext.nokia.com
+vagfcwpp008.ext.nokia.com
 vagfcwpp009.ext.nokia.com
 vagfcwpp013.ext.nokia.com
 vagfcwpp014.ext.nokia.com
 vagfcwpp017.ext.nokia.com
+vagfcwpp103.ext.nokia.com
 vagfcwpq001.ext.nokia.com
 vagfcwpq003.ext.nokia.com
 vagfcwpq006.ext.nokia.com
@@ -13191,6 +13103,7 @@ vagfcwpq007.ext.nokia.com
 vagfcwpq008.ext.nokia.com
 vagfcwpq010.ext.nokia.com
 vagfcwpq015.ext.nokia.com
+vagfcwpq016.ext.nokia.com
 vagfcwpq017.ext.nokia.com
 vagfcwpq018.ext.nokia.com
 vagfcwpq019.ext.nokia.com
@@ -13200,14 +13113,17 @@ vaima-lb.ext.nokia.com
 vaimm001.ext.nokia.com
 vaimm002.ext.nokia.com
 vaimm003.ext.nokia.com
+vaimm200.ext.nokia.com
 vaimm300.ext.nokia.com
 vainto001.ext.nokia.com
 vainto009.ext.nokia.com
 vainto009b.ext.nokia.com
 vainto009c.ext.nokia.com
+vaisa000.ext.nokia.com
 vaisa001.ext.nokia.com
 vaisa001int.ext.nokia.com
 vaisa002int.ext.nokia.com
+vaisa003.ext.nokia.com
 vaisg001.ext.nokia.com
 vaisg002.ext.nokia.com
 vaisg003.ext.nokia.com
@@ -13225,10 +13141,12 @@ vamdmp01.ext.nokia.com
 vamdmp02.ext.nokia.com
 vamdmq04.ext.nokia.com
 vamdmt01.ext.nokia.com
+vamdmweb.ext.nokia.com
 vamdw002.ext.nokia.com
 vamdw004.ext.nokia.com
 vamdw004.nokia.com
 vamdw005.ext.nokia.com
+vamdw008.ext.nokia.com
 vamdw009.ext.nokia.com
 vamdw012.ext.nokia.com
 vamdw015.ext.nokia.com
@@ -13259,6 +13177,7 @@ vanilla-qa.fastrac.nokia.com
 vanilla-trg.fastrac.nokia.com
 vanilla.fastrac4.nokia.com
 vanltp01.nokia.com
+vanpsp01.ext.nokia.com
 vanpsq01.ext.nokia.com
 vanscp01.nokia.com
 vanscp02.nokia.com
@@ -13287,6 +13206,8 @@ vaprmt03.ext.nokia.com
 vapwc101.nokia.com
 vaqasccm-2.ext.nokia.com
 vaqasccm.ext.nokia.com
+vaqcl001-n1.ext.nokia.com
+vaqcl001-n2.ext.nokia.com
 vaqcl001-s1.ext.nokia.com
 vaqcl001-s2.ext.nokia.com
 vaqcl001.ext.nokia.com
@@ -13324,6 +13245,7 @@ vascprwd001.ext.nokia.com
 vascprwp001.ext.nokia.com
 vasgn001.nokia.com
 vasgn002.nokia.com
+vasgn004.ext.nokia.com
 vasgnq000.ext.nokia.com
 vasim001.ext.nokia.com
 vasim003.ext.nokia.com
@@ -13347,6 +13269,7 @@ vasp002.ext.nokia.com
 vasps002.ext.nokia.com
 vasps003.ext.nokia.com
 vatcc001.ext.nokia.com
+vaticwapp02.ext.nokia.com
 vaticwapp03.ext.nokia.com
 vaticwapp04.ext.nokia.com
 vaticwapp05.ext.nokia.com
@@ -13406,6 +13329,7 @@ vatmp06.ext.nokia.com
 vault.nokia.com
 vavrvp01.ext.nokia.com
 vawapp001.ext.nokia.com
+vawapp002.ext.nokia.com
 vawapp003.ext.nokia.com
 vawapp004.ext.nokia.com
 vawapp021.ext.nokia.com
@@ -13418,6 +13342,7 @@ vawapp031.ext.nokia.com
 vawapp033.ext.nokia.com
 vawapp034.ext.nokia.com
 vawapp035.ext.nokia.com
+vawapp036.nokia.com
 vawapp037.nokia.com
 vawapp039.nokia.com
 vawapp041.ext.nokia.com
@@ -13445,6 +13370,7 @@ vc-inet-rtr.ext.nokia.com
 vc-wlbrtr01.americas.nokia.com
 vcprx01.ext.nokia.com
 ve.dev2.shop.nokia.com
+ve.dev3.shop.nokia.com
 ve.ncomit.create.nokia.com
 ve.ncomit.nokia.com
 ve.ncomit.train.nokia.com
@@ -13499,6 +13425,7 @@ voip.ccs.nokia.com
 voip.ccs.stg.nokia.com
 voipxmpp01.ext.nokia.com
 voronezh.gdc.int.net.nokia.com
+voronezh.gdc.nokia.com
 voucher-c.store.nokia.com
 voucher.store.nokia.com
 vpn.fit.nokia.com
@@ -13581,6 +13508,7 @@ warsaw-lab.net.nokia.com
 waserver-nokialife.nokia.com
 waterevents.iot.nokia.com
 wavelite-selector.networks.nokia.com
+wb1.ocsweb.nokia.com
 wc1.ocsweb.nokia.com
 wcdev.ext.net.nokia.com
 wcqa.ext.net.nokia.com
@@ -13589,6 +13517,7 @@ wdssfw01.ntc.nokia.com
 wdssfwauth.ntc.nokia.com
 web.coreportal-qa.developer.nokia.com
 web.developer.nokia.com
+web.europe.nokia.com
 web.events.nokia.com
 web.i.mqa.nokia.com
 web.i.msit.nokia.com
@@ -13621,6 +13550,7 @@ weblink.nokia.com
 weblogic-iip-email.ext.nokia.com
 weblogic-iip-email2.ext.nokia.com
 weblogic-iip01.ext.nokia.com
+weblogic-iip01qa.ext.nokia.com
 weblogic-iip02.ext.nokia.com
 weblogic-iip02qa.ext.nokia.com
 weblogic-iip03.ext.nokia.com
@@ -13644,6 +13574,7 @@ webutil.support.nokia.com
 wellmate.di.nokia.com
 wellmate.si.nokia.com
 wellness.nokia.com
+wellness.qa.nokia.com
 wep.iot.nokia.com
 wepdemo.iot.nokia.com
 wepdemo.rd.iot.nokia.com
@@ -13678,6 +13609,7 @@ wifihub.nokia.com
 wiki.fit.nokia.com
 wiki.forum.nokia.com
 wiki.nokia.com
+wikiovi.ext.nokia.com
 wikiovi.nokia.com
 wikis.ext.nokia.com
 wikis.extranet.nokia.com
@@ -13689,6 +13621,7 @@ wing.nokia.com
 wireless.support.nokia.com
 wl-iip-email1.ext.nokia.com
 wl-iip-email11.ext.nokia.com
+wl-iip-email12.ext.nokia.com
 wl-iip-email2.ext.nokia.com
 wl-iip-training11.ext.nokia.com
 wl-iip-training12.ext.nokia.com
@@ -13728,6 +13661,7 @@ wrscmi.int.net.nokia.com
 ws-src-wr-01.mh.nokia.com
 ws.dev.mfmrfid.nokia.com
 ws.mfmrfid.nokia.com
+ws.qa.europe.fox.nokia.com
 ws.update.nokia.com
 ws100.nokia.com
 ws101.nokia.com
@@ -13811,6 +13745,7 @@ www.caresuite-it.nokia.com
 www.caresuite-qa.nokia.com
 www.caresuite.nokia.com
 www.caresw.update.nokia.com
+www.catalogreg.nokia.com
 www.change.nokia.com
 www.changeit.nokia.com
 www.chennai-lab.ext.net.nokia.com
@@ -13818,6 +13753,7 @@ www.cia.nokia.com
 www.club.nokia.com
 www.cmd.nokia.com
 www.collaboration.nokia.com
+www.company.nokia.com
 www.connecting-qax.nokia.com
 www.connecting.americas.nokia.com
 www.connecting.nokia.com
@@ -13842,6 +13778,7 @@ www.dsut-it2.online.nokia.com
 www.dsut-qa.online.nokia.com
 www.dsut.online.nokia.com
 www.dummycaresuite-qa.nokia.com
+www.dummyfireext-qa.online.nokia.com
 www.dummyposti-qa.nokia.com
 www.dummyposti.nokia.com
 www.eduaesqa.ext.net.nokia.com
@@ -13857,6 +13794,7 @@ www.farsi.nokia.com
 www.fastrac-dev.nokia.com
 www.fastrac-qa.nokia.com
 www.fastrac-trg.nokia.com
+www.fastrac.nokia.com
 www.fastrac4.nokia.com
 www.fear.nokia.com
 www.fi-se-dk.mobileshop.nokia.com
@@ -13876,6 +13814,7 @@ www.fireintcache-it2.nokia.com
 www.fireintcache-qa.nokia.com
 www.fireintcache.nokia.com
 www.firett-it.online.nokia.com
+www.firett-qa.online.nokia.com
 www.firett.online.nokia.com
 www.fit.nokia.com
 www.flagship.nokia.com
@@ -13984,6 +13923,7 @@ www.st-nmsupport.hosting.nokia.com
 www.stage24.suw.hosting.nokia.com
 www.stage25.suw.hosting.nokia.com
 www.store.businesssoftware.nokia.com
+www.supplychain.nokia.com
 www.support.ozo.nokia.com
 www.szilla.nokia.com
 www.t.nokia.com
@@ -14029,6 +13969,8 @@ xbectx01.ext.nokia.com
 xbectx02.ext.nokia.com
 xbecvaq11.china.nokia.com
 xbecvcp01.china.nokia.com
+xbecvcp02.china.nokia.com
+xbecvcp03.china.nokia.com
 xbecvcq01.china.nokia.com
 xbecvcq02.china.nokia.com
 xbedcm01.china.nokia.com
@@ -14066,6 +14008,7 @@ xbescrum01.ext.nokia.com
 xbescrum02.ext.nokia.com
 xbescrum03.ext.nokia.com
 xbesdcm02.ext.nokia.com
+xbesmb01.ext.nokia.com
 xbesmb02.ext.nokia.com
 xbeswl01.ext.nokia.com
 xbeswl02.ext.nokia.com
@@ -14086,6 +14029,7 @@ xbeswl25.ext.nokia.com
 xbeswl26.ext.nokia.com
 xbeui001.ext.nokia.com
 xbewapp001.ext.nokia.com
+xbewapp002.ext.nokia.com
 xbewapp008.ext.nokia.com
 xbewapp010.ext.nokia.com
 xbewapp011.ext.nokia.com
@@ -14147,6 +14091,7 @@ xdaladm01.ext.nokia.com
 xdaleedir01.ext.nokia.com
 xdaleod006.ext.nokia.com
 xdalns01x.ext.nokia.com
+xdalns02x.ext.nokia.com
 xdanet01.ext.nokia.com
 xdanfs03.ext.nokia.com
 xdanfs04.ext.nokia.com
@@ -14166,6 +14111,7 @@ xdassp001.ext.nokia.com
 xdawapp006.ext.nokia.com
 xdawapp008.ext.nokia.com
 xdawapp009.ext.nokia.com
+xdawapp011.ext.nokia.com
 xdawapp012.ext.nokia.com
 xdawapp015.ext.nokia.com
 xdawapp018.ext.nokia.com.ext.nokia.com
@@ -14175,10 +14121,12 @@ xdawapp025.ext.nokia.com
 xdawappxxx.ext.nokia.com
 xdcil.gtacmn34253.americas.nokia.com
 xdeliveryquality.nokia.com
+xdev.accntmgmt.b2bcrm.nokia.com
 xdev.amtana.b2bcrm.nokia.com
 xdev.amtremote.b2bcrm.nokia.com
 xdev.cccp.ext.nokia.com
 xdirdb.ext.nokia.com
+xdmdev.in.nokia.com
 xecs-prs.rapport.saas.nokia.com
 xecs.rapport.saas.nokia.com
 xes-salne01m.ext.nokia.com
@@ -14189,6 +14137,7 @@ xesapp031.ext.nokia.com
 xesapp032.ext.nokia.com
 xesapp043.ext.nokia.com
 xesapp044.ext.nokia.com
+xesccc001-s1.ext.nokia.com
 xesccc001-s2.ext.nokia.com
 xesccc001-s3.ext.nokia.com
 xesccc001-s4.ext.nokia.com
@@ -14213,17 +14162,21 @@ xeseew005.ext.nokia.com
 xesefe100.ext.nokia.com
 xesefe102.ext.nokia.com
 xeselet001.ext.nokia.com
+xeshrt02.ext.nokia.com
 xeshrt03.ext.nokia.com
 xesife001.ext.nokia.com
+xesife001.nokia.com
 xesinf01.ext.nokia.com
 xesiop001.ext.nokia.com
 xesipo005.ext.nokia.com
 xesis002.ext.nokia.com
+xesis013.ext.nokia.com
 xesiso001.ext.nokia.com
 xesiso005.ext.nokia.com
 xesiso010.ext.nokia.com
 xesiso011.ext.nokia.com
 xesiso012.ext.nokia.com
+xesiso016.ext.nokia.com
 xesiso018.ext.nokia.com
 xesiso019.ext.nokia.com
 xesiso024.ext.nokia.com
@@ -14235,6 +14188,7 @@ xesiso036.ext.nokia.com
 xesiso040.ext.nokia.com
 xesiso041.ext.nokia.com
 xesiso043.ext.nokia.com
+xesitv008lab.nokia.com
 xesitv093lab.nokia.com
 xesitv163lab.nokia.com
 xesitv277lab.nokia.com
@@ -14272,7 +14226,9 @@ xesrmt001-n2.ext.nokia.com
 xesrmt001.ext.nokia.com
 xesrmt002.ext.nokia.com
 xesrmt003.ext.nokia.com
+xesrmtool01.ext.nokia.com
 xesrmtool01a.ext.nokia.com
+xesrmtweb.ext.nokia.com
 xessorwah01.ext.nokia.com
 xessorxdmp01.ext.nokia.com
 xessql012.ext.nokia.com
@@ -14291,11 +14247,14 @@ xesuap002.ext.nokia.com
 xesuap005.ext.nokia.com
 xeswap017.ext.nokia.com
 xeswapp014.ext.nokia.com
+xeswapp016.ext.nokia.com
 xeswapp017.ext.nokia.com
 xeswapp020.ext.nokia.com
+xeswapp021.ext.nokia.com
 xeswapp023.ext.nokia.com
 xeswapp026.ext.nokia.com
 xeswapp027.ext.nokia.com
+xeswapp028.ext.nokia.com
 xeswapp029.ext.nokia.com
 xeswapp039.ext.nokia.com
 xeswapp040.ext.nokia.com
@@ -14305,6 +14264,7 @@ xeswapp043.ext.nokia.com
 xeswapp044.ext.nokia.com
 xeswapp049.ext.nokia.com
 xeswapp050.ext.nokia.com
+xeswapp056.ext.nokia.com
 xeswapp062.ext.nokia.com
 xeswapp074.ext.nokia.com
 xeswapp075.ext.nokia.com
@@ -14322,6 +14282,7 @@ xeswdc101.ext.nokia.com
 xeswdc102.ext.nokia.com
 xeswebrtm001.ext.nokia.com
 xeswits009.ext.nokia.com
+xeswits010-rm.ext.nokia.com
 xeswits010.ext.nokia.com
 xeswits011.ext.nokia.com
 xeswits012-rm.ext.nokia.com
@@ -14339,6 +14300,7 @@ ximpactidc.saas.nokia.com
 ximpactmsm.saas.nokia.com
 xit.accntmgmt.b2bcrm.nokia.com
 xit.amtana.b2bcrm.nokia.com
+xit.amtremote.b2bcrm.nokia.com
 xlrtm.saas.nokia.com
 xmaple-qa.nokia.com
 xmcdpiii.saas.nokia.com
@@ -14376,6 +14338,7 @@ xnews002.nokia.com
 xouapp001.ext.nokia.com
 xoudoc003x.ext.nokia.com
 xoulmsp001-rm.europe.nokia.com
+xoulmsp002-rm.europe.nokia.com
 xoundd001.ext.nokia.com
 xoupcr003.ext.nokia.com
 xouprx01.ext.nokia.com
@@ -14385,6 +14348,7 @@ xouscm003-rm.ext.nokia.com
 xouscm003.ext.nokia.com
 xouscm004.ext.nokia.com
 xouscm005-rm.ext.nokia.com
+xouscm005.ext.nokia.com
 xouscm007.ext.nokia.com
 xouscm008.ext.nokia.com
 xouscm010.ext.nokia.com
@@ -14400,6 +14364,7 @@ xouwapp009.ext.nokia.com
 xouwapp010.ext.nokia.com
 xouwapp012.ext.nokia.com
 xouwapp014.ext.nokia.com
+xouwapp015.ext.nokia.com
 xouwapp017.ext.nokia.com
 xouwapp019.ext.nokia.com
 xpinet-qa.nokia.com
@@ -14486,9 +14451,11 @@ xsameegoadm01.ext.nokia.com
 xsamsprx01.europe.nokia.com
 xsanet01.ext.nokia.com
 xsanfs01.ext.nokia.com
+xsanfs02.ext.nokia.com
 xsanfs03fe.ext.nokia.com
 xsanfs04.ext.nokia.com
 xsanfs04fe.ext.nokia.com
+xsanfs07.ext.nokia.com
 xsanfs08.ext.nokia.com
 xsanfsv11.ext.nokia.com
 xsanfsv21.ext.nokia.com
@@ -14522,6 +14489,7 @@ xsaprdcbclu001.ext.nokia.com
 xsaprdsh001.ext.nokia.com
 xsaprdsh002.ext.nokia.com
 xsaptsdp003.ext.nokia.com
+xsaqep001.ext.nokia.com
 xsaqnstr2srv001.europe.nokia.com
 xsaqnstr2srv002.europe.nokia.com
 xsareplp01.ext.nokia.com
@@ -14544,6 +14512,7 @@ xsavnfs-meegof06.ext.nokia.com
 xsawapp001.europe.nokia.com
 xsawapp006.nokia.com
 xsawapp011.ext.nokia.com
+xsawapp012.ext.nokia.com
 xsawapp016.nokia.com
 xsawapp020.ext.nokia.com
 xsawapp021.ext.nokia.com
@@ -14566,6 +14535,7 @@ xsawapp064.ext.nokia.com
 xsawapp065.ext.nokia.com
 xsawapp066.ext.nokia.com
 xsawapp070.ext.nokia.com
+xsawapp071.ext.nokia.com
 xsawapp299.ext.nokia.com
 xsawapq001.ext.nokia.com
 xsawhwm01.ext.nokia.com
@@ -14575,6 +14545,7 @@ xsawits001.ext.nokia.com
 xsawits002.nokia.com
 xsawlic001.ext.nokia.com
 xsawlic002.ext.nokia.com
+xsawlic004.ext.nokia.com
 xsawlic005.ext.nokia.com
 xsawlic006.ext.nokia.com
 xsawlic01.ext.nokia.com
@@ -14606,6 +14577,7 @@ xsicapdbo02-m.ext.nokia.com
 xsicastgbo02-m.ext.nokia.com
 xsiccr03nok.ext.nokia.com
 xsiciap001.apac.nokia.com
+xsidoc002-rm.ext.nokia.com
 xsidoc002.ext.nokia.com
 xsidoc003-rm.ext.nokia.com
 xsidoc003.ext.nokia.com
@@ -14625,6 +14597,7 @@ xsinrs001.ext.nokia.com
 xsinrs002.ext.nokia.com
 xsinrsp001.ext.nokia.com
 xsinrsp002.ext.nokia.com
+xsiuap002.ext.nokia.com
 xsiwapp001-rm.ext.nokia.com
 xsiwapp002.ext.nokia.com
 xsiwapp005.ext.nokia.com
@@ -14648,6 +14621,7 @@ xvaapp021.ext.nokia.com
 xvaapp022.ext.nokia.com
 xvaapp023.ext.nokia.com
 xvabop020.ext.nokia.com
+xvabop021.ext.nokia.com
 xvacbo005.nokia.com
 xvacbo006.nokia.com
 xvacbo020.ext.nokia.com
@@ -14666,6 +14640,7 @@ xvacpq004.ext.nokia.com
 xvacpq005.ext.nokia.com
 xvacpq07.ext.nokia.com
 xvacpt03.ext.nokia.com
+xvacptp02.ext.nokia.com
 xvacpwp02.ext.nokia.com
 xvacra001.ext.nokia.com
 xvaechpweb.nokia.com
@@ -14674,11 +14649,13 @@ xvagrp001.ext.nokia.com
 xvagrp002.ext.nokia.com
 xvagrp003.ext.nokia.com
 xvagrp004.ext.nokia.com
+xvagrp005.ext.nokia.com
 xvagrp006.ext.nokia.com
 xvagrp007.ext.nokia.com
 xvagrp009.ext.nokia.com
 xvagrp010.ext.nokia.com
 xvagrp011.ext.nokia.com
+xvagrp012.ext.nokia.com
 xvagrp013.europe.nokia.com
 xvagrp013.ext.nokia.com
 xvaima001.ext.nokia.com
@@ -14687,6 +14664,7 @@ xvaiprp01.ext.nokia.com
 xvaldb001-rm.ext.nokia.com
 xvaldb001.ext.nokia.com
 xvalds009-rm.ext.nokia.com
+xvalds103.ext.nokia.com
 xvalds104.ext.nokia.com
 xvalds105.ext.nokia.com
 xvalds106.ext.nokia.com
@@ -14700,10 +14678,12 @@ xvalds117.ext.nokia.com
 xvalds118.ext.nokia.com
 xvalds119.ext.nokia.com
 xvalds120.ext.nokia.com
+xvalds121.ext.nokia.com
 xvalds122.ext.nokia.com
 xvalms001.ext.nokia.com
 xvalms002.ext.nokia.com
 xvalns001.ext.nokia.com
+xvalns101.ext.nokia.com
 xvalns102.ext.nokia.com
 xvalns104.ext.nokia.com
 xvalns106.ext.nokia.com
@@ -14711,7 +14691,9 @@ xvalns108.ext.nokia.com
 xvalns110.ext.nokia.com
 xvalns111.ext.nokia.com
 xvalns113.ext.nokia.com
+xvalns114.ext.nokia.com
 xvalns116.ext.nokia.com
+xvalns117.ext.nokia.com
 xvalns119.ext.nokia.com
 xvalns120.ext.nokia.com
 xvalns121.ext.nokia.com
@@ -14719,9 +14701,11 @@ xvalns122.ext.nokia.com
 xvalns123.ext.nokia.com
 xvalns126.ext.nokia.com
 xvalns128.ext.nokia.com
+xvalns129.ext.nokia.com
 xvalns130.ext.nokia.com
 xvalns131.ext.nokia.com
 xvalns133.ext.nokia.com
+xvalns134.ext.nokia.com
 xvalns138.ext.nokia.com
 xvamarvd003.ext.nokia.com
 xvamarvp008.ext.nokia.com
@@ -14742,6 +14726,8 @@ xvaqclp001-s2.ext.nokia.com
 xvaqclp001.ext.nokia.com
 xvaqclp005-m1.ext.nokia.com
 xvaqclp005-n1.ext.nokia.com
+xvaqclp005-n2.ext.nokia.com
+xvaqclp005-s1.ext.nokia.com
 xvaqclp005-s2.ext.nokia.com
 xvaqclp005.ext.nokia.com
 xvaqclp006-m2.ext.nokia.com
@@ -14756,6 +14742,7 @@ xvaqclp007-n2.ext.nokia.com
 xvaqclp007-s1.ext.nokia.com
 xvaqclp007.ext.nokia.com
 xvaqpr001.ext.nokia.com
+xvaqpr002.ext.nokia.com
 xvaqpr003.ext.nokia.com
 xvaqvd001.ext.nokia.com
 xvaqvd002.ext.nokia.com
@@ -14770,8 +14757,12 @@ xvaqvs009.ext.nokia.com
 xvaqvs010.ext.nokia.com
 xvaqvs011.ext.nokia.com
 xvaqvs012.ext.nokia.com
+xvaqvs013.ext.nokia.com
 xvaqvs020.ext.nokia.com
+xvaqvv001.ext.nokia.com
+xvaqvv002.ext.nokia.com
 xvaqvv003.ext.nokia.com
+xvarivp1web100.ext.nokia.com
 xvarivp1web101.ext.nokia.com
 xvarmr001.ext.nokia.com
 xvarsc001.ext.nokia.com
@@ -14818,6 +14809,7 @@ xvawapp050.ext.nokia.com
 xvawapp051.ext.nokia.com
 xvawapp052.ext.nokia.com
 xvawapp053.ext.nokia.com
+xvawapp055.ext.nokia.com
 xvawapp057.ext.nokia.com
 xvawapp061.ext.nokia.com
 xvawapp065.ext.nokia.com
@@ -14828,6 +14820,7 @@ xvawapp069.ext.nokia.com
 xvawapp070.ext.nokia.com
 xvawapp078.ext.nokia.com
 xvawapp079.ext.nokia.com
+xvawapp080.ext.nokia.com
 xvawapp081.ext.nokia.com
 xvawapp084.ext.nokia.com
 xvawapp085.ext.nokia.com
@@ -14840,6 +14833,7 @@ xvawapp116.ext.nokia.com
 xvawapq003.ext.nokia.com
 xvawapq005.ext.nokia.com
 xvawits003.ext.nokia.com
+xvawits004.ext.nokia.com
 xvawits009.ext.nokia.com
 xvawits010.ext.nokia.com
 xvawits015.ext.nokia.com
@@ -14849,9 +14843,12 @@ xvawits019.ext.nokia.com
 xvawits020.ext.nokia.com
 xvawits021.ext.nokia.com
 xvawits022.ext.nokia.com
+xvawits023.ext.nokia.com
 xvawits024.ext.nokia.com
+xvawits025.ext.nokia.com
 xvawits026.ext.nokia.com
 xvawits027.ext.nokia.com
+xvawits028.ext.nokia.com
 xvawits029.ext.nokia.com
 xvawits030.ext.nokia.com
 xvawits031.ext.nokia.com
@@ -14877,6 +14874,7 @@ xxeswapp015.nokia.com
 xxeswapp016.nokia.com
 xxeswapp017.nokia.com
 xxeswapp047.nokia.com
+xxvawapp008.nokia.com
 yesmdm001.ext.nokia.com
 yesmdm002.ext.nokia.com
 yesmdm003.ext.nokia.com

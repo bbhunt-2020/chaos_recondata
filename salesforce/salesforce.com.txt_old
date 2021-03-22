@@ -1152,7 +1152,6 @@ cs19000.my.salesforce.com
 cs191.my.salesforce.com
 cs193-ia4.ia4.r.salesforce.com
 cs194-ia5.ia5.r.my.salesforce.com
-cs197.my.salesforce.com
 cs199.my.salesforce.com
 cs2-api-asg.g.salesforce.com
 cs2-api-asg.salesforce.com
@@ -3210,6 +3209,7 @@ dcl1-ncg1-c6-iad5.cs201-ia5.salesforce.com
 dcl1-ncg1-c6-iad5.cs202-ia5.salesforce.com
 dcl1-ncg1-c6-iad5.cs59-ia5.my.salesforce.com
 dcl1-ncg1-c6-iad5.cs60-ia5.salesforce.com
+dcl1-ncg1-c6-iad5.cs63-ia5.my.salesforce.com
 dcl1-ncg1-c6-iad5.na118-ia5.my.salesforce.com
 dcl1-ncg1-c6-iad5.na118-ia5.salesforce.com
 dcl1-ncg1-c6-iad5.na121-ia5.my.salesforce.com
@@ -3443,6 +3443,7 @@ dcl10-ncg0-phx3.na104-ph2.salesforce.com
 dcl10-ncg0-phx3.na105-ph2.my.salesforce.com
 dcl10-ncg0-phx3.na109-ph2.my.salesforce.com
 dcl10-ncg0-phx3.na109-ph2.salesforce.com
+dcl10-ncg0-phx3.na110-ph2.my.salesforce.com
 dcl10-ncg0-phx3.na113-ph2.my.salesforce.com
 dcl10-ncg0-phx3.na114-ph2.salesforce.com
 dcl10-ncg0-phx3.na116-ph2.salesforce.com
@@ -8440,7 +8441,6 @@ globalplatform--crmstage.cs61.my.salesforce.com
 globalvf.my.salesforce.com
 goosehead.my.salesforce.com
 goto.my.salesforce.com
-govnavigator.salesforce.com
 graco.my.salesforce.com
 grafana.internal.salesforce.com
 grainger--qa.cs24.my.salesforce.com
