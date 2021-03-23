@@ -940,6 +940,7 @@ dns2antivirus.api.opsgeni.us
 dnses-cluster.api.opsgeni.us
 docker.app.opsgeni.us
 docker.mobileapp.opsgeni.us
+docs-test-staging.opsgeni.us
 docs-test.opsgeni.us
 dogfood-dev.app.opsgeni.us
 dogfood-dev.mobileapp.opsgeni.us

@@ -11,6 +11,7 @@ ads-static.brave.com
 ads-v2.brave.com
 ads.aws-internal.brave.com
 ads.brave.com
+alb.search.brave.com
 alertmanager.brave.com
 analytics.brave.com
 api.rewards.aws-internal.brave.com
@@ -47,6 +48,7 @@ creators-staging.brave.com
 creators.brave.com
 crlsets.brave.com
 crxdownload.brave.com
+dev-alb.search.brave.com
 devtools.brave.com
 download.brave.com
 email.payments.brave.com
@@ -56,6 +58,7 @@ eyeshade-staging.brave.com
 eyeshade.brave.com
 eyeson.kibana.eshade-staging.brave.com
 faq-bot.brave.com
+favicons-alb.search.brave.com
 favicons.brave.com
 favicons.search.brave.com
 funding.brave.com
@@ -66,6 +69,7 @@ grafana.brave.com
 grant.rewards.brave.com
 gs-us-test.brave.com
 https-everywhere.s3.brave.com
+imgr-alb.search.brave.com
 imgr.brave.com
 imgr.search.brave.com
 internal-ads-serve.brave.com
@@ -131,6 +135,7 @@ sync-staging.brave.com
 sync-v2.brave.com
 sync.brave.com
 terraboard.brave.com
+tiles-alb.search.brave.com
 tiles.brave.com
 tiles.search.brave.com
 together.brave.com

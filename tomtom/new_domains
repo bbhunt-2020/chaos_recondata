@@ -35,3 +35,6 @@ cma-flask.sre-lab.tomtomgroup.com
 jaeger.sre-lab.tomtomgroup.com
 matcher-viewer.maps-amf.tomtom.com
 jaeger-sandbox.sre-lab.tomtomgroup.com
+main.osm-prod-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
+plus-test.tomtom.com
+acme-test.dev.hosteddelivery.tomtom.com

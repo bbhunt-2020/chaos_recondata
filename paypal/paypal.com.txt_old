@@ -118,6 +118,8 @@ api-silo-slcb.paypal.com
 api-slingshot.sandbox.paypal.com
 api-t.paypal.com
 api-test.paypal.com
+api-v1.sandbox.paypal.com
+api-v2.sandbox.paypal.com
 api-venmo-e2e.qa.paypal.com
 api-venmo-qa.qa.paypal.com
 api.ach2dc.stage.paypal.com
@@ -893,6 +895,7 @@ api.test33.stage.paypal.com
 api.test34.stage.paypal.com
 api.test35.stage.paypal.com
 api.test36.stage.paypal.com
+api.test37.stage.paypal.com
 api.test98.stage.paypal.com
 api.test99.stage.paypal.com
 api.testing.perceptipi.stage2ms048.stage.paypal.com
@@ -3363,6 +3366,7 @@ www.test33.stage.paypal.com
 www.test34.stage.paypal.com
 www.test35.stage.paypal.com
 www.test36.stage.paypal.com
+www.test37.stage.paypal.com
 www.test98.stage.paypal.com
 www.test99.stage.paypal.com
 www.testdrupal6.experstest22.stage.paypal.com

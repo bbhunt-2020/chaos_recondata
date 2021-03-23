@@ -14,6 +14,7 @@ acceptance.mydrive.tomtom.com
 access.corp.tomtom.com
 ace.tomtom.com
 acheter-gps.tomtom.com
+acme-test.dev.hosteddelivery.tomtom.com
 adas-tile-compiler-fca.mapcontent-dev.tomtom.com
 adas-tile-service.mapcontent-dev.tomtom.com
 addto.tomtom.com
@@ -680,6 +681,7 @@ places.tomtom.com
 platform.ifttt.services.solaris.test.tomtom.com
 platform.ifttt.services.tomtom.com
 plaza.tomtom.com
+plus-test.tomtom.com
 plus.tomtom.com
 pluto.hosteddelivery.tomtom.com
 pnd-platform-gerrit.tomtom.com

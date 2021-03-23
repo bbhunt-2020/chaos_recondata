@@ -1569,6 +1569,7 @@ einrichten.telekom.de
 einsamobile.b2b.telekom.de
 eki-support.telekom.de
 ekurdiukov-cluster.dev.asf.telekom.de
+elastic-logstash.dev.asf.telekom.de
 elastic-poc.dev.asf.telekom.de
 elastic-test.dev.asf.telekom.de
 elastic.devops.telekom.de
@@ -1804,6 +1805,7 @@ fpf-mc-ref-wwc.telekom.de
 fpf-mc-ref.telekom.de
 fpf-mc-test-wwc.telekom.de
 fpf-mc-test.telekom.de
+fpf-mc-training-wwc.telekom.de
 fpf-mc-training.telekom.de
 fpf-mc.telekom.de
 fpf-ref.telekom.de
@@ -1925,6 +1927,7 @@ global-remote.telekom.de
 globalteach8.telekom.de
 glt.laboratories.telekom.de
 gmp-test.telekom.de
+gmp.telekom.de
 gms-dmz-cc.telekom.de
 gms-dmz-ewu-cc.telekom.de
 gms-dmz-tua-cc.telekom.de
@@ -2087,6 +2090,7 @@ hrdmssigsrvprd.telekom.de
 hrdmssigsrvtst.telekom.de
 hrservice-84.telekom.de
 hrservice-aes-83.telekom.de
+hrservice-chat-84.telekom.de
 hrservice-chat-dev.telekom.de
 hrservice-chat-qa.telekom.de
 hrservice-chat-uat-84.telekom.de
@@ -3127,6 +3131,8 @@ netbox.tmdc.br.das-schiff.telekom.de
 netbox.tmdc.ffm.das-schiff.telekom.de
 netbox.tmdc.hb.das-schiff.telekom.de
 netbrain-poc.telekom.de
+netbrain-ref.telekom.de
+netbrain.telekom.de
 netcracker.b2b.telekom.de
 netf-mb.telekom.de
 netf-mb.tmdc-stgt.tdcn.telekom.de
@@ -3909,6 +3915,7 @@ preview.geschaeftskunden-test-cit4.telekom.de
 preview.geschaeftskunden-test.telekom.de
 preview.geschaeftskunden.telekom.de
 prima-bssfn.telekom.de
+prima-cit4.telekom.de
 prima-etau.telekom.de
 prima-link.telekom.de
 prima-plus-service.uat.asf.telekom.de
@@ -4318,6 +4325,7 @@ rmq-supervisor-beta.typo3-sit.telekom.de
 rmq-supervisor-dev.typo3-entw.telekom.de
 rmq-supervisor.telekom.de
 rmq.telekom.de
+rnai-ml-dev.aws.telekom.de
 rnvs-cit2.telekom.de
 rnvs-cit4.telekom.de
 rnvs-ew.telekom.de

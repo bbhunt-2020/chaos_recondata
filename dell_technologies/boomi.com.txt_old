@@ -211,6 +211,7 @@ dbslave01.ord.boomi.com
 dcp-2.dcp-pipeline.boomi.com
 dcp-3.dcp-pipeline.boomi.com
 dcp-4.dcp-pipeline.boomi.com
+dcp-5.dcp-pipeline.boomi.com
 dcp-intel-prod.intelligence.boomi.com
 dcp-intel-qa.pipeline.intelligence.boomi.com
 dcp-luis-dev.sandbox.boomi.com
@@ -219,6 +220,7 @@ dcp-prakhar-dev.sandbox.boomi.com
 dcp-prakhar-qa.sandbox.boomi.com
 dcp-prakhar.sandbox.boomi.com
 dcp-qa.datalake-pipeline.boomi.com
+dcp-ravi-dev.sandbox.boomi.com
 dcp-security-dev.sandbox.boomi.com
 dcp.datalake-pipeline.boomi.com
 dcpintelligence.sandbox.boomi.com
@@ -1166,6 +1168,7 @@ occm-us-east-2-sharonaws2.sandbox.boomi.com
 occm-us-east-2-sharonaws4.sandbox.boomi.com
 occm-us-east-2-splunktesting.sandbox.boomi.com
 occm-us-east-2-sravcloud5.sandbox.boomi.com
+occm-us-east-2-swatic17.sandbox.boomi.com
 occm-us-east-2-swatic2.sandbox.boomi.com
 occm-us-east-2-swatic20.sandbox.boomi.com
 occm-us-east-2-swatic21.sandbox.boomi.com

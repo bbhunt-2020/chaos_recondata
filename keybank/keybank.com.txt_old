@@ -31,6 +31,10 @@ adcpsa1.keybank.com
 adcpsa2.keybank.com
 adcra-ssl.keybank.com
 adcra.keybank.com
+adcwlc72401.keybank.com
+adcwlc72402.keybank.com
+adcwlc72403.keybank.com
+adcwlc85401.keybank.com
 aggregate.keybank.com
 akbmra1.kbmra.keybank.com
 akbmra2.kbmra.keybank.com
@@ -817,6 +821,7 @@ sdcrwqld01.keybank.com
 sdcwlc72401.keybank.com
 sdcwlc72402.keybank.com
 sdcwlc72403.keybank.com
+sdcwlc85401.keybank.com
 sdcwlccluster.keybank.com
 secolinktst.keybank.com
 secure-access.keybank.com
