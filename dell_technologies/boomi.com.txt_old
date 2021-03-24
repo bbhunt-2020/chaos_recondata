@@ -100,6 +100,7 @@ apitestplt.apim-pipeline.boomi.com
 apitestplt.sandbox.boomi.com
 app-community.boomi.com
 apple.sandbox.boomi.com
+archaz1.sandbox.boomi.com
 arche.sandbox.boomi.com
 ares.sandbox.boomi.com
 arpithaaz2.sandbox.boomi.com
@@ -354,6 +355,7 @@ internal-rockscooking.sandbox.boomi.com
 internal-swatiazure.sandbox.boomi.com
 internal.abhiazureqac.sandbox.boomi.com
 internal.abhiqaclone2.sandbox.boomi.com
+internal.archaz1.sandbox.boomi.com
 internal.arpithaaz2.sandbox.boomi.com
 internal.arpithaaz3.sandbox.boomi.com
 internal.arpithaazure.sandbox.boomi.com
@@ -1189,6 +1191,7 @@ occm-us-west-2-abhitest12.sandbox.boomi.com
 occm-us-west-2-abhitest2.sandbox.boomi.com
 occm-us-west-2-anuragplat.sandbox.boomi.com
 occm-us-west-2-anuragtst.sandbox.boomi.com
+occm-us-west-2-archtest1.runtime-sandbox.boomi.com
 occm-us-west-2-arpithacloud.sandbox.boomi.com
 occm-us-west-2-aws648.sandbox.boomi.com
 occm-us-west-2-awsfipstrue.sandbox.boomi.com
@@ -1736,6 +1739,7 @@ weinerbaby.sandbox.boomi.com
 widgetforums.boomi.com
 wiki.boomi.com
 www.abhiazureqac.sandbox.boomi.com
+www.archaz1.sandbox.boomi.com
 www.arpithaaz2.sandbox.boomi.com
 www.arpithaaz3.sandbox.boomi.com
 www.az643.sandbox.boomi.com
@@ -1774,6 +1778,7 @@ www.internal-otteytest3.sandbox.boomi.com
 www.internal-rockscooking.sandbox.boomi.com
 www.internal-swatiazure.sandbox.boomi.com
 www.internal.abhiazureqac.sandbox.boomi.com
+www.internal.archaz1.sandbox.boomi.com
 www.internal.arpithaaz2.sandbox.boomi.com
 www.internal.arpithaaz3.sandbox.boomi.com
 www.internal.arpithaazure.sandbox.boomi.com

@@ -603,6 +603,7 @@ datamgr.finra.org
 datamgr.qa.finra.org
 datamgt-ct-global.aws.finra.org
 datamgt-ct.aws.finra.org
+datamgt-global.aws.dr.finra.org
 datamgt-global.aws.finra.org
 datamgt-global.ct.aws.finra.org
 datamgt-global.pa.aws.finra.org
@@ -614,11 +615,15 @@ datamgt-int-global.qa.aws.finra.org
 datamgt-int-qa.pa.aws.finra.org
 datamgt-int.dev.aws.dr.finra.org
 datamgt-int.qa.aws.dr.finra.org
+datamgt.aws.dr.finra.org
 datamgt.aws.finra.org
+datamgt.ct.aws.dr.finra.org
 datamgt.ct.aws.finra.org
+datamgt.ct.dr.finra.org
 datamgt.ct.finra.org
 datamgt.dev.dr.finra.org
 datamgt.dev.finra.org
+datamgt.dr.finra.org
 datamgt.finra.org
 datamgt.pa.finra.org
 datamgt.qa.dr.finra.org
@@ -2518,8 +2523,10 @@ udc-int-dev.pa.finra.org
 udc-int-qa.pa.finra.org
 udc-int.dev.dr.finra.org
 udc-int.qa.dr.finra.org
+udc.ct.dr.finra.org
 udc.ct.finra.org
 udc.dev.finra.org
+udc.dr.finra.org
 udc.finra.org
 udc.pa.finra.org
 udc.qa.finra.org

@@ -2295,9 +2295,19 @@ ipls-velocity-ite.tct.telekom.de
 ipmesstool.telekom.de
 ipms-test.telekom.de
 ipms.telekom.de
+ips-camtool-ref.telekom.de
+ips-camtool-ta.telekom.de
 ips-camtool.telekom.de
+ips-carat-ref.telekom.de
+ips-carat-ta.telekom.de
+ips-fast-ref.telekom.de
+ips-fast-ta.telekom.de
 ips-fast.telekom.de
+ips-voice-ref.telekom.de
+ips-voice-ta.telekom.de
 ips-voice.telekom.de
+ips-weso-ref.telekom.de
+ips-weso-ta.telekom.de
 ips-weso.telekom.de
 is.aws.test.devops.telekom.de
 is.dev.asf.telekom.de
@@ -2821,6 +2831,7 @@ mars-web.telekom.de
 mazorg.telekom.de
 mbcpq.b2b.telekom.de
 mbcpqtest.b2b.telekom.de
+mbis.aws.telekom.de
 mbm.telekom.de
 mbp.telekom.de
 mbsp.geschaeftskunden.telekom.de
@@ -5279,6 +5290,8 @@ token-wlan.telekom.de
 tom.telekom.de
 tomass-test.telekom.de
 tomass.telekom.de
+tomi-ref.telekom.de
+tomi-stag.telekom.de
 tomi.telekom.de
 ton-portal.telekom.de
 ton-was-eu5.telekom.de

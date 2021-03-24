@@ -36,8 +36,16 @@ partner-api-lt.test.bigbank.eu
 partner-self-service-ee.test.bigbank.eu
 partner-self-service-lv.test.bigbank.eu
 report-uri.bigbank.eu
+selfservice-at.staging.bigbank.eu
+selfservice-bg.staging.bigbank.eu
 selfservice-bg.test.bigbank.eu
+selfservice-de.staging.bigbank.eu
 selfservice-ee.staging.bigbank.eu
+selfservice-fi.staging.bigbank.eu
+selfservice-lt.staging.bigbank.eu
+selfservice-lv.staging.bigbank.eu
+selfservice-nl.staging.bigbank.eu
+selfservice-se.staging.bigbank.eu
 smart-id.bigbank.eu
 smart-id.staging.bigbank.eu
 sms.bigbank.eu

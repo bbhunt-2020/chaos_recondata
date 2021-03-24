@@ -120,6 +120,7 @@ iqr4.tomtomgroup.com
 iris-rmds.tomtomgroup.com
 iserver.tomtomgroup.com
 itsd.tomtomgroup.com
+jaeger-hotrod.sre-lab.tomtomgroup.com
 jaeger-sandbox.sre-lab.tomtomgroup.com
 jaeger.sre-lab.tomtomgroup.com
 jenkins.adtooling.tomtomgroup.com
@@ -179,6 +180,7 @@ opengrok-dev.tomtomgroup.com
 opengrok.tomtomgroup.com
 opshub.tomtomgroup.com
 orchestratordev.tomtomgroup.com
+osm-prod-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 osm.cmr.tomtomgroup.com
 outbound-am2.tomtomgroup.com
 outbound-am3.tomtomgroup.com

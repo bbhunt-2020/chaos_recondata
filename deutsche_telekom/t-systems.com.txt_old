@@ -858,6 +858,8 @@ itshare-test.zspi.t-systems.com
 itshare.zspi.t-systems.com
 itsm2-cm-dev.t-systems.com
 itsm2-cm-test.t-systems.com
+itsm2-dev-test.t-systems.com
+itsm2-dev.t-systems.com
 itsm2-lpt.t-systems.com
 itsm2-pre-prod.t-systems.com
 itsm2-sacmeval.t-systems.com
@@ -1408,6 +1410,9 @@ q4de3esy681.gdc-bln01.t-systems.com
 q4de3esy720.gdc-bln01.t-systems.com
 q4de3esy783.gdc-bln01.t-systems.com
 q4de3esy852.gdc-bln01.t-systems.com
+q4de3esy930.gdc-bln01.t-systems.com
+q4de3esy931.gdc-bln01.t-systems.com
+q4de3esy932.gdc-bln01.t-systems.com
 q4de3fsy002.campus.gdc-bln02.t-systems.com
 q4de3fsy002.gdc-bln02.t-systems.com
 q4de3gsy076.gdc-leinf01.t-systems.com

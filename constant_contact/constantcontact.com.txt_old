@@ -107,6 +107,7 @@ archive.f1.constantcontact.com
 archive.f2.constantcontact.com
 archive.l1.constantcontact.com
 archive.s1.constantcontact.com
+argocd-pr-4-5w-h-uza.tahir-test.constantcontact.com
 asa.constantcontact.com
 asba.constantcontact.com
 ascphome.constantcontact.com
@@ -721,6 +722,7 @@ cepro.constantcontact.com
 certmanager-dortiz--oy-lv-ll.tahir-test.constantcontact.com
 certmanager-dortiz-e-xv-gzh.tahir-test.constantcontact.com
 certmanager-dortiz-n-tdwm3.tahir-test.constantcontact.com
+certmanager-pr-4-5r-eeht.tahir-test.constantcontact.com
 certmanager-pr-4-epzbco.tahir-test.constantcontact.com
 chamber.constantcontact.com
 charityweb.constantcontact.com
@@ -1625,9 +1627,12 @@ revproxy.l1.constantcontact.com
 revproxy.s1.constantcontact.com
 ringcentral.constantcontact.com
 rmcf.constantcontact.com
+root-argocd-pr-4-5w-h-uza.tahir-test.constantcontact.com
+root-traefik-pr-4-yu2-cz-k.tahir-test.constantcontact.com
 s-certmanager-dortiz--oy-lv-ll.tahir-test.constantcontact.com
 s-certmanager-dortiz-e-xv-gzh.tahir-test.constantcontact.com
 s-certmanager-dortiz-n-tdwm3.tahir-test.constantcontact.com
+s-certmanager-pr-4-5r-eeht.tahir-test.constantcontact.com
 s-certmanager-pr-4-epzbco.tahir-test.constantcontact.com
 s1.constantcontact.com
 s1.developer.constantcontact.com
@@ -1851,6 +1856,7 @@ tracking.s1.constantcontact.com
 tracking.tpub.constantcontact.com
 tracking.tpubf2.constantcontact.com
 tracking.tpubs1.constantcontact.com
+traefik-pr-4-yu2-cz-k.tahir-test.constantcontact.com
 transwestern.constantcontact.com
 transworldsystems.constantcontact.com
 travelbusiness.constantcontact.com

@@ -864,6 +864,7 @@ assets-assets-api-fix-initial-user-creation.dev.codefi.network
 assets-assets-api-fix-invalid-assets.dev.codefi.network
 assets-assets-api-fix-redocs-pipeline.dev.codefi.network
 assets-assets-api-fix-retrieve-tenant.dev.codefi.network
+assets-assets-api-fix-security-issues.dev.codefi.network
 assets-assets-api-fix-tenant-creation.dev.codefi.network
 assets-assets-api-fix-tenant-logs.dev.codefi.network
 assets-assets-api-test-trigger.dev.codefi.network
@@ -1151,6 +1152,7 @@ oauth2.staking-uat.codefi.network
 old-api.activate.codefi.network
 old.activate.codefi.network
 payments-ephemeral.dev.codefi.network
+payments-frontend-feature-add-cypress.dev.codefi.network
 postgraphile-chore-cst-579.dev.codefi.network
 postgraphile-joao-cst-625.dev.codefi.network
 postgraphile-renovate-y18n-5-x.dev.codefi.network

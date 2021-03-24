@@ -38,3 +38,6 @@ jaeger-sandbox.sre-lab.tomtomgroup.com
 main.osm-prod-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 plus-test.tomtom.com
 acme-test.dev.hosteddelivery.tomtom.com
+demo.openlr.tomtom.com
+osm-prod-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
+jaeger-hotrod.sre-lab.tomtomgroup.com

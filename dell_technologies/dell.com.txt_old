@@ -565,7 +565,6 @@ apidp.ins.dell.com
 apidppc1bigip.us.dell.com
 apigtw.us.dell.com
 apigtwb2b.ins.dell.com
-apigtwb2b.us.dell.com
 apigtwb2bpc1.us.dell.com
 apigtwb2bs3b.us.dell.com
 apigtwb2c.ins.dell.com
@@ -6965,6 +6964,7 @@ collab.dell.com
 collabcloud-ext-dur.dell.com
 collabcloud.dell.com
 colu-test.dell.com
+colu.dell.com
 com-cfo.ins.dell.com
 com-cfo.us.dell.com
 comitprd.us.dell.com
@@ -7029,6 +7029,7 @@ confused.us.dell.com
 connect.democenter.dell.com
 connect01.demos.dell.com
 connect03.demos.dell.com
+connectivityhub.dell.com
 console-test.dell.com
 console.dell.com
 console.pgre.dell.com
@@ -13517,9 +13518,9 @@ p8fbd811f.amer.dell.com
 p8fbd815a.fksmnt01.ap.so-net.7.us.dell.com
 p8fbd817b.fksus.dell.com
 pa-uat.ins.dell.com
-pa-uat.us.dell.com
 pa.ins.dell.com
 pa.us.dell.com
+pa6-uat.us.dell.com
 paas2-rmq-np.us.dell.com
 paas2-rmq-pc1.us.dell.com
 paas2-rmq-perf.us.dell.com
@@ -14671,7 +14672,6 @@ prtools.ins.dell.com
 prtools.us.dell.com
 ps-accessories-cdn.us.dell.com
 ps-accessories.dell.com
-ps-accessoriesapj.us.dell.com
 ps-advisor.us.dell.com
 ps-advisorsapj.us.dell.com
 ps-advisorseuro.us.dell.com
@@ -14699,8 +14699,6 @@ ps-ecomm-la.us.dell.com
 ps-ecomm.dell.com
 ps-ecomm2.us.dell.com
 ps-edellservtest.us.dell.com
-ps-eecadmin.us.dell.com
-ps-eldorado.us.dell.com
 ps-emarketing.us.dell.com
 ps-epremconfigure.us.dell.com
 ps-epremiercatalog.us.dell.com
@@ -14710,7 +14708,6 @@ ps-financing.us.dell.com
 ps-gemarketing.us.dell.com
 ps-gen.us.dell.com
 ps-gennetfarm.dell.com
-ps-globaladvisors.us.dell.com
 ps-gpdsops.us.dell.com
 ps-isaproxy.us.dell.com
 ps-jpapp.us.dell.com
@@ -14741,18 +14738,14 @@ ps-pdmoperations.us.dell.com
 ps-pflex.us.dell.com
 ps-preeldorado.us.dell.com
 ps-premconfigure.us.dell.com
-ps-premiercatalog.us.dell.com
 ps-premierconfigsrv-apj.apj.dell.com
 ps-premierconfigure-apj.la.dell.com
-ps-premierconfigure-la.la.dell.com
 ps-premierecomm.us.dell.com
 ps-premierpilot.dell.com
-ps-premtools.us.dell.com
 ps-productbrowse.us.dell.com
 ps-qto.us.dell.com
 ps-qtoservice.us.dell.com
 ps-rcommerce.us.dell.com
-ps-rp.dell.com
 ps-search.us.dell.com
 ps-searcheuro.us.dell.com
 ps-smtp-out.us.dell.com
@@ -16551,6 +16544,10 @@ solutions.dell.com
 solutions.euro.dell.com
 solutions.ins.dell.com
 solutionsapj.ins.dell.com
+solve-temp.dell.com
+solve-test.dell.com
+solve.dell.com
+solvengine-app-prd.dell.com
 sonarqube-ocs.dell.com
 sonarqube-pc1mdc.dell.com
 sonarqube.dell.com
@@ -16801,6 +16798,8 @@ starchaser.us.dell.com
 stash.appmod.dell.com
 stash.labs.dell.com
 status.gtie.dell.com
+stdnlr2cuat01.amer.dell.com
+stdplulpprcpxy3.amer.dell.com
 stg_phm_pc1_http_80.us.dell.com
 stgemail.dell.com
 stghop01gw-myconnect.dell.com
@@ -17931,11 +17930,12 @@ uat-hb-is.us.dell.com
 uat-is.dell.com
 uat-ivis.dell.com
 uat-phome.dell.com
-uat-pprc-proxy.dell.com
 uat-sa-is-rr2.us.dell.com
 uat-sa-is.us.dell.com
+uat-satd-proxy.dell.com
 uat-satd-psm-insights.dell.com
 uat-satd-psm.dell.com
+uat-satd.dell.com
 uat-srecore.dell.com
 uat.api.dell.com
 uat.apidp.dell.com

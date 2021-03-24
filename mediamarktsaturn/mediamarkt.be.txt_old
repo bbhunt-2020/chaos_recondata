@@ -3,9 +3,13 @@ agenda.mediamarkt.be
 aide.mediamarkt.be
 appointment.mediamarkt.be
 blog.mediamarkt.be
+bot-middleware.mediamarkt.be
 carte-cadeau.mediamarkt.be
+chatbot.mediamarkt.be
 cloud.mediamarkt.be
 depliant.mediamarkt.be
+dev-bot-middleware.mediamarkt.be
+dev-chatbot.mediamarkt.be
 dev.mediamarkt.be
 folder.mediamarkt.be
 foto.mediamarkt.be
@@ -29,6 +33,8 @@ rendering.mediamarkt.be
 rendez-vous.mediamarkt.be
 service-club-test.mediamarkt.be
 service-club.mediamarkt.be
+staging-bot-middleware.mediamarkt.be
+staging-chatbot.mediamarkt.be
 telecom.mediamarkt.be
 vcs01.mediamarkt.be
 wallet.mediamarkt.be

@@ -266,7 +266,6 @@
 2015dentalplans.goodrx.com
 2015vpn.antivirus.goodrx.com
 2016-antivirus-edu.goodrx.com
-2016-antivirus.goodrx.com
 2016-blocked.antivirus.goodrx.com
 2016-secure.antivirus.goodrx.com
 2016-vpn.antivirus.goodrx.com
@@ -274,7 +273,6 @@
 2016.antivirus.goodrx.com
 2016.goodrx.com
 2016.secure.antivirus.goodrx.com
-2016antivirus-email.goodrx.com
 2016antivirus.goodrx.com
 2016blocked.antivirus.goodrx.com
 2016m.antivirushchrxduncan.goodrx.com
@@ -3353,7 +3351,9 @@ cwf-cdknewmode-7a959e9f.dev.uw2.eng.goodrx.com
 cwf-dashboardprescrip-5c704188.dev.uw2.eng.goodrx.com
 cwf-devicetype-3a19a30b.dev.uw2.eng.goodrx.com
 cwf-dfpbumpoptimizely-c32c53c0.dev.uw2.eng.goodrx.com
+cwf-dfpcodefreshclone-f07c5c26.dev.uw2.eng.goodrx.com
 cwf-ditchephemeralcfl-81a9058d.dev.uw2.eng.goodrx.com
+cwf-enableapplitoolsp-47b66334.dev.uw2.eng.goodrx.com
 cwf-featcheckout-46312823.dev.uw2.eng.goodrx.com
 cwf-featdraftpagesmai-b22c0b55.dev.uw2.eng.goodrx.com
 cwf-featfixes-f704dd48.dev.uw2.eng.goodrx.com
