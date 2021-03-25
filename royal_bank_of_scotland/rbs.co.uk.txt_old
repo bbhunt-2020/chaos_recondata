@@ -37,6 +37,7 @@ api.securebusiness.rbs.co.uk
 apiservicedesk-uat.rbs.co.uk
 apiservicedesk.rbs.co.uk
 app.bbls-personal.rbs.co.uk
+app.bbls-top-up-v2.rbs.co.uk
 app.bbls-top-up.rbs.co.uk
 app.bca-conversion.rbs.co.uk
 app.business-credit-card.rbs.co.uk
@@ -479,6 +480,7 @@ www.api.eds.securebusiness.rbs.co.uk
 www.api.openaccount.rbs.co.uk
 www.api.securebusiness.rbs.co.uk
 www.app.bbls-personal.rbs.co.uk
+www.app.bbls-top-up-v2.rbs.co.uk
 www.app.bbls-top-up.rbs.co.uk
 www.app.bca-conversion.rbs.co.uk
 www.app.business-credit-card.rbs.co.uk

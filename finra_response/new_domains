@@ -44,3 +44,16 @@ datamgt-global.aws.dr.finra.org
 udc.dr.finra.org
 datamgt.dr.finra.org
 datamgt.aws.dr.finra.org
+isso-auth-qaint.fip.qa.finra.org
+isso-assets.dr.finra.org
+ews-admin-qaint.fip.qa.finra.org
+bitbucket.awstools.finra.org
+isso-admin-qaint.fip.qa.finra.org
+doorbell-qaint.fip.qa.finra.org
+cdip.dr.finra.org
+di.dr.finra.org
+ewslogin-qaint.fip.qa.finra.org
+ews-auth-qaint.fip.qa.finra.org
+ews-public-qaint.fip.qa.finra.org
+ews-assets.dr.finra.org
+bitbucket.awstools.dr.finra.org

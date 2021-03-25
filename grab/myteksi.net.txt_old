@@ -86,6 +86,7 @@ internal.authz.concedo.stg.data-platform.myteksi.net
 ir.presto-monitor.data-engineering.myteksi.net
 it-gitlab.myteksi.net
 jarvis.cycle.myteksi.net
+jarvis.grabview.myteksi.net
 jenkins.cycle.myteksi.net
 jetbrains-license.internal-tools.myteksi.net
 jetbrains-license.myteksi.net
@@ -195,5 +196,6 @@ vault.myteksi.net
 vcenter-backup.internal-tools.myteksi.net
 www.api.grabview.myteksi.net
 www.camera-management.grabview.myteksi.net
+www.jarvis.grabview.myteksi.net
 www.ldap.myteksi.net
 zabbix.gts.myteksi.net

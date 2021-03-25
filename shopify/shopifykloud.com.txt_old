@@ -116,6 +116,7 @@ console.magnesia-adhoc.shopifykloud.com
 console.magnesia-staging.shopifykloud.com
 console.magnesia.shopifykloud.com
 datagrip-license-server.apps.shopifykloud.com
+deploy-test.shopify-data-presto-global.shopifykloud.com
 dls.datagrip-license-server.playground.shopifykloud.com
 druid-druid-router-api-ingress-data-exp-us-central1-1.k8s-exp.shopifykloud.com
 druid-druid-router-api-ingress-druid-dev-us-central1-1.dev.druid.shopifykloud.com
@@ -242,6 +243,9 @@ main-hive-us-east1-b-data-148903.shopifykloud.com
 mbrucetest-coordinator.presto.shopifykloud.com
 merchant-data-model-druid-r-f6yi5x62-druid-global-us-central1-1.global.druid.shopifykloud.com
 merchant-data-model-druid-r-vzq4nz4r-druid-global-us-central1-1.global.druid.shopifykloud.com
+metadata-a.shopify-data-presto-global.shopifykloud.com
+metadata-b.shopify-data-presto-global.shopifykloud.com
+metadata-staging.shopify-data-presto-global.shopifykloud.com
 mode-staging.shopify-data-presto-global.shopifykloud.com
 more-obvious-dns-test-metastore-main.shopifykloud.com
 mrhs-tunnel.playground.shopifykloud.com

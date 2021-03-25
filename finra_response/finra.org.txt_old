@@ -248,6 +248,8 @@ bifrost.finra.org
 bifrost.pa.finra.org
 bifrost.qa.finra.org
 bipoc.dev.finra.org
+bitbucket.awstools.dr.finra.org
+bitbucket.awstools.finra.org
 bitbucket.dev.finra.org
 bitbucket.finra.org
 bitbucket.qa.awstools.dr.finra.org
@@ -397,6 +399,7 @@ ccp.qa.finra.org
 cdip.ct.finra.org
 cdip.dev.dr.finra.org
 cdip.dev.finra.org
+cdip.dr.finra.org
 cdip.finra.org
 cdip.pa.finra.org
 cdip.qa.dr.finra.org
@@ -708,6 +711,7 @@ devtools.finra.org
 di.ct.finra.org
 di.dev.dr.finra.org
 di.dev.finra.org
+di.dr.finra.org
 di.finra.org
 di.qa.dr.finra.org
 di.qa.finra.org
@@ -779,6 +783,7 @@ domino.finra.org
 domino.qa.finra.org
 doorbell-dev.fip.dev.finra.org
 doorbell-devint.fip.dev.finra.org
+doorbell-qaint.fip.qa.finra.org
 doorbell-stress.fip.qa.finra.org
 doppler-api.aws.finra.org
 doppler.dev.finra.org
@@ -1029,15 +1034,18 @@ ews-adfs.finra.org
 ews-adfs.qa.finra.org
 ews-admin-dev.fip.dev.finra.org
 ews-admin-devint.fip.dev.finra.org
+ews-admin-qaint.fip.qa.finra.org
 ews-admin-stress.fip.qa.finra.org
 ews-assets-int.qa.dr.finra.org
 ews-assets-int.qa.finra.org
 ews-assets.ct.finra.org
 ews-assets.dev.finra.org
+ews-assets.dr.finra.org
 ews-assets.finra.org
 ews-assets.qa.finra.org
 ews-auth-dev.fip.dev.finra.org
 ews-auth-devint.fip.dev.finra.org
+ews-auth-qaint.fip.qa.finra.org
 ews-auth-stress.fip.qa.finra.org
 ews-dev.fip.dev.finra.org
 ews-devint.fip.dev.finra.org
@@ -1047,6 +1055,7 @@ ews-nat.firms.qc.finra.org
 ews-ny.finra.org
 ews-public-dev.fip.dev.finra.org
 ews-public-devint.fip.dev.finra.org
+ews-public-qaint.fip.qa.finra.org
 ews-public-stress.fip.qa.finra.org
 ews-public.fip.qa.finra.org
 ews-qa.wipe.finra.org
@@ -1081,6 +1090,7 @@ ewsapi.qa.finra.org
 ewsapi.stress.finra.org
 ewslogin-dev.fip.dev.finra.org
 ewslogin-devint.fip.dev.finra.org
+ewslogin-qaint.fip.qa.finra.org
 ewslogin-stress.fip.qa.finra.org
 exam-conduct.finra.org
 exam-msg.finra.org
@@ -1448,14 +1458,17 @@ ise.finra.org
 ise.qa.finra.org
 isso-admin-dev.fip.dev.finra.org
 isso-admin-devint.fip.dev.finra.org
+isso-admin-qaint.fip.qa.finra.org
 isso-admin-stress.fip.qa.finra.org
 isso-assets-int.dev.finra.org
 isso-assets-int.qa.finra.org
 isso-assets.ct.finra.org
+isso-assets.dr.finra.org
 isso-assets.finra.org
 isso-assets.qa.finra.org
 isso-auth-dev.fip.dev.finra.org
 isso-auth-devint.fip.dev.finra.org
+isso-auth-qaint.fip.qa.finra.org
 isso-auth-stress.fip.qa.finra.org
 isso-dev.fip.dev.finra.org
 isso-devint.fip.dev.finra.org

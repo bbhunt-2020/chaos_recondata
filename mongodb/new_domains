@@ -13,3 +13,4 @@ helm3-upgrade-test.staging.corp.mongodb.com
 mars.staging.corp.mongodb.com
 mars.prod.corp.mongodb.com
 target.test.corp.mongodb.com
+www.mana.corp.mongodb.com

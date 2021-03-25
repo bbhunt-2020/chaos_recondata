@@ -15,3 +15,7 @@ dksonlineshoppe.shopify.com
 presto-logging.shopify-data-presto-global.shopifykloud.com
 fast-monorail.shopify-data-presto-global.shopifykloud.com
 mode-staging.shopify-data-presto-global.shopifykloud.com
+deploy-test.shopify-data-presto-global.shopifykloud.com
+metadata-b.shopify-data-presto-global.shopifykloud.com
+metadata-a.shopify-data-presto-global.shopifykloud.com
+metadata-staging.shopify-data-presto-global.shopifykloud.com

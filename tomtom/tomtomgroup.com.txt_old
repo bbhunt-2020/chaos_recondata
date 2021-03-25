@@ -40,6 +40,7 @@ code.sre-lab.tomtomgroup.com
 confluence-dev.tomtomgroup.com
 confluence.tomtomgroup.com
 connect-eu.tomtomgroup.com
+connect-test.tomtomgroup.com
 coverity-dev.tomtomgroup.com
 coverity.tomtomgroup.com
 cpu-portal.tomtomgroup.com
@@ -56,6 +57,7 @@ dev.quicksight.taj.tomtomgroup.com
 dev.vault.tomtomgroup.com
 direct-load-api.cmr.tomtomgroup.com
 direct-load-dev.cmr.tomtomgroup.com
+direct-load-exclusive-pois.cmr.tomtomgroup.com
 direct-load-osm-demo.cmr.tomtomgroup.com
 direct-load-osm-mezon.cmr.tomtomgroup.com
 direct-load-osm-test.cmr.tomtomgroup.com
@@ -283,6 +285,7 @@ tics.tomtomgroup.com
 tracking.tomtomgroup.com
 ttgext-wap.tomtomgroup.com
 ttgwap.tomtomgroup.com
+ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtomgroup.com
 usftp.tomtomgroup.com
 validationapp.tomtomgroup.com
 validator.sre-lab.tomtomgroup.com

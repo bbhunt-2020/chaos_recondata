@@ -60,6 +60,7 @@ api-stream.twitter.com
 api-test.twitter.com
 api.netsec.smfc.twitter.com
 api.twitter.com
+api.wilson.local.twitter.com
 api1-backup.twitter.com
 api2.twitter.com
 api3-backup.twitter.com
@@ -320,6 +321,7 @@ integratedsearch.twitter.com
 interactive.twitter.com
 intl.twitter.com
 investor.twitter.com
+ipmi.wilson.local.twitter.com
 ise-admin1.smfc.twitter.com
 ise-admin2.atlc.twitter.com
 ise-psn1.smfc.twitter.com
@@ -728,6 +730,7 @@ staging2-partnerstream1.twitter.com
 start.twitter.com
 static-site.twitter.com
 static.twitter.com
+stats.wilson.local.twitter.com
 status.twitter.com
 stories.twitter.com
 stream.twitter.com

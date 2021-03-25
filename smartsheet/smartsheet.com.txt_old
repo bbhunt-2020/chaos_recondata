@@ -548,6 +548,7 @@ dir748.box.lab.smartsheet.com
 dirsvc-rr.box.lab.smartsheet.com
 dirsvc4.box.lab.smartsheet.com
 dirsvcdev2.box.lab.smartsheet.com
+dirsvcgov.box.lab.smartsheet.com
 disableshtu.box.lab.smartsheet.com
 discover.smartsheet.com
 djohnston-develop.box.lab.smartsheet.com
@@ -1297,6 +1298,7 @@ tenthousand.box.lab.smartsheet.com
 terryzhouubuntu.apollo.smartsheet.com
 test-gibb.smartsheet.com
 test-post-deploy.box.lab.smartsheet.com
+test-sourcemaps.lab.smartsheet.com
 test-sqs-move-1.box.lab.smartsheet.com
 test-sqs-move-2.box.lab.smartsheet.com
 test-wait-spinner.box.lab.smartsheet.com

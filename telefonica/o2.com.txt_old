@@ -4994,6 +4994,8 @@ acs.ncc.de.o2.com
 acs1.net.de.o2.com
 acs2.net.de.o2.com
 adfs-vip.uk.pri.o2.com
+admin.aem.poc.borngroup.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
+aem.poc.borngroup.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
 alf.sg.de.o2.com
 ao2nonprod.uk.pri.o2.com
 ap-int.o2.com
@@ -7583,6 +7585,7 @@ preprod2.client-k8s.dlp-ingest-prod.aws.de.pri.o2.com
 printshop-prod.de.pri.o2.com
 prod.agent-cockpit.de.o2.com
 prod.lab.de.o2.com
+proxy.aem.poc.borngroup.low.tefde-aws-raitt01-test.aws.de.pri.o2.com
 prsms.cz.o2.com
 prsms.sk.o2.com
 push.explore.o2.com

@@ -65,6 +65,7 @@ adminportal.staging.roku.com
 ads-api-dev.bdp.roku.com
 ads-api.bdp.roku.com
 ads.roku.com
+adservices.roku.com
 adsreporting.corp.roku.com
 advertising.roku.com
 agile-dl.portal.roku.com
@@ -793,6 +794,8 @@ prometheus.us-east-2.unity.roku.com
 prometheus.us-west-2.dev.unity.roku.com
 prometheus.us-west-2.staging.unity.roku.com
 prometheus.us-west-2.unity.roku.com
+proposals.bdp.roku.com
+proposals.qa.bdp.roku.com
 proto.dev.wink.roku.com
 pub-blue.qa.rpay.roku.com
 pub-blue.rpay.roku.com

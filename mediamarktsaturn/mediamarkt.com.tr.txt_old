@@ -1,5 +1,7 @@
 altin.mediamarkt.com.tr
 as2.mediamarkt.com.tr
+bot-middleware.mediamarkt.com.tr
+chatbot.mediamarkt.com.tr
 clubizin.mediamarkt.com.tr
 clublink.mediamarkt.com.tr
 clubservice-test.mediamarkt.com.tr
@@ -7,6 +9,8 @@ clubservice.mediamarkt.com.tr
 clubuyelik.mediamarkt.com.tr
 data.mediamarkt.com.tr
 destek.mediamarkt.com.tr
+dev-bot-middleware.mediamarkt.com.tr
+dev-chatbot.mediamarkt.com.tr
 dev.mediamarkt.com.tr
 dijitalkartlar.mediamarkt.com.tr
 link-tr.mediamarkt.com.tr
@@ -26,6 +30,8 @@ rendering.mediamarkt.com.tr
 restposten.mediamarkt.com.tr
 siparis.mediamarkt.com.tr
 snapp.mediamarkt.com.tr
+staging-bot-middleware.mediamarkt.com.tr
+staging-chatbot.mediamarkt.com.tr
 staging.mediamarkt.com.tr
 ux.mediamarkt.com.tr
 vsrm.mediamarkt.com.tr

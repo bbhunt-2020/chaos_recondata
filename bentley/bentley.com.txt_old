@@ -1268,6 +1268,8 @@ dev-projectshareportal.bentley.com
 dev-projectwise-web-connections.bentley.com
 dev-projectwise365-eus.bentley.com
 dev-projectwise365-staging.bentley.com
+dev-projectwise365-uks-staging.bentley.com
+dev-projectwise365-uks.bentley.com
 dev-projectwise365.bentley.com
 dev-projectwise365usersync.bentley.com
 dev-projectwisedrive.bentley.com
@@ -1640,6 +1642,8 @@ pdf.dev-pwdm.bentley.com
 pdf.pwdm.bentley.com
 pdf.qa-pwdm.bentley.com
 perf-bcsf.bentley.com
+perf-connect-agreementportalwebapp-staging.bentley.com
+perf-connect-agreementportalwebapp.bentley.com
 perf-connect-agreementservicewebapp-staging.bentley.com
 perf-connect-agreementservicewebapp.bentley.com
 perf-connect-bts-uks.bentley.com
@@ -1682,6 +1686,8 @@ perf-connect-functionalvisualizerbffsvc-staging.bentley.com
 perf-connect-functionalvisualizerbffsvc.bentley.com
 perf-connect-ics-admin-staging.bentley.com
 perf-connect-ics-admin.bentley.com
+perf-connect-ics-adminui-staging.bentley.com
+perf-connect-ics-adminui.bentley.com
 perf-connect-ics-codes-eus-staging.bentley.com
 perf-connect-ics-codes-eus.bentley.com
 perf-connect-ics-codes-staging.bentley.com

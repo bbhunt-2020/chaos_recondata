@@ -405,6 +405,7 @@ guest2-eu.tomtom.com
 guest2-us.tomtom.com
 h.dgcache.eu-west-1.maps-imagery.tomtom.com
 havana.tomtom.com
+hedwig.mep.tomtom.com
 help.telematics.tomtom.com
 help.tomtom.com
 hermes.mep.tomtom.com
@@ -651,6 +652,8 @@ oauth2-proxy.nonprod.pe-az.tomtom.com
 ocsrp.corp.tomtom.com
 octant.tomtom.com
 od.tomtom.com
+ods-ui.services.tomtom.com
+ods-ui.solaris.test.services.tomtom.com
 ods.tomtom.com
 office365.tomtom.com
 oftp.tomtom.com

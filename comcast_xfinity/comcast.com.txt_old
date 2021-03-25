@@ -3705,6 +3705,7 @@ codcctelupscr02.cable.comcast.com
 codcctelupscr03.cable.comcast.com
 codcctelupscr04.cable.comcast.com
 codcctelvhsql03.cable.comcast.com
+codccucssw.cable.comcast.com
 codccvdi2k16tst.cable.comcast.com
 codccvdiav01.cable.comcast.com
 codccvdiav02.cable.comcast.com
@@ -25452,6 +25453,7 @@ thesource-test.cable.comcast.com
 thingsboard-qa.xlife.comcast.com
 thirdptyportalwp.sjc.v.sv.comcast.com
 thirdptyportalwp.sv.comcast.com
+thor-permission.svc.thor.comcast.com
 thor.cable.comcast.com
 thortv-observability-qa.svc-dev.thor.comcast.com
 thunderbolt.comcast.com
@@ -25573,8 +25575,6 @@ training.cornerstone.cable.comcast.com
 training.ecaf.cable.comcast.com
 trainingrst.cornerstone.cable.comcast.com
 trainingrst.ecaf.cable.comcast.com
-traka.cable.comcast.com
-trakadb-wc-1p.cable.comcast.com
 transcripts.chat.comcast.com
 translation-service-rest.snp.comcast.com
 translation-service.snp.comcast.com

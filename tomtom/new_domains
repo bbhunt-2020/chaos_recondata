@@ -41,3 +41,9 @@ acme-test.dev.hosteddelivery.tomtom.com
 demo.openlr.tomtom.com
 osm-prod-raw.pu-openmap.aws-eu-west-1.cmr.tomtomgroup.com
 jaeger-hotrod.sre-lab.tomtomgroup.com
+ods-ui.services.tomtom.com
+hedwig.mep.tomtom.com
+ods-ui.solaris.test.services.tomtom.com
+direct-load-exclusive-pois.cmr.tomtomgroup.com
+ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtomgroup.com
+connect-test.tomtomgroup.com

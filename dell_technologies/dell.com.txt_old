@@ -6916,6 +6916,8 @@ cloudiq-dur-dmz-np.us.dell.com
 cloudiq-dur-dmz-prod.us.dell.com
 cloudiq.dell.com
 cloudiqint.dell.com
+cloudiqprdngsso.dell.com
+cloudiqprdsaml.dell.com
 cloudiqstg.dell.com
 cloudmarketplace.dell.com
 cloudmarketplace.svc.ins.dell.com
@@ -10280,7 +10282,6 @@ ftaapj.dell.com
 ftaapjsit.dell.com
 ftaemea.dell.com
 ftaemeasit.dell.com
-ftasit.dell.com
 ftasitapj.dell.com
 ftcdspfin01.us.dell.com
 ftcsdzverrec01.us.dell.com
@@ -16318,7 +16319,6 @@ skype-edge-aus.federal.dell.com
 skype-edge-las.federal.dell.com
 skype-edge-xmn.dell.com
 skype-edgeav-aus.federal.dell.com
-skype-edgewc-aus.federal.dell.com
 skype-egde-ork.dell.com
 skypeav-edge-xmn.dell.com
 skypewc-edge-xmn.dell.com

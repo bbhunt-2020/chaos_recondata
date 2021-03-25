@@ -81,3 +81,6 @@ sdp.corp.twilio.com
 admiral-with-corp-backends.stage.twilio.com
 admiral-with-corp-backends-tmp.stage.twilio.com
 vnv-pipeline-coordinator.stage-us1.twilio.com
+cmartin.twilio.com
+kafka-self-service.ie1.twilio.com
+test.cmartin.twilio.com

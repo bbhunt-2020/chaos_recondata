@@ -147,6 +147,7 @@ strategy.data.gov
 supplychain.data.gov
 test-api-regulations-gov.domains.api.data.gov
 test-cloud-gov-direct.api.data.gov
+test-cloud-gov-indirect.api.data.gov
 uat-api-foia-gov.domains.api.data.gov
 vocab.data.gov
 weather.data.gov

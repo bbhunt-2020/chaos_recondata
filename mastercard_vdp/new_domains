@@ -35,3 +35,6 @@ api.identity.mastercard.com
 prd.sdg2.mastercard.com
 ri-ctck-client.mastercard.com
 inbound.gateway.stg.mastercard.com
+caas-thales-ob-mercado-mtf.mastercard.com
+caas-thales-ob-mercado.mastercard.com
+stage.marketing.user.cli.mastercard.com

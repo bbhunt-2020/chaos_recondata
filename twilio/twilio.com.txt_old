@@ -382,6 +382,7 @@ chunderm.twilio.com
 chunderw-vpc-gll-de1.twilio.com
 chunderw-vpc-gll.twilio.com
 clientsupport.twilio.com
+cmartin.twilio.com
 cms.dev.twilio.com
 cms.prod.twilio.com
 cms.stage.twilio.com
@@ -627,6 +628,7 @@ jupyter.us1.twilio.com
 kafka-self-service.au1.twilio.com
 kafka-self-service.dev-us1.twilio.com
 kafka-self-service.dev-us2.twilio.com
+kafka-self-service.ie1.twilio.com
 kafka-self-service.stage-au1.twilio.com
 kafka-self-service.stage-us1.twilio.com
 kafka-self-service.us1.twilio.com
@@ -921,6 +923,7 @@ taskrouter.us1.eak.twilio.com
 team.twilio.com
 temporal.us1.twilio.com
 test-auto-rotate-lemur.dev.twilio.com
+test.cmartin.twilio.com
 test.sdonovan.twilio.com
 test.vrengtest.twilio.com
 test.yzhu.twilio.com

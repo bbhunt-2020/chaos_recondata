@@ -187,7 +187,6 @@
 2009m.antivirushchrxduncan.goodrx.com
 2010-antivirus-email.goodrx.com
 2010-antivirus.apfm.goodrx.com
-2010-m.antivirus-smartrx.goodrx.com
 2010.antivirus.apfm.goodrx.com
 2010.antiviruskfb.goodrx.com
 2010.apfm.goodrx.com
@@ -196,7 +195,6 @@
 2010antivirus-edu.goodrx.com
 2010antivirus.apfm.goodrx.com
 2010antivirus.goodrx.com
-2010hihc.antivirus.goodrx.com
 2010m.workmarket.antivirus.goodrx.com
 2011-antivirus-email.goodrx.com
 2011-apsit.antivirus.goodrx.com
@@ -208,8 +206,6 @@
 2011.antivirus-smartrx.goodrx.com
 2011.apsit.antivirus.goodrx.com
 2011.dentalplansantivirus.goodrx.com
-2011.htwww.antivirus.goodrx.com
-2011.m.antivirus-applebees.goodrx.com
 2011.o3.antivirus-email.goodrx.com
 2011.vpn.antivirus.goodrx.com
 2011antivirus-applebees.goodrx.com
@@ -221,13 +217,11 @@
 2012-o3.antivirus-email.goodrx.com
 2012-vpn.antivirus.goodrx.com
 2012.antivirus.apfm.goodrx.com
-2012.blocked.antivirus.goodrx.com
 2012.dentalplansantivirus.goodrx.com
 2012.goodrx.com
 2012antivirus-edu.goodrx.com
 2012antivirus.apfm.goodrx.com
 2012berkeley.antivirus-edu.goodrx.com
-2012htwww.antivirus.goodrx.com
 2012m.workmarket.antivirus.goodrx.com
 2012www.dentalplans.antivirus.goodrx.com
 2013-antivirus-smartrx.goodrx.com
@@ -243,7 +237,6 @@
 2013dentalplans.goodrx.com
 2013www.dentalplansantivirus.goodrx.com
 2014-antivirus-applebees.goodrx.com
-2014.antiviruskfb.goodrx.com
 2014.apfm.goodrx.com
 2014.cdn.antivirus.goodrx.com
 2014.goodrx.com
@@ -259,7 +252,6 @@
 2015.antivirus.apfm.goodrx.com
 2015.antivirus.goodrx.com
 2015.goodrx.com
-2015.m.antivirushchrxduncan.goodrx.com
 2015antivirus-edu.goodrx.com
 2015antivirus-smartrx.goodrx.com
 2015cdn.antivirus.goodrx.com
@@ -275,7 +267,6 @@
 2016.secure.antivirus.goodrx.com
 2016antivirus.goodrx.com
 2016blocked.antivirus.goodrx.com
-2016m.antivirushchrxduncan.goodrx.com
 2016www.antiviruskfb.goodrx.com
 2017-antivirushchrxduncan.goodrx.com
 2017-berkeley.antivirus-edu.goodrx.com
@@ -3341,8 +3332,10 @@ cveapi.gold.goodrx.com
 cveapi.heydoctor.goodrx.com
 cwf-500fix-57f8ab68.dev.uw2.eng.goodrx.com
 cwf-addsembed-5a35b4d6.dev.uw2.eng.goodrx.com
+cwf-aexgro246segmente-720b6e4c.dev.uw2.eng.goodrx.com
 cwf-aexgro334-e1834c9e.dev.uw2.eng.goodrx.com
 cwf-backingoutdesdonr-736e1d3f.dev.uw2.eng.goodrx.com
+cwf-bifrostregisterle-79b7895d.dev.uw2.eng.goodrx.com
 cwf-bodee2estagingdep-207bc9bb.dev.uw2.eng.goodrx.com
 cwf-cdk-broken-thunder-275757.dev.uw2.eng.goodrx.com
 cwf-cdk-rapid-math-851749.dev.uw2.eng.goodrx.com
@@ -3370,6 +3363,7 @@ cwf-fep626ddpino-1ead3d4a.dev.uw2.eng.goodrx.com
 cwf-fixes-bd7b9100.dev.uw2.eng.goodrx.com
 cwf-fixhamburgerstyli-73fa431e.dev.uw2.eng.goodrx.com
 cwf-fixhomepagesignin-7add04af.dev.uw2.eng.goodrx.com
+cwf-fixloadingicons-757ee6cc.dev.uw2.eng.goodrx.com
 cwf-fixstagindeploy-62143be1.dev.uw2.eng.goodrx.com
 cwf-fixvaccinefindero-bb7e0305.dev.uw2.eng.goodrx.com
 cwf-fixvaccinephone-f42d59ac.dev.uw2.eng.goodrx.com
@@ -3378,10 +3372,14 @@ cwf-goodrx-de9729da.dev.uw2.eng.goodrx.com
 cwf-grxh77-059c959a.dev.uw2.eng.goodrx.com
 cwf-hardendesdtests-0a49dfa7.dev.uw2.eng.goodrx.com
 cwf-homepageauthstate-51ca3607.dev.uw2.eng.goodrx.com
+cwf-maildeliverydashb-1ad31b89.dev.uw2.eng.goodrx.com
+cwf-maildeliverygraph-17270409.dev.uw2.eng.goodrx.com
 cwf-maildeliverypages-b246d316.dev.uw2.eng.goodrx.com
+cwf-maildeliveryregis-e0127439.dev.uw2.eng.goodrx.com
 cwf-maildeliverystyle-996953d8.dev.uw2.eng.goodrx.com
 cwf-mddemo-21ca0507.dev.uw2.eng.goodrx.com
 cwf-newslettertestfix-272813a6.dev.uw2.eng.goodrx.com
+cwf-niccorderbifrostn-27a61846.dev.uw2.eng.goodrx.com
 cwf-nngorg1687-fd99355c.dev.uw2.eng.goodrx.com
 cwf-nngorg1799-626373da.dev.uw2.eng.goodrx.com
 cwf-nngorg356-b3f434f0.dev.uw2.eng.goodrx.com
@@ -3402,6 +3400,8 @@ cwf-sergio-3bffa4eb.dev.uw2.eng.goodrx.com
 cwf-skipurlshttpasser-dca44697.dev.uw2.eng.goodrx.com
 cwf-spanishhomepagete-1ff577c2.dev.uw2.eng.goodrx.com
 cwf-testapplitoolsgit-d770ada2.dev.uw2.eng.goodrx.com
+cwf-testinttests-8c7142bc.dev.uw2.eng.goodrx.com
+cwf-testlodasherror-d9245f7a.dev.uw2.eng.goodrx.com
 cwf-univeralregtests-37cac90b.dev.uw2.eng.goodrx.com
 cwf-unskipintegration-9bce6608.dev.uw2.eng.goodrx.com
 cwf-updatee2econfigs-8fac35de.dev.uw2.eng.goodrx.com

@@ -539,7 +539,6 @@ cbrands.my.salesforce.com
 cc-prd-internal.controlcenter.commercecloud.salesforce.com
 cccnp-cert-operator-0003-dev1-uswest2.sandbox.cnp-dev.commercecloud.salesforce.com
 cdg.cloudatlas.salesforce.com
-cdg.salesforce.com
 cdg.screenmeet.salesforce.com
 cdl.my.salesforce.com
 cdn.c360a.salesforce.com
@@ -3009,7 +3008,6 @@ dcl1-iad.na66-iad.salesforce.com
 dcl1-iad.na69-iad.my.salesforce.com
 dcl1-iad.na74-iad.my.salesforce.com
 dcl1-iad.na76-iad.salesforce.com
-dcl1-iad.na86-iad.my.salesforce.com
 dcl1-iad.umps1-c4-iad.salesforce.com
 dcl1-iad.umps2-c1-iad.salesforce.com
 dcl1-iad.umps2-c2-iad.salesforce.com
@@ -3128,7 +3126,6 @@ dcl1-ncg0-lhr4.um7-lo3.salesforce.com
 dcl1-ncg0-phx3.cs1-ph2.my.salesforce.com
 dcl1-ncg0-phx3.cs22-ph2.my.salesforce.com
 dcl1-ncg0-phx3.cs28-ph2.salesforce.com
-dcl1-ncg0-phx3.cs35-ph2.salesforce.com
 dcl1-ncg0-phx3.cs4-ph2.salesforce.com
 dcl1-ncg0-phx3.cs40-ph2.salesforce.com
 dcl1-ncg0-phx3.cs41-ph2.salesforce.com
@@ -3405,6 +3402,7 @@ dcl1-ukb.umps1-c3-ukb.salesforce.com
 dcl1-ukb.umps1-c4-ukb.salesforce.com
 dcl1-xrd.dcl3-xrd.xrd.edge.salesforce.com
 dcl1-xrd.xrd.edge.salesforce.com
+dcl10-ia4.monitor-ia4.salesforce.com
 dcl10-ncg0-iad3.cs2-ia2.my.salesforce.com
 dcl10-ncg0-iad3.cs24-ia2.salesforce.com
 dcl10-ncg0-iad3.cs27-ia2.my.salesforce.com
@@ -3592,6 +3590,7 @@ dcl12-ncg0-phx3.na98-ph2.salesforce.com
 dcl12-ncg0-phx3.umps1-c1-ph2.salesforce.com
 dcl12-ncg0-phx3.umps1-c3-ph2.salesforce.com
 dcl12-ncg0-phx3.umps1-c4-ph2.salesforce.com
+dcl13-cdg.monitor-cdg.salesforce.com
 dcl13-ia2.monitor-ia2.salesforce.com
 dcl13-ncg0-iad3.cs27-ia2.my.salesforce.com
 dcl13-ncg0-iad3.cs27-ia2.salesforce.com
@@ -3662,6 +3661,7 @@ dcl13-ncg0-phx3.na96-ph2.salesforce.com
 dcl13-ncg0-phx3.na98-ph2.salesforce.com
 dcl13-ncg0-phx3.umps1-c3-ph2.salesforce.com
 dcl14-ia2.monitor-ia2.salesforce.com
+dcl14-ia4.monitor-ia4.salesforce.com
 dcl14-ncg0-iad3.cs1-ia2.my.salesforce.com
 dcl14-ncg0-iad3.cs27-ia2.my.salesforce.com
 dcl14-ncg0-iad3.cs28-ia2.salesforce.com
@@ -3725,6 +3725,7 @@ dcl14-ncg0-phx3.na93-ph2.salesforce.com
 dcl14-ncg0-phx3.na95-ph2.my.salesforce.com
 dcl14-ncg0-phx3.na96-ph2.salesforce.com
 dcl14-ncg0-phx3.umps1-c4-ph2.salesforce.com
+dcl15-fra.monitor-fra.salesforce.com
 dcl15-ncg0-iad3.cs1-ia2.my.salesforce.com
 dcl15-ncg0-iad3.cs1-ia2.salesforce.com
 dcl15-ncg0-iad3.cs22-ia2.salesforce.com
@@ -4517,6 +4518,7 @@ dcl3-hnd.cs76-hnd.my.salesforce.com
 dcl3-hnd.hnd.edge.salesforce.com
 dcl3-hnd.login.salesforce.com
 dcl3-ia2.monitor-ia2.salesforce.com
+dcl3-ia4.monitor-ia4.salesforce.com
 dcl3-iad.ajna0-funnel1-0-iad.salesforce.com
 dcl3-iad.beacon-iad.salesforce.com
 dcl3-iad.cs17-iad.my.salesforce.com
@@ -4975,7 +4977,6 @@ dcl4-dfw.umps4-c1-dfw.salesforce.com
 dcl4-dfw.umps4-c2-dfw.salesforce.com
 dcl4-dfw.umps4-c3-dfw.salesforce.com
 dcl4-dfw.umps4-c4-dfw.salesforce.com
-dcl4-fra.monitor-fra.salesforce.com
 dcl4-frf.cbox.umps1-c1-frf.salesforce.com
 dcl4-frf.cbox.umps1-c2-frf.salesforce.com
 dcl4-frf.cbox.umps1-c3-frf.salesforce.com
@@ -5037,6 +5038,7 @@ dcl4-hnd.monitor-hnd.salesforce.com
 dcl4-hnd.umps1-c1-hnd.salesforce.com
 dcl4-hnd.umps1-c3-hnd.salesforce.com
 dcl4-ia2.monitor-ia2.salesforce.com
+dcl4-ia4.monitor-ia4.salesforce.com
 dcl4-iad.cs15-iad.salesforce.com
 dcl4-iad.cs16-iad.salesforce.com
 dcl4-iad.cs18-iad.salesforce.com
@@ -6734,7 +6736,6 @@ dcl7-ncg1-c6-iad5.na174-ia5.salesforce.com
 dcl7-ord.cs17-ord.salesforce.com
 dcl7-ord.cs64-ord.my.salesforce.com
 dcl7-ord.cs65-ord.my.salesforce.com
-dcl7-ord.cs67-ord.my.salesforce.com
 dcl7-ord.cs78-ord.salesforce.com
 dcl7-ord.cs93-ord.my.salesforce.com
 dcl7-ord.dchbase0b-qnds1-0-ord.salesforce.com
@@ -7045,7 +7046,6 @@ dcl8-ncg0-fra3.umps1-c4-fra.salesforce.com
 dcl8-ncg0-iad3.cs22-ia2.salesforce.com
 dcl8-ncg0-iad3.cs24-ia2.salesforce.com
 dcl8-ncg0-iad3.cs29-ia2.my.salesforce.com
-dcl8-ncg0-iad3.cs35-ia2.my.salesforce.com
 dcl8-ncg0-iad3.cs37-ia2.my.salesforce.com
 dcl8-ncg0-iad3.cs37-ia2.salesforce.com
 dcl8-ncg0-iad3.cs44-ia2.salesforce.com
@@ -7129,7 +7129,6 @@ dcl8-ncg0-phx3.na82-ph2.my.salesforce.com
 dcl8-ncg0-phx3.na82-ph2.salesforce.com
 dcl8-ncg0-phx3.na89-ph2.my.salesforce.com
 dcl8-ncg0-phx3.na89-ph2.salesforce.com
-dcl8-ncg0-phx3.na90-ph2.salesforce.com
 dcl8-ncg0-phx3.na97-ph2.my.salesforce.com
 dcl8-ncg0-phx3.na97-ph2.salesforce.com
 dcl8-ncg0-phx3.na98-ph2.my.salesforce.com
@@ -7215,7 +7214,6 @@ dcl8-ord.cs77-ord.g0-phx3.cs42-ph2.salesforce.com
 dcl8-ord.cs77-ord.my.salesforce.com
 dcl8-ord.cs79-ord.my.salesforce.com
 dcl8-ord.cs94-ord.my.salesforce.com
-dcl8-ord.cs96-ord.my.salesforce.com
 dcl8-ord.cs97-ord.my.salesforce.com
 dcl8-ord.cs97-ord.salesforce.com
 dcl8-ord.cs994-ord.my.salesforce.com
@@ -7350,6 +7348,8 @@ dcl8-ukb.umps1-c1-ukb.salesforce.com
 dcl8-ukb.umps1-c2-ukb.salesforce.com
 dcl8-ukb.umps1-c3-ukb.salesforce.com
 dcl8-ukb.umps1-c4-ukb.salesforce.com
+dcl9-fra.monitor-fra.salesforce.com
+dcl9-ia5.monitor-ia5.salesforce.com
 dcl9-ncg0-iad3.cs1-ia2.salesforce.com
 dcl9-ncg0-iad3.cs28-ia2.my.salesforce.com
 dcl9-ncg0-iad3.cs28-ia2.salesforce.com
@@ -8939,10 +8939,8 @@ mobilejourney.internal.salesforce.com
 mohawk360.my.salesforce.com
 moloch-hunter.internal.salesforce.com
 monitfw.dfw.r.salesforce.com
-monitor-cdg.salesforce.com
 monitor-dfw.salesforce.com
 monitor-hio.salesforce.com
-monitor-ia5.salesforce.com
 monitor-iad.iad.r.salesforce.com
 monitor-lo2.lo2.r.salesforce.com
 monitor-lo2.salesforce.com
@@ -13195,6 +13193,7 @@ zzzx-dev.cccnp0002.cnp-dev.commercecloud.salesforce.com
 zzzx-stg.cccnp0001.cnp-dev.commercecloud.salesforce.com
 zzzy-dev.stg.dx.commercecloud.salesforce.com
 zzzy-prd.cccnp0002.cnp-dev.commercecloud.salesforce.com
+zzzz-001.cccnp0002.cnp-dev.commercecloud.salesforce.com
 zzzz-001.sandbox.cccnp0002.cnp-dev.commercecloud.salesforce.com
 zzzz-001.sandbox.cccnp0003.cnp-dev.commercecloud.salesforce.com
 zzzz-004.sandbox.cccnp0001.cnp-dev.commercecloud.salesforce.com
