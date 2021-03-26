@@ -64,7 +64,9 @@ awapi-cert.starbucks.com
 awapi.starbucks.com
 awb-nonprod.starbucks.com
 awb.starbucks.com
+awcm-cert.starbucks.com
 awcm.gtm.starbucks.com
+awcm.starbucks.com
 awconsole-cert.gtm.starbucks.com
 awconsole-cert.starbucks.com
 awconsole.starbucks.com
@@ -749,6 +751,10 @@ outlook-iad.starbucks.com
 outlook.starbucks.com
 outlookaddin.starbucks.com
 p01-1-ag.productioncontroller.starbucks.com
+p01-2-ag.productioncontroller.starbucks.com
+p01-3-ag.productioncontroller.starbucks.com
+p01-ag.productioncontroller.starbucks.com
+p01-tm.productioncontroller.starbucks.com
 p01.productioncontroller-lb.starbucks.com
 p01.productioncontroller-splunkforwarder.starbucks.com
 p1-031156.e.starbucks.com
@@ -1059,6 +1065,7 @@ splunkforwarder.productioncontroller.starbucks.com
 splunkforwarders02.productioncontroller.starbucks.com
 splunkforwarders03.productioncontroller.starbucks.com
 ss.cdx.starbucks.com
+ssa.productioncontroller.starbucks.com
 sso-group-chd.starbucks.com
 sso-group.starbucks.com
 sso-group0-chd.starbucks.com

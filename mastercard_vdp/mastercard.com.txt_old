@@ -1318,6 +1318,8 @@ del-stripe1.in.gateway.mastercard.com
 del-stripe2.in.gateway.mastercard.com
 del.bounce0.mastercard.com
 del.in.gateway.mastercard.com
+del.sa.api.mi.mastercard.com
+del.sa.customer.mastercard.com
 deliverygateways.mastercard.com
 demo.citi.sso.signer.mastercard.com
 demo.content.truaxis.mastercard.com
@@ -1403,6 +1405,8 @@ dtlmas.mastercard.com
 dtlmol.mastercard.com
 dxb.edw.customer.mastercard.com
 dxb.edw.services.mastercard.com
+dxb.mea.api.mastercard.com
+dxb.mea.customer.mastercard.com
 dxb.mea.mpls.switch.mastercard.com
 dxb.prod.ftx.edwmea.mastercard.com
 dxp.mastercard.com
@@ -2561,6 +2565,8 @@ pnq-stripe1.in.gateway.mastercard.com
 pnq-stripe2.in.gateway.mastercard.com
 pnq.bounce0.mastercard.com
 pnq.in.gateway.mastercard.com
+pnq.sa.api.mi.mastercard.com
+pnq.sa.customer.mastercard.com
 pocztowy.mtf.pclo.mastercard.com
 portal.izapp.mastercard.com
 portal.zapp.mastercard.com
@@ -2713,6 +2719,8 @@ remote.files.mastercard.com
 reports.communitypass.mastercard.com
 restaurant.mastercard.com
 rhb.gateway.mastercard.com
+ri-ctck-client-mtf.mastercard.com
+ri-ctck-client-prd.mastercard.com
 ri-ctck-client.mastercard.com
 roadtomilan.mastercard.com
 rppsmtf.mastercard.com

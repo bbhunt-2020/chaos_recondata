@@ -11,6 +11,7 @@ authn.concedo.stg.data-platform.myteksi.net
 authz.concedo.data-platform.myteksi.net
 authz.concedo.stg.data-platform.myteksi.net
 aws-police-prd.internal-tools.myteksi.net
+aws-police-stg.internal-tools.myteksi.net
 aws.myteksi.net
 ba-01.presto-monitor.data-engineering.myteksi.net
 ba-02.presto-monitor.data-engineering.myteksi.net

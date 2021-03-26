@@ -3955,6 +3955,7 @@ priv.infr01.gigadev.telekom.de
 priv.kirill.gigadev.telekom.de
 priv.kirill2.gigadev.telekom.de
 priv.mp-logstack.gigadev.telekom.de
+priv.mparkans.gigadev.telekom.de
 priv.pacman.gigadev.telekom.de
 prl-dev.telekom.de
 prl-test.telekom.de
@@ -4075,6 +4076,7 @@ pub.infr01.gigadev.telekom.de
 pub.kirill.gigadev.telekom.de
 pub.kirill2.gigadev.telekom.de
 pub.mp-logstack.gigadev.telekom.de
+pub.mparkans.gigadev.telekom.de
 pub.pacman.gigadev.telekom.de
 public-qa.telekom.de
 public-qa2.telekom.de
@@ -5084,6 +5086,7 @@ teammate-prod.telekom.de
 technik.telekom.de
 technikertermin.telekom.de
 techradar.telekom.de
+teeks-cluster.dev.mah.telekom.de
 tel-it.b2b.telekom.de
 tele-planet.b2b.telekom.de
 telekom-training.telekom.de

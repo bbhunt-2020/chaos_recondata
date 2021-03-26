@@ -53,6 +53,7 @@ internal.ap-south-1.operations.midgar.gm.pai.mypaytm.com
 internal.ap-south-1.production.lending.mypaytm.com
 internal.ap-south-1.production.midgar.gm.pai.mypaytm.com
 internal.ap-south-1.production.money.gm.pai.mypaytm.com
+internal.ap-south-1.production.osmose.risk.pai.mypaytm.com
 internal.ap-south-1.production.push.gm.pai.mypaytm.com
 internal.ap-south-1.staging-new.midgar.gm.pai.mypaytm.com
 internal.ap-south-1.staging.labs.sre.pai.mypaytm.com

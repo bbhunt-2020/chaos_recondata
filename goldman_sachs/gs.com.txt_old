@@ -126,6 +126,7 @@ assetmanagement-litorder-qa.gs.com
 assetmanagement-litorder.gs.com
 assetmanagement-qa.gs.com
 assetmanagement.gs.com
+atlassian.devcollab.gs.com
 audio.gs.com
 authn-qa.web.gs.com
 authn.web.gs.com
@@ -275,6 +276,7 @@ colorvehiclewrap.gs.com
 commod-ng-edi.gs.com
 commodore.gs.com
 confluence.dev.atlassian.devcollab.gs.com
+confluence.devcollab.gs.com
 confluence.qa.atlassian.devcollab.gs.com
 confluence.uat.atlassian.devcollab.gs.com
 connectibd.gs.com
@@ -628,6 +630,7 @@ japan-login.gs.com
 jicaigai2508.pp.163.gs.com
 jira.commercial-banking.site.gs.com
 jira.dev.atlassian.devcollab.gs.com
+jira.devcollab.gs.com
 jira.marquee.site.gs.com
 jira.qa.atlassian.devcollab.gs.com
 jira.risk.site.gs.com
@@ -635,6 +638,8 @@ jira.rl.site.gs.com
 jira.space.site.gs.com
 jira.sre.site.gs.com
 jira.uat.atlassian.devcollab.gs.com
+jira2.devcollab.gs.com
+jira3.devcollab.gs.com
 jswzdh.hbzq1688.gs.com
 keogq.rnbyl0357.gs.com
 khammamguru.gs.com
@@ -696,6 +701,7 @@ mail1.uk.enotifications.gs.com
 mail1uat.uk.enotifications.gs.com
 mailin2.gs.com
 mailqa.ny.email.gs.com
+marcus.jira.devcollab.gs.com
 marketing.gs.com
 markets-qa.gs.com
 markets.gs.com

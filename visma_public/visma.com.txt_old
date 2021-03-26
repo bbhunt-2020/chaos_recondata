@@ -73,6 +73,7 @@ api.public.barnehage.testaws.visma.com
 api.service.barnehage.prodaws.visma.com
 api.service.barnehage.stagaws.visma.com
 api.service.barnehage.testaws.visma.com
+api.service.worker.barnehage.stagaws.visma.com
 api.service.worker.barnehage.testaws.visma.com
 api.severa.stag.visma.com
 api.superofficeaws.visma.com
@@ -269,6 +270,7 @@ homecare-route-planner.visma.com
 hr-portal.visma.com
 hubble.appsec.visma.com
 hubble.int.appsec.visma.com
+hubble.stag.appsec.visma.com
 iesharepointext.nl.visma.com
 ietest.nl.visma.com
 im.visma.com
@@ -570,6 +572,7 @@ verify.api.public.barnehage.testaws.visma.com
 verify.api.service.barnehage.prodaws.visma.com
 verify.api.service.barnehage.stagaws.visma.com
 verify.api.service.barnehage.testaws.visma.com
+verify.api.service.worker.barnehage.stagaws.visma.com
 verify.api.service.worker.barnehage.testaws.visma.com
 verify.api.tools.barnehage.prodaws.visma.com
 verify.api.tools.barnehage.stagaws.visma.com
@@ -656,6 +659,7 @@ www.dropnbook.visma.com
 www.efficiency.visma.com
 www.ekstern.vuq.visma.com
 www.hubble.appsec.visma.com
+www.hubble.stag.appsec.visma.com
 www.jira.staging.visma.com
 www.jira.visma.com
 www.kretailno.visma.com

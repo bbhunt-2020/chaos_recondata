@@ -291,6 +291,7 @@ devpmt-819.pmt-staging.pantheon.io
 devpmt-839-update-to-laravel-6.pmt-staging.pantheon.io
 devpmt-843-implement-static-ip.pmt-staging.pantheon.io
 devpmt-844-increase-max-execution-time.pmt-staging.pantheon.io
+devpmt-853-fix-integration-testing.pmt-staging.pantheon.io
 discover.pantheon.io
 discuss.pantheon.io
 edge-cache-clearer.production.cluster-01.us-central1.internal.k8s.pantheon.io

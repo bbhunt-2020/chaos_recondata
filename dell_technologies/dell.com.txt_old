@@ -6899,7 +6899,6 @@ click1.extendedservices.dell.com
 clicksoftware.dell.com
 client-dev.us.dell.com
 client-staging.us.dell.com
-client.dell.com
 client.us.dell.com
 clientshare.dell.com
 clientshare.ins.dell.com
@@ -14747,6 +14746,7 @@ ps-productbrowse.us.dell.com
 ps-qto.us.dell.com
 ps-qtoservice.us.dell.com
 ps-rcommerce.us.dell.com
+ps-rp.dell.com
 ps-search.us.dell.com
 ps-searcheuro.us.dell.com
 ps-smtp-out.us.dell.com

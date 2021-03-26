@@ -219,6 +219,7 @@ auth-gray.huaweicloud.com
 auth-intl.huaweicloud.com
 auth.huaweicloud.com
 auth.jrzq.huaweicloud.com
+auth.petalpay.huaweicloud.com
 auth1.waf.huaweicloud.com
 b057e58fdaec4400a37d6964b8a4a7ef.waf.huaweicloud.com
 b080e9b01ff1480996a31cf775f7e2c5.waf.huaweicloud.com
@@ -264,6 +265,7 @@ cn-east-201.jrzq.huaweicloud.com
 cn-north-1.huaweicloud.com
 cn-north-219-console.jrzq.huaweicloud.com
 cn-north-219.jrzq.huaweicloud.com
+cn-north-260.petalpay.huaweicloud.com
 cn-south-1.huaweicloud.com
 cn-south-2.huaweicloud.com
 cn-southwest-2-console.huaweicloud.com
@@ -277,6 +279,7 @@ console-intl.huaweicloud.com
 console-static-intl.huaweicloud.com
 console-static.huaweicloud.com
 console.huaweicloud.com
+console.petalpay.huaweicloud.com
 console1.waf.huaweicloud.com
 coreops.huaweicloud.com
 d1112bb66cb14d2cb76e139a907c5f64.waf.huaweicloud.com
@@ -304,6 +307,7 @@ device-naas3.huaweicloud.com
 device-naassz.huaweicloud.com
 dl.devcloud.huaweicloud.com
 docs.jrzq.huaweicloud.com
+docs.petalpay.huaweicloud.com
 e038af8ba1504821adb3ab117682c554.waf.huaweicloud.com
 e3d1b654b4804a0ca64b45edb7983bc2.waf.huaweicloud.com
 e41baa620f9645dba2e000fc8ece631c.waf.huaweicloud.com
@@ -396,12 +400,15 @@ naas3.huaweicloud.com
 naasdev-ru.huaweicloud.com
 naassz.huaweicloud.com
 obs-website.cn-north-219.jrzq.huaweicloud.com
+obs-website.cn-north-260.petalpay.huaweicloud.com
 obs-website.cn-southwest-6049.luzhouzwy01.gov.huaweicloud.com
 obs.chongqing.gov.huaweicloud.com
 obs.cn-north-219.jrzq.huaweicloud.com
+obs.cn-north-260.petalpay.huaweicloud.com
 obs.cn-southwest-6049.luzhouzwy01.gov.huaweicloud.com
 obs.jrzq.huaweicloud.com
 obs.luzhouzwy01.gov.huaweicloud.com
+obs.petalpay.huaweicloud.com
 opensource.huaweicloud.com
 opscenter.huaweicloud.com
 opsonar.huaweicloud.com

@@ -47,3 +47,5 @@ ods-ui.solaris.test.services.tomtom.com
 direct-load-exclusive-pois.cmr.tomtomgroup.com
 ttomsd-glb.pu-maps.aws-eu-west-1.cmr.tomtomgroup.com
 connect-test.tomtomgroup.com
+pancakes-api.sec.ad.tomtomgroup.com
+pancakes.sec.ad.tomtomgroup.com

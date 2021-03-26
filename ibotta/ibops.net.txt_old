@@ -58,6 +58,7 @@ c9.us-east-1.staging.microservices.staging.ibops.net
 catalog.ibops.net
 catalog.int.staging.ibops.net
 cats.us-east-1.staging.payments.pay.staging.ibops.net
+charts-staging.ops.int.ibops.net
 charts.ops.int.ibops.net
 content-retargeting-canary.int.ibops.net
 content-server-canary.int.ibops.net

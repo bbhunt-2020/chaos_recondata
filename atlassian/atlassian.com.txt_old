@@ -141,6 +141,7 @@ global-ad.office.atlassian.com
 global-edge-custom.atlassian.com
 go-dvcs.atlassian.com
 go.atlassian.com
+go4.atlassian.com
 goodsoftwaredocs.services.atlassian.com
 goscontgo.atlassian.com
 gotest.atlassian.com
@@ -325,6 +326,7 @@ ssam.office-stg.atlassian.com
 ssam.office.atlassian.com
 ssam.stg.office.atlassian.com
 staging-bamboo.internal.atlassian.com
+staging.community.developer.atlassian.com
 stash.atlassian.com
 stash.dev.internal.atlassian.com
 status.atlassian.com

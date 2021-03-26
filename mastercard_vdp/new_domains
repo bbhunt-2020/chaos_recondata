@@ -38,3 +38,11 @@ inbound.gateway.stg.mastercard.com
 caas-thales-ob-mercado-mtf.mastercard.com
 caas-thales-ob-mercado.mastercard.com
 stage.marketing.user.cli.mastercard.com
+ri-ctck-client-mtf.mastercard.com
+dxb.mea.api.mastercard.com
+pnq.sa.customer.mastercard.com
+dxb.mea.customer.mastercard.com
+del.sa.api.mi.mastercard.com
+ri-ctck-client-prd.mastercard.com
+pnq.sa.api.mi.mastercard.com
+del.sa.customer.mastercard.com
