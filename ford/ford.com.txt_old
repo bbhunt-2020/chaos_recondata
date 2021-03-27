@@ -721,7 +721,6 @@ chi-wg-145.chi.ford.com
 chi-wg-147.chi.ford.com
 chi-wg-148.chi.ford.com
 chi-wg-149.chi.ford.com
-chi-wg-156.chi.ford.com
 chi-wg-157.chi.ford.com
 chi-wg-160.chi.ford.com
 chi-wg-162.chi.ford.com
@@ -4759,6 +4758,7 @@ utilities.dcds.ford.com
 utilities.udb.ford.com
 utilitiesedu.dcds.ford.com
 utilitiesqa.dcds.ford.com
+vaccine.ford.com
 vadr-ui-dev.apps.cl-east-dev02.cf.ford.com
 vamos.ford.com
 vanityurl.pcf.ford.com
@@ -6064,6 +6064,7 @@ wlrr.ford.com
 workingcondition.ford.com
 workremotely.ford.com
 worktech-api-gateway-qa.ford.com
+worktech-archibus-service-dev.ford.com
 worktech-auth-service.ford.com
 worktech-covidreportingservice-qa.ford.com
 worktech.ford.com.ford.com
@@ -8262,6 +8263,7 @@ wwwdev.ui.armr.ford.com
 wwwdev.uptime.ford.com
 wwwdev.urs.ford.com
 wwwdev.usw2online.ford.com
+wwwdev.vacine.ford.com
 wwwdev.vadr.ford.com
 wwwdev.vamos.ford.com
 wwwdev.vanityprodtest.ford.com

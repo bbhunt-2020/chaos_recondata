@@ -63,7 +63,6 @@
 14cdn.antivirus.goodrx.com
 14dev.goodrx.com
 14m.antivirus-applebees.goodrx.com
-15-antivirus-applebees.goodrx.com
 15-apfm.goodrx.com
 15-apsit.antivirus.goodrx.com
 15-dentalplans.goodrx.com
@@ -119,7 +118,6 @@
 18-www.antiviruskfb.goodrx.com
 18.antivirus-edu.goodrx.com
 18.antivirus-smartrx.goodrx.com
-18.antivirus.goodrx.com
 18.dentalplansantivirus.goodrx.com
 18.goodrx.com
 18.m.workmarket.antivirus.goodrx.com
@@ -170,7 +168,6 @@
 20.www.antiviruskfb.goodrx.com
 2009-m.antivirus-applebees.goodrx.com
 2009-o3.antivirus-email.goodrx.com
-2009-workmarket.antivirus.goodrx.com
 2009.antivirus.goodrx.com
 2009.secure.antivirus.goodrx.com
 2009.www.antiviruskfb.goodrx.com
@@ -3331,6 +3328,7 @@ cwf-addsembed-5a35b4d6.dev.uw2.eng.goodrx.com
 cwf-aexgro246segmente-720b6e4c.dev.uw2.eng.goodrx.com
 cwf-aexgro264successm-e2fb9278.dev.uw2.eng.goodrx.com
 cwf-aexgro334-e1834c9e.dev.uw2.eng.goodrx.com
+cwf-applitoolsgithub-7a25ba8d.dev.uw2.eng.goodrx.com
 cwf-backingoutdesdonr-736e1d3f.dev.uw2.eng.goodrx.com
 cwf-bifrostregisterle-79b7895d.dev.uw2.eng.goodrx.com
 cwf-bodee2estagingdep-207bc9bb.dev.uw2.eng.goodrx.com
@@ -3357,9 +3355,11 @@ cwf-featsignupheaderf-68232894.dev.uw2.eng.goodrx.com
 cwf-featvaccinetracke-d6867123.dev.uw2.eng.goodrx.com
 cwf-fep626-d274314d.dev.uw2.eng.goodrx.com
 cwf-fep626ddpino-1ead3d4a.dev.uw2.eng.goodrx.com
+cwf-fixdefectsdemo-0597e711.dev.uw2.eng.goodrx.com
 cwf-fixes-bd7b9100.dev.uw2.eng.goodrx.com
 cwf-fixhamburgerstyli-73fa431e.dev.uw2.eng.goodrx.com
 cwf-fixhomepagesignin-7add04af.dev.uw2.eng.goodrx.com
+cwf-fixintegrationcon-fcd37132.dev.uw2.eng.goodrx.com
 cwf-fixloadingicons-757ee6cc.dev.uw2.eng.goodrx.com
 cwf-fixstagindeploy-62143be1.dev.uw2.eng.goodrx.com
 cwf-fixvaccinefindero-bb7e0305.dev.uw2.eng.goodrx.com

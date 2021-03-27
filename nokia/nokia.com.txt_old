@@ -4629,6 +4629,8 @@ cl.sit2.shop.nokia.com
 cl.uat.shop.nokia.com
 click.cmail.nokia.com
 clientsmtp.nokia.com
+cloud-directory-gl.app.nokia.com
+cloud-directory-us-gl.app.nokia.com
 cloud-directory.app.nokia.com
 cloud-directory.qa.app.nokia.com
 cloud-lab.ext.net.nokia.com
@@ -5705,6 +5707,7 @@ eks-mo-new.csfp.dev.software.nokia.com
 eks-mo.csfp.dev.software.nokia.com
 eks-stab.csfp.dev.software.nokia.com
 eksosb.csfp.dev.software.nokia.com
+eleaveglobal-test.ext.net.nokia.com
 eleaveglobal-test.int.net.nokia.com
 eleaveglobal.int.net.nokia.com
 elk-mika.nokia.com
@@ -9835,7 +9838,6 @@ sa-147-243-188-51.nokia.com
 sa-147-243-188-52.nokia.com
 sa-147-243-188-53.nokia.com
 sa-147-243-188-54.nokia.com
-sa-147-243-188-55.nokia.com
 sa-147-243-188-56.nokia.com
 sa-147-243-188-57.nokia.com
 sa-147-243-188-59.nokia.com
@@ -10021,7 +10023,6 @@ sa-147-243-189-40.nokia.com
 sa-147-243-189-41.nokia.com
 sa-147-243-189-42.nokia.com
 sa-147-243-189-43.nokia.com
-sa-147-243-189-44.nokia.com
 sa-147-243-189-45.nokia.com
 sa-147-243-189-46.nokia.com
 sa-147-243-189-47.nokia.com
@@ -10111,7 +10112,6 @@ sa-147-243-190-146.nokia.com
 sa-147-243-190-148.nokia.com
 sa-147-243-190-149.nokia.com
 sa-147-243-190-15.nokia.com
-sa-147-243-190-153.nokia.com
 sa-147-243-190-154.nokia.com
 sa-147-243-190-155.nokia.com
 sa-147-243-190-156.nokia.com
@@ -10237,9 +10237,6 @@ sa-147-243-190-62.nokia.com
 sa-147-243-190-63.nokia.com
 sa-147-243-190-64.nokia.com
 sa-147-243-190-65.nokia.com
-sa-147-243-190-68.nokia.com
-sa-147-243-190-69.nokia.com
-sa-147-243-190-70.nokia.com
 sa-147-243-190-71.nokia.com
 sa-147-243-190-72.nokia.com
 sa-147-243-190-73.nokia.com
@@ -10387,7 +10384,6 @@ sa-147-243-191-236.nokia.com
 sa-147-243-191-238.nokia.com
 sa-147-243-191-239.nokia.com
 sa-147-243-191-240.nokia.com
-sa-147-243-191-241.nokia.com
 sa-147-243-191-242.nokia.com
 sa-147-243-191-243.nokia.com
 sa-147-243-191-244.nokia.com
@@ -10400,7 +10396,6 @@ sa-147-243-191-26.nokia.com
 sa-147-243-191-29.nokia.com
 sa-147-243-191-3.nokia.com
 sa-147-243-191-30.nokia.com
-sa-147-243-191-31.nokia.com
 sa-147-243-191-32.nokia.com
 sa-147-243-191-33.nokia.com
 sa-147-243-191-34.nokia.com
@@ -10425,7 +10420,6 @@ sa-147-243-191-55.nokia.com
 sa-147-243-191-57.nokia.com
 sa-147-243-191-58.nokia.com
 sa-147-243-191-59.nokia.com
-sa-147-243-191-6.nokia.com
 sa-147-243-191-60.nokia.com
 sa-147-243-191-61.nokia.com
 sa-147-243-191-63.nokia.com

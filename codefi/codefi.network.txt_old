@@ -857,6 +857,7 @@ assets-assets-api-feat-invitation-email.dev.codefi.network
 assets-assets-api-feat-migrate-metadata.dev.codefi.network
 assets-assets-api-feat-redocs-documentation.dev.codefi.network
 assets-assets-api-feat-transactions-and-aum.dev.codefi.network
+assets-assets-api-feat-users-fetching.dev.codefi.network
 assets-assets-api-fix-client-app-migration.dev.codefi.network
 assets-assets-api-fix-config-comments.dev.codefi.network
 assets-assets-api-fix-config.dev.codefi.network

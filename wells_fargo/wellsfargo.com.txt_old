@@ -2239,6 +2239,7 @@ currencyteller-prod.wellsfargo.com
 currencyteller.wellsfargo.com
 curzon.wellsfargo.com
 customertoolsinternal.wellsfargo.com
+cuvra01a1973.wellsfargo.com
 cuvrm01a0011.wellsfargo.com
 cuvrm01a0012.wellsfargo.com
 cuvrm01a0111.wellsfargo.com
@@ -6088,6 +6089,7 @@ online.staging.wellsfargo.com
 online.wellsfargo.com
 onlinedecisiontool-uat.ceo.wellsfargo.com
 onlinedecisiontool-uat.wellsfargo.com
+onlinedecisiontool.ceo.wellsfargo.com
 onlinedecisiontool.g.wellsfargo.com
 onlinedecisiontool.wellsfargo.com
 onlinedecisiontools-uat.wellsfargo.com
@@ -8690,6 +8692,7 @@ wellstradebroker.wellsfargo.com
 wellstradefix.wellsfargo.com
 wellstradeuat.wellsfargo.com
 wellstrust.wellsfargo.com
+wellstrustfix.ceo.wellsfargo.com
 wellstrustfix.wellsfargo.com
 wellstrustuat.wellsfargo.com
 wellsupdate.wellsfargo.com

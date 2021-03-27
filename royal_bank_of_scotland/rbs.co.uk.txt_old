@@ -55,6 +55,7 @@ app.feeder-account.rbs.co.uk
 app.import-letter-of-credit.rbs.co.uk
 app.liquidity-manager.rbs.co.uk
 app.one-card.rbs.co.uk
+app.recovery-loan-scheme.rbs.co.uk
 app.repayment-holiday-extension.rbs.co.uk
 app.repayment-holiday-options.rbs.co.uk
 app.small-business-loan.rbs.co.uk
@@ -497,6 +498,7 @@ www.app.feeder-account.rbs.co.uk
 www.app.import-letter-of-credit.rbs.co.uk
 www.app.liquidity-manager.rbs.co.uk
 www.app.one-card.rbs.co.uk
+www.app.recovery-loan-scheme.rbs.co.uk
 www.app.repayment-holiday-extension.rbs.co.uk
 www.app.repayment-holiday-options.rbs.co.uk
 www.app.small-business-loan.rbs.co.uk

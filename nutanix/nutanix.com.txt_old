@@ -307,6 +307,7 @@ deployment-update-tavern.dev.dev-iam.xi.nutanix.com
 deployment-update-template.dev.dev-iam.xi.nutanix.com
 deployment-upgrade-bootstrap.dev.dev-iam.xi.nutanix.com
 deployment-whitelist-logout.dev.dev-iam.xi.nutanix.com
+design.nutanix.com
 dev-apikeys.nutanix.com
 dev-billing-api.nutanix.com
 dev-billing-jobs.nutanix.com
@@ -1210,6 +1211,7 @@ terminal-staging.console.nutanix.com
 terminal-staging.mcm.nutanix.com
 terminal-staging.staging.frame.nutanix.com
 terminal.console.nutanix.com
+test-api.xready.nutanix.com
 test-apikeys.nutanix.com
 test-billing-api.nutanix.com
 test-billing-jobs.nutanix.com
@@ -1226,6 +1228,7 @@ test.pricer.nutanix.com
 test.saas.nutanix.com
 test.salesportal.nutanix.com
 test.xpress.nutanix.com
+test.xready.nutanix.com
 testdrive.aos.nutanix.com
 testdrive.leap.nutanix.com
 testdrive.nutanix.com
@@ -1436,6 +1439,7 @@ ui-circle-migration.dev.dev-iam.xi.nutanix.com
 ui-design-fnf.dev.dev-iam.xi.nutanix.com
 ui-eng-278561.dev.dev-iam.xi.nutanix.com
 ui-eng-308793.dev.dev-iam.xi.nutanix.com
+ui-eng-318641.dev.dev-iam.xi.nutanix.com
 ui-eng-321657-v2.dev.dev-iam.xi.nutanix.com
 ui-eng-321657.dev.dev-iam.xi.nutanix.com
 ui-eng-322926.dev.dev-iam.xi.nutanix.com
@@ -1631,6 +1635,7 @@ user-authn-ossgaapis.dev.dev-iam.xi.nutanix.com
 user-authn-pc-logout.dev.dev-iam.xi.nutanix.com
 user-authn-perf.dev.dev-iam.xi.nutanix.com
 user-authn-provider-details.dev.dev-iam.xi.nutanix.com
+user-authn-recursivesearch-e.dev.dev-iam.xi.nutanix.com
 user-authn-redirect-test.dev.dev-iam.xi.nutanix.com
 user-authn-release.dev.dev-iam.xi.nutanix.com
 user-authn-revert-diruuid.dev.dev-iam.xi.nutanix.com

@@ -62,6 +62,7 @@ internal.ap-south-1.staging.money.gm.pai.mypaytm.com
 internal.ap-south-1.staging.osmose.risk.pai.mypaytm.com
 internal.ap-south-1.staging.push.gm.pai.mypaytm.com
 internal.us-east-2.development.osmose.risk.pai.mypaytm.com
+internal.us-west-2.production.hero.risk.pai.mypaytm.com
 internal.us-west-2.staging.hero.risk.pai.mypaytm.com
 jenkins-daasapps.mypaytm.com
 jira.mypaytm.com

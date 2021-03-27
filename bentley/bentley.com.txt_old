@@ -1641,6 +1641,7 @@ pdf-uks.qa-pwdm.bentley.com
 pdf.dev-pwdm.bentley.com
 pdf.pwdm.bentley.com
 pdf.qa-pwdm.bentley.com
+pdfmarkup.bentley.com
 perf-bcsf.bentley.com
 perf-connect-agreementportalwebapp-staging.bentley.com
 perf-connect-agreementportalwebapp.bentley.com
@@ -1775,9 +1776,11 @@ portal-aue-staging.pwdm.bentley.com
 portal-aue.pwdm.bentley.com
 portal-cac-staging.pwdm.bentley.com
 portal-cac.pwdm.bentley.com
+portal-eus-staging.dev-projectwise365.bentley.com
 portal-eus-staging.dev-pwdm.bentley.com
 portal-eus-staging.pwdm.bentley.com
 portal-eus-staging.qa-pwdm.bentley.com
+portal-eus.dev-projectwise365.bentley.com
 portal-eus.dev-pwdm.bentley.com
 portal-eus.pwdm.bentley.com
 portal-eus.qa-pwdm.bentley.com
@@ -1785,9 +1788,11 @@ portal-neu-staging.pwdm.bentley.com
 portal-neu.pwdm.bentley.com
 portal-sea-staging.pwdm.bentley.com
 portal-sea.pwdm.bentley.com
+portal-uks-staging.dev-projectwise365.bentley.com
 portal-uks-staging.dev-pwdm.bentley.com
 portal-uks-staging.pwdm.bentley.com
 portal-uks-staging.qa-pwdm.bentley.com
+portal-uks.dev-projectwise365.bentley.com
 portal-uks.dev-pwdm.bentley.com
 portal-uks.pwdm.bentley.com
 portal-uks.qa-pwdm.bentley.com

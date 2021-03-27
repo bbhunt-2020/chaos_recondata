@@ -44,6 +44,7 @@ api.staging.global.druid.shopifykloud.com
 archiva.playground.shopifykloud.com
 autoscale-memory-coordinator.presto.shopifykloud.com
 autoscale-memory.presto.shopifykloud.com
+axels-test.shopify-data-presto-global.shopifykloud.com
 azkaban-muto-web.playground.shopifykloud.com
 azkaban-test-4-web.data-acq.shopifykloud.com
 azkaban-test-web.azkaban.shopifykloud.com

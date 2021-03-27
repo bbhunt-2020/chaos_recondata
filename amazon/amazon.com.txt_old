@@ -9786,7 +9786,6 @@ ap-northeast-3.lightsail.aws.amazon.com
 ap-northeast-3.prod.signer.console-api.aws.amazon.com
 ap-south-1.aws-signin-testing.amazon.com
 ap-south-1.beta.acm-certificates.amazon.com
-ap-south-1.gamma.signer.console-api.aws-dev.amazon.com
 ap-south-1.lightsail-preprod.aws.amazon.com
 ap-south-1.quicksight.aws.amazon.com
 ap-southeast-1-onebox.quicksight.aws.amazon.com
@@ -9821,8 +9820,6 @@ apcs-eu-gamma.dub.amazon.com
 apcs-eu.dub.amazon.com
 apcs-gamma-eu.dub.amazon.com
 apds-o8w-na-pdx-d-tcp.integ.amazon.com
-ape-dyad-service-eu.amazon.com
-ape-dyad-service-na-tcp.amazon.com
 ape-dyad-service-na.amazon.com
 ape-dyad-service.us-east-1.amazon.com
 ape-eu.amazon.com
@@ -9865,7 +9862,6 @@ api-onebox.eu-west-1.quicksight.aws.amazon.com
 api-onebox.us-east-1.quicksight.aws.amazon.com
 api-onebox.us-west-2.quicksight.aws.amazon.com
 api-optimus-beta.aka.amazon.com
-api-preprod.amazon.com
 api-preview.us-east-1.quicksight.aws.amazon.com
 api-stories.amazon.com
 api-suicksight.aws.amazon.com
@@ -11240,6 +11236,7 @@ cdws-sln-pdx-d.integ.amazon.com
 cdws.eu-west-1.amazon.com
 cdws.us-west-2.amazon.com
 cefeedback-corp.aea.amazon.com
+celebrate.corp.amazon.com
 cell0.us-east-1.beta.signer.console-api.aws-dev.amazon.com
 cenports.signin.aws.amazon.com
 centralflow.corp.amazon.com
@@ -13955,6 +13952,7 @@ gil-us-uat.amazon.com
 gisportal.corp.amazon.com
 git-ezticket-ui-beta.corp.amazon.com
 git-ezticket-ui-prod.corp.amazon.com
+gitfarm-alpha-sso.corp.amazon.com
 gitfarm.amazon.com
 gits-alf-beta.corp.amazon.com
 gitsmetricswebforms.corp.amazon.com
@@ -19719,7 +19717,9 @@ webservices-jp.integ.amazon.com
 webservices-na.integ.amazon.com
 webservices.amazon.com
 website-g7g.amazon.com
+websocket.ap-southeast-1-onebox.quicksight.aws.amazon.com
 websocket.eu-west-1-onebox.quicksight.aws.amazon.com
+websocket.us-west-2.quicksight.aws.amazon.com
 webstore-config-gateway.amazon.com
 webstore.amazon.com
 webstoreblog.amazon.com
